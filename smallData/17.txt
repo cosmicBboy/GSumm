@@ -1,0 +1,322 @@
+
+
+Background
+Invasive meningococcal disease is a significant cause of mortality and morbidity in the UK. Administration of chemoprophylaxis to close contacts reduces the risk of a secondary case. However, unnecessary chemoprophylaxis may be associated with adverse reactions, increased antibiotic resistance and removal of organisms, such as Neisseria lactamica, which help to protect against meningococcal disease. Limited evidence exists to suggest that overuse of chemoprophylaxis may occur. This study aimed to evaluate prescribing of chemoprophylaxis for contacts of meningococcal disease by general practitioners and hospital staff.
+
+
+Methods
+Retrospective case note review of cases of meningococcal disease was conducted in one health district from 1st September 1997 to 31st August 1999. Routine hospital and general practitioner prescribing data was searched for chemoprophylactic prescriptions of rifampicin and ciprofloxacin. A questionnaire of general practitioners was undertaken to obtain more detailed information.
+
+
+Results
+Prescribing by hospital doctors was in line with recommendations by the Consultant for Communicable Disease Control. General practitioners prescribed 118% more chemoprophylaxis than was recommended. Size of practice and training status did not affect the level of additional prescribing, but there were significant differences by geographical area. The highest levels of prescribing occurred in areas with high disease rates and associated publicity. However, some true close contacts did not appear to receive prophylaxis.
+
+
+Conclusions
+Receipt of chemoprophylaxis is affected by a series of patient, doctor and community interactions. High publicity appears to increase demand for prophylaxis. Some true contacts do not receive appropriate chemoprophylaxis and are left at an unnecessarily increased risk.
+
+
+
+Background
+Invasive meningococcal disease is a significant cause of morbidity and mortality in the United Kingdom and the commonest infectious cause of death under the age of 20[1]. In 1999 almost 3000 cases were notified with an overall case fatality rate of around 8%[2]. There is an increased risk of a secondary case of meningococcal disease amongst household contacts, which is between 450 and 1650 times that of the general population [3-6]. This is in part explained by the fact that household and kissing contacts frequently carry the same pathogenic strain[7].
+Chemoprophylaxis is given to close contacts of cases to eliminate naso-pharyngeal carriage of meningococci. Prophylaxis reduces, but does not eliminate, the risk of secondary cases[8]. If prophylaxis is not given to appropriate contacts then preventable secondary cases may occur. Unnecessary use of prophylaxis is associated with increased antibiotic resistance, drug side effects, and removal of non-virulent meningococci and N. lactamica; both organisms induce immunity and provide a competitive flora against colonisation with virulent meningococcal strains [9-11].
+UK guidelines identify who should receive prophylaxis [12], and in this study we evaluate the prescribing of prophylaxis by hospital staff and general practitioners against these criteria.
+
+
+Methods
+All confirmed and clinical cases [13] of invasive meningococcal disease amongst residents of Southern Derbyshire Health Authority between 1st September 1997 and 31st August 1999 were identified from the Notifications of Infectious Diseases database and data from the enhanced surveillance of meningococcal infections undertaken by the Communicable Disease Surveillance Centre, Trent. Data on contacts identified at the time were obtained from the Consultant for Communicable Disease Control's (CCDC) records and were assessed against the current UK guidelines [12]. Data were recorded regarding the method of contact tracing (face to face or by telephone, and by whom if face to face contact had taken place), whether the case was confirmed by laboratory investigations, the serogroup of identified organisms and the number of contacts identified.
+General practitioner prescribing data from Prescribing Analysis and Cost (PACT) for 1st September 1997 to 31st August 1999 were examined to identify possible chemoprophylactic prescriptions for rifampicin, ciprofloxacin and ceftriaxone. Hospital dispensing data for rifampicin (the only drug used for chemoprophylaxis in the hospital protocol during this period) were examined for the period 1st March 1999 to 31st August 1999. Computerised data were not available before 1st March 1999.
+All 2-day courses of rifampicin were assumed to be for eradication of meningococcal carriage[14]. Ciprofloxacin is widely used in general practice, but the only indications for single dose treatment in the British National Formulary are gonorrhoea and chemoprophylaxis for meningococcal disease[15]. All prescriptions for single dose ciprofloxacin were assumed to be for prophylaxis. The same assumption was made for single 250 mg doses of ceftriaxone.
+As PACT data do not identify individual patients a questionnaire was sent to all GP practices in Southern Derbyshire. This covered the use of rifampicin, ciprofloxacin and ceftriaxone for prophylaxis during the study period. The questionnaire also requested the initials of the contact, the initials of the index case for the contact, the drug prescribed and the date of the prescription. Practices were free to obtain the information by whatever method they felt was most effective in the context of their own practice. This information was linked with the database of cases and contacts to identify which contacts had been prescribed prophylaxis. Practices were also given the option to indicate if they were unable to retrieve the relevant data.
+For those who had received a prescription, an assessment was made and they were classified into one of the following groups:
+ known to the CCDC and prophylaxis recommended
+ known to the CCDC, related to a known case of meningococcal disease, but prophylaxis not recommended
+ not known to the CCDC but related in time and place to a known case, and
+ known to the CCDC and not related to a known case of meningococcal disease in the district.
+
+Statistics
+Student's t tests on log transformed data were used to compare the mean number of contacts per case by serogroup, whether confirmed or clinical case and method of contact tracing. The Mann Whitney U test was used to compare the level of additional prescribing per GP for each practice by response status to questionnaire and training status of the practice. The relationship between the size of the practice and the number of additional prescriptions per GP was explored by using Spearman rank correlation. Mann Whitney U test was used to determine differences between the levels of additional prescribing at local authority level. Linear regression was used to explore any possible relationships between the level of additional prescribing at Local Authority level and the Towsnend deprivation score and rate of invasive meningococcal disease.
+
+
+
+Results
+During the study period 134 cases (66 male, 68 female) of meningococcal disease were notified. Of these 88 (66%) were confirmed by laboratory diagnosis and 46 (34%) were clinical cases. Of the 75 that were groupable, 50 (67%) were serogroup B, 24 (32%) were serogroup C and 1 (1%) was serogroup Y.
+The population estimate for 1998 for Southern Derbyshire was 567,457. The rate of confirmed meningococcal disease was 7.8 per 100,000 per annum. The rate of clinical and confirmed cases[13] was 11.8 per 100,000 per annum compared to the England and Wales rate in 1998 of 6.1/100,000 (rate ratio 1.9, 95% CI 1.52.5, p < 0.0001)
+
+Contact tracing
+In 34 (25%) cases the patient or other key informants were interviewed in person by the CCDC, in 24 (18%) by another public health physician and in 51 (38%) cases contact tracing was performed by telephone. In 25 (18%) of cases it was impossible to determine the method of contact tracing.
+952 close contacts were identified for whom prophylaxis had been recommended by a public health physician. The mean number of contacts per case was 7.2 and the median 6.0. The mean number of contacts for each case visited by a public health physician was 6.4 and for each case where contact tracing was done by telephone was 8.3 (Students t test on log transformed data, p = 0.03). There were no significant differences in the mean number of contacts per case by serogroup, by whether face to face contact tracing was performed by the CCDC or a public health physician in training, nor by whether the case was confirmed by laboratory investigations or not.
+The degree of contact with the index case was determined for 697 (73.2%) of the contacts as shown in Table 1.
+
+Table 1
+
+Nature of contact.
+
+
+
+
+
+Nature of contact
+
+
+Number (%)
+
+
+
+
+
+Household
+442 (63)
+
+
+Overnight stay in past 7 days
+71 (10)
+
+
+Childminding
+20 (3)
+
+
+Kissing (saliva exchange)
+19(3)
+
+
+Resuscitation
+1(0)
+
+
+Other contact (>8 hours)
+40 (6)
+
+
+Other contact (<8 hours)
+104(15)
+
+
+TOTAL
+697(100)
+
+
+
+
+
+
+Prescribing
+For 568 (60%) contacts chemoprophylaxis was prescribed by hospital staff and for 296 (31%) the general practitioner (GP) was asked to prescribe. For 88 (9%) contacts the prescriber was unspecified.
+During the six month period for which hospital prescribing data were available, 69 prescriptions were identified from the dispensing records. Of these 11 were for the elimination of carriage in cases. A further five were contacts where chemoprophylaxis was not recommended and in one instance the prescription might have related to one of three recent cases, but the contact had not been identified by the CCDC. For six identified contacts no record could be found that the prescription had been dispensed, although for two of these the GP had prescribed.
+Of the 296 contacts for whom GPs were asked to prescribe, 277 were patients of GPs in Southern Derbyshire. 604 prescriptions for chemoprophylaxis were identified from the PACT data, 327 (118%) more than recommended by the CCDC. The rates of disease and number of additional prescriptions per GP for each local authority area are shown in Table 2. No association could be demonstrated by linear regression between the mean number of additional prescriptions per GP for each local authority area and the rate of invasive disease (p = 0.30) or Townsend deprivation score (p = 0.72). The two areas with high rates of disease (including clusters), and subsequent publicity both had significantly higher prescribing The other large authority with high rates of disease, but little publicity, had a significantly lower level of additional prescribing.
+
+Table 2
+
+Rates of meningococcal disease and additional prescriptions per GP (from PACT data) by local authority area
+
+
+
+
+
+
+Local Authority
+
+
+
+
+
+
+
+1*
+
+
+2
+
+
+3
+
+
+4*
+
+
+5
+
+
+
+
+
+
+
+
+Cases of meningococcal disease
+34
+62
+1
+28
+9
+
+
+Population
+125727
+258919
+37091
+103735
+67655
+
+
+Townsend deprivation score
+-1.56
+2.09
+-2.97
+-0.79
+-3.01
+
+
+Rate of IMD per 100,000
+13.5
+12.0
+1.3
+13.5
+6.7
+
+
+Number of practices
+16
+38
+4
+14
+9
+
+
+Mean number of additional prescriptions per GP (SD)
+2.2(3.1)
+0.2(1.4)
+0.5 (0.5)
+1.9(1.1)
+0.9(0.8)
+
+
+Median number of additional prescriptions per GP (interquartile range)
+1.2 (0.53.3)
+0.0 (0.00.8)
+0.5 (0.00.9)
+1.91 (0.92.6)
+0.7 (0.31.6)
+
+
+Difference in mean number of additional prescriptions per GP for each Local Authority compared to all others. P (two tailed)
+0.02
+<0.001
+0.6
+0.002
+0.8
+
+
+
+
+*represents high publicity area
+
+
+At a practice level, there were no significant differences in estimated additional prescribing by response status to questionnaire, training status or size of practice.
+
+
+GP Questionnaires
+Fifty-seven out of 80 practices (71%) replied to the questionnaire. Of these, 17 (21% of all practices) were unable to supply data. Data was therefore obtained from 40 (50%). Chemoprophylaxis was recommended for 142 identified contacts who were patients of these practices whilst the practices identified 179 chemoprophylaxis prescriptions.
+Figure 1 shows whether or not a record of prescribing existed for the contacts who had been recommended to have prophylaxis. Figure 2 shows how many of the recorded prescriptions for chemoprophylaxis had been recommended.
+
+Figure 1
+
+Outcome of recommendations for chemoprophylaxis from GP questionnaires
+
+
+
+
+Figure 2
+
+Analysis of prescriptions written by GP practices from GP questionnaires
+
+
+
+In these practices, PACT identified a total of 305 courses of chemoprophylaxis and GP practices identified 179. The number of prescriptions for rifampicin, ciprofloxacin and ceftriaxone are shown in Table 3. There is no difference between the ratio of prescriptions recorded by GPs between rifampicin and ciprofloxacin.
+
+Table 3
+
+Comparison of PACT and GP questionnaire data
+
+
+
+
+
+Antibiotic
+
+
+PACT total
+
+
+GP total
+
+
+Ratio of no of prescriptions from PACT to GP data
+
+
+
+
+
+Rifampicin
+221
+127
+1.7
+
+
+Ciprofloxacin
+83
+52
+1.6
+
+
+Ceftriaxone
+1
+0
+
+
+
+Total
+305
+179
+1.7
+
+
+
+
+
+
+
+Discussion
+This study demonstrated that after a case of invasive meningococcal disease, more prescriptions for chemoprophylaxis are dispensed than would be expected from a strict interpretation of the United Kingdom guidelines [12]. However, some people who are at increased risk appear not to receive prophylaxis. No practice characteristics examined accounted for differences in additional prescribing between practices, nor did the rate of invasive meningococcal disease or the level of social deprivation in the local authority areas. However, it is plausible that significant levels of publicity in the two areas with highest levels of additional prescribing may have increased requests to GPs to prescribe prophylaxis.
+There are a number of possible limitations of this study. Firstly, contact ascertainment may be incomplete. Not all recommendations for prophylaxis may be recorded and it was not always possible to ascertain the degree of contact from the records. Secondly, questionnaire data from practices were incomplete. These practices may not be representative. However, the fact that the numbers of additional prescriptions per GP were similar for responders and non-responders suggests that this has not affected the results.
+The mean number of contacts per case of meningococcal disease in our study was similar to that found in other studies in the UK[14,16]. Significantly less close contacts were identified when a public health physician conducted a face to face interview with the key informants. This suggests that contact tracing is more appropriate with less unnecessary prophylaxis given when informants are interviewed personally. It is, however, possible that there may be a confounding effect between the use of telephone interviews and experience at contact tracing. However, where face to face interviews took place there was no significant difference between the number of contacts identified by the CCDC and public health doctors in training.
+There were significant discrepancies between the numbers of prescriptions recorded by PACT and those identified by the practices. PACT is an accurate record of prescriptions dispensed by community pharmacies. Short courses of rifampicin have no other indication, so it is likely that these are for chemoprophylaxis[14]. By contrast, single dose courses of ciprofloxacin are indicated for the treatment of gonorrhoea. However, less than 10 isolates of Neisseria gonorrhoeae come from general practice in the district each year. [D Bullock, personal communication] Most of these will be referred to the genito-urinary medicine service. Even if they were all treated in general practice the difference this would make to the overall results presented here would be small. If significant amounts of single dose ciprofloxacin were being used for indications other than chemoprophylaxis, then the ratio of PACT prescriptions to those recorded by GPs would be higher for ciprofloxacin than for rifampicin. As this was not the case, it is likely that most single dose courses were for chemoprophylaxis of meningococcal disease.
+The data provided by general practices may have underestimated the prescribing of chemoprophylaxis. Prescriptions may not be recorded in the records, may not be entered on the computer system or may not be retrieved during a search. This may be a particular problem if the patient is attended by an out of hours service. Although these prescriptions will be attributed to the practice the patient is registered with on PACT, the correspondence from the out of hours service may not find its way into the main patient record or may not be computerised. It is therefore likely that the data from the GP questionnaires underestimated the true level of prescribing.
+Hospital prescribing was in line with the recommendations of the CCDC. However, we found that GPs had prescribed twice as many courses of prophylaxis (from PACT data) as recommended. The additional prescribing must be for one of the following reasons:
+ for true close contacts who have been missed by the CCDC, which, although possible is unlikely
+ for contacts of cases in other districts. In this study only 5% of recommendations were to GPs in other districts. It is likely that the reverse is also true, so this could account for only a small proportion of additional prescriptions.
+ for people whose degree of contact does not warrant prophylaxis
+ for contacts of patients who do not have meningococcal disease (e.g. contacts of people who are perceived by the public to have meningococcal disease, but in fact have another disease). For this to occur the GP would be required to prescribe prophylaxis solely on the word of the patient. Many GPs would consult the Public Health Department in this situation, which would lead to the recognition of cases of meningitis or reassurance that it was not meningococcal disease.
+It is impossible from the data available to further assess the nature of this additional prescribing, but it is probable that it results from a combination of the suggested possibilities.
+A UK study in 1995 [14] showed over-prescribing by a factor of three, although this only used PACT data and did not include hospital data or obtain further information from GPs. This approach may overestimate prescribing and almost certainly include some appropriate prescriptions. An audit from Denmark[17] also found that unnecessary prophylaxis was prescribed. The mean "over-treatment" in the Danish study was 0.9 person/case (in our study 2.4 persons/case). The Danish study interviewed an adult associated with each case and also identified 0.4 missed contacts per case. Our methodology did not allow this comparison to be performed. Conversely, their methods were likely to underestimate the level of additional prescribing because the informant may not know about prescriptions supplied outside the immediate household.
+Over-prescribing varied by local authority area and was significantly higher in two areas. Practices in local authority areas 1 and 4 wrote significantly more additional prescriptions than average. Both these areas had high levels of disease with local publicity surrounding clusters and individual cases. In the other area (2) with a similarly high rate of disease levels of publicity were much lower. No evidence of an association between over prescribing and rates of invasive meningococcal disease or social deprivation could be found. We speculate that the high publicity levels resulted in higher levels of demand for chemoprophylaxis from people who were associated with the cases, but not true close contacts. This is supported by a lower rate of prescribing in the other high disease rate area. This area (2) has no discrete communities in which clusters of disease have been identified and the public did not react in the same way as in the other two, more rural, areas. This over-prescribing is likely to be patient driven, as GPs do not actively seek inappropriate contacts to treat.
+On almost 50% of occasions that GPs were asked to prescribe, there is no record within the practice that the prescription was written. There are a number of possible explanations for this. Firstly, prescriptions may not have been written, leaving some people at an unnecessarily increased risk of disease. This is supported by the fact that 10 out of 80 practices prescribed less according to PACT data than the number of courses recommended. Secondly, prescriptions may have been issued but no record kept which has implications for clinical governance. If the patient is attended by the out of hours service, the prescription may have been written but the information not transferred to the main general practice record or not entered on the practice computer system. Even if the GP has written a prescription the contact may still not have received prophylaxis. It is possible that some contacts did not come forward to receive their prescription or did not present it to a pharmacy. The prescription charge may have acted as a deterrent. Other contacts may have found that rifampicin was not immediately available at the pharmacy and consequently did not return to collect their antibiotics. Further work is necessary to elucidate the extent to which these barriers may operate.
+
+
+Conclusions
+Receipt of chemoprophylaxis is affected by a series of patient, doctor and community interactions. Additional prescribing occurs at all stages in the process. High publicity appears to increase demand, although a significant number of contacts appear never to receive a cost-effective treatment. Our study also raises issues about the quality of documentation on the identification and subsequent supply of antibiotics to contacts. Further research is required to elucidate the reasons why some contacts seem not to receive prophylaxis.
+A number of steps could be taken to ensure that use of chemoprophylaxis is as appropriate as possible. Face to face interviews with key informants by public health practitioners may help to prevent overprescribing. Further research is necessary to clarify this issue. Overprescribing may also be avoided by ensuring that general practitioners are aware of the availability of public health advice to help make decisions about prophylaxis. When publicity occurs it is important to use the media to ensure that reliable information on the level of the risk of secondary cases is given to the public.
+Further work is also necessary to investigate to what extent potential barriers to contacts obtaining prophylaxis operate. Finally the use of structured recording forms will facilitate future audit of this important area of public health practice.
+
+
+Competing interests
+None declared.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

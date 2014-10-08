@@ -1,0 +1,521 @@
+
+
+Background
+Primary care organisations are faced with implementing a large number of guideline recommendations. We present methods by which the number of eligible patients requiring treatment, and the relative benefits to the whole population served by a general practice or Primary Care Trust, can be calculated to help prioritise between different guideline recommendations.
+
+
+Methods
+We have developed measures of population impact, "Number to be Treated in your Population (NTP)" and "Number of Events Prevented in your Population (NEPP)". Using literature-based estimates, we have applied these measures to guidelines for pharmacological methods of secondary prevention of myocardial infarction (MI) for a hypothetical general practice population of 10,000.
+
+
+Results
+Implementation of the NICE guidelines for the secondary prevention of MI will require 176 patients to be treated with aspirin, 147 patients with beta-blockers and with ACE-Inhibitors and 157 patients with statins (NTP). The benefit expressed as NEPP will range from 1.91 to 2.96 deaths prevented per year for aspirin and statins respectively. The drug cost per year varies from 1940 for aspirin to 60,525 for statins. Assuming incremental changes only (for those not already on treatment), aspirin post MI will be added for 37 patients and produce 0.40 of a death prevented per year at a drug cost of 410 and statins will be added for 120 patients and prevent 2.26 deaths per year at a drug cost of 46,150. An appropriate policy might be to reserve the use of statins until eligible patients have been established on aspirin, ACE-Inhibitors and beta blockers.
+
+
+Conclusions
+The use of population impact measures could help the Primary Care Organisation to prioritise resource allocation, although the results will vary according to local conditions which should be taken into account before the measures are used in practice.
+
+
+
+Background
+Primary care organisations are faced with implementing a large number of guideline recommendations. Methods to facilitate assessing their population health benefit and costs are needed for organisations to prioritise between different recommendations. We have used previous work on creating measures of the population impact of interventions as a basis for the development of new measures that can relate to a general practice population or Primary Care Trust (PCT). We have taken as an example the UK National Institute for Clinical Excellence (NICE) guidelines on secondary prevention for patients who have experienced a myocardial infarction (MI), including those who now have heart failure [1].
+The guidelines recommend aspirin, ACE-inhibitor (ACE-I), beta blockers (BB) and statins for MI, and ACE-I, BB and spironolactone for heart failure.
+We present data to illustrate the methods by which the number of eligible patients requiring treatment and the relative benefits to an individual practice or Primary Care Trust (PCT) of the introduction of these guidelines can be calculated. We have used a base population of 10,000 people which can be adjusted up (for a PCT) or down (for a smaller practice) as appropriate.
+
+
+Methods
+We have examined the literature to estimate the proportion of a typical practice population who are aged 50 years or more (which would include the majority of those to whom the guidelines refer), the proportion of the population within these age groups with previous MI, and the proportion of this population with a history of MI who will have developed heart failure. We have applied these proportions to a hypothetical practice population of 10,000 people to estimate the number who would have had an MI and be in heart failure.
+We have applied the Relative Risk Reduction (RRR) associated with the use of the different drugs recommended by the NICE guidelines from the results of randomised controlled trials of drug treatment after acute MI and appropriate summaries of these trials. We have used 1-year RRR where published, otherwise we have assumed that, despite different follow-up periods for many of the trials, the published RRR applies to 1-year mortality as well. We have assumed that the same RRR applies to those with recent MI (incident cases) and to those with a more remote history of MI (prevalent cases). The RRR does appear to be quite stable between trials and sub-groups within trials, and in general does not vary with baseline risk [2].
+We have estimated the baseline risk of mortality in the next year among patients with a history of MI from an Australian community register of mortality among patients discharged alive from hospital following an MI. We used this register as data on mortality among prevalent cases and from UK general practices are currently scarce. We have confirmed the similarity of these data with information from hospital registers in Scotland.
+We have calculated the costs of commonly used drugs over a one-year period (from MIMS) and have averaged costs where two common formulations are available. We chose dose levels that are likely to reflect typical clinical practice. However, we have not included the investigations recommended by NICE (renal function for ACE-I and serum potassium for spironolactone or the cost of starting Beta Blockers in hospital), since although NICE recommends this it is an unlikely sole reason for hospital admission. We acknowledge that our estimates of costs are crude and ignore the time spent by health professionals and all the other costs associated with the use of these drugs both by the patient and the health care system.
+For simplicity, we have assumed independence of the effect of the drugs (this has been demonstrated at least for ACE-I [3] and aspirin [4]), and have examined their impact individually, although an alternative method of handling cumulative risk reduction with the use of multiple drugs has been described [5] and could be applied. We have added the impact of ACE-I and BB among those with heart failure to the benefit from these drugs on the underlying MI, although this will tend to over-estimate the benefits.
+
+The measures used
+We have used the established number need to treat (NNT) and two recent measures for describing the population impact of interventions. These are defined as follows, and their formulae are shown as Table 1:
+
+Table 1
+
+Definition of measures
+
+
+
+
+Number needed to treat (NNT) "the number of patients who need to be treated to prevent one event" [6] = 1/(Baseline risk * RRR)
+
+
+Disease Impact Number (DIN) "the number of those with the disease in question amongst whom one event will be prevented by the intervention" [7,8] = NNT * 1/Pe where Pe is the proportion of the diseased population eligible for treatment or; DIN = 1/(baseline risk * RRR * Pe)
+
+
+Population Impact Number (PIN) "the number of those in the whole population amongst whom one event will be prevented by the intervention" [7,8] = DIN * 1/ Pd where Pd is the proportion of the population with the disease or; PIN = 1/(baseline risk * RRR * Pe * Pd)
+
+
+Number to be Treated in your Population (NTP) "the number of people in your population who will be eligible for the treatment" = Population size * Pe * Pd
+
+
+Number of Events Prevented in your Population (NEPP) "the number of events prevented by the intervention in your population" = Population size * Pe * Pd * Baseline risk * RRR (This can also be expressed as: NTP * Baseline risk * RRR; or; NTP * 1/NNT; or Population size/PIN).
+
+
+
+
+Number needed to treat (NNT) "the number of patients who need to be treated to prevent one event" [6]
+Disease Impact Number (DIN) "the number of those with the disease in question amongst whom one event will be prevented by the intervention"[7,8]
+Population Impact Number (PIN) "the number of those in the whole population amongst whom one event will be prevented by the intervention" [7,8]
+We now introduce two further definitions to allow the impact to be related to the population of interest, such as a general practice population.
+Number to be Treated in your Population (NTP) "the number of people in your population who will be eligible for the treatment" and Number of Events Prevented in your Population (NEPP) "the number of events prevented by the intervention in your population" (see Table 1).
+Cost is expressed as total drug cost for the intervention, which provides an indication of the price the general practice or primary care organisation will have to pay for introducing this guideline. We also present the cost per death prevented.
+We assume a practice size of 10,000 people, amongst whom there will be approximately 3,500 people aged 50 or more to whom these interventions will be mainly relevant and on whom the calculations are based. Table 2 shows the data and assumptions used for the calculations.
+
+Table 2
+
+Figures and assumptions used for the calculations.
+
+
+
+
+
+
+MI
+MI + CHF
+
+
+
+
+Proportion of practice population of 10,000
+.056 [9]
+.006 [10,11]
+
+
+Proportion eligible for treatment
+
+
+
+
+
+
+ACE-I
+.75
+.75
+
+
+
+BB
+.75
+.75
+
+
+
+Aspirin
+.90
+N/a
+
+
+
+Statins
+.80
+N/a
+
+
+
+Spironolactone
+N/a
+.75
+
+
+Proportion eligible for incremental treatment  (proportion currently on treatment)
+
+
+
+
+
+
+ACE-I
+.27 (.48)
+.16 (.59)
+
+
+
+BB
+.43 (.32)
+.43 (.32)
+
+
+
+Aspirin
+.19 (.71)
+N/a
+
+
+
+Statins
+.61 (.19)
+N/a
+
+
+
+Spironolactone
+N/a
+.55 (.20)
+
+
+
+
+
+
+
+Baseline risk of death in the next year expressed as a proportion
+.09 [10]
+.29 [10]
+
+
+RRR from trials.
+
+
+
+
+
+
+ACE-I
+.16 [15]
+.15 [3]
+
+
+
+BB
+.23 [16]
+.21 [17]
+
+
+
+Aspirin
+.12 [4]
+N/a
+
+
+
+Statins
+.21 [18]
+N/a
+
+
+
+Spironolactone
+N/a
+.30 [19]
+
+
+Costs (from MIMS, 2001)
+
+
+
+
+
+
+ACE-I (Ramipril 2.5 mg @ 7.51/28; Lisinopril 10 mg @9.70/28)
+100 per year
+100 per year
+
+
+
+BB (Atenolol 25 mg @ 4.40/28; Metoprolol 100 mg @6.68/56)
+45 per year
+45 per year
+
+
+
+Spironolactone 100 mg @ 39.50/100
+
+144 per year
+
+
+
+Aspirin @ 94p/28
+11 per year
+
+
+
+
+Statins (Simvastatin 20 mg or Pravastatin 20 mg@ 29.69/28)
+386 per year
+
+
+
+
+
+The proportion of a practice population with a history of MI has been estimated from the Health Survey for England 1998 [9] and we have calculated a weighted mean proportion among men and women aged 50 or more. We have estimated that 11% of patients with MI develop heart failure based on co-morbidities coded in a population register [10], consistent with prevalence data from UK general practice [11].
+The proportions of patients eligible for treatment with the various drugs are taken from a recent systematic review based on a variety of recommendations [12], adjusted for those who may have clinical contraindications to use of the drug.
+The current proportions of patients who will already be taking these drugs (to allow us to calculate incremental needs) come from a systematic review of primary care management of MI in general practice [12]. Similar data for current heart failure treatment come from a UK General Practice survey [11] for ACE-I and an Australian register [10] for spironolactone. The baseline risk of death over the next year among those discharged alive from hospital has been taken from an Australian community register [10]. These Australian data are very similar to 1-year death rates from Scottish hospital data (if the Scottish 30-day death rates are assumed to reflect in-hospital deaths and are 'subtracted' from 1-year death rates to reflect rates among those discharged to primary care) [13,14].
+
+
+
+Results
+Tables 3 and 4 show the calculations of the previously described measures NNT, DIN and PIN as well as the Number to be Treated in the Population (NTP) and the Number of Events Prevented in the Population (NEPP). Drug costs are presented as the total drug bill per year and cost per death prevented in the population. The two tables show the results assuming the total benefit of the drugs and the incremental cost allowing for the fact that a number of patients are already being treated with these drugs. Using ACE-I as an example, 69 people will have to be treated to prevent one death (NNT), although because not all who have had an MI will be eligible for treatment one death will be prevented by ACE-I amongst 93 people post-MI (DIN). Use of ACE-I will prevent one death among 1653 people aged 50+ in the practice (PIN). For our notional practice population, this will require treating 147 patients for a year (NTP) and will prevent 2.12 deaths (NEPP) at a total drug cost of 14,700 and a drug cost of 6,944 per death prevented. The added benefit from ACE-I among those with heart failure can be seen from Table 2.
+
+Table 3
+
+Benefits and drug costs over 1-year for a practice population of 10,000 resulting from the introduction of these treatments assuming the total benefit of the drugs
+
+
+
+
+
+
+Number Needed to Treat (NNT)
+Disease Impact Number (DIN)
+Population Impact Number (PIN)
+Number to be Treated in your Population (NTP)
+Number of Events Prevented in your Population (NEPP)
+Total drug cost ()
+Drug cost per death prevented ()
+
+
+
+
+MI
+ACE-I
+
+
+
+
+
+
+
+
+
+
+ACE-I
+69
+93
+1,653
+147
+2.12
+14,700
+6,944
+
+
+
+BB
+48
+64
+1,150
+147
+3.04
+6,615
+2,174
+
+
+
+Statin
+53
+66
+1,181
+157
+2.96
+60,525
+20,423
+
+
+
+Aspirin
+93
+103
+1,837
+176
+1.91
+1,940
+1,019
+
+
+MI + CHF
+
+
+
+
+
+
+
+
+
+
+ACE-I
+23
+31
+5,109
+16
+0.69
+1,575
+2,299
+
+
+
+BB
+16
+22
+3,649
+16
+0.96
+709
+739
+
+
+
+Spironolactone
+11
+15
+2,554
+16
+1.37
+2,268
+1,655
+
+
+
+
+MI myocardial Infarction CHF Heart Failure ACE-I ACE Inhibitor BB beta blocker
+
+
+
+Table 4
+
+Benefits and drug costs over 1-year to a practice population of 10,000 resulting from the introduction of these treatments assuming the incremental benefit of the drugs
+
+
+
+
+
+
+Number Needed to Treat (NNT)
+Number to be Treated in your Population (NTP)
+Number of Events Prevented in your Population (NEPP)
+Total drug cost ()
+Drug cost per death prevented ()
+
+
+
+
+MI
+
+
+
+
+
+
+
+
+
+ACE-I
+69
+53
+0.76
+5,292
+6,944
+
+
+
+BB
+48
+84
+1.74
+3,793
+2,174
+
+
+
+Statin
+53
+120
+2.26
+46,150
+20,423
+
+
+
+Aspirin
+93
+37
+0.40
+410
+1,019
+
+
+MI + CHF
+
+
+
+
+
+
+
+
+
+ACE-I
+23
+3
+0.15
+336
+2,299
+
+
+
+BB
+16
+9
+0.55
+406
+739
+
+
+
+Spironolactone
+11
+12
+1.00
+1,663
+1,655
+
+
+
+
+MI myocardial Infarction CHF Heart Failure ACE-I ACE Inhibitor BB beta blocker
+
+
+Implementation of the NICE guidelines for the secondary prevention of myocardial infarction (MI) will require 176 patients to be treated with aspirin, 147 patients with beta blockers and with ACE-I and 157 patients with statins (NTP). The benefit expressed as NEPP will range from 1.91 to 2.96 deaths prevented per year for aspirin and statins respectively. The drug cost per year to a General Practice varies from 1940 for aspirin to 60,525 for statins. For those with heart failure after an MI, 16 patients would be treated with ACE-Inhibitors, beta blockers and spironolactone, and the benefit to a General Practice varies from 0.96 to 1.37 of a death prevented per year for beta blockers and spironolactone respectively at drug costs of 709 and 2268. Assuming incremental costs only (above those who are already on treatment), aspirin post MI will be added for 37 patients and produce 0.40 of a death prevented per year at a drug cost of 410 and statins will be added for 120 patients and prevent 2.26 deaths per year at a drug cost of 46,150.
+
+
+Discussion
+The methods we have presented would allow a primary care organisation to assess the benefit and cost to them of increasing their use of drugs to meet targets for secondary prevention for CHD. The measures we have proposed are easy to compute (provided the data exist). We believe that the Number to be Treated in your Population (NTP) and the Number of Events Prevented in your Population (NEPP), will provide useful measures of the population impact of a wide range of interventions. They may be a more meaningful measure for clinicians and health planners than the DIN and PIN from which they evolve [7,8]. Our work has highlighted the potential benefit of increasing the low uptake of cardiovascular therapies in primary care [20,21] and adds a potential method to help decide which therapies might be used first.
+There are, however, a number of potential factors that would have to be taken into account by any primary care organisation wishing to use these measures. The estimates of benefit may well be over estimates as we have assumed that all eligible patients are identified, treated and comply with treatment. For example, Zermansky et al found that only 44% of patients aged 65 or over with repeat prescriptions had their medication reviewed [22]. The costs are also under estimated by our restriction to drug costs without taking into account additional staff and information system costs. Practice costs are likely to be determined by other clinical decisions such as treatment of patients with different clinical status and risk profiles  the measures could be adapted to take account of these. In addition, baseline risk estimates may very between practices in line with their age and socio-economic distribution as well as access to and quality of care.
+The approach emphasises the importance of the collection of local data to develop an evidence base for population health [8,23]. Whilst the RRR for drug treatment and baseline risk of mortality or adverse events will usually be derived from the literature, we see that to allow accurate estimates of all the variables local data on baseline risk, incidence and prevalence of the conditions and current rates of prescribing are essential. The incremental drug costs we have estimated will depend on current levels of treatment in a practice. This is likely to vary according to the enthusiasm with which a practice has already implemented secondary prevention guidelines and may well differ from the published data we have used as a basis for our calculations. Local policies such as the use of statins at older ages will also influence the findings, as will the demographic and casemix composition of the practice population. We recommend that primary care organisations should make these calculations, using their own prevalence estimates and local drug costs.
+The drug costs we have calculated are indicative only, as they will depend on the actual drug and dose chosen and may vary over time and between organisations due to locally negotiated prices. Baseline risk would be expected to be lower for prevalent than for incident cases, and we acknowledge that our use of baseline risk, as well as of the Relative Risk Reductions, derived from data in patients with recent events will overestimate the benefits and cost-effectiveness of treatment.
+The calculation of the NNT from systematic reviews has been criticised as the baseline risk to which the relative risk reduction is applied is so variable between trials. Our population impact measures are best applied using baseline risks derived from local data (if available) to avoid this criticism. It has been suggested that population impact numbers are likely to be more variable than the NNT or the Relative Risk Reduction [24], although this can be accommodated by appropriate sensitivity analyses.
+The confidence limits of these figures can be calculated [8], however we recommend that sensitivity analyses be performed to allow for differences in the estimates of each variable [8]. We have only estimated the benefit of the drugs in terms of mortality reductions and have not estimated other outcomes such as events prevented, quality of life or the harm of the drugs.
+
+Figure 1
+
+Drug cost (GBP) per death prevented per year following acute myocardial infarction
+
+
+
+We believe that estimating the workload and population impact of an intervention using NTP and NEPP is complementary to and often more useful than comparing cost per death prevented. Cost-effectiveness estimates are heavily influenced by the approach and underlying assumptions and will change as drug (and other) costs change over time, whereas baseline risk and RRR are less susceptible to change.
+Our measures will draw attention to the importance of taking into account population impact in the decision making process and hence may help a primary care organisation to prioritise its approach to meet targets for CHD and to choose between different targets to be met in primary care. We acknowledge that using the method to inform choices between primary and secondary prevention through drug treatments and non-pharamacological interventions is more complex, as is decision-making between preventive efforts for different diseases and conditions. However, a modelling exercise has been performed for primary prevention in general practice, and again has found that the use of statins is more expensive than other interventions for the potential amount of risk reduction achieved [25].
+Along similar lines, while smokers might benefit from the use of cardiovascular prevention drugs, similar or greater benefits might be obtained by cessation. Further work with these measures, which we are planning, taking account of the potential of non-pharmacological interventions would allow a comparison to be made. It would also be important to include a comparison between interventions aimed at different disease outcomes for priority setting. Outcomes which include quality of life could also be examined rather than concentrating on deaths prevented, and methods for incorporating utilities into these measures would be welcome.
+
+
+Conclusions
+Despite some limitations, these measures have the advantage of drawing attention to and quantifying the population impact of alternative interventions. This should help inform decision making, which generally occurs in the absence of explicit quantitative estimates of population impact.
+The actual estimates presented here should be regarded as indicative only as further development of the measures, and their application to local data are needed. Before that, the estimates we have presented should be used with caution, although they should improve on other, less evidence based methods to help a primary care organisation prioritise between potential interventions.
+
+
+Competing interests
+None declared.
+
+
+Authors contributions
+The paper evolved from discussions amongst the three authors about further development of measures of population impact. Each author wrote part of the paper.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

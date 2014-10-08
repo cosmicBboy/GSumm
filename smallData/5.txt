@@ -1,0 +1,232 @@
+
+
+Objectives
+This study examined condom acquisition by persons in a hospital setting when single versus assorted brand name condoms were provided.
+
+
+Methods
+Condom receptacles were placed in exam rooms of two clinics. During Phase 1, a single brand name was provided; for Phase 2, assorted brand names were added. Number of condoms taken was recorded for each phase.
+
+
+Results
+For one clinic there was nearly a two-fold increase in number of condoms taken (Phase 1 to Phase 2); for the second clinic there was negligible difference in number of condoms taken.
+
+
+Conclusions
+The provision of assorted brand name condoms, over a single brand name, can serve to increase condom acquisition. Locations of condoms and target population characteristics are related factors.
+
+
+
+
+Public health professionals promote condom use as a means to prevent the spread of hepatitis B, HIV and other sexually transmitted diseases (STD) among drug users and other persons at risk for these diseases [1,2,3]. Condom distribution, a strategy for increasing condom availability, is a principal component of risk reduction interventions targeting these persons and condom availability has been enhanced via the application of social marketing principles [4,5,6].
+With the establishment of effective condom distribution systems, public health professionals are then challenged to encourage the use of these systems by those at risk. Condom distribution setting, condom cost and provision of a variety of condoms are all factors that may influence people to acquire condom [7,8,9,10,11].
+There are a wide variety of condoms on the market, with at least 70 types differing by brand name, size, texture, thickness, color, flavor, scent, lubrication level and lubrication type [12]. The range of condom properties offered suggests that manufacturers are not only responsive to matters related to condom utility, they are also seeking to satisfy user's particular preferences. Among condom users, condom acceptability is influenced by characteristics such as shape, size and amount of lubrication [13,14,15]. These and other potentially desirable characteristics can vary from one brand name to another. The current study examines condom acquisition when single versus assorted brand name condoms was made available to persons within a hospital-based condom distribution system.
+
+
+Methods
+
+Setting and Procedures
+This study was conducted from January to May of 1997 at the Alaska Native Medical Center located in Anchorage, Alaska. The medical center at the time of this study was an Indian Health Service facility that provided health care to Alaska Natives, American Indians and other non-Native American beneficiaries. Prior to beginning this study, the Outpatient Pharmacy and Women's Health Clinic distributed a single brand name condom, offering the LifeStyles lubricated condom, which is listed in the General Services Administration formulary. For this study, we established condom distribution locations in the Internal Medicine Clinic (IMC; open weekdays, 8-6 PM) and Emergency/Urgent Care Clinic (ECC; open 24 hours a day, 7 days a week).
+Condom receptacles, open-topped clear plastic containers (4  10  7 in), were placed in 5 IMC and 6 ECC exam rooms. Receptacles were wall-mounted with the opening 58 inches from the floor, an unreachable distance for most children. Characteristics of the clinic exam rooms (i.e., room size and furnishings) influenced placement of the receptacles. Exam rooms in the IMC were large and it was often necessary to mount receptacles amongst or over existing furnishings. Exam rooms in the ECC were small and contained few furnishings, allowing us to mount receptacles in more accessible locations.
+To familiarize patients with the new distribution locations, we provided LifeStyles lubricated condoms for a 30-day period prior to beginning Phase 1. During the study period, IMC and ECC receptacles were monitored and replenished with condoms on a biweekly basis. In addition, a supply of patient education pamphlets pertaining to disease prevention and condom use techniques was also maintained.
+For Phase 1 (1/23/97 to 3/17/97; 54 days) receptacles were filled with known quantities of LifeStyles lubricated condoms. For Phase 2 (3/18/97 to 5/6/97; 50 days), we continued providing LifeStyles lubricated condoms and added known quantities of assorted brand name condoms, including Love Gasket, Maxx Plus, Ramses, Fiesta, lubricated and mint-flavored Sheik, Kimono and Gold Coin.
+
+
+Data Analysis
+Clinic visits by patients age 14 years and younger were excluded as we reasoned that a majority of them would be less motivated or unable to take condoms. Hospital computer records were reviewed to determine diagnostic codes for patient encounters in each clinic. Paired samples t test and chi square analysis was used as appropriate.
+
+
+
+Results
+Table 1 illustrates sex and age of patients and details of patient diagnoses at encounter for the overall study period. During this time 6000 females and 3578 males were seen at the IMC and ECC; patient sex was significantly associated with clinic attendance (21 = 7.5, P = .006). The mean age for females (39.8 years) was not significantly different than that of males (40.2 years). Patients seen at the ECC were significantly younger (mean = 37.9 years) than those seen at the IMC (mean = 49.3 years; t9576 = -26.89, P < .001). Among IMC patients, diagnoses at encounter were generally chronic or maintenance in nature (e.g., hepatitis B carrier, diabetes) and visits among ECC patients were generally acute or episodic (e.g., trichomonas, drug intoxication). Encounters involving drug or alcohol-related conditions were much more common among ECC patients.
+
+Table 1
+
+Number of patient visits, patient demographics and patient diagnoses at encounter by clinic for the overall study period
+
+
+
+
+
+Number of Patient Visits*
+n (%)
+
+
+
+
+Internal Medicine Clinic (IMC)
+2444
+
+
+
+Sex
+
+
+
+
+Female
+
+1043 (60)
+
+
+Male
+
+702 (40)
+
+
+Age
+
+
+
+
+14-28
+
+228 (13)
+
+
+29-43
+
+457 (26)
+
+
+44-58
+
+506 (29)
+
+
+59-73
+
+400 (23)
+
+
+74-88
+
+148 (8)
+
+
+ 89
+
+6 (<1)
+
+
+Patient Diagnoses at Encounter
+
+
+
+
+Liver, Heart or Other Internal Medicine Exam or Treatment (most frequent diagnoses)
+642
+
+
+Sexually Transmitted Disease (HIV and hepatitis B)
+
+74
+
+
+Drug or Alcohol-Related Condition
+
+145
+
+
+Emergency/Urgent Care Clinic (ECC)
+12 528
+
+
+
+Sex
+
+
+
+
+Female
+
+4957 (63)
+
+
+Male
+
+2876 (37)
+
+
+Age
+
+
+
+
+14-28
+
+2456 (31)
+
+
+29-43
+
+2945 (38)
+
+
+44-58
+
+1507 (19)
+
+
+59-73
+
+705 (9)
+
+
+74-88
+
+213 (3)
+
+
+ 89
+
+7 (<1)
+
+
+Patient Diagnoses at Encounter
+
+
+
+
+Upper Respiratory Disorder (most frequent diagnosis)
+
+1293
+
+
+Sexually Transmitted Disease (gonorrhea, chlamydia, HIV, hepatitis B, trichomonas
+
+
+
+and genital herpes)
+
+38
+
+
+Drug or Alcohol-Related Condition
+
+1004
+
+
+
+
+*Values include multiple visits by a single patient. Includes dependent and nondependent drug abuse, and alcohol dependence and intoxication.
+
+
+For the IMC there was slight increase in number of condoms taken from Phase 1 to Phase 2 (285 vs 286). For the ECC there was nearly a two-fold increase in number of condoms taken from Phase 1 to Phase 2 (3565 vs 6067).
+
+
+Discussion
+Study findings suggest that the provision of assorted brand name condoms, over a singular brand name, will serve to increase condom acquisition. Patients were often unattended in the exam rooms giving them opportunity to take condoms in private, a condition shown to be favorable to improving acquisition rates [7]. Substantial increases in condom acquisition were, however, only observed in the ECC. Previous research illustrates chronic drug users and injection drug users visit emergency rooms more often than nondrug users [16]. Indeed, in the current study ECC patients were more likely than ICC patients to have a drug or alcohol-related diagnosis. This condition and the finding that ECC patients were significantly younger than ICC patients may be indicative of increased sexual activity. Patients may have recognized their sexual behaviors to be high-risk (i.e., for STD or pregnancy); therefore condoms, especially when a variety of brand names were available for selection, were a valued commodity. This suggestion is supported in part by the data as ECC patients had more STD diagnoses that were acute in nature.
+Data from both study phases showed that ECC patients acquired far more condoms than did IMC patients. The IMC maintains daytime hours of operation on weekdays and an appointment is generally required. In contrast, the ECC is open 24-hours a day, seven days a week and can be visited without an appointment. Thus, ECC patients had greater opportunity and possible intent, as the data show they were much higher risk than IMC patients, to acquire condoms. The higher number of condoms taken from the ECC may also be attributable to condom receptacle placement. Receptacles in the ECC were highly visible and accessible. However, receptacles in the IMC were, in cases, located above equipment making access potentially more difficult.
+The offering of assorted brand name condoms may appeal to persons in several ways. Merely the uniqueness of the packaging (e.g., wrapper color or design), condom brand name (e.g., Love Gasket or Maxx Plus), or condom style (e.g., flavored or colored) may induce people to take them. In addition, as previously stated, shape, size and amount of lubrication can influence condom acceptability. Those who find these characteristics acceptable may see them identified on the condom label or they may infer them from the brand name. Lastly, people may have familiarity with or loyalty to a particular brand name or they may simply be interested in experimenting with new ones.
+An intended outcome of this study was the formation of a strategy for improving condom accessibility and acquisition, with the hopeful goal to increase their use, among a population having members who demonstrate low rates of condom use and high rates of sexually transmitted disease [17,18,19]. Therefore, we did not attempt to collect additional patient-specific data given concerns that methods for doing so, such as, obtaining of informed consent, conducting focused interviews and observing condom taking behavior would negatively impact its potential benefit. Consequently, we were unable to determine who took condoms and whether the condoms were used, given away, or even sold or destroyed. In consideration, we limited statistical analyses to patient demographics and number of condoms distributed. However, we contend that the increased number of free condoms taken from the hospital is likely to have resulted in increased availability and usage in the community.
+The intervention as described herein is currently not being offered at the hospital. This is due in part to a move to a new hospital facility and departmental budget considerations. However, condoms are available at no cost through the hospital pharmacy and they can be taken anonymously from several other clinics. Given the patient population and the high volume of patient visits, the ECC is a key venue for condoms and we are developing a means to reintroduce a distribution system to this clinic.
+Results of our study suggest that programs maintaining a condom distribution system should offer a variety of brand name condoms to their participants. We note that before beginning this study we conducted no research to support our decision to purchase and distribute one brand name over another. However, we did have anecdotal reports from female patients, who were known to trade sex for money or drugs, that they preferred flavored or nonlubricated condoms for oral sex. Thus, we suggest that program administrators survey their target population to evaluate the acceptability of particular brand names or condom styles. Alternatively, programs could closely monitor condom inventories and subsequently provide brand names that have higher demand. Explicating the relationship between brand name preference, condom distribution location and condom use is a topic for future research.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

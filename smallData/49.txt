@@ -1,0 +1,442 @@
+
+
+Background
+Little is known about the influence of the site of research or publication on the impact of the research findings on clinical practice, particularly in developing countries. The International Clinical Epidemiology Network (INCLEN) is dedicated to improving the quality of health research in the Developing World through institutional capacity building for evidence based medicine, and provided the opportunity to examine the likely impact of research location and journal location on physicians' practice in a number of the participating countries.
+
+
+Methods
+Physicians from secondary and tertiary hospitals in six cities located in China, Thailand, India, Egypt and Kenya were enrolled in a cross-sectional questionnaire survey. The primary outcome measures were scores on a Likert scale reflecting stated likelihood of changing clinical practice depending on the source of the research or its publication.
+
+
+Results
+Overall, local research and publications were most likely to effect change in clinical practice, followed by North American, European and regional research/publications respectively, although there were significant variations between countries. The impact of local and regional research would be greater if the perceived research quality improved in those settings.
+
+
+Conclusion
+Conducting high quality local research is likely to be an effective way of getting research findings into practice in developing countries.
+
+
+
+Background
+Busy clinicians must choose carefully what reports of medical research findings to read, and in searching the literature should choose publications of relevance to practice with the methodological rigour capable of changing practice [1]. Physicians' perception of research quality [2] and generalisability [3-5] are likely to affect their willingness to change practice in response to research findings. Little research has been done to determine if the site of research or publication affects the likely impact of research findings on clinical practice. The need to look at this issue is even greater in developing countries where resources to do research are limited [5,6] and physicians have a more acute need to rely on research done in other countries to guide their clinical decisions.
+The purpose of this study is to determine the likely impact of research location and journal location on physicians' practice in developing countries. More specifically, the objectives are to answer the following questions: how likely is research published in journals from different regions of the world, including their own, to effect change in physicians' clinical practice? and, how likely is research done in different regions of the world, including their own, to effect change in physicians' clinical practice? In order to determine how perception of research quality affects the latter answer, we repeated the latter question with the proviso that research quality is the same in all regions. In addition, we also seek to identify the factors that are likely to explain variation in responses.
+
+
+Methods
+The International Clinical Epidemiology Network (INCLEN) is a network dedicated to improving the quality of health research in the Developing World through institutional capacity building for evidence based medicine [7,8]. Clinicians who are members of the International Clinical Epidemiology Network (INCLEN) were invited to participate, and six centres agreed: Shanghai and Chengdu in China, Bangkok in Thailand, Nagpur in India, Ismalia in Egypt and Nairobi in Kenya. The study was coordinated in the Centre for Clinical Epidemiology and Biostatistics in Newcastle, Australia. Each centre was asked to identify hospitals and physicians within those hospitals who would be expected to treat patients with pneumonia, in a way that would represent the generality of tertiary and secondary hospital settings in their region. Physicians within the hospitals were chosen from those working in Internal Medicine either at random or to represent a spread of academic/non-academic and seniority levels. A questionnaire was given to each consenting doctor. The sampling procedure varied between centres due to local circumstances. In Bangkok, Chengdu, Shanghai and Nagpur a sample of tertiary care (3 in Bangkok and Nagpur, 5 in Chengdu and Shanghai) and secondary care (4 in Bangkok and 5 in Chengdu, Shanghai and Nagpur) hospitals were selected either at random or to cover the spread of teaching/non-teaching, geography and hospital size. In Ismailia, a random sample was taken from a list of doctors working in all three city hospitals. In Nairobi, a list of all the physicians in the country rather than hospitals was the sampling frame.
+The questionnaire asked respondents how they rate research in journals from North America, Europe, their region and their country with regard to the likelihood of influencing their clinical practice. They were also asked the same question, but with reference to clinical research from the same regions. They were then asked to re-answer the latter question with the assumption that research quality is the same in all regions. Answers were given on a scale of 1 to 5, (very unlikely, unlikely, neutral, likely, very likely) to influence clinical practice. The study formed part of a larger study which examined variations in stated clinical practice based on a case scenario of a patient with pneumonia [9]. One reminder was sent to non-respondents.
+The questionnaire was translated into the local language by respective investigators at local centres. Pretesting was done prior to the definitive study, where each investigator gave the questionnaire to a sample of physicians to assess comprehension and feasibility. On the basis of this pretest, the Thai sample excluded the question that assumed equal quality as it was found that this modification did not change the physicians' perceptions in that centre. Questionnaires or computer discs with coded data were sent to the coordinating centre in Newcastle, where analyses were performed.
+
+Statistical analysis
+The data were tabulated and proportions calculated. The differences in impact score (the 5 point Likert scale that assessed likely influence) between current research and research assuming equal quality were assessed using the Wilcoxon ranked sum test. The p values here were adjusted after calculating the relevant design effect induced by the clustered nature of the data.
+The proportional odds model [10] for ordered categorical data was used to analyse the impact scores; the comparison is presented as a proportional odds ratio of more influence compared with the baseline category. The proportional odds assumption was checked [11] and where appropriate, generalised ordered logistic regression models were fitted instead [12]. The models were fitted to the data using the Huber estimator of variance [13,14]. The models thus took account of the fact that individuals were clustered within hospitals which were stratified by the centres within which the samples were taken. Statistical significance was determined by p values after calculating Wald and F ratio statistics. In some cases, the 5-point scale was collapsed into a 3- or 4-point outcome to reduce problems caused by zero cells. The variables investigated include sex, number of years since graduation, physician specialty, access to a medical library, rural versus urban/suburban location and country of practice. Variables remained in the model if the relevant p value was less than 0.10. Graphs are presented to show the difference between perceived influence of respective research/journals in comparison with local research/journals as the reference. If the difference was -2 or less, then the graph reported "prefer local"' if the difference was -1, 0, or 1, then the graph reported "little difference", and if the difference was greater than or equal to 2, the graph reported "prefer other".
+The statistical program Stata release 5.0 [15] was used for all the analyses. All p values are two sided.
+
+
+
+Results
+Response rates were high, with one exception. The Chinese and Indian samples had response rates of 100%. The response rates in the Egyptian, Thai and Kenyan samples were 91%, 80% and 48% respectively.
+Table 1 shows the demographic and practice features of the physicians in the sample.
+
+Table 1
+
+Demographic and practice features of the physicians included in the study
+
+
+
+
+
+
+
+
+
+
+
+SPECIALTY (%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Centre
+No. of hospitals
+No. of physicians
+No of physicians in tertiary hospitals
+No of females (%)
+median age (range)
+median no. of years since graduation (range)
+Primary care
+Physicians with subspecialty
+Other doctors
+Access to medical library (%)
+
+
+
+
+Chengdu
+10
+50
+25
+26 (52)
+40 (2360)
+15 (137)
+14 (28)
+36 (72)
+0 (0)
+49 (98)
+
+
+Shanghai
+10
+50
+25
+28 (56)
+40 (2264)
+14.5(140)
+1 (2)
+46 (92)
+3 (6)
+44 (88)
+
+
+Bangkok
+7
+40
+25
+10 (25)
+28 (2449)
+4.5 (124)
+25 (63)
+15 (38)
+0 (0)
+37 (93)
+
+
+Nagpur
+8
+28
+18
+11 (39)
+38 (2651)
+15 (230)
+17 (61)
+4 (14)
+5 (18)
+24 (86)
+
+
+Ismalia
+3
+20
+7
+1 (5)
+28 (2647)
+4 (323)
+3 (16)
+16 (84)
+0 (0)
+5 (75)
+
+
+Nairobi
+*
+40
+*
+10 (25)
+40 (3451)
+14 (1036)
+11 (28)
+17 (43)
+12 (30)
+30 (78)
+
+
+
+
+* The physicians in Kenya were not selected by hospital.
+
+
+
+Factors affecting physician journal preferences
+Table 2 and Figure 1 show the distribution of preferences for publications in journals from different regions. In general, North American journal articles were ranked fairly highly in ability to influence clinical practice with some variation from country to country. Ordinal logistic regression revealed that country was the only factor that statistically significantly affected physicians' impression of the likely effect of studies published in North American journals on their practice: physicians from Kenya and Egypt reported that these publications were most likely to influence a change in practice and Thai doctors were the least likely to be so influenced (F3,31 = 6.48, p = 0.0007).
+
+Figure 1
+
+JOURNALS: Preference for journals published in other regions (US, Europe or Regional) compared to local journals
+
+
+
+
+Table 2
+
+The likelihood of journals published/ research done in various regions to affect physicians clinical practice according to country of practice. Figures are the number (%) of physicians choosing the highest two of five influence categories.
+
+
+
+
+
+
+Number (%) of physicians likely to be influenced
+
+
+
+
+Country
+Origin
+Journals
+Research
+
+
+
+
+
+
+
+China (n = 100)
+
+
+
+
+
+
+North American
+61 (61)
+55 (55)
+
+
+
+European
+19 (19)
+20 (20)
+
+
+
+Regional
+22 (22)
+14 (14)
+
+
+
+Local
+96 (96)
+94 (94)
+
+
+Thailand (n = 40)
+
+
+
+
+
+
+North American
+19 (48)
+19 (48)
+
+
+
+European
+8 (20)
+15 (38)
+
+
+
+Regional
+7 (18)
+12 (30)
+
+
+
+Local
+26 (65)
+33 (83)
+
+
+India (n = 28)
+
+
+
+
+
+
+North American
+17 (61)
+17 (61)
+
+
+
+European
+18 (64)
+20 (71)
+
+
+
+Regional
+14 (50)
+16 (57)
+
+
+
+Local
+26 (93)
+27 (96)
+
+
+Egypt (n = 20)
+
+
+
+
+
+
+North American
+14 (70)
+19 (95)
+
+
+
+European
+11 (55)
+17 (85)
+
+
+
+Regional
+1 (5)
+1 (5)
+
+
+
+Local
+2 (10)
+7 (35)
+
+
+Kenya (n = 40)
+
+
+
+
+
+
+North American
+29 (73)
+29 (73)
+
+
+
+European
+34 (85)
+32 (80)
+
+
+
+Regional
+32 (80)
+27 (68)
+
+
+
+Local
+36 (90)
+30 (75)
+
+
+Overall (n = 228)
+
+
+
+
+
+
+North American
+140 (61)
+139 (61)
+
+
+
+European
+90 (39)
+104 (46)
+
+
+
+Regional
+76 (33)
+70 (31)
+
+
+
+Local
+186 (82)
+191 (84)
+
+
+
+
+Egyptian, Indian and Kenyan were more likely than Chinese doctors to be influenced by European journals [odds ratios 6.5 (95% CI 3.1,13.7); 6.7 (95% CI 2.7, 16.3); and 23.9 (95%CI 8.8, 65.0) respectively, F3,31 = 12.0, p < 0.0001] while the Thai responses were not statistically significantly different from those of their Chinese counterparts. Physicians working in tertiary care hospitals were more likely to be influenced by European journals than those in secondary hospitals [odds ratio 2.3, (95% CI 1.3,4.0)] and the other factors studied were not statistically significantly related to likely influence of European journals.
+In general, the physicians studied were unlikely to change their practice on account of papers in regional medical journals (that is, those from regions surrounding the country of practice), although the Indian and Kenyan physicians were exceptions to this [odds ratios 3.4 (95% CI 1.1, 10.5) and 10.3 (95% CI 2.7, 39.5) relative to Chinese physicians respectively]. Subspecialist physicians were less likely to be influenced by regional journals relative to primary care and other doctors [odds ratio 0.56 (95% CI 0.33, 0.94)].
+Physicians from Kenya, China, India and to a lesser extent Thailand were likely to be influenced to change clinical practice as a result of local publications. This however was not the case with the Egyptian physicians [odds ratio 0.008 relative to Chinese physicians, (95% CI 0.0004,0.11)]. Physicians in urban and suburban centres were more likely to be influenced by local journals relative to those from rural centres [odds ratio 2.2, (95% CI 0.99, 4.9)]. Subspecialist physicians revealed less tendency to be influenced by local journals relative to primary care physicians [odds ratio 0.33, (95% CI 0.13, 0.84)].
+
+
+Factors affecting likely influence of research done in different regions
+Table 2 and Figure 2 show the distribution of preferences for research performed in different regions. Research done in North America ranked fairly highly in ability to change clinical practice with significant variation from country to country. The proportional odds assumption was not fulfilled and thus stratum specific estimates were obtained. Kenyan and Egyptian physicians were much more likely to be influenced by North American research than physicians in India, Thailand and China (212 = 35, p = 0.005). Those who had access to a medical library (compared to those without) [23 = 14.9, p = 0.002] and those working in tertiary hospitals (compared to those in secondary hospitals) [23 = 10.4, p = 0.016] were also more likely to be influenced. In addition, more experienced physicians were more likely to choose the highest two Likert categories of influence than those less experienced (23 = 13.6, p = 0.004).
+
+Figure 2
+
+RESEARCH: Preference for research done in other regions (US, Europe or Regional) compared to local research
+
+
+
+Kenyan, Egyptian and Indian physicians appeared more likely to be influenced by European research than their Chinese and Thai colleagues (F4,31 = 12.7, p < 0.0001). Physicians working in tertiary hospitals were twice as likely as their colleagues in secondary hospitals to be influenced by European research [odds ratio 2.0, (95% CI 1.1, 3.6)]. The other factors studied were not statistically significantly associated with the likely influence of European research.
+Regional medical research was more likely to influence physicians in India and Kenya compared to those in Egypt and in China (F4,31 = 13.8, p < 0.001). There was also a tendency for subspecialist physicians to be less readily influenced by regional research compared to physicians without subspecialty training (F1,34 = 7.9, p = 0.008).
+The proportional odds assumption was not fulfilled in the analysis of local research. Local research was judged as very likely to change clinical practice by most physicians studied except those from Egypt. Local research was most likely to change practice in physicians from China and India. (28 = 42.5, p < 0.001). Other factors positively associated with likely change of practice by local research in the highest Likert category were being primary care physician (compared to those with subspecialty training and other doctors, 24 = 21.9, p < 0.001); access to a medical library (22 = 12.9, p = 0.002); and seniority as measured by years since medical school graduation (22 = 11.6, p = 0.003).
+
+
+Difference in research influence scores if research quality was the same in all regions
+Very little change was observed in the influence scores obtained for North American research if research quality became the same from region to region (Wilcoxon signed ranked sum test adjusted for clustering, z = -1.1, p = 0.28). The median change in influence score was 0 (interquartile range 0,0). This was different in Egypt and to a lesser extent in Kenya (26 = 23.9, p < 0.001) where 50% and 30% of physicians decreased their scores respectively. The findings for European research were similar in that there was no statistically significant overall change in influence scores (Wilcoxon signed ranked sum test adjusted for clustering, z = -0.64, p = 0.53). The median change in influence score was 0 (interquartile range 0,0). Egyptian and Kenyan physicians reported reduced scores here relative to their Indian and Chinese colleagues (26 = 23.0, p < 0.001).
+With regard to regional research, there was a statistically significant increase in perceived influence reported by physicians if research quality should become the same in all regions (Wilcoxon signed ranked sum test adjusted for clustering, z = 4.6, p < 0.0001). The median change in scores was 0 (interquartile range 0, +1). Although statistically significant, there was less country to country variation in this instance (26 = 19.0, p = 0.004). Physicians in the Kenyan sample were more likely than their colleagues in the other countries studied to have an increase in influence scores. Subspecialist physicians were more likely to increase their influence score relative to primary care physicians and other doctors [22 = 16.6, p < 0.001].
+There was also a statistically significant increase in influence scores for local research if research quality became the same. (Wilcoxon signed ranked sum test adjusted for clustering, z = 2.15, p = 0.031). Seventeen percent of physicians showed an increase in their influence scores. There was also a significant country effect here (F2,27 = 4.6, p = 0.01). The proportion of Egyptian and Kenyan physicians showing an increase in influence scores was 35% and 25% respectively. Subspecialist physicians and other doctors were more likely to increase scores relative to primary care physicians (F2,27 = 6.2, p = 0.006). Physicians with access to a medical library were less likely to increase scores relative to those without (F1,28 = 6.24, p = 0.019).
+None of the other factors studied had a statistically significant effect on change in the influence scores should research quality become the same.
+
+
+
+Discussion
+With the exception of Egyptian physicians, research findings published in local journals are more likely to result in change in clinical practice relative to journals published in other regions followed closely by research findings published in North American journals. This was demonstrated by the fact that more than 80% of the physicians in this study chose the highest two influence categories indicating a high willingness to change practice in response to findings in local journals. This contrasted with approximately 60% for North American journals and less for European and regional publications.
+The relative influence of research done in different regions is similar to the pattern for journal information. It is also clear that the physicians' impressions of the difference in research quality in different regions affect the degree to which they are willing to change their practices. This was evident from the fact that there was a statistically significant increase in influence scores for local and regional research if research quality is considered the same. The changes are most evident among the Kenyan and Egyptian physicians. The changes in impact scores for North American and European research are however not statistically significant. These contrasting findings suggest that developing world physicians think that the quality of medical research in North America and Europe is better than that in their own regions and countries.
+This study also demonstrated that there is significant variation between countries in the likely influence of journals from and research studies done in different regions. Most physicians are likely to be influenced by North American publications. There is more variation with regard to the likely effects of European publications on physician practice: physicians from Kenya, Egypt and India are more likely to be influenced by European research relative to those sampled in China and in Thailand. This may directly relate to the relative contact between the medical establishment in Europe and those in these countries. Europe has had a longer history of influence in the medical establishments in Kenya, India and in Egypt relative to those in China and in Thailand. Differences in language may also add to this influence. This study also reveals that physicians working in tertiary care hospitals are more likely to be influenced by North American and European publications than physicians from secondary care hospitals. This may relate to the greater exposure these physicians have to publications and research done in North America and Europe.
+There is also much variation with regard to the physicians' impressions of the likely impact of regional research and publication on their practice. Kenyan and Indian physicians are more likely to be influenced by their regional publications and research than are physicians from the other countries studied. Egyptian physicians are especially unlikely to be influenced by their regional journals
+The design of this study involved random sampling of physicians after an initial random sampling of hospitals. This was however not carried out uniformly, and where random sampling was performed the method was left to the individual investigators. There is a strong possibility of selection bias being present in this study, thus limiting the interpretation of between-country differences in the results. It is unlikely, however, that any such selection would be related to the outcome factor examined (the relative importance of the source of the research or publication) and hence internal validity should not be compromised. In some centres all hospitals were used since there were only a few physicians located in each. In Kenya, a national sampling frame was used rather than identifying hospitals first, and the 48% response rate indicates uncertainty about the validity of the results.
+We report answers to a questionnaire rather than observations on practice, and have not established the validity of the stated responses. It is possible that 'national pride' may explain the large difference seen between local and regional journals. The understanding of 'region' may also be difficult, we gave examples in the question of East Africa, Asia and Latin America. In addition, it is possible that the influence and credibility of various information sources may be different for different clinical problems in different settings. The study did not differentiate between type of research study  a randomized controlled trial would usually be more highly regarded than a descriptive study, wherever it was conducted or published. In order to allow for this issue, we asked the question about change in perceptions of the research if the quality were the same in all regions.
+This is the first study to assess the differences in likely impact of medical research and medical journals published in different parts of the world on physicians' practices. The study was carried out in developing countries where few resources are available for doing local medical research and for guiding health policy [6], although the burden of disease is great [16]. Insufficient numbers of clinical trials are performed in sub-Saharan Africa despite the heavy disease burden [17]. Hepatitis B and C [18], the AIDS epidemic [19], the emergence of resistant strains of organisms to antibiotics [20], the need for culture specific and cost-effective methods for child care [19], and appropriate contraceptive methods [21] are only a few of the problems facing developing countries. Given these burdens and that so little financial resources are available for health, it is essential that doctors in developing countries use the most cost-effective methods of health management. Although the respondents to our survey reported high levels of access to medical libraries (Table 2), and also reported high levels of access to "up to date" medical journals, we do not know which journals they are or if they were read. Unfortunately, even in the 'best' settings worldwide, medical practice is not necessarily driven by peer-reviewed evidence. It is therefore important that we identify how physicians use evidence to guide their practice. This can in turn lead to appropriate education programs to guide developing world physicians on how to use evidence. Evidence-based practice needs to be taught to developing world medical practitioners [22]. Initiatives like the International Clinical Epidemiology Network which build research and education capacity in evidence based medicine [7,8] should therefore be encouraged and supported. In addition, given that physicians are more likely to respond to local research than research from other countries, local researchers need to be given support to improve the quality and quantity of local research output. This obviously makes sense since local research is more likely to be directly applicable to the population involved [5]. However, it is neither sensible nor cost-effective to repeat every study in local settings. It is therefore important that the development of culturally sensitive evidence-based guidelines which guide physicians on how to use the results of research findings from settings other than their own be encouraged.
+
+
+Conclusions
+Since local research and publications were considered most likely to change clinical practice, the conduct of high quality local research is likely to be an effective way of getting research findings into practice in developing countries. Local research should be encouraged through education and collaboration and supplemented by appropriate education programs to guide physicians on how to use evidence.
+
+
+Competing interests
+None declared.
+
+
+Authors' contributions
+The study was conceived by RFH and JP and designed by all authors in collaboration. Statistical analysis was performed by JP and LL. The paper was drafted by JP and RFH with contributions from LL and SK, and approved and corrected by all authors.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

@@ -1,0 +1,387 @@
+
+
+Background
+The aim of the study was to measure knowledge about the symptoms, prevalence and natural history of stroke; the level of concern about having a stroke; understanding of the possibilities for preventing stroke, and the relationship between age, sex, country of origin, educational level, income, self-reported risk factors, and the above factors.
+
+
+Methods
+A random sample of households was selected from an electronic telephone directory in Newcastle and Lake Macquarie area of New South Wales, Australia, between 10 September and 13 October 1999. Within each household the person who was between 18 and 80 years of age and who had the next birthday was eligible to participate in the study (1325 households were eligible). The response rate was 62%.
+
+
+Results
+The most common symptoms of stroke listed by respondents were "Sudden difficulty of speaking, understanding or reading" identified by 60.1% of the respondents, and "paralysis on one side of body" identified by 42.0% of the respondents. The level of knowledge of the prevalence of a stroke, full recovery after the stroke, and death from stroke was low and generally overestimated. 69.9% of the respondents considered strokes as being either moderately or totally preventable. There were few predictors of knowledge.
+
+
+Conclusion
+The study suggests that educational strategies may be required to improve knowledge about a wide range of issues concerning stroke in the community, as a prelude to developing preventive programmes.
+
+
+
+Background
+Stroke remains a leading cause of death, long-term disability, and health care expenditure, but opportunities exist for reducing its cost to the community [1]. Recent advances in the treatment of acute ischemic stroke offer hope in reducing its devastating effects [2,3]. Primary prevention is also an important approach to substantially reducing the prevalence, recurrence, disability, and mortality of stroke [4-7].
+Previous studies have shown that the knowledge of stroke among patients and in the community is poor. Pancioli and colleagues, [8] in a population based survey, found that 57% of respondents identified at least one of five established warning signs of stroke, 28 % correctly listed two or more, and only 8% correctly identified three established warning signs of stroke. Our previous study [9] showed that only 73.4% of respondents from a random population sample identified the brain as the organ affected by stroke. While 76% of the respondents could list at least one risk factor for stroke, only 50% could identify one of the warning signs for stroke, 26% could correctly list two, and only 9% of respondents could correctly identify three or more warning signs.
+There have been considerable efforts to increase knowledge about stroke and early presentation at the hospital when stroke symptoms occur. Alberts et al.[10] reported a highly significant improvement in presentation times for patients with cerebral infarction after the implementation of a community education program that used a multimedia approach. Before the program, 37% of patients with cerebral infarction presented to either a hospital or were referred from a general practitioner within 24 hours. After the program, the proportion of patients rose to 86%. Stem et al.[11] also reported 10.9% increase in stroke awareness and knowledge between the pre-education group and the post-education group in their community education programs.
+Adequate planning of community interventions to prevent people from having their first stroke and to present at the hospital early after stroke symptoms occur will require a comprehensive multidisciplinary strategy. In the past, however, most researchers have focused on identifying the poor level of knowledge about stroke risk factors, symptoms, and treatment in hospital patients and in the general population, and there are no published data on the understanding of perceptions and beliefs about stroke in the community. This information is also a good resource for developing a public education program to reduce the occurrence of stroke and appropriate responses to the stroke symptoms.
+This study aimed to measure in a random sample of the population:
+ knowledge about stroke symptoms, prevalence, and natural history
+ level of concern about having a stroke
+ understanding of the possibilities for stroke prevention
+ the relationship between age, sex, country of origin, educational level, income, self-reported risk factor, and the above factors.
+
+
+Methods
+
+Sample and setting
+A random sample of 1773 households in Newcastle and Lake Macquarie, Australia, a regional city of approximately 250,000 people was randomly selected from an electronic telephone directory between 10 September and 13 October 1999. Within each household the person who was between 18 and 80 years of age and who had the next birthday was eligible to participate in the study.
+
+
+Procedure
+One week after mailing an information letter, a trained telephone interviewer contacted each selected household to conduct a telephone interview. If the eligible household member was not available to complete the interview, arrangements were made to call back at a later time. Three attempts were made to contact each eligible household member during the survey period.
+
+
+Measurement
+A literature review of previous studies concerning the chance of having a stroke and the knowledge of stroke symptoms, prevalence, mortality, and full recovery identified potential items for the survey instrument [6,7,12-15]. From this review a draft instrument was developed that addressed the knowledge of stroke symptoms, prevalence, mortality and full recovery. The final survey instrument contained 22 items divided into 3 sections:
+ Knowledge and perception about stroke. These items addressed knowledge and perception regarding stroke symptoms, prevalence, mortality, and full recovery. Response options for each of these items were closed-ended questions.
+ Respondents' demographic details (age, gender, marital status, country of origin, education, income),
+ Prevalence of self-reported risk factors for stroke among the respondents (high blood pressure, angina, heart attack, previous stroke, diabetes, high cholesterol, smoking, and family history of stroke).
+This study was approved by the Newcastle University and Hunter Area Research Ethics Committees.
+
+
+Statistical Analysis
+Descriptive and comparative statistical analyses were performed using the statistical program SAS version 6.12. Chi-squared tests were used to assess the relationships between components of stroke-related knowledge, demographic characteristics and self-reported risk factors. The effects of demographics and the presence of risk factors on the participants' knowledge of stroke were evaluated separately using logistic regression analyses. For each model, response options for the dependent variable were categorised as either 'know' or 'do not know'. P-values from Wald statistics were used to assess the significance of predictor variables. Missing data were excluded. Two-tailed significance tests were used, and a probability value of less than 0.05 was considered statistically significant in both univariate and multivariate analyses.
+
+
+
+Results
+
+Sample
+A total of 1773 telephone calls were made and of those, 1325 households were eligible. The remainder of the calls were ineligible (due to fax number, business phone number, disconnected, or no answer). A total of 822 participants completed the questionnaire giving a response rate of 62%. Demographic characteristics of the respondents are presented in Table 1. Respondents were asked whether they had been told by health care professionals that they had a risk factor for stroke. Of the respondents, 258 (31.4%) reported a high blood pressure (hypertension), 48 (5.8%) diabetes, 24 (2.9%) a previous history of stroke, 35 (4.3%) angina, 206 (25.1%) a high blood cholesterol, 180 (21.9%) current smokers, and 356 (43.3%) a family history of stroke.
+
+Table 1
+
+Demographic characteristics of the respondents (n = 822)
+
+
+
+
+Age (mean  SD)
+48.9  16.1
+
+
+
+
+Sex>
+
+
+
+Male
+335 (48.0%)
+
+
+Female
+487 (52.0%)
+
+
+
+
+
+
+
+Country of origin
+
+
+
+Australia
+715 (87.0%)
+
+
+Overseas
+70 (13.0%)
+
+
+
+
+
+
+
+Education
+
+
+
+Primary
+19 (2.3%)
+
+
+Secondary
+514 (62.6%)
+
+
+Tertiary
+279 (33.9%)
+
+
+
+
+
+
+
+Income (A$)
+
+
+
+Less than $20,000
+252 (30.7%)
+
+
+$20,000 to $39,999
+189 (24.8%)
+
+
+$40,000 to $59,999
+142 (15.3%)
+
+
+More than $60,000
+132 (12.1%)
+
+
+Don't wish to answer
+107 (13.0%)
+
+
+
+
+
+
+Knowledge of stroke symptoms
+Table 2 shows that the most common symptoms of stroke listed by respondents were "Sudden difficulty of speaking, understanding or reading" identified by 494 respondents (60.1%), and "paralysis on one side of body" identified by 393 respondents (42.0%). Six hundred and ninety four (85.5%) respondents correctly listed at least one stroke symptom, 489 (60.2%) correctly listed 2 symptoms, and 253 (31.1%) correctly listed 3 or more symptoms of stroke. In the final logistic regression model, only higher educational level was a significant predictor of knowledge of stroke symptoms (p = 0.006, OR; 1.3, 95%CI; 0.670.93). No statistically significant interactions were found between demographic factors and self-reported risk factors or the knowledge of stroke symptoms.
+
+Table 2
+
+Respondent's knowledge of stroke symptoms (n = 822)
+
+
+
+
+
+Responses
+
+
+N (%)
+
+
+
+
+
+Sudden difficulty of speaking, understanding or reading
+494 (60.1%)
+
+
+Paralysis
+
+
+
+any part of body
+229 (36.4%)
+
+
+one side of body
+393 (42.0%)
+
+
+Blurred or double vision, loss of vision in an eye or both
+243 (29.6%)
+
+
+Incoordination or imbalance
+243 (29.6%)
+
+
+Loss of memory
+125 (15.2%)
+
+
+Brain malfunction
+76 (9.0%)
+
+
+Numbness, tingling sensation, dead sensation
+
+
+
+any part of body
+55 (6.7%)
+
+
+one side of body
+63 (7.7%)
+
+
+Weakness
+
+
+
+any part of body
+53 (6.4%)
+
+
+one side of body
+74 (5.1%)
+
+
+Difficulty in swallowing
+33 (4.0%)
+
+
+Dizziness (vertigo)
+24 (2.9%)
+
+
+Headache / migraine
+20 (2.4%)
+
+
+Chest pain, chest tightness, or murmur
+12 (1.5%)
+
+
+Don't know
+54 (6.5%)
+
+
+
+
+
+
+Knowledge of stroke prevalence, full recovery, mortality
+The level of knowledge of the prevalence of stroke in the community, the chance of full recovery after a stroke, and death from a stroke was generally low (Table 3). To the question "out of 100 Australians, how many do you think will have a stroke in their life?" only a few respondents (20.7%) were within 10% of the correct Australian rate. [16] Approximately half of the respondents over-estimated the prevalence of stroke in Australia by at least 50%. The level of knowledge of stroke prevalence in this study is lower than similar study of telephone survey regarding knowledge of breast cancer in Australian women. This study showed that that one-third of respondents were able to make an approximately correct estimate of the incidence of breast cancer [17]. In the univariate analysis respondents with higher educational level (p = 0.001) and males (P = 0.02) were more likely to estimate the likelihood of stroke within 10% of the correct answer.
+
+Table 3
+
+Respondents perception about the likelihood of developing a stroke, full recovery, and death after the stroke.
+
+
+
+
+
+
+Response categories to question on likelihood (persons / 100)
+
+
+
+
+
+Australia rate (persons / 100)*
+010
+1130
+3150
+51100
+
+
+
+
+
+
+
+Developing a stroke (n = 729)
+1
+20.7%
+30.6%
+29.2%
+19.5%
+
+
+Full recovery after the stroke (n = 731)
+33
+22.9%
+19.6%
+34.2%
+23.4%
+
+
+Death from the stroke (n = 719)
+9
+26.7%
+40.8%
+23.4%
+9.2%
+
+
+
+
+* : Australian Institute of Health and Welfare (1999).
+
+
+When asked: "out of 100 Australians who have had a stroke, how many of them do you think will die as a result of stroke?" Approximately one third of respondents were within 10% of the Australian rate [16]. More than a half of the respondents over-estimated the risk of death after having a stroke. In the univariate analysis, respondents who had completed tertiary education were more likely to estimate within 10% of the correct answer than those who had not completed tertiary education (p = 0.004). Respondents with a history of high blood pressure were more likely to over-estimate the risk of death after a stroke than those without (p = 0.003). However, in the final logistic regression model, there was no association between demographic factors or self-reported risk factors and knowledge of stroke prevalence and mortality in Australia.
+The beliefs of respondents about the likelihood of having another stroke after the first stroke varied widely. 72 respondents (8.8%) rated the likelihood the same as for a person who has not had a stroke, 399 respondents (48.5%) rated the likelihood at 2 to 3 times, and 281 respondents (34.2%) at more than 4 times more likely. Sixty-seven (8.2%) respondents considered strokes as not preventable at all, 125 (15.2%) respondents as slightly preventable, 506 (61.6%) respondents as moderately preventable, 68 (8.3%) respondents as totally preventable, while 56 (6.8%) respondents did not know. Younger respondents (aged 1839, p = 0.001) and those who had completed tertiary education (p = 0.04) estimated more correctly than those aged over 40 years and those who had not completed tertiary education.
+
+
+Concern about the possibility of having a stroke
+When asked about the chance of having a stroke during their lifetime ("What do you think are your chances of having a stroke in your life time?"), 651 respondents (91.1%) reported no or only a low chance of their developing a stroke. Twenty-two respondents (3.1%) reported a high lifetime chance of developing a stroke. More men reported moderate or high chances than did women (p = 0.04). Respondents in each of these groups were more likely to indicate a low lifetime risk of stroke: Older Age (aged 6080; p = 0.001). Lower Educational (completed primary school; p = 0.001), and Born Overseas (p = 0.01). Respondents who had been told by a health care professional that they have high blood pressure (p = 0.008), heart disease (p = 0.03), or previous stroke history (p < 0.001), and having a family history of stroke (first & second degree relatives; p = 0.001), were all more likely to think they had high chance of having a stroke in their lifetime than were respondents in other groups.
+To the question "In the last 12 months have you been at all concerned about the possibility that you might have a stroke?", more than half of respondents reported that they had not been concerned about their chance of having a stroke during the previous 12 months (Table 4). Younger respondents were more likely than older respondents to report that they were 'never' concerned about having a stroke in the last 12 months (p = 0.003). Respondents who had been told by a health care professional that they had high blood pressure (p = 0.001), diabetes (p = 0.004), or a high cholesterol level (p < 0.001) were more concerned about having a stroke than those who had not been so told. Respondents born in Australia were more likely to express concern about stroke than those born overseas (p = 0.03). Respondents with previous history of stroke (p < 0.001) or family history of stroke (p = 0.001) had experienced concern more often during the previous 12 months than did those without either personal or family stroke history.
+
+Table 4
+
+Concern about the possibility of developing a stroke (n = 822)
+
+
+
+
+
+Frequency
+
+
+N (%)
+
+
+
+
+
+Never
+599 (68.0%)
+
+
+Occasionally
+164 (19.9%)
+
+
+Sometimes
+52 (6.3%)
+
+
+Always
+35 (4.2%)
+
+
+Don't know
+12 (1.5%)
+
+
+
+
+
+
+
+Discussion
+This community-based study demonstrates aspects of public knowledge and perception about stroke. Of 822 respondents, 694 (85.5%) were able to name at least one established stroke symptom. Respondents, in general, overestimated both stroke prevalence in Australia and the chance of full recovery after the stroke. Respondents generally considered the possibility of their having a stroke during their life as being not a matter of serious concern. In a multiple logistic regression model, only one group  those with a higher level education  had better knowledge of established stroke symptoms.
+"Sudden difficulty of speaking, understanding or reading" was listed as the most common stroke symptom and more than 80% of respondents could list at least one established stroke symptom. In a hospital-based prospective study Kothari et al.[18] reported that unilateral weakness and numbness were the stroke symptoms most frequently noted by patients. Two-fifths of patients could not identify a single symptom of stroke. In the final logistic regression model, there was no significant association between self-reported stroke risk factors and knowledge of stroke symptoms. These results suggest that respondents who recognise in themselves an established stroke symptom still need to be educated by their doctor or through community educational programs.
+Although those with stroke risk factors (high blood pressure, diabetes, heart disease, previous stroke history etc) correctly identified themselves as having a higher risk of stroke [12], the older respondents incorrectly identified themselves as having a lower risk of stroke. Providing the older members of the community with information about how to recognise stroke symptoms and how to access emergency system in the event of their experiencing stroke symptoms may be beneficial. Furthermore, it would seem advisable to evaluate the role of denial in health behaviour and to develop and test educational strategies to address this denial.
+Prevention remains the most important approach to substantially reducing the prevalence, recurrence, disability, and mortality of stroke. Respondents showed a positive attitude to the possibility of stroke prevention. Gorelick[19] discussed reduction of stroke risk. In his review, lifelong behaviours controlling risk factors are best achieved during pre-adolescence or adolescence. Randall et al., and Kingsley et al. [20,21] emphasised the necessity of finding methods to educate and motivate the population to reduce risk factors, and the importance of educating patients about their risk factors after examining them in the primary care setting.
+A comparatively low proportion of respondents expressed concern about their lifetime chance of having a stroke. Respondents informed by health care professionals that they had a stroke risk factor were more concerned about the possibility of having a stroke than those who had not been told. However, those with stroke risk factors had no better knowledge of stroke symptoms than those without risk factors. Even if overall attitude towards stroke prevention was optimistic in this study, this result may indicate that some deny risk and that some accept and at the same time practically ignore their own personal risks. Research that could determine educational methods of bridging the knowledge-behaviour gap might focus on people's apparent reluctance to change life style towards prevention of stroke and on ways of bringing people to accept calling the emergency medical system as a natural and proper response when they experience stroke symptoms.
+Since this is the first study of its kind in Australia, the results might not be generalisable across Australia, (or to other countries).
+
+
+Conclusions
+In conclusion, the knowledge of stroke symptoms in general was high, but the knowledge about stroke prevalence, mortality, and recovery after the stroke was poor. The lifetime chance of having a stroke was in general underestimated. This study suggests that education strategies may be required to improve knowledge about a wide range of issues concerning stroke in the community, as a prelude to developing preventive programmes.
+
+
+Competing interests
+None declared
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

@@ -1,0 +1,367 @@
+
+
+Background
+The loss of participants in longitudinal studies due to non-contact, refusal or death can introduce bias into the results of such studies. The study described here examines reasons for refusal over three waves of a survey of persons aged  70 years.
+
+
+Methods
+In a longitudinal study involving three waves, participants were compared to those who refused to participate but allowed an informant to be interviewed and to those who refused any participation.
+
+
+Results
+At Wave 1 both groups of Wave 2 non-participants had reported lower occupational status and fewer years of education, had achieved lower verbal IQ scores and cognitive performance scores and experienced some distress from the interview. Those with an informant interview only were in poorer physical health than those who participated and those who refused. Depression and anxiety symptoms were not associated with non-participation. Multivariate analyses found that verbal IQ and cognitive impairment predicted refusal. Results were very similar for refusers at both Waves 2 and 3.
+
+
+Conclusions
+Longitudinal studies of the elderly may over estimate cognitive performance because of the greater refusal rate of those with poorer performance. However, there is no evidence of bias with respect to anxiety or depression.
+
+
+
+Background
+Non-participation in epidemiological studies has the potential to introduce bias into the results of such studies. Lack of participation can come about through noncontact, refusal or death of the respondent. This problem becomes accentuated in longitudinal studies in which non-random attrition can be expected at each wave. In studies of elderly samples, the problem of attrition is accentuated by the increased rate of deaths. Also, such samples may have reasons for refusal which are specific to older age groups. Therefore, it is important to determine the differences between those who take part in survey research and those who do not.
+Often, very little is known about those who do not participate in the initial phase of any study although a number of studies have been able to determine sociodemographic differences and even health differences using hospital records. Romans-Clarkson et al.[1] have reviewed the literature on initial non-responders prior to 1988. They found that non-responders are usually older, more often male, of lower socioeconomic status and have less education. They are more likely to smoke, live in urban areas, to have a negative attitude to health surveys and have higher mortality in subsequent years. Their own study, of a random sample of community residing women, found similar results and, by examining hospital records, found no difference in occurrence of physical or psychiatric illness. Similar results for initial refusals have been found in more recent studies [2,3].
+In longitudinal studies much more is known about those who do not participate in second and subsequent waves. Although non-response can be due to death of the respondent, no contact or refusal, not all studies examining non-response at follow-up have made this distinction. Lui & Anthony [4] found that non-response in an elderly sample one year after initial interview was associated with lower Mini Mental State Examination (MMSE) scores, being older and having fewer years of education. Schaie et al[5] found that non-response in a three wave study over 14 years was associated with lower scores on a number of IQ measures. In a study by Clark et al.[6] of depression in people aged 18 and above, non-response was not associated with depression after accounting for demographic variables. However, only one third of non-responders were refusals, most being no contacts.
+Looking specifically at refusals, Eaton et al.[7], in a follow-up of 1864 year olds from the Epidemiologic Catchment Area (ECA) Program, found that refusers were older, more likely to be married and had lower educational levels than those interviewed. Psychopathology (assessed by either diagnoses or symptoms) was not significantly associated with refusal. Bucholz et al[8] examined refusers amongst an 1849 year old community sample followed up after 11 years. Refusers were more likely to be male and to have a history of barbiturate abuse or dependence, but were no more likely to be in the problem-drinking, minimal alcoholic group than responders. Studies of elderly refusers have found that they are more likely to be cognitively impaired, to be in poor physical health and to have lower levels of education [9-14].
+Of the possible reasons for non-response, refusal is of particular interest because it is amenable to change. The more we know about those who are alive and have been contacted, but refuse to take part, the more likely we are to be able to improve our approach and hopefully lower our refusal rates. The aim of this paper was to examine the relationship of non-response, particularly refusal, to the physical, psychological and cognitive state of elderly participants at subsequent waves of a longitudinal survey.
+
+
+Methods
+
+The sample
+In 199091 a sample of 945 (of 1377 selected) persons drawn from the Electoral Rolls of Canberra and the nearby town of Queanbeyan and representative of the age distribution of this community were interviewed using the Canberra Interview for the Elderly (CIE) [15]. An additional sample of 100 (of 145 selected) residents of Nursing homes and sheltered accommodation were also interviewed. Interviews were sought from both the subject and informant, usually a close relative. The structured interview was administered to the participant by a trained lay interviewer. It was undertaken in the participant's home, taking 1.5 to 2 hours to complete. All interviewing and tests were completed in one visit.
+Wave 2 of the study was undertaken at a mean of 3.6 (range 3.34.2) years later and Wave 3, at a mean of 4.0 (range 3.74.4) years after Wave 2. Refusers at Waves 2 and 3 were divided into two types: those who refused all participation and those who were not interviewed themselves but an interview was achieved with a relative or friend. In most cases where only an informant interview was possible, the respondent was approached, initially, to ask if they would take part. However, in some cases, a spouse or child intercepted the interviewer, decided that the respondent was unable to carry out the interview but offered to be interviewed themselves.
+For the purposes of this study, those subjects for whom only an informant interview was obtained at Wave 1 were excluded from the analysis of refusals at Wave 2, while Informant Only interviews at Wave 2 were excluded from analysis of refusal at Wave 3. No attempt was made at Wave 3, to interview anyone who had refused outright at Wave 2.
+
+
+Measures
+Physical health was assessed using 1) an Activities of Daily Living (ADL) scale [16] which asks the participant to rate their ability to perform a range of everyday activities, with answers ranging from "no difficulty" to "unable to do", 2) a measure of the number of chronic illnesses suffered by the respondent, and 3) self-reported measures of sight and hearing impairment. The sight impairment scale and the hearing impairment scale were each comprised of 5 questions, including a general question on how they rated their sight or hearing and 4 questions on sight or hearing problems in 4 different situations. Higher scores mean higher impairment. The Goldberg anxiety and depression scales [17] were used as indicators of mental health. This scale contains 18 questions, 9 on depression and 9 on anxiety with answer options being "yes" or "no". Cognitive impairment was assessed using the MMSE [18], a test covering a range of cognitive abilities including orientation for place and time, memory and spatial ability. A higher score for this test indicates better cognitive function. Premorbid IQ was measured by the National Adult Reading Test (NART) [19]. The NART is a measure of verbal IQ and is commonly used to estimate IQ in elderly subjects because it is highly resistant to the effects of ageing and dementia [19]. It involves the participant reading a list of words of increasing difficulty and being assessed on their pronunciation. Personality was assessed only at Wave 1 by extraversion and neuroticism scales from the short form of the Eysenck Personality Questionnaire-Revised [20], a measure consisting of 24 questions, 12 on extraversion and 12 on neuroticism. DSM-III-R dementia diagnosis was able to be determined from the interview.
+At the end of the Wave 1 interview only, participants were asked by the interviewer "Was the questionnaire at all distressing  did some of the questions upset you or make you feel anxious?" with options being "yes", "no" or "don't know". Five percent answered "don't know" or the question had not been asked. This 5% was treated as missing data.
+Sociodemographic variables included age, sex, living alone (in community sample only), years of education and previous occupation status (white collar versus blue collar / manual).
+
+
+Statistical analysis
+Univariate analyses on continuous variables were performed using one way analysis of variance followed by post hoc modified-Least Significant Difference (LSD) tests to compare the participants and refusers. Categorical variables were analysed using chi-square tests. Multivariate analyses were performed using logistic regression with simultaneous entry of predictor variables.
+
+
+
+Results
+The response rate at Wave 1 was 69%. The only information available on non-responders was their age and sex. Those who refused participation were not significantly different from participants in age. However, significantly more women than men refused to take part. In the community sample the response rate for males was 76% and for females, 62%. In the nursing home sample, the response rates were 75% and 65% for males and females respectively.
+Table 1 gives the breakdown of response status at Wave 2 and Wave 3. Of the 77% of respondents from Wave 1 who were contacted at Wave 2, 85% participated, 5% allowed an informant to be interviewed and 10% refused any participation. At Wave 3, of those who were able to be contacted, 86% participated, 5% allowed an informant interview, and 9% refused any participation.
+
+Table 1
+
+Response rates at Wave 2 of those respondents interviewed at Wave 1 and response rates at Wave 3 of those interviewed at Wave 2.
+
+
+
+
+
+
+Wave 2
+
+
+Wave 3
+
+
+
+
+
+
+N
+%
+N
+%
+
+
+
+
+
+
+
+Respondent interviews at previous wave
+981
+100
+638
+100
+
+
+Respondent interviews
+638
+65.0
+379
+59.6
+
+
+Informant only interviews
+36
+3.7
+22
+3.6
+
+
+Refusals
+78
+8.0
+39
+6.1
+
+
+Died since previous wave
+215
+21.9
+167
+26.2
+
+
+No contact
+14
+1.4
+31
+4.9
+
+
+
+
+Those who were not contacted were people who either could not be found or had moved too far away to be followed up. This group plus those who had died have been omitted from all further analysis.
+
+Refusal at Wave 2
+Table 2 compares three groups: those respondents who participated at Wave 2, those with an Informant Only interview and those who refused any participation. Significant differences were found for years of education, occupational status, NART, MMSE and ADL scores, sight impairment and distress at end of Wave 1 interview. Consideration of LSDs for continuous variables and adjusted residuals for categorical variables showed that both groups of refusers, but particularly outright refusers, were less likely to be white collar workers. However, only the outright refusers had significantly fewer years of education. Participants had significantly higher NART and MMSE scores than either those who refused or those with an Informant Only interview. The Informant Only group was significantly more physically impaired in terms of ADL, sight (but not hearing or chronic illness) and had lower MMSE scores. A dementia diagnosis at Wave 1 was significantly more likely in those who allowed an informant interview only at Wave 2, with those refusing being more likely to have had a dementia diagnosis than those who participated at Wave 2. Those who refused any participation were more likely to report distress at the end of the Wave 1 interview than those who participated at Wave 2. There was no difference between the groups on age, sex, anxiety or depression, extraversion or neuroticism.
+
+Table 2
+
+Comparison of participants, those respondents who refused but allowed an informant interview, and those who refused all participation at Wave 2: Means (and SDs) or percentages
+
+
+
+
+Wave 1 variables
+Participants n = 560638
+Refused but informant interview n = 2236
+Refused all Participation N = 6078
+P-value
+
+
+
+
+Age at Wave 1
+76.5 (4.9)
+77.9 (5.4)
+75.9 (4.0)
+.123
+
+
+Sex (% male)
+48.58
+44.44
+42.31
+.532
+
+
+Years of education
+11.45 (2.64)
+10.82 (1.95)
+10.56 (2.28)
+.009
+
+
+Occupational status (% white collar)
+65.78
+48.57
+42.86
+.000
+
+
+Lives alone (%) *
+35.78
+31.25
+49.30
+.066
+
+
+NART
+113.23 (9.05)
+103.23 (11.51)
+105.78 (10.89)
+.000
+
+
+MMSE
+27.69 (2.30)
+23.10 (5.49)
+26.14 (4.48)
+.000
+
+
+DSM-III dementia (%)
+4.7
+34.6
+13.5
+.000
+
+
+ADL
+1.75 (2.51)
+3.73 (4.56)
+1.37 (1.56)
+.000
+
+
+Chronic illness
+2.94 (1.92)
+2.94 (2.16)
+2.67 (1.60)
+.498
+
+
+Sight problems
+0.88 (1.88)
+2.03 (3.87)
+0.92 (1.97)
+.005
+
+
+Hearing problems
+1.99 (2.45)
+2.87 (3.11)
+2.14 (2.66)
+.150
+
+
+Anxiety
+2.41 (2.23)
+2.18 (2.58)
+2.84 (2.63)
+.269
+
+
+Depression
+1.89 (1.88)
+2.52 (2.38)
+2.14 (2.15)
+.153
+
+
+Extroversion
+5.89 (3.23)
+5.95 (3.14)
+6.47 (3.11)
+.413
+
+
+Neuroticism
+3.04 (2.80)
+4.05 (3.29)
+3.28 (2.71)
+.223
+
+
+Distressed by interview (%)
+4.01
+9.68
+10.96
+.016
+
+
+
+
+* Living alone or with others was only examined in those living in the community.
+
+
+Logistic regression was used to compare 1) participants to refusers and 2) participants to the Informant Only group. Those variables that showed significant differences in Table 2, were entered simultaneously into the regression. Dementia diagnosis was not included because it was strongly associated with the MMSE score. The results are shown in Table 3. Premorbid IQ as measured by the NART was the only significant predictor of outright refusal at Wave 2, while both NART and MMSE scores were significant predictors of the Informant Only group at Wave 2. Stepwise entry of variables was also undertaken to further examine the role of predictors in the odds of refusal. The results were essentially the same as for simultaneous entry with the exception that in comparing participants with Informants Only, sight impairment was significantly worse in the latter group. Regression analyses were also undertaken using dichotomised variables: MMSE with a cut point of 23/24, sight impairment versus no impairment, ADL score indicating no need for assistance versus needing assistance. The results were substantively the same as when continuous variables were used.
+
+Table 3
+
+Odds ratios (ORs) (and 95% confidence intervals) from logistic regression where the OR of being 1) a refuser or 2) an informant-only respondent at wave 2 is associated with an increase in the predictor.
+
+
+
+
+Wave 1 Variables
+Refusers compared to Participants n-716
+Informant-only groups compared to Participants n-674
+
+
+
+
+Age
+0.96 (0.911.03)
+1.00 (0.921.10)
+
+
+Sex (males = 1 females = 2)
+1.25 (0.722.18)
+1.21 (0.473.08)
+
+
+Years of education *
+1.02 (0.901.16)
+1.02 (0.821.27)
+
+
+Occupational status (white collar)
+0.68 (0.381.23)
+1.07 (0.422.72)
+
+
+NART*
+0.95 (0.92 0.98)
+0.94 (0.891.00)
+
+
+MMSE*
+0.91 (0.881.02)
+0.75 (0.630.89)
+
+
+Activities of daily living *
+0.90 (0.761.07)
+1.04 (0.891.21)
+
+
+Sight impairment scale *
+1.03 (0.881.21)
+1.20 (0.981.45)
+
+
+Distressed by interview (no = 1, yes = 2)
+2.30 (0.866.15)
+0.94 (0.165.37)
+
+
+
+
+*OR associated with an increase of one unit in the scale.
+
+
+
+
+Refusal at Wave 3
+Refusal at Wave 3 was examined using the same analyses as for refusal at Wave 2. Significant differences between the three groups were found for age, years of education, NART, MMSE and ADL scores. Differences in years of education, NART and ADL scores were essentially the same as for the three Wave 2 groups, while MMSE scores were no different between participants and those refusing any participation but significantly lower in those for whom there was only an informant interview. This latter group was significantly older than the other two groups. Logistic regression comparing participants to outright refusers showed that the only significant predictor was years of education. No individual measure predicted refusal when participants were compared to the Informant Only group, although the block of variables did make a significant contribution.
+Change in physical and mental health and cognitive function between Waves 1 and 2 were examined as predictors of refusal at Wave 3. Changes in ADL showed the only significant association, with those providing an informant interview having a greater increase in ADL problems compared to respondents who were interviewed and those who refused any participation.
+
+
+
+Discussion
+At the third wave of this longitudinal study of an elderly sample, respondent interviews were achieved for 39% of those originally interviewed. Another 39% had died since Wave 1.
+At Wave 2, refusal, for both those who allowed an informant to be interviewed and those who refused any participation, was significantly associated with lower occupational status, fewer years of education, lower verbal IQ scores and poorer cognitive function than participants. These results confirm those of other studies which have examined refusal in the elderly [4,5,7,12,13]. A number of these studies also report poorer physical health in refusers. However, in this study, only those with an Informant Only interview showed significantly higher disability (ADL) than participants. Also, the Informant Only group were more likely to have had a diagnosis of dementia at the Wave 1 interview. These findings suggest that including an informant interview in the study has enabled us to gather information on those who were too physically frail or cognitively impaired to participate themselves. These are groups that are important to include in any studies of health in the elderly. Unfortunately, those who refused were also more likely to have had a dementia diagnosis.
+It is interesting also to consider those characteristics that were not associated with refusal. It has been suggested that psychological state may contribute to non-participation in community studies [21]. While the data presented here can say nothing about initial refusal, at subsequent waves we found no association between depression and anxiety scores at previous waves and refusal. As the measures of current anxiety and depression were taken 4 years prior to refusal at subsequent waves, it may be reasonable to expect no association. However, the trait measure of neuroticism, which is relatively stable over time and highly correlated to depression and anxiety was also found to have no association. Similarly, Baton et al[7], Norris [22] and Clark et al[6] did not find any association between non-response and depression symptoms, while Launer [11] found that non-responders had reported more psychiatric symptoms.
+Refusers at Wave 2 were no different in age to those who participated. Some other studies [11] have found similar results, while refusers in the study by von Strauss et al.[13] were significantly older. This latter study, however, was interviewing people in their mid eighties. At Wave 3 of our study, when the average age of the sample was 84 years, those for whom only an informant interview was achieved were significantly older than those who participated. This present study also found no difference in the proportion of males and females refusing at Waves 2 and 3, although more women refused at the initial approach. Other studies examining refusal at initial approach have found that males are more likely to refuse[1,8], however these tend to be samples covering the adult age range. Studies of older samples [10,11] have found little difference in the gender of initial refusers. It is difficult to know why more women than men refused at the initial approach in this study. Reports of follow-up of older samples [4,9,13,22] have found no differences in gender, as was found here.
+Multivariate analysis comparing those who refused any participation to those who participated showed that the verbal IQ score was the only significant predictor of refusal. Comparison of those who either refused or had an Informant Only interview found that both IQ and cognitive impairment contributed. However, the ADL score did not contribute significantly in this analysis. This was somewhat surprising as the ADL score, for those with an informant only interview, was more than double that of those who participated.
+Of the 44 people who said they felt some distress during the Wave 1 interview, 34 gave reasons; 17 (50%) gave the cognitive section as the reason for their distress, while a further five felt distressed by their inability to understand or answer the questions. A possible limitation of this measure is that some respondents may have been reluctant to admit to any distress to the interviewer and so the results may not be an adequate indicator of distress or discontent about the interview. Nevertheless, people who refused any participation at Wave 2 were more likely to have experienced distress. Von Strauss et al.[13], in a study of attitudes to a longitudinal study, found that those with impaired cognitive functioning and lower education showed the least positive attitude and that the first contact and the cognitive testing were the most stressful part of the study. Similarly, Levin et al. [14] examined refusal on follow-up in a sample of Parkinson's Disease patients and found that the only significant predictor was cognitive impairment. These authors commented that participants and their spouses were concerned about the development of dementia when contacted at follow-up. As with other studies, this one also found that those who refused had had lower MMSE scores and fewer years of education. One plausible interpretation is that those people who perform poorly on the cognitive tests are aware of this and become distressed by it.
+Non-response is a serious issue for survey research, in particular, longitudinal studies in which each wave results in further loss and the possibility of sample bias. In studies of the elderly, loss through death of respondents is inevitable. Kessler et al[23] and, more recently, Dunn [24], have examined statistical methods to adjust for non-response. These methods depend on the predictors of missingness and the purpose here has been to identify these predictors. These data can then be used for such methods as multiple imputation or Full Information Maximum Likelihood (FIML) estimation. An examination of the predictors of mortality in this sample [16] found physical ill health, cognitive functioning and being male to be significant predictors. This report has concentrated on those who are alive, have been contacted but refuse to participate.
+
+
+Conclusions
+In conclusion, refusal was predicted by low scores on a verbal IQ test and cognitive impairment, possibly because of distress caused by cognitive testing. It is important that cognitive testing be presented in a non-threatening manner and that participants in the initial wave of such studies be reassured about their performance. However, bias may be reduced by including an informant interview in the study.
+
+
+Competing interests
+None declared
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

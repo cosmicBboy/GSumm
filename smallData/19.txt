@@ -1,0 +1,465 @@
+
+
+Background
+Because both public health surveillance and action are crucial, the authors initiated meetings at regional and national levels to assess and reform surveillance and action systems. These meetings emphasized improved epidemic preparedness, epidemic response, and highlighted standardized assessment and reform.
+
+
+Methods
+To standardize assessments, the authors designed a conceptual framework for surveillance and action that categorized the framework into eight core and four support activities, measured with indicators.
+
+
+Results
+In application, country-level reformers measure both the presence and performance of the six core activities comprising public health surveillance (detection, registration, reporting, confirmation, analyses, and feedback) and acute (epidemic-type) and planned (management-type) responses composing the two core activities of public health action. Four support activities  communications, supervision, training, and resource provision  enable these eight core processes. National, multiple systems can then be concurrently assessed at each level for effectiveness, technical efficiency, and cost.
+
+
+Conclusions
+This approach permits a cost analysis, highlights areas amenable to integration, and provides focused intervention. The final public health model becomes a district-focused, action-oriented integration of core and support activities with enhanced effectiveness, technical efficiency, and cost savings. This reform approach leads to sustained capacity development by an empowerment strategy defined as facilitated, process-oriented action steps transforming staff and the system.
+
+
+
+Background
+Because public health surveillance and action are crucial to effective public health practice, the World Health Organization (WHO) has initiated consensus meetings at the regional and national level to review and reform surveillance and action systems [1-4]. These meetings emphasized improved epidemic preparedness and epidemic response. They also highlight the need to facilitate and standardize surveillance and action assessments and to include integration strategies in the reform process.
+In response, the WHO Regional Office for Africa (WHO/AFRO) has recently initiated the Integrated Disease Surveillance (IDS) project [5,6]. This effort uses the conceptual framework described in this report, which was effectively pilot tested and used to develop a 5-year plan of action (PoA) during the implementation of IDS in Tanzania ([7] and Nsubuga P, Eseko N, Wuhib T, Chungong S, Ndayimrije N, and McNabb SJN; Centers for Disease Control and Prevention, Tanzanian Ministry of Health, and WHO; in press). WHO/AFRO have adapted, further piloted, and subsequently adopted this framework for public health surveillance assessments (Phase I of IDS) in Africa.
+The importance of surveillance and action reform is fundamental to reducing national and international threats of infectious diseases [8]. Renewed threats to health posed by emerging and re-emerging infectious diseases (IDs); worldwide efforts to eradicate polio and eradicate dracunculialus and leishmaniasis; and the evolving drug-resistance of strains of tuberculosis, malaria, cholera, and Streptococcus pneumoniae have prompted an evaluation of the performance of national-level systems of public health surveillance and action [9-11]. In many countries, IDs continue to be substantial causes of mortality, morbidity, and rising health-care costs and must be carefully monitored and controlled ([12-14] and Wuhib T, Chorba TL, Davidiants V, MacKenzie M, and McNabb SJN; Centers for Disease Control and Prevention and Armenian Ministry of Health; unpublished manuscript). Any gaps, inaccuracies, or delays in surveillance and ineffective or inefficient public health actions are revealed both by these renewed ID threats and closer evaluations.
+Many countries recognize internal problems with poor performance  or lack  of public health surveillance and action [1]. At the national level, the use of duplicative, independent, vertical public health surveillance systems (e.g., one system for tuberculosis, another system for malaria), while keeping surveillance close to action may result in the redundant use of personnel, excessive costs, and ineffective or inefficient actions. Further, some high priority diseases may receive less attention because both technical and financial support for vertical surveillance systems may come from outside a country's borders. Developing countries' interests may not always be a top priority for duplicative, independent, vertical surveillance systems. Such a situation results in the use of differing surveillance terminology, methods  including analyses and reporting procedures  and actions that overload health workers. This may lead to discouragement and poor performance.
+To facilitate and standardize national-level assessments and to create a user-friendly method of national-level reform, we designed a conceptual framework in which surveillance and action reside as interdependent processes (Figure 1). This intuitive framework is not only an easy-to-use process of assessing surveillance and action, but also can be used as a pattern for reform. The two processes compose an open system, defined as the continual input of new case-patients [15]. We categorized this framework into eight core and four support activities that can be measured easily by using well-defined, country-specific indicators.
+
+Figure 1
+
+Conceptual framework of public health surveillance and action
+
+
+
+
+
+Methods
+In the early years of modern public health (1940  1960), the term surveillance was applied to the collection, analysis, interpretation, and dissemination of (health outcome-specific) data to those who need to know[16]. Later, public health surveillance was defined as the ongoing systematic collection, analysis, and interpretation of outcome-specific data for use in the planning, implementation, and evaluation of public health practice[17]. Rephrasing the latter meaning, surveillance data are collected at the health facility  the first level of contact of the patient with the health system  then analyzed, interpreted, and used for action.
+Surveillance, per se, does not include the public health action(s) resulting from the interpretation of the data. Few envisaged the inherent responsibility of surveillance practitioners (i.e., those public health officials responsible for interpreting the data collected) for prevention and control actions. However, as early as 1963, the international public health community through the WHO recognized the importance of linking public health surveillance to public health action [18].
+In this conceptual framework, public health surveillance comprises six core activities:
+1. detection
+2. registration
+3. confirmation (both epidemiologic and laboratory)
+4. reporting
+5. analyses
+6. feedback
+Two core activities comprise public health action:
+1. acute (epidemic-type) responses
+2. planned (management-type) responses
+All public health surveillance and action core activities are enabled by the four support activities of
+1. communication
+2. training
+3. supervision
+4. resource-provision
+Case-patient detection (core activity #1) is the first step of this framework (Table 1). Defined as the public health circumstance or event that identifies a (presumptive) case-patient as such by the public health system, case-patient detection usually occurs at the health-facility level. Although usually effected by a health-care provider (e.g., a private physician, nurse, community public health worker, volunteer, or a paid MoH practitioner), the laboratory may also play a role in detection (see also core activity #3 below).
+
+Table 1
+
+Idealized Distribution of Public Health Surveillance and Action Core and Support Activities in a Country with a District-Oriented 1 Public Health Structure, by Organizational Level.
+
+
+
+
+
+Organization Level
+
+
+Surveillance Core Activities
+
+
+Action Core Activities
+
+
+Support Activities
+
+
+
+
+Detection
+Registration
+Confirmation (Epidemiologic and Laboratory)
+Reporting
+Analyses
+Feed-back
+Acute (Epidemic-Type) Response
+Planned (Management-Type) Response
+Communication
+Training
+Supervision
+Resource-Provision
+
+
+
+
+Health
+X
+X
+X
+X
+X
+
+X
+X
+
+X
+X
+X
+
+
+Facility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Health
+X
+X
+X
+X
+
+
+
+
+
+X
+X
+X
+
+
+Facility Lab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+District
+
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+
+District Lab
+X
+X
+X
+X
+
+X
+
+
+
+X
+X
+X
+
+
+Regional
+
+
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+
+Regional Lab
+
+
+X
+X
+
+X
+
+
+
+X
+X
+X
+
+
+National
+
+
+
+
+X
+X
+X
+X
+X
+
+
+
+
+
+National Lab
+
+
+X
+
+
+X
+
+
+
+X
+X
+X
+
+
+
+
+1 serving 250,000500,000 persons
+
+
+Specified descriptive variables are then entered or registered into a public health record (core activity #2). Case-patients may be detected but not be registered. Once registered, case-patients either remain unconfirmed or become confirmed (core activity #3). Confirmation occurs through the evaluation of epidemiologic criteria and/or laboratory test results. Epidemiologic confirmation involves intensive case-patient investigation in the field (e.g. household or workplace). Laboratory tests help confirm or rule out diagnoses of registered case-patients. By detecting new, previously unreported case-patients through routine laboratory testing, the laboratory itself can serve as a secondary or primary surveillance system by detecting, registering, and reporting case-patients. Some laboratories provide ongoing reporting of new health outcomes (e.g., antibiotic resistance).
+Reporting (core activity #4) of case-patient data involves the movement of public health surveillance data collected from lower levels of the health system (e.g. health facilities) to higher ones (e.g., district or national offices).
+Once data have been received at the appropriate health level, they are analyzed (core activity #5). Analyses should be done as close to the primary reporting level as possible so there is minimal delay in implementing the appropriate interventions to prevent disease. Interventions to improve data analyses might include training in analytic methods, including data presentation (standardized charts and graphs) and the establishment of indicator targets designed for public health action. Often, reported data are numbers. Analyses of numbers produce results. Results of analyses of surveillance data are the end points of public health surveillance. However, for collected data to lead to action, they must be interpreted or transformed into public health information and then to public health messages that are used for public health action.
+Feedback (core activity #6) is the flow of information and messages back to lower levels from higher ones. Targeted interventions to correct poor feedback might include such efforts as providing timely and regular messages from the national level to the health-facility level on the basis of locally provided data. Even though public health surveillance and action are interdependent processes (Figure 1), they relate through inflow and outflow of data-information-message (i.e., interpretation) (Table 2).
+
+Table 2
+
+Example of Data-Information-Message
+
+
+
+
+Data: There are 100 case-patients and five fatalities of measles in Region X in one month, with an incidence of 90/10,000 persons.
+
+
+Information: This is a 50% increase in measles over last year at this time.
+
+
+Message1: There is an epidemic of measles in Region X that requires immediate public health action. Every infant in Region X can be vaccinated for less money than it takes to treat the 100 case-patients and five fatalities.
+
+
+
+
+1 Messages are subjective statements about information. They enable the target audience to put the information into the proper context for action.
+
+
+This transformation of data to information to messages can been defined as a process, which is a series of actions or operations, always in motion, directed toward a particular goal [19]. The output of public health data-information-messages (interpretation) yielded from surveillance should never be separated from public health action. Public health action continuously influences public health surveillance by providing public health interpretation to guide any modifications in the content or scope of surveillance.
+Two core public health actions of acute (epidemic-type) (core activity #7) and planned (management-type) (core activity #8) responses rely upon messages derived from surveillance. Acute (epidemic-type) responses occur directly, reactively, and generally include immediate public health actions (e.g., epidemic investigation, contact follow-up, or targeted interventions designed to stop the ongoing transmission of disease). Planned (management-type) responses occur with periodicity over time and require a vision of future needs. Examples of such responses include community public health education, purchasing next year's immunization supplies, ordering tuberculosis medication in anticipation of future needs, or reallocating public health personnel and resources in response to changing trends of disease. Public health actions, in turn, must be measured, evaluated, and the results used to not only measure and modify the control and prevention measures taken, but also to guide future modifications in public health surveillance.
+Four support activities promote or improve the core activities by enhancing their performance through more efficient and effective functioning (Table 1). Core activities can and do occur with or without support activities. Generally, the more support, the better the performance.
+Communication (support activity #1) usually proceeds from public health authorities. By definition, communication is a process that involves at least two people in an effort to convey, receive, interpret, and agree upon the meaning of data, information, or messages[20]. Communication includes the provision of public health messages through public health bulletins within a country, or to other countries, and also to supra-national organizations (e.g., WHO, United Nations International Children's Emergency Fund, or the World Bank).
+Training (support activity #2) and supervision (support activity #3) facilitates day-to-day operations. Interventions might include motivating public health workers through training and supervision and taking appropriate public health actions in a timely manner. Other interventions, such as training in decision-making, management, and communications could tie the development of analytic skills and knowledge to applied broad public health practice competencies. Resource-provision (support activity #4)  e.g., the availability of funds, trained personnel, and materials such as communications infrastructure (i.e., telephone, fax, or computer), electricity, gasoline, or vaccine-promotes or improves all eight core activities.
+The framework uses the concepts, goals, and objectives of surveillance and action to provide the development of flexible, yet objective, indicators, by each core and support activity and by health-care level, for any country (Table 3). Indicators  used here as measures of performance  can be customized to adapt to surveillance systems throughout the world.
+
+Table 3
+
+Sample Indicators Measuring the Performance of Public Health Surveillance and Action Core and Support Activities
+
+
+
+
+
+Public Health Surveillance and Action Activity or Approach
+
+
+Sample Indicator
+
+
+
+
+
+Detection
+Proportion of sites where the community has reported cases within past the past year
+
+
+Registration
+Proportion of sites with a currently maintained registry
+
+
+Confirmation (Epidemiologic and Laboratory)
+Proportion of sites with standardized case definitions for all reportable diseases (having implemented them)
+
+
+Reporting
+Proportion of sites having submitted all four previously required reports
+
+
+Analyses
+Proportion of sites with appropriate denominator data
+
+
+Feedback
+Proportion that received any type of feedback from a higher level
+
+
+Acute (Epidemic-Type) Response
+Proportion of sites involved in, conducting, or that conducted an epidemic investigation within the past six months
+
+
+Planned (Management-Type) Response
+Proportion of sites that have implemented community-wide prevention and control measures based on local data within the past year
+
+
+Communication
+Public health bulletin published and distributed quarterly
+
+
+Training
+Training received in general epidemiology and public health surveillance
+
+
+Supervision
+Surveillance activities were supervised during the previous six months
+
+
+Resource-Provision
+Telephone service available
+
+
+Empowerment
+Proportion of district-level MoH staff involved in Phase 2; MoH steering and working committees meet on a regular basis
+
+
+
+
+
+
+Results
+The authors propose the application of this conceptual framework of public health surveillance and action using a five-phase approach to national-level reform. Using the framework of eight core and four support activities as a road map, public health practitioners can assess the existing surveillance and action system, propose a model for a future system, and develop and implement a plan of action (PoA) to achieve the model through a series of process-oriented action steps. These action steps yield not only measurable outputs and outcomes (by virtue of objectives with indicators), but also develop measurable sustained capacity among MoH staff (by virtue of objectives with indicators).
+This five-phase approach begins with Phase 1  preparation for the reform effort and ends with the full implementation of the reform model. Phase 5 involves the evaluation and monitoring of the entire process toward achieving the country-level, district-oriented reform model. Each process-oriented phase yields specific and measurable outputs and outcomes, monitored by objectives that guide the next steps.
+
+Phase 1  preparation
+The overall design and implementation of all phases should proceed under the direction of a MoH steering committee (advisory board) that includes high-level decision makers and also representatives from the health facility and district level. The WHO Country Representative can serve as a link between the MoH and other partners. This steering committee should gain consensus and support from other MoH officials, donor organizations, non-governmental organizations (NGOs), and other key players to explain findings, gain understanding and support for the process and to build consensus on reform. The outcome of this phase is a commitment to the entire reform process. The steering committee will
+ provide each organization with copies of reports;
+ discuss major findings, interpretations, and conclusions;
+ identify the specific interests and suggestions for improvement from stake holders;
+ respond to questions; and
+ invite participation in processes and debriefings.
+
+
+Phase 2  assessment of public health surveillance and action
+To assess the current status of surveillance and action, the MoH uses indicators (Table 3) to measure the existing presence and performance of the multiple, independent, and vertical public health surveillance and action systems using the eight core and four support activities. This assessment involves a structured examination at all health levels: national, regional, district, and health-facility. The indicators are captured by questions (both in interview and observation format) and framed into health-level specific questionnaires. The outputs from Phase 2 are objective findings that guide practitioners in the development of a comprehensive PoA with targeted interventions conceptualized, planned, and budgeted during Phase 3.
+Phase 2 could proceed under the direction of a working committee appointed by the steering committee. The group would also include representation from outside technical partners (e.g., WHO) and the national, regional, district and health-facility levels. The Phase 2 working committee will complete the initial analyses of the assessment data and prepare a draft report of the findings to be presented to the steering committee. A draft report is left with the MOH and includes recommendations. Finalization of the document is then done by the MoH.
+
+
+Phase 3  development of a Plan of Action (PoA)
+Following completion of Phase 2, the MoH will review the objective findings and develop a detailed PoA using crosscutting and surveillance themes. Cross-cutting themes may include integration, district-level focus, budget, action-oriented approach, and advocacy.
+Phase 3 should proceed under the direction of another working committee, appointed by the steering committee. This working committee should involve staff from the Phase 2 working committee and key stakeholders from the various vertical programs involved.
+The working committee of Phase 3 develops a first-draft PoA based on the comprehensive review of the assessment findings. The working committee is empowered to envision the final reform model, determine the major weaknesses that should be addressed to achieve it, and identify the appropriate action steps. This workshop process is conducted using the conceptual framework of the stepwise surveillance core and support functions as a road map, beginning with case-patient detection and working through all eight core and four support activities, with the reform model in full view.
+The working committee then identifies the process-oriented action steps to achieve each specific objective, including implementation indicators, time-lines, the organization or group primarily responsible for implementation, required resources, and means of overcoming potential obstacles (Table 4).
+
+Table 4
+
+Example of Taking One Finding from Phase 2 and Developing a Detailed Plan of Action
+
+
+
+
+
+Finding
+
+
+Recommendations
+
+
+Objectives
+
+
+Indicators
+
+
+Action Steps
+
+
+
+
+
+Only 3/21 reportable diseases have standard case definitions (SCDs) *
+All reportable diseases should have SCDs for suspected, probable, and confirmed case-patients. The Ministry of Health (MoH) should select or develop case definitions appropriate for various types of health facilities/providers*
+SCDs are established for every reportable health condition
+SCDs are developed for each reportable health condition
+1) The MoH should establish a working group 2) Review existing SCDs 3) Select/develop a proposed SCD for each reportable disease* 4) Conduct consensus workshops at district and national levels
+
+
+
+
+* This information can be developed in much greater detail, e.g. tiered case definitions (e.g. suspect, probable, and confirmed) can be developed for different diseases and laboratory capabilities can be specified for various levels.
+
+
+
+
+Phase 4  implementation
+Phase 4 focuses on carrying out the process-oriented action steps developed and described in the PoA as necessary to achieve goals and objectives. Phase 4 is the most critical and difficult phase, and often requires financial support from outside agencies. Advocacy both within and beyond the MoH is critical to final approval of the PoA. Once formally approved by the MoH, in many countries, advocacy to donors is critical. These activities are processes and include specific outcomes and indicators that measure progressive change at all levels. They are conducted over the life of the project, beginning with the completion of Phase 3 in the first year.
+
+
+Phase 5  monitoring and evaluation
+During Phase 5, there is a determination of whether the planned changes are occurring by measuring progress. Monitoring and evaluation provides guidance to not only overall reform progress, but also helps identify problem areas in implementation of the PoA. This phase is conducted over the entire lifespan of the project, beginning with the initiation of Phase 1 in the first year.
+
+
+
+Discussion
+The authors describe here a conceptual framework of the interdependent processes of public health surveillance and action. These two processes comprise eight core and four support activities. The presence and performance of these activities can be measured using well-defined indicators that yield information. The information can then guide a comprehensive national-level reform by identifying gaps and opportunities for integration and by targeting interventions designed to improve the technical efficiency and effectiveness of both public health surveillance and action. These efforts will reduce costs.
+Thacker and Klaucke et al. advanced public health surveillance in 1988 with their strategy for surveillance assessment [21,22]. Their strategy includes an evaluation of the components of public health importance, objectives and usefulness, operation of the system, cost, and system attributes (simplicity, flexibility, acceptability, sensitivity, predictive value positive, representativeness, and timeliness). It involves both qualitative (e.g., simplicity) and quantitative (e.g., predictive value positive) measurements [23,24]. This evaluation strategy is primarily disease specific and may not be practical when applied to national-level public health surveillance and action reform efforts that involve the evaluation and consequential modification of entire country-level, multiple surveillance systems.
+The Thacker and Klaucke model is used most effectively when a single health indicator (e.g., tuberculosis, hepatitis A, or malaria) is being evaluated. It is less useful to evaluate (concurrently) multiple surveillance systems or when the surveillance systems being assessed monitor multiple health indicators. For example, this model does not allow sensitivity or predictive value positive to be calculated for a surveillance system that captures multiple health indicators simultaneously. It does not identify areas amenable to integration.
+The authors' goal has been to develop an evaluation tool and provide a road map for national-level reform efforts. The framework proposed here provides specific and objective data to measure the structure (i.e., a description of the number and distribution of regional, district, and health facilities), presence (i.e., system existing at the respective health-care level), and performance (i.e., meeting the minimum standards established by the MoH and required by the indicator chosen at each health-care level) of multiple public health surveillance systems at a national level. The framework is comprehensive, organized, consistent, flexible, diagnostic, action-driven and oriented, and easy for MoH staff to use. Further, it is designed to build sustained capacity and can be used to economically evaluate both the current and reformed efforts.
+The framework also promotes a "public health action-led" rather than "surveillance (data)-led" model that closely meets the expressed needs of many MoHs [25]. It meets the goal of public health surveillance; namely, to use public health information to guide the system to take the appropriate public health action [26]. The framework is most useful in an applied context. Those countries in the process of political and economic reform or those that do not already have a well-established surveillance infrastructure may more easily use this approach than countries with well-established surveillance systems. It is intuitive for MoH field staff who might not have extensive training in surveillance (Nsubuga P, Eseko N, Wuhib T, Chungong S, Ndayimrije N, McNabb SJN; Centers for Disease Control and Prevention, Tanzanian Ministry of Health, and WHO; in press), and it permits economic analyses of surveillance and action (Carande-Kulis V, Aldrich M, Messionier M, and McNabb SJN; Centers for Disease Control and Prevention; unpublished manuscript).
+A model of public health surveillance and action reform must adapt to the ongoing political, economic, and social realities of three concurrent movements: 1) decentralization, 2) integration, and 3) primary health-care delivery [27,28]. Funded in large part by international donors, these movements drive the reform model of public health. Decentralization of public health practice accompanies the peripherally shifting movement of other governmental functions [27,28]. During decentralization, political power, authority, responsibility, resources, communications and transportation capacity, person power, and autonomy shift peripherally to a highly focused, more efficient and autonomous district level (one serving 250,000  500,000 persons). Public health surveillance systems have traditionally existed in a top-heavy and disease-specific (or vertical) form. With the governmental shift toward decentralization, the integration of public health-related activities, management responsibilities, and services becomes critical to the efficient performance of public health practice.
+With the integration of health-care services, information needs and uses and public health responses can change. The movement toward the integration of surveillance and action implies the ultimate focus of reform should move from a program-specific focus (e.g., infectious diseases) toward integration with other health problems (e.g., maternal and infant mortality). Accompanying decentralization and integration is emphasis on developing a primary health-care model by restructuring and combining essential health services, including public health services at the district level. This model has the flexibility to include non-infectious disease health outcomes.
+What then does the public health reform model envision, and how should it be achieved? Directed through process-oriented action steps, the conceptual framework of public health core and support activities described here provides the underpinning for the practical outworking of reform. Its application envisages the creation, over time, of an integrated, district-focused, and action-oriented system of public health practice, including both reformed public health surveillance and action with enhanced effectiveness, technical efficiency, and cost savings. This vision should be achieved by an empowerment approach that leads to sustained capacity development.
+If sustained capacity development is desired, empowerment should be the central underlying strategy of public health practice reform. Defined as a series of facilitated process-oriented actions leading to transformation (i.e., improvement in public health judgment and performance and increased competency in various areas of public health practice), empowerment builds sustained capacity. Beginning from phase 1, the respective MoH staff should lead each phase of reform. The active involvement and central role of the respective MoH staff in each phase increases the likelihood of ownership, acceptability, and relevance to local conditions of the final model of reform that is adapted.
+The processes of public health surveillance reform, which lead to sustained capacity development, are as important as the final reformed model itself. This transformation process is focused on people as well as systems. Indeed, the sustained development of capacity is measured by MoH practitioners who are empowered and trained to
+ think independently;
+ react appropriately to changing public health circumstances; and
+ develop new public health strategies.
+The application of reform may require additional donor funding, often from external international sources. Technical and financial assistance can come from other external facilitator-partners (e.g. WHO, United States Agency for International Development, United Nations Foundation, and the Centers for Disease Control and Prevention), but their role should be limited to the provision of tools, resources, critiques or other technical guidance. It requires time to implement reform strategies in an objective-based PoA.
+
+
+Abbreviations
+(IDs) infectious diseases
+(IDS) Integrated Disease Surveillance
+(MoH) ministry of health
+(NGO) non-governmental organizations
+(PoA) plan of action
+(SCD) standardized case definitions
+(WHO) World Health Organization
+(WHO/AFRO) Regional Office for Africa
+
+
+Competing interests
+We certify that we have participated sufficiently in the conception and design of this work, as well as its execution and the analyses of the data. Further, we have collaboratively written the manuscript and take public responsibility for it. We believe the manuscript represents valid work. We have reviewed the final version of the submitted manuscript and approve it for publication. Neither this manuscript nor one with substantially similar content under our authorship has been published or is being considered for publication elsewhere. If requested, we shall produce the data upon which the manuscript is based for examination by the editors.
+We certify that we have no affiliations with or involvement in any organization or entity with a direct financial interest in the subject matter or materials discussed in the manuscript. Drs. McNabb, Wuhib, Nsubuga, and Carande-Kulis were employees of the U.S. federal government when this work was performed and prepared for publication; therefore, it is not protected by the Copyright Act, and there is no copyright of which the ownership can be transferred. Dr. McNabb serves as corresponding author; his address is listed below.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

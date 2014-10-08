@@ -1,0 +1,1026 @@
+
+
+Background
+A typical purification system that provides purified water which meets ionic and organic chemical standards, must be protected from microbial proliferation to minimize cross-contamination for use in cleaning and preparations in pharmaceutical industries and in health environments.
+
+
+Methodology
+Samples of water were taken directly from the public distribution water tank at twelve different stages of a typical purification system were analyzed for the identification of isolated bacteria. Two miniature kits were used: (i) identification system (api 20 NE, Bio-Mrieux) for non-enteric and non-fermenting gram-negative rods; and (ii) identification system (BBL crystal, Becton and Dickson) for enteric and non-fermenting gram-negative rods. The efficiency of the chemical sanitizers used in the stages of the system, over the isolated and identified bacteria in the sampling water, was evaluated by the minimum inhibitory concentration (MIC) method.
+
+
+Results
+The 78 isolated colonies were identified as the following bacteria genera: Pseudomonas, Flavobacterium and Acinetobacter. According to the miniature kits used in the identification, there was a prevalence of isolation of P. aeruginosa 32.05%, P. picketti (Ralstonia picketti) 23.08%, P. vesiculares 12.82%,P. diminuta 11.54%, F. aureum 6.42%, P. fluorescens 5.13%, A. lwoffi 2.56%, P. putida 2.56%, P. alcaligenes 1.28%, P. paucimobilis 1.28%, and F. multivorum 1.28%.
+
+
+Conclusions
+We found that research was required for the identification of gram-negative non-fermenting bacteria, which were isolated from drinking water and water purification systems, since Pseudomonas genera represents opportunistic pathogens which disperse and adhere easily to surfaces, forming a biofilm which interferes with the cleaning and disinfection procedures in hospital and industrial environments.
+
+
+
+Background
+Water is one of the most important elements for all forms of life and is indispensable in the maintenance of life on Earth and essential for the composition and renewal of cells. Water represents 70% of our body, participates in the composition of our tissues, and transports the most diverse substances throughout our organism. Notwithstanding, human beings increasingly continue to pollute the reserves which still remain, provoking illnesses that can jeopardize the population [1].
+Bioaccumulation, sewerage, agricultural, industrial, radioactive, and thermal residues are the principal polluters of water on our planet.
+
+Purified Water
+Water is essential for industrial, pharmaceutical and hospital purposes, in the preparation and processing of medicines and other health products. In the majority of cases, water is an input, which should be incorporated into the product during processing. At other times, even if it is not present in the preparation, it is especially used for cleaning and hygiene purposes. It is recognized that the greatest demand on water is destined for human consumption, its quality being relatively guarantied up to the point where the pipe transportation network terminates.
+Although potable water is suitable for human consumption, it does not guarantee that the so-called potable quality could also be used in industrial installations, equipment, preparation of medicines, foodstuffs, cosmetics, chemopharmaceutical materials, or health center units for the cleaning and washing of semi-critical areas or devices prior to the application of disinfection or sterilization procedures.
+For this reason, every industrial or pharmaceutical plant related to health products must rely on appropriate water purification systems, allowing it to meet its particular requirements, especially as to the problems related to storage and internal distribution. This procedure must guarantee supply according to the volume required and pursuant to the demanded quality consumption points.
+Purified water is used as an expedient in the production of official preparations, pharmaceutical (industrial, and in health center units) applications such as the cleaning of semi-critical devices, areas and equipment, as well as in the preparation of pharmaceutical chemicals and bacteriological media. It is also used as the principal component in peritoneal dialyses solutions in hospitals, in nutrient solutions (including nursing bottles) and liquid enteral nutrient solutions, prepared in the hospital lactarium and administered to children and weak patients who can eat regular solid food.
+Purified water is obtained from drinking water [1] through a typical water purification system of unit operations, meeting the standards set forth by the 1978/1990 directives issued by the Brazilian Ministry of Health [2]. Purified water systems must be validated in order for water to meet the requirements [3]: for the purity of ionic (conductivity  1.3 S/cm, at 25C) and for total organic compounds (TOC < 0.5 mg/L), and must even be protected from microbial proliferation (total enumeration < 100 CFU/mL), preventing pyrogen formation. The bacteriological standard  1.0 Endotoxin Unit (EU/mL) is required for sterile purified water used in the washing of critical devices before autoclaving.
+The purified water system that produces, stores, and circulates water under background conditions is "susceptible to the establishment of adhesive biofilms or microorganisms", which can be the source of undesirable levels of viable microorganisms or endotoxins in the effluent water. Recent studies have shown that nearly all large water purification systems can cause the formation of biofilm in the piping. This biofilm can spread microorganisms within the system and contribute to an increase in particles, bacteria, and the level of total organic carbon (TOC). Contamination can affect the whole process in the pharmaceutical industry or hospital environment. These systems require frequent sanitation and microbiological monitoring to ensure water of the appropriate microbiological quality (microbial limit at the points of use) [3].
+Monitoring data should be analyzed on an ongoing basis so as to ensure that the process continues to be performed within acceptable limits. It should be recognized that the microbial alert and action levels established for any pharmaceutical water system are obligatorily linked to the monitoring method chosen. Using the recommended methodologies generally considered, appropriate action levels are 500 colony-forming units(CFU) per mL of drinking water, 100 CFU/mL of purified water, and 10 CFU/mL of water for injection (WFI); the limits for pyrogen are < 1.0 Endotoxin Unit/mL of purified water, < 0.5 EU/mL of WFI and < 0.25 EU/mL of sterile WFI [2,3]. For gram-negative fermenting bacteria in drinking water, the standards show that total coliforms must be fewer than 10-2 CFU/mL to that of drinking water. Neither the Brazilian Federal standards nor the USP 24 [3] includes levels for gram-negative non-fermenting bacteria, such as the Pseudomonas species, which are the principal cause of biofilms and enterotoxins [4] in purified water.
+During the performance of a typical water purification system, the purposes of the present work were: (i) to examine the efficiency of each treatment stage; (ii) to characterize the isolated bacteria at each stage, from the storage tank of publicly supplied water up to the final point of purified water consumption. The minimum inhibitory concentration (MIC) of the main chemical agents used in the disinfection of the water purification system over the isolated and identified bacteria was also studied.
+
+
+
+Methods
+
+Water Samples
+Samples from thirteen points of a typical water purification system (10,000 L/day) were analyzed in triplicate. Three analysts collected samples of water from every point indicated in the Flow Sheet of a typical USFilter water purification system [5], placed in the Edwards Lifesciences Macchi, SP, Br.
+Before sampling the water, every sampling tap (point) was made sanitary with ethyl 70% alcohol, the valve was opened and the water was allowed to flow (approximately 3 L/min) freely for about 60 seconds, followed by the taking of a sample of 100 mL of the water in a sterile polyethylene bag (Millipore, Bedford, MA, USA).
+
+
+Flow sheet of a typical water purification system
+Point 1: Storage Tank (feed water)
+Point 2: Two multimedia Filters (primary filtration)
+Point 3: Two water softeners (hardness reduction)
+Point 4: One filter of activated carbon (chlorine removal)
+Point 5: One 5.0 m filter (removal of particle materials)
+Point 6: One reverse osmosis membrane system (removal of organic and inorganic substances)
+Point 7: One continuous deionization column (removal of dissolved minerals and salts)
+Point 8: One storage tank (treated water)
+Point 9: Light UV: 254 nm (reduce TOC)
+Point 10: Three 0.05 m filters in parallel (removal of particles and bacteria)
+Points 11, 12, 13: Loop of distribution of purified water for consumption
+The water purification system presented in the Flow Sheet [5] included the following stages and subsequent apparatus, from where the water points were sampled:
+Point 1: The storage tank was fed with drinking water distributed by SABESP [1] (Basic Sanitation Company for the State of So Paulo). The polyethylene storage tank has a closed cover and a capacity of 10,000 L H2O designed with a siphon valve fitted at the bottom of the tank outlet. It is also fitted with a centrifugal pressure pump (stainless steel, 40 L/min/ 414 kPa), which pressurizes the water to point 02 across the multimedia filters.
+Point 2: Two multimedia filters parallel to each other (US Filter, rlzms12 fxxfa, Warrendale, PA, USA) offers a highly efficient removal of suspended fragmented matter from the water. The three layers of media (sand, anthracite and quartz) are selected in accordance with their particular size, specific gravity, and ability to trap particles of specific size ranges ( 10 micra). As the water flows downwards through the bed, it finds a layer of media with decreasing porousness/permeability so that successively smaller particles are trapped in each layer, providing depth filtration.
+Point 3: Two water softeners of an alternated sodium resin (US Filter, rlzsd12fxxya) which remove hard minerals from the water. Ion exchange water softening exchanges the calcium and magnesium cations from water with an equivalent number of sodium cations.
+Point 4: One filter of activated carbon (US Filter relzcs12fxxfa) is used to remove chlorine, chloramines, and dissolved organic substances from the water. Carbon filters are frequently used as the pretreatment to osmosis membranes and ion exchange resins, avoiding damage by oxidant substances, such as chlorine.
+Point 5: One 5.0 micra polyethylene microporous depth screen filter (US Filter, fcrof2005) is often used ahead of other water purification operations, such as deionization, and reverse osmosis, as a polishing filter for removing resin, carbon fine colloids, and microorganisms.
+Point 6: One reverse osmosis membrane system (polyamide polymers, US Filter, rsolv204021133)- The natural process of osmosis occurs when a solution with different concentrations of salts is separated by a semi-permeable membrane. As osmotic pressure drives the water through the membrane, the water dilutes more concentrated solutions, until an equilibrium is achieved. The permeate pure water is collected on the downstream side of the membrane. Reverse osmosis removes 90%  99% of particles, colloids, bacteria, pyrogens, dissolved organic and inorganic substances greater than 200300 molecular weight (MW) range or larger than the membrane's pore size of 150 to 200 angstroms. The conductivity of the water at the inlet is 150 S and at the outlet is 5 S. Four membranes (10.16 cm  101.6 cm) with an outlet capacity of 16 L/min are used. The membrane's shelf life is between 2 and 3 years and sanitation is carried out through the association of peracetic acid with a hydrogen peroxide solution.
+Point 7: One continuous deionization (US Filter, cdi = ccdis20  1) column that removes dissolved minerals and salts, as well as some dissolved organic matter, from the water stream crossing ion exchange resins. The ion exchange operation removes positively charged cations, such as calcium, magnesium, and sodium from the water by cation exchange resins, which are replaced by hydrogen ions. Negatively charged anions such as chloride, nitrate, and silica are removed from the water by strong based anion exchange resins, and hydroxide ions then form water molecules. The water stream passes through a mixed bed of cation and anion exchange resins, which produces a very high quality of water with a resistance of up to 1.3 s/cm (18.3 megohm-cm) at 25C.
+Point 8: A storage polyethylene tank (1500 L) with the treated water, of which the reservoir has a closed cover design with a spray ball at the top to spread the water, keeping it in continuous movement so as to prevent any hazard of contamination. The tank is also provided with a siphon valve fitted at the bottom of the tank outlet, a pressure relief, and a 0.2 m ventilation filter. The loop of distribution for the points of use is accomplished through two pumps.
+Point 9: Ultraviolet Light ( = 254 nm, US Filter, SL-1) is used as a final step in the treatment for the purpose of preventing the growth of microorganisms, and reducing total organic carbon (TOC).
+Point 10: Three 0.05 m filters are set parallel to each other (US Filter, zha 153107). Microporous filters are used to remove particles, and bacteria, ranging from 0.05 to 0.5 m contaminants, which would not ordinarily be removed by depth filtration.
+Points of use 11,12, and 13: Every point of use is provided with 3 filters of 0.05 m set parallel to each other. From those points, the purified water for consumption is provided by a loop of distribution and is used for the cleaning of critical devices (membrane oxygenators and PVC tubes), the washing of semi critical areas, the preparation of chemical solutions, and the culture bacteriological media.
+
+
+Culture media, enzymatic and biochemical reactions efficiency test
+The culture media efficiency test was carried out with standard strains: Aspergillus niger ATCC 16404, Bacillus subtilis ATCC 6633, Candida albicans ATCC 10231, and Pseudomonas aeruginosa ATCC 27853, Escherichia coli ATCC 25922, pursuant to USP 24 [3]. The evaluation of the enzymatic and biochemical reactions, performed in the identification of the isolated colonies, were carried out with standard strains of Pseudomonas aeruginosa ATCC 27853, Aeromonas hydrophila ATCC 35654, Alcaligenes faecalis ATCC 35655, and Flavobacterium multivorum ATCC 35656.
+
+
+Filtration of sample
+The samples were submitted to the filtration method by 0.45 m membranes in a class 100 laminated flow chamber. This was followed by an incubation period of 72 hours at 3035C (Tryptic Soy Agar, TSA, Difco, Detroit, Michigan, USA) for total bacteria enumeration (heterotrophic), and for 22 hours at 34.535.5C (m Endo Agar Less, Difco) for total coliform enumeration, in accordance with the United States Pharmacopoeia National Formulary, in the chapter: "Water For Pharmaceutical Purposes USP 24/NF 2000" [3]. Every sampling tap (point) was analyzed in triplicate for heterotrophic bacterial counts and total coliforms. In order to stimulate the growth of stressed and chlorine-tolerant bacteria, we just started using R2A Agar to improve the enumeration of heterotrophic organisms in treated potable water.
+
+
+Isolation of colonies
+From each TSA culture, the colonies were transferred to the surface of the Cetrimide (Difco) in plates and incubated at 3035C for 1824 h. The developed colonies were then submitted to oxidase and indol tests, followed by biochemical genera and species identification tests. In every plate, all the developed colonies were isolated for identification. The criteria used were colony morphology and colony color. The total number of colonies found at each sampling point (CFU/100 mL) and picked for identification, are shown in Tables 01 &2.
+
+Table 1
+
+Total number (and percentage) of identified genera and species of gram-negative bacteria through the percentage of the positive reactions from the isolated colonies.
+
+
+
+
+
+Microorganisms
+
+
+strains
+
+
+% of identification
+
+
+
+
+
+
+Pseudomonas aeruginosa
+
+25
+32.05
+
+
+
+Pseudomonas picketti
+
+18
+23.08
+
+
+
+Pseudomonas vesiculares
+
+10
+12.82
+
+
+
+Pseudomonas diminuta
+
+09
+11.54
+
+
+
+Flavobacterium aureum
+
+05
+6.42
+
+
+
+Pseudomonas fluorescens
+
+04
+5.13
+
+
+
+Acinetobacter lwoffi
+
+02
+2.56
+
+
+
+Pseudomonas putida
+
+02
+2.56
+
+
+
+Pseudomonas alcaligenes
+
+01
+1.28
+
+
+
+Pseudomonas paucimobilis
+
+01
+1.28
+
+
+
+Flavobacterium multivorum
+
+01
+1.28
+
+
+Enumeration
+78
+100.0
+
+
+
+
+
+Table 2
+
+Total enumeration (CFU/100 mL) and identification of Gram-negative non-fermenting bacteria from the genera:Pseudomonas, Flavobacterium, Acinetobacter identified by the BBL Crystal kit (Becton Dickinson) and API 20 NE kit (bioMrieux), at every sampling point.
+
+
+
+
+Sampling points/Flow sheet
+
+CFU/100 mL Average  SD
+
+
+Colonies
+
+
+identification
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Morphology & color
+
+
+Number of isolates
+
+
+BBL Crystal
+
+
+API 20 NE
+
+
+
+
+
+Point 1 Feed Water (storage)
+507  50
+Shining beige
+02
+
+F. multivorum
+
+
+P. vesiculares
+
+
+
+
+
+Circular Brown
+02
+
+P. aeruginosa
+
+
+P. alcaligenes
+
+
+
+
+
+Circular pumpkin
+02
+
+P. diminuta
+
+
+P. diminuta
+
+
+
+Point 2 Two multimedia Filters
+33  12
+Circular pumpkin
+02
+
+P. diminuta
+
+
+P. diminuta
+
+
+
+
+
+Circular pumpkin
+02
+
+P. diminuta
+
+
+P. diminuta
+
+
+
+
+
+Circular pumpkin
+02
+
+P. diminuta
+
+
+P. diminuta
+
+
+
+Point 3 Two water softeners
+173  50
+Circular pink
+02
+
+F. aureum
+
+
+P. vesiculares
+
+
+
+
+
+Circular pink
+02
+
+F. aureum
+
+
+P. vesiculares
+
+
+
+
+
+Circular pink
+02
+
+F. aureum
+
+
+P. vesiculares
+
+
+
+Point 4 Activated carbon filter
+897  823
+
+Circular brown
+
+02
+
+P. aeruginosa
+
+
+P. pcketti
+
+
+
+
+
+
+Circular white
+
+02
+
+F. aureum
+
+
+P. vesiculares
+
+
+
+
+
+
+Circular pink
+
+02
+
+P. vesiculares
+
+
+P. vesiculares
+
+
+
+Point 5 One 5 micron filter
+100  20
+Circular white
+02
+
+F. aureum
+
+
+P. vesiculares
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. aeruginosa
+
+
+
+Point 6 Reverse Osmosis
+8  2
+Circular beige
+02
+
+P. vesiculares
+
+
+P. vesiculares
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+Point 7 Continuous deionization
+653  344
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. fluorescens
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. aeruginosa
+
+
+
+Point 8 Storage tank for the purified water.
+40  35
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Pointed yellow
+02
+
+A. lwoffi
+
+
+P. diminuta
+
+
+
+
+
+Pointed cream
+02
+
+P. fluorescens
+
+
+P. putida
+
+
+
+Point 9 Light UV
+27  12
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Pointed cream
+02
+
+P. paucimobilis
+
+
+P. putida
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+Point 10 0.05 micron Filter
+87  31
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+Point 11: use
+27  12
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. fluorescens
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+Point 12: use
+27  12
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+Point 13: use
+27  12
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+Circular brown
+02
+
+P. aeruginosa
+
+
+P. picketti
+
+
+
+
+
+SD = standard deviation (n = 3; p < 0.05)
+
+
+
+
+Identification tests
+The identification tests for genera and species were performed by using two standardized micro-method systems: (i) API 20 NE kit from bioMrrieux that was used for the identification of non-fastidious gram-negative rods [6] not belonging to the Enterobacteriacea family; (i) the BBL crystal enteric/non-fermenting ID kit from Becton & Dickinson that was used for the identification of aerobic gram-negative bacteria that belong to the family of Enterobacteriacea as well as some of the more frequently isolated glucose fermenting and non-fermenting gram-negative bacilli.
+The micro-methods employed are modifications of the classical methods and the basic principles of the reactions follow the biochemical and enzymatic standards described for the enteric/non fermenting bacteria by Murray et al.[4].
+The more specific API 20 NE kit is comprised of 20 microtubes containing dehydrated media and/or substrates, combining 8 conventional tests and 12 assimilation tests. The interpretation of the reactions were made according to the reading tables using the identification software with BBL crystal or API 20 NE data base.
+The biochemical tests were employed in the bioMerieux identification system and the respective reactions were: (a) potassium nitrate (NO3) for the reduction of nitrate to nitrite, (b) tryptophan (trp) for indol production, and (c) glucose (glu) for medium acidification. The substrates used for enzymatic hydrolysis reactions were: (d) arginine (adh) for arginine dihydrolase, (e) urea (ure) for urease, (f) esculin (esc) for -glucosidase, (g) gelatin (gel) for protease, and (h) p-nitrophenyl--D-galactopyranoside (PNPG). For assimilation tests, the substrates employed were the following: glucose (GLU), arabinose (ARA), mannose (MNE), mannitol (MAN), N-acetyl-glucosamine (NAG), maltose (MAL), gluconate (GNT), caprate (CAP), adipate (ADI), malate (MLT), citrate (CIT), and phenyl-acetate (PAC). When the substrate was assimilated by the microorganism, its growth was detected by visible turbidity in the corresponding medium. The reactions were visualized by the addition of reactive agents and a change in the indicator.
+The BBL crystal kit is a miniature method of identification that comprises modified conventional and chromogenic substrates, which are distributed in 30 dehydrated enzymatic and biochemical substrata in panels. The biochemical tests used the following carbohydrates: glucose, arabinose, mannose, sucrose, melibiose, rhamnose, sorbital, mannitol, and inositol. The utilization of carbohydrate results in lower pH and a change in the indicator. Chromagenic tests, in turn, used nitrophenyl phosphate, proline nitroanilide, nitrophenyl xyloside, arabinoside, glucoronide and glucosamine, esculin, phenylalanine, arginine, lysin, urea, glycine, citrate, and malonate.
+
+
+Minimal Inhibitory Concentration (MIC test)
+The reference bacteria used were Pseudomonas aeruginosa, Pseudomonas fluorescens, Pseudomonas alcaligenes, Pseudomonas picketti, Flavobacterium aureum, and Acinetobacter lowffi (Tables 1 &2), which were isolated from the selected points of the typical water purification system, and maintained on a tryptic soy agar slant (TSA, Difco) at 4C, with monthly transfers. The 24-hour cultures developed on TSA at 3035C were harvested in a tryptic soy broth (TSB, Difco), centrifuged (1000 g/ 15 min/ 4C), and suspended in saline (0.95% NaCl plus 0.1% peptone) to a final population (by pour plate) of 106 CFU/mL, and the suspensions were applied to the MIC tests.
+The minimal inhibitory concentration (MIC) was determined by using the two-fold broth dilution method [7]. Starting from a chemical agent solution, serial dilutions were prepared in TSB inoculated with the test bacterial populations between 1.2 and 3.0  106 CFU/mL. The MIC was identified as having the lowest concentration of the chemical agent, which resulted in the confirmed inhibition of the growth of the tested microorganism, after 24 h of optimum incubation conditions. The chemical agent solutions, started concentrations and the pH values employed are shown in Table 03.
+
+Table 3
+
+The minimum inhibitory concentrations (MIC) for chemical agents for the reduction of bacteria populations over 6-log10.
+
+
+
+
+
+Bacteria
+
+
+Pseudomonas aeruginosa
+
+
+Pseudomonas diminuta
+
+
+Pseudomonas fluorescens
+
+
+Pseudomonas alcaligenes
+
+
+Pseudomonas picketti
+
+
+Flavobacterium aureum
+
+
+Acinetobacter lowffi
+
+
+
+
+
+
+
+
+
+MIC test
+mg/L
+%
+mg/L
+%
+mg/L
+%
+mg/L
+%
+mg/L
+%
+mg/L
+%
+mg/L
+%
+
+
+
+
+Agent (initial concentration & pH)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethanol (70%; pH = 7.2)
+175000
+17.5
+87500
+8.75
+87500
+8.75
+87500
+8.75
+87500
+8.75
+87500
+8.75
+87500
+8.75
+
+
+Sodium Hypochlorite (0.5%; pH = 11.9)
+2500
+0.25
+2500
+0.25
+2500
+0.25
+2500
+0.25
+2500
+0.25
+2500
+0.25
+2500
+0.25
+
+
+PAA (0.45%) + H2O2 (2.2%) (pH = 2.3)
+1125
+0.11
+562
+0.056
+140
+0.014
+280
+0.028
+1125
+0.11
+1125
+0.11
+1125
+0.11
+
+
+
+5500
+0.55
+2750
+0.275
+680
+0.068
+1368
+0.14
+5500
+0.55
+5500
+0.55
+5500
+0.55
+
+
+Sodium Hydroxide (0.4%; pH = 12.8)
+3000
+0.3
+1500
+0.15
+1500
+0.15
+750
+0.075
+3000
+0.3
+3000
+0.3
+4000
+0.4
+
+
+Citric acid (0.5%; pH= 2.5)
+2500
+0.25
+2500
+0.25
+2500
+0.25
+2500
+0.25
+5000
+0.5
+2500
+0.25
+600
+0.06
+
+
+Hydrochloric Acid (0.3%; pH= 0.3)
+1560
+0.16
+1560
+0.16
+780
+0.078
+1560
+0.16
+3125
+0.31
+1560
+0.16
+390
+0.039
+
+
+Sodium Bisulfite (1.0%; pH= 4.0)
+780
+0.078
+780
+0.078
+780
+0.078
+390
+0.039
+780
+0.078
+780
+0.078
+780
+0.078
+
+
+
+
+PAA  peracetic acid H2O2  hydrogen peroxide
+
+
+
+
+Chemical agents, respective solutions, and concentrations used in the MIC test
+1. Ethyl alcohol 70 % v/v (Ferreira, SP, Br). 70% Ethanol solution (pH = 7.2) was used as the desinfectant on the external surfaces of sampling taps and valves.
+2. Sodium Hypochlorite NaOCl (Nuclear, SP, Br). Since the concentration of commercial sodium hypochlorite is variable, in order to calculate the amount of sodium hypochlorite (H) to be diluted in purified water and to perform approximately 0.5% v/v, the following formula was applied: H = (5.4 * V) / (% NaOCl concentration); where H is the volume of NaOCl at 10% (w/v) to be diluted and V is the final desired volume of the NaOCl solution at 0.5% (approximately 1% of the volume of the tank); and NaOCl is at an initial concentration of 10%. The concentration of the total available chlorine was determined by the iodometric method [7]. The solution of NaOCl at 0.5% (pH= 11.9) for 60 min exposure is used in the clearance of the tanks of feeding water (point 01), storage (point 08) and in the loop of distribution (before points 11, 12 &13).
+3. A solution of 4.5 % (v/v) peracetic acid and 22% (v/v) hydrogen peroxide plus 10 mg/L acetic acid (Minncare, pH = 1.3, Minntech Corporation, Minneapolis, MN, USA) was used by dissolving Minncare into purified water, performing 0.45% of PAA and 2.2% of H2O2, reaching a final pH of between 2.0 and 2.3 in the tank. This 1% Minncare solution (PAA + H2O2) is applied to the cleaning of reverse osmosis membranes (point 6) and the continuous deionization (point 7) apparatus for three hours, so as to obtain purified water, and 18 hours for WFI which is used to prepare parenteral solutions, including peritoneal dialysis solutions.
+4. A sodium hydroxide (Nuclear, SP. Br) solution was prepared by dissolving 200 g of NaOH in 50 liters of purified water, performing 0.4 % (w/v) with a final pH of 12.8 in the tank. A solution of 0.4% sodium hydroxide is used to adjust the pH value of acidic water in the reverse osmosis (point 06) and the continuous deionization (point 07).
+5. A citric acid (Ciro, SP, Br) solution was prepared by dissolving 225 g of citric acid in 45 liters of purified water, performing 0.5 % (w/v) with a final pH of between of 2.0 and 2.5 in the tank. A solution of 0.5% citric acid is used to acidify the water in the reverse osmosis membranes (point 06), before the application of 1% of the (PAA+H2O) solution.
+6. A solution of hydrochloric acid (Synth, SP, Br) was prepared by adding 5.5 liters of hydrochloric acid at 37% v/v to 40 liters of purified water, performing 5.0% (pH = 0.3). The final solution of 0.3% HCl is applied in the pH adjustment of water in deionization columns (point 7).
+7. A solution of sodium bisulfite (Ciro, SP, Br) was prepared by dissolving 1 kg of sodium bisulfite in 100 liters of purified water, attaining 1.0% w/v (pH of 4.0). The solution of sodium bisulfite at 0.5% concentration is used to preserve the multimedia filters (point 02), water softeners (point 03) and in the dechlorinating of carbon bed filters (point 04).
+
+
+
+Results and Discussion
+
+Isolation of colonies
+Of the thirteen points, which were analyzed in triplicate, seventy eight (78) colonies were isolated, with different aspects: circular viscosity, sharp pointed and brilliant, opaque, from light brown to dark brown, pumpkin, pink, white and cream colored. All the colonies were confirmed as bacteria of the non-fermentative gram-negative bacilli (NFGNB) group, strictly aerobic, positive for indole and negative for oxidase, with the exception of the Acinetobacter lwoffi, which had a negative reaction for oxidase.
+The gram-negative non-fermenting rods isolated and identified from the genera Pseudomonas, Flavobacterium, and Acinectobacter are considered opportunistic pathogens and very common in nature: soil, water, plants (including fruits and vegetables), animals and organic material in decomposition (sewage). They are also frequently found in water treatment systems, demonstrating an adaptation to environments with a low concentration of nutrients, and to a large range of temperature, from 4C to 42C [4,8].
+According to the miniature kits used in the identification of gram-negative non-fermenting bacteria (Tables 1 &2), there was a prevalence of isolation by P. aeruginosa, 25 strains (32.05%); P. picketti (Ralstonia picketti), 18 strains (23.08%); P. vesiculares, 10 strains (12.82%); P. diminuta, 09 strains (11.54%); F. aureum, 5 strains (6.42%); P. fluorescens, 4 strains (5.13%); A. lowffi, 02 strains (2.56%); P. putida, 02 strains (2.56%); P. alcaligenes, 01 strain (1.28%); P. paucimobilis, 01 strain (1.28%); and F. multivorum, 01 strain (1.28%). The two identification systems complemented each other, since P. aeruginosa was identified in all stages by the Becton and Dickinson kit, whereas P. picketti was identified by the Bio-Mrieux kit.
+The chemical and microbiological characteristics of the water from the sampling points were in compliance with the relevant laws and standards [1-3]. For the points 1, 4, 11, 12 and 13, respectively, the pH values were 7.15, 7.39, 5.60, 5.60, 5.70; conductivity was 155.2 s, 148.2 s, 1.2 s, 0.8 s, 0.9 s. The total organic compounds (TOC) were < 0.5 mg/L for the points 11, 12 and 13.
+The enumeration of heterotrophic bacteria was observed to increase from one to two logarithmic cycles for the water crossing through points 3 & 4, respectively, the two resins of softeners and the bed of activated carbon filter (Table 2). This increase in total bacteria enumeration cancelled out the multimedia (point 02) effect by reducing one cycle of the initial population (average of 507 CFU/ 100 mL) from public drinking water (point 01). The reverse osmosis (point 06) showed the best filtration reduction to a maximum residual population of 10 CFU/100 mL, although gram-negative non-fermenting bacteria were still there crossing and reaching the next stage of the continuous deionization. Although in the storage tank (point 08) the total enumeration was maintained at around 40 CFU/ 100 mL, the diversity of the gram-negative non-fermenting bacteria still existed. The ultraviolet (UV) light and the 0.05 m filter did not alter the heterotrophic bacteria population or the Pseudomonas species found in the preceding points of the Flow Sheet. Both the UV light and the last 0.05 m filter were found to keep the heterotrophic population as low as 100 CFU/ 100 mL of purified water, although those two apparatus showed no efficiency over the gram-negative non-forming bacteria, such as the species of Pseudomonas, Flavobacterium, and Acinetobacter.
+The dynamic flow of water, passing through the purification stages, carried and spread bioburden throughout every spot of the operational units. Although the heterotrophic enumeration was reduced by at least one log cycle from the 7th to the 8th stage in the storage tank, the diversity of gram-negative bacteria was found to be higher than that at the other points. At point 08, the renewing of the water is slower and the room temperature of the tank favored microorganism adjustment. After exposure to the UV light, the diversity of gram-negative bacteria dropped drastically in the species P. aeruginosa and P. paucimobilis, (BBL Crystal identification kit) and P. picketti (API 20 NE identification kit), the populations of which were kept constant in the water flowing through the 0.05 m filter. The UV light oxidative process and the 0.05 m filter at the point  of  use were able to guarantee the maintenance of total enumeration lower than the maximum of 40 CFU detected in 100 mL of water and restrict the distribution of gram-negative bacteria. Maybe a biofilm was established and bacteria might continue to be released from the biofilm into bulk water. Appropriate desinfection of the water treatment system would eliminate the biofilm. This is one of the main reasons why we are studying the best performance of every chemical disinfectant applied at each sampling point.
+Procedures should be applied to the system at short-term intervals, in order to control the gram-negative entrance in the system from the municipal source of drinking water (Point 01).
+
+
+The Minimal Inhibitory Concentration (MIC)
+The MIC intervals were expressed in percentage and in mg/L of the chemical agent in contact with the bacteria tested, and are shown in Table 3.
+
+1. Ethyl alcohol (70%, pH= 7.2)
+Regarding the exposure to 70% ethanol, P. aeruginosa showed the greatest MIC at 17.5%, higher than the MIC of 8.75% which was found for B. subtilis and B. stearothermophilus, obtained by Vessoni Penna et al.[7], emphasizing the importance in the validation of the water purification system for the identification of P. aeruginosa.
+Trautmann et al.[9] did not obtain acceptable long-term results by using chlorination and filtration to eliminate the strains of P. aeruginosa from every water tap in the ICU. However, the authors noticed that strains of P. aeruginosa were not regularly isolated from hospital personnel, whose hands were disinfected with alcohol (ethanol 70%) before and after contact with patients.
+
+
+2. Sodium hypochlorite (NaOCl, 0.5%; pH11.9)
+All the bacteria studied showed the same level of resistance, i.e. a MIC of 0.25% (2500 mg/L). According to Vessoni Penna et al. [7], E. coli presented half a MIC of 0.156% (1560 mg/L) in chlorinated compounds, making it clear that the monitoring of chlorinated waters for P. aeruginosa is necessary and mainly critical for warm potable waters, including the cleaning of the water circuits, hydrotherapy, baths, and pools. The P. aeruginosa's resistance to chlorine releasing agents (CRAs) is well reported. Wirtanen et al.[10] studied the effects of four commercial disinfectants: (100% alcohol-based) containing isopropanol, a peroxide-base containing hydrogen peroxide (0.52.0%) and peracetic acid in formulation, and a chlorine-base containing sodium hypochlorite (0.30.8%, pH>9.0). The authors found that the peroxide-based disinfectant was the most efficient on biofilm bacteria, and they confirmed that prolonged treatment with the chlorine-base disinfectant was especially efficient on Pseudomonas biofilms.
+Therefore, there is an urgent need for seeking the range of CRAs and the adequate time contact that would not induce resistance in bacteria, which inhibits biofilm formation and adherence to the porous apparatus of the system. However, the disinfectants should be chosen according to the operation in process, considering the interference of organic substances in the disinfectant's activity and effectiveness.
+
+
+3. Association of peracetic acid (PAA, 0.45%) plus hydrogen peroxide (H2O2 2.2%). Solution at 1% (PAA+ H2O2; pH = 2.3)
+For a solution of peracetic acid (0.45%) + hydrogen peroxide (2.2%), P. aeruginosa, P. picketti, F. aureum, and A. lowffi presented the highest MIC range from 0.11% to 0.55%, an interval of which was shown to be two, four and eight times greater than that for P. diminuta (MIC = 0.056% & 0.275%), P. alcaligenes (MIC = 0.028% & 0.137%) and P. fluorescens (MIC = 0.014% & 0.068%), respectively.
+Considering that the set conditions for MIC were kept constant, independent of the bacteria tested, according to Vessoni Penna et al.[7], when vegetative cells such as Acinetobacter calcoaceticus, Enterobacter cloacae, Escherichia coli, Serratia marcescens, and Staphylococcus aureus were submitted to a H2O2 solution at 4.0%, Escherichia coli showed the greatest resistance among them with a MIC of 0.25%, which is half that obtained for P. aeruginosa. When the same bacteria were tested against peracetic acid, E. coli showed a MIC of 0.23%, which is twice as much as that for P. aeruginosa in a mixture of peracetic acid + hydrogen peroxide, showing that P. aeruginosa and E. coli should both be required in the monitoring of treated waters. The solution of PAA + H2O2 at 1% is applied to the cleaning of the reverse osmosis membranes and the continuous deionization apparatus for three hours, so as to obtain purified water, and 18 hours for WFI that will be used to prepare parenteral solutions, including peritoneal dialysis solutions.
+
+
+4. Sodium Hydroxide (0.4%; pH = 12.8)
+P. fluorescens and P. alcaligenes were the bacteria which were the least resistant to sodium hydroxide, exhibiting a MIC of 0.15%, in relation to the resistance shown by the other bacteria (MIC >0.4%). The principal activity of this chemical compound is the pH adjustment of acidic water in the reverse osmosis (point 06) and the continuous deionization (point 07), with some expected sanitation activity.
+
+
+5. Citric Acid (0.5%; pH = 2.5)
+The bacterium least resistant to citric acid solution was A. lowffi (0.06%= 600 mg/L). The most resistant was P. picketti (0.5%= 5000 mg/L); the remainder showed a MIC of 0.25% = 2500 mg/L. This chemical agent is used in the reverse osmosis (point 06) in adjusting the pH of cleaning water before disinfection with a 1% solution of PAA + H2O2.
+
+
+6. Hydrochloric Acid (0.3%; pH = 0.3)
+The bacteria least resistant were A. lowffi (MIC 0.039% = 390 mg/L) and P. fluorescens (MIC 0.078% = 780 mg/L); the remainder had a MIC of 0.156% (1560 mg/L).
+It is noteworthy to mention that P. aeruginosa was not affected by the chemical adjuvant compounds such as NaOH (0.4%), citric acid (0.5%) and HCl (0.3%) in the concentration applied to the units of the purification system. However, these chemical solutions are expected to show some disinfecting activity, which is not demanding.
+
+
+7. Sodium Bisulfite (0.5%; pH= 4.0)
+All the bacteria showed the same level of resistance (MIC = 0.078%) to sodium bisulfite. This chemical adjuvant is used for the purpose of dechlorinating and preserving multimedia filters; it is further used in water softeners and activated carbon bed filter.
+
+
+
+Profile of the identified microorganisms
+The gram-negative water bacteria can be significant contaminants in haemodialysis systems. Ferreira et al.[13], performed analyses on samples taken from water supplies, after each treatment step and dialysate in haemodialysis units in Rio de Janeiro from 1999 to 2001. They found that the most commonly isolated bacteria were: Pseudomonas aeruginosa, Stenotrophomonas maltophilia, Acinetobacter anitratus, Acinetobacter lowffi, Pseudomonas (Brevundimonas) diminuta, Pseudomonas fluorescens, Achromobacter xylosoxidans, Moraxella atlantae, Moraxella osloensis, Enterobacter cloacae, and Enterobacter aerogenes. These isolated bacteria pointed out a real risk for haemodialysis patients with developing gram-negative bacteremia, pyrogenic reactions, and peritonitis. The authors emphasized the need for an urgent program for the disinfection of the water systems and dialysis machines [14], in health care centers.
+Pseudomonas have been isolated from a great variety of materials, including soils, fresh or sea water, sewage, many types of clinical specimens, and elements commonly handled in clinical laboratories (including distilled water and antiseptic solutions), assorted foods and food industry wastes, flowers, fruits, vegetables, and diseased plants and animals. The Pseudomonas species rather than P. aeruginosa do not frequently cause infections [4,8,11]. P. aeruginosa has been found occasionally on the skin, isolated from clinical material [15] removed from the throat (5%), and in feces (3%) of non-hospitalized people. The percentage of patients with gastrointestinal problems from this bacteria increases by 20% after 72 hours of hospitalization. From the frequency with which this opportunistic pathogen is involved in human illnesses, it has been considered the most important human pathogen with respect to the number and types of infections which they cause and their association with morbidity and mortality. P. aeruginosa can be also responsible for an infection outbreak in a non-immune endangered community [4].
+P. aeruginosa is frequently associated with contaminated potable or even treated water or solutions, such as gastroenteritis through contaminated food, otitis in swimmers, eye infections through contaminated solutions and tap water during lens care, wound infections caused by tap water, and respiratory tract infections caused by contaminated equipment. The most severe community which acquired infections are endocarditis in intravenous drug users, resulting from the use of contaminated parenteral solutions with drugs added, and peritonitis in individuals undergoing contaminated peritoneal dialysis solutions.
+The principal reservoirs of P. aeruginosa in a hospital environment are [4,8,11,12]: disinfectants, artificial breathing equipment, hydrotherapy equipment and tanks, food, sewers, drains, taps, soap bars, floor cloths, bed frames, air, chairs, cloth towels and tower hangers, mattresses, hoses, and tubes. Dissemination occurs through the hands of personnel (or staff) resulting from direct contact with taps and water reservoirs. The contamination of such water may be the result of clinical, fecal and urine materials.
+
+
+
+Conclusion
+Kawai et al.[16] analyzed, by denaturing gradient gel electrophoresis (DGGE), "the bacterial community in partially purified water, which is prepared by an ion exchange from tap water and is used in pharmaceutical manufacturing processes". The authors verified that "the dominant bacterium in purified water" (lower than that of other aquatic environments) could not be detected by soybean casein digest (SCD) and R2A media, although they presented esterase activity. Therefore, the authors emphasized "the importance of culture-independent methods of quality control for pharmaceutical water."
+The water used in health center areas and in pharmaceutical industries should be periodically analyzed as a preventive measure against the spreading of microorganisms, allowing measures of improvement to be taken rapidly, as required.
+The analysis of treated water for heterotrophic bacteria including Pseudomonas species is valuable in the prevention of the formation of biofilms and in the reduction of the amount of pyrogen.
+Several solid surfaces can harbor biolfilms in water purification systems, such as stainless steel, nylon materials (deionization apparatus), and polyamide polymers (osmose reverse membranes). Porous surfaces found on the deionization resins and the osmose reverse membranes provide an excellent opportunity to trap inorganic particles and bacteria which begin the formation of biofilms. In general, all cleaning chemical agents perform better in soft water (after water softner apparatus). Chlorine agents have been shown ineffective at removing biofilms. Chlorine agents are used to keep the storage tanks and distribution loop in low microbial densities. Hydrogen peroxide, peroxide containing sanitizers and peracetic acid chemical agents have been found to be highly effective in the prevention and removal of biofilms, in a short period of contact (12 minutes) and they are relative non-corrosive.
+This work emphasized the urgent need in the continuous monitoring of the water purification performance, including the evaluation of the effectual removal of non-fermenting gram-negative bacteria, with special attention to Pseudomonas sp, which showed the most resistance to the chemical agents, at the concentrations used in the system. Maybe the contact time between the sanitary agents (NaOCl and PAA+H2O2) and the system points should be reviewed. The 0.5% NaOCl after 18 h contact was shown sufficient to reduce bacteria population over 6-log10. As all the bacteria tested showed similar MIC, maybe the short-time contact of 60 min of this solution (0.5% NaOCl) in the tank with the feeding water should have been greater to guarantee that the gram-negative bacteria that entered the system through the municipal source of drinking water would not survive. Even the contact-time of this sanitary agent (0.5% NaOCl) in the loop of distribution should have been longer to assure 10-2 CFU/mL of purified water with less chance of the Pseudomonas sp crossing through the consumption point filters. The loop of distribution should have been cleaned first with PAA+H2O2 and then with NaOCl to prevent the survival of any microorganism and possible development. Therefore, the contact time of the sanitizers and the different points of application should be reviewed and evaluated in accordance with the compatibility of the equipment and device material.
+The effectual application of PAA+H2O2 in the osmose reverse membranes required a larger time-contact in the deionization columns, which showed greater heterotrophic enumeration. The double application of first PAA+H2O2 followed by NaOCl solutions (except the reverse osmosis membranes) would both reinforce the efficacy over the non-fermenting gram-negative bacteria. The PAA+H2O2 sanitary agent is known for its efficiency in preventing biofilm formation and its low pH may enlarge the NaOCl activity favoring microbial effectiveness.
+Sodium hydroxide, hydrochloric acid and citric acid were used as chemical adjuvants on the pH adjustment of acid or alkaline water flow in the reverse osmosis membranes, the continuous deionization and the water softeners. At the concentrations used, no sanitation activity was demanded from their application, of which the ability over the tested microbial population was not confirmed, even though after 18 h of contact. Some efficacy shown by those chemical adjuvants was due to the alteration of environmental pH values. Even for extended exposures, Pseudomonas sp was shown to be the most resistant to those chemical agents at the tested concentrations.
+Therefore the washing of (storage tanks) reservoirs, deionization columns, reverse osmosis membranes, as well as the sanitation of distribution circuits should be carried out by the determination of a schedule established for quality control (bacteriological and chemical) of water systems in the risky areas.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

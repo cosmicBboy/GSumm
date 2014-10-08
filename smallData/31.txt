@@ -1,0 +1,537 @@
+
+
+Background
+Self-administered computer-assisted blood donor screening strategies may elicit more accurate responses and improve the screening process.
+
+
+Methods
+Randomized crossover trial comparing responses to questions on a computerized hand-held tool (HealthQuiz, or HQ), to responses on the standard written instrument (Donor Health Assessment Questionnaire, or DHAQ). Randomly selected donors at 133 blood donation clinics in the area of Hamilton, Canada participated from 1995 to 1996. Donors were randomized to complete either the HQ or the DHAQ first, followed by the other instrument. In addition to responses of 'yes' and 'no' on both questionnaires, the HQ provided a response option of 'not sure'. The primary outcome was the number of additional donors deferred by the HQ.
+
+
+Results
+A total of 1239 donors participated. Seventy-one potential donors were deferred as a result of responses to the questionnaires; 56.3% (40/71) were deferred by the DHAQ, and an additional 43.7% (31/71) were deferred due to risks identified by the HQ but not by the DHAQ. Fourteen donors self-deferred; 11 indicated on the HQ that they should not donate blood on that day but did not use the confidential self-exclusion option on the DHAQ, and three used the self-exclusion option on the DHAQ but did not indicate that they should not donate blood on the HQ. The HQ identified a blood contact or risk factor for HIV/AIDS or sexually transmitted infection that was not identified by the DHAQ in 0.1% to 2.7% of donors.
+
+
+Conclusion
+A self-administered computerized questionnaire may increase risk reporting by blood donors.
+
+
+
+Background
+Infections in blood donors can be transmitted to blood product recipients. Strategies to reduce the risks to blood product recipients have involved public education programs, administration of questionnaires pertaining to HIV risk factors, the use of a confidential self-exclusion (CSE) option which allows the donor to indicate in a confidential manner that their blood should not be used for transfusion, and direct questioning about risk behaviours. These strategies have been found to eliminate some high risk [1,2] and some infected units [3]. While there have been notable decreases in HIV-positive donations [4,5], some donors, who are aware of their high-risk behaviours continue to donate without self-deferral [3,6-9].
+Serologic testing is now performed on all acceptable donors in Canada. In the past, window-period infections have been a concern, however the use of highly sensitive nucleic acid amplification technology (NAT) has now reduced this risk of a transfusion-transmitted infection due to a window-period donation to an estimated one per million donations or fewer in the U.S.[10,11]. In Canada, NAT is used for HIV and HCV screening in blood donors (, accessed March 1, 2002).
+Despite the small risk of infection from donated blood, there is strong public pressure to ensure that all measures to reduce the risk of transfusion-transmitted infection are used. A potential role for improved risk factor detection through pre-donation screening would be to reduce the risks from as yet unknown blood borne diseases if these diseases were associated with other known risk groups. Explicit direct questions instead of indirect references to high-risk behaviours for HIV/AIDS have been shown to increase self-deferral rates in donors at least two-fold [12,13]. It has been estimated that the standard donor health assessment questionnaire may miss as many as 10% of donors who engage in high-risk behaviours [6]. Studies using various computerized questionnaire methods have found increased reporting of perceived socially undesirable behaviors compared to face-to-face interviews in higher risk groups [14-17], however few have assessed the usefulness or acceptability of computer-assisted screening in the blood donation screening process [18,19].
+This randomized crossover trial among blood donors compared a self-administered computerized questionnaire (HealthQuiz, or HQ) to the existing Donor Health Assessment Questionnaire (DHAQ) on consistency of responses. We also assessed the acceptability and ease of administration of the HQ in the donors.
+
+
+Methods
+
+Participant enrolment
+The study was conducted at Canadian Red Cross Society (CRCS) blood donor events held at one of three clinic site types in the area of Hamilton, Ontario, Canada, from February 1995 to February 1996 (n = 133 events). Twenty-four (18.0%) were held at a permanent clinic in Hamilton, 38 (28.6%) at clinics within 30 minutes drive of the permanent clinic, and 71 (53.4%) at clinics more than 30 minutes away.
+At each event, the research staff used a list of random numbers that had been prepared earlier, to randomly select prospective donors who had been assigned an intake number in sequence by the CRCS staff. Potential subjects were greeted by study staff and invited to participate in completing the HQ in addition to the DHAQ. Those who agreed to be involved were randomly assigned to receive either the HQ followed by the DHAQ or the DHAQ followed by the HQ (Figure 1). The last digit of the participants' intake number was used to determine the order in which they received the questionnaire; an odd number indicated one order and an even number indicated the other order.
+
+Figure 1
+
+Flow diagram of the randomized cross-over trial.
+
+
+
+All participating donors received training on how to use the HQ. Donors were directed to one of the privacy booths for completion of both questionnaires. After finishing the first data collection method, subjects returned to the study personnel to receive the other method. Once both methods were completed, donors received a short satisfaction questionnaire that addressed issues regarding the acceptability and comfort level associated with using the HQ. After returning this questionnaire to study personnel, donors rejoined the queue to continue being processed for donation.
+
+
+Administration of questionnaires
+The HQ was presented on a 22.5 by 26.3 cm portable battery-operated computer that had been designed for questionnaire administration. The questions were developed using the standard written DHAQ. The questions appeared one at a time on a white high-contrast screen in black letters and were answered by the donor using one of three large buttons: 'yes', 'no', 'not sure'. Donors continued through the questionnaire by pressing the 'next question' button. The responses triggered a path through the branching questions. Pre-set algorithms created reports that were printed immediately and stored in a database. The printed report indicated that the donor should be accepted, deferred, or that further investigation was required by the clinic staff. In addition to the risk questions in the HQ, questions pertaining to the ease of use and readability of the HQ were asked.
+At the time of the study, the DHAQ was a self-administered list of questions with 'yes' and 'no' boxes that are checked by the donors. Blood donor clinic staff reviewed the responses and decided if the donor should be accepted, deferred or questioned further. To conform to the usual clinic standards, donor acceptance or deferral was based on the responses to the DHAQ, reviewed by the clinic staff. However, if the research staff noted a potential deferral factor identified on the HQ, it was brought to the attention of the clinic staff. We did not gather specific information on the reason for deferral when deferral was based on the standard DHAQ. For the additional donors deferred because of a response on the HQ that was not identified on the DHAQ, the relevant items were noted.
+Donors were given the opportunity to indicate on the DHAQ whether their unit should be used for transfusion by placing one of two stickers on their form; 'use my blood' or 'don't use my blood'. A question was asked on the HQ that gave donors an opportunity to indicate that there was a reason they should not donate blood on that day.
+Donors who were accepted for donation had blood drawn for serology for HBsAg, HCV, VDRL, HTLV-1 and 2 and HIV, using commercially available kits according to manufacturers' instructions.
+The DHAQ responses were abstracted to a database by study staff, who were blind to other data, including the order in which the questionnaires had been presented. Ethical approval for the study was obtained from the McMaster University ethics review board.
+
+
+Statistical analysis
+The primary analysis compared the number of deferrals using the DHAQ compared to the additional number identified by responses to the HQ. Second, the responses to individual questions were compared between the two questionnaires. Due to evolving policies and procedures of the Canadian Red Cross Society, the DHAQ, and consequently the automated questionnaire were modified twice during the study period and sample sizes for various questions reflect this. McNemar's Chi-square was used to determine whether there were significant differences between the two questionnaires. A probability of a type I error (alpha) of 0.05 (two-tailed) was used to indicate statistical significance.
+
+
+
+Results
+
+Sample description
+Of the 1,363 donors approached, 1,263 (92.7%) agreed to participate. The reasons given by the 100 non-participants are shown in Figure 1. Of the 1,263 participating donors, randomization order was not recorded for 24, leaving 1,239 participants for analyses. There were 604 donors randomized to receive the HQ first and 635 were randomized to receive the DHAQ first (Figure 1).
+Approximately half of the donors were women (634/1239, 51.2%) and the mean age of the sample was 34.0 (SD = 14.6) years. Eighty-three percent of the sample (878/1054) reported an annual household income of over $CA 24,000 ($1 US = 1.5$CA) and 95.4% (1145/1200) had completed nine or more years of schooling. English was spoken at home by 94.5% (1145/1211) of donors. The two randomized groups were similar on these characteristics (Table 1).
+
+Table 1
+
+Demographic characteristics of the 1239 blood donors randomized to the two orders of administration for the computerized HealthQuiz (HQ) and the written Donor Health Assessment Questionnaire (DHAQ).
+
+
+
+
+
+HQ followed by DHAQ (n = 604) n (%)
+DHAQ followed by HQ (n = 635) n (%)
+
+
+
+
+Female gender
+47.7 (288/604)
+54.5 (346/635)
+
+
+Annual household income > $24,000
+83.3 (438/526)
+83.3 (440/528)
+
+
+9 or more years of schooling
+95.9 (561/585)
+95.0 (584/615)
+
+
+English spoken at home
+94.4 (559/592)
+94.6 (586/619)
+
+
+Age (mean years, SD)
+33.9, 14.7
+34.1, 14.5
+
+
+
+
+Ninety-six percent (1184/1239) of the donors had donated at least once and 81.2% (1006/1239) had donated at least twice.
+
+
+Donor deferral
+Of the 1239 donors, 5.7% (71/1239) were deferred based on the questionnaires. Items identified by the HQ nearly doubled the number of donors who were eventually deferred; 3.2% (40/1239) were deferred on the basis to their answers to the DHAQ reviewed by the clinic staff and an additional 2.5% (31/1239) were identified by items on the HQ which were not identified on the DHAQ. An additional 2.1% (26/1239) were deferred because of low haemoglobin, and 0.2% (2/1239) changed their minds at bedside. There were no positive serologic tests to HBsAg, HCV, VDRL, HTLV-1 or 2, or HIV. The items on the HQ which led to the deferral of the additional 31 donors are shown in Table 2. Eight donors indicated used of medication, history of jaundice or hepatitis, receiving blood products, or having had an AIDS test outside blood donor screening, while the remaining 23 identified other items relating to their health history.
+
+Table 2
+
+The questions answered affirmatively to the computerizedHealthQuiz that led to further investigation and deferral among 31 donors who would have been accepted using only the Donor Health Assessment Questionnaire for screening.
+
+
+
+
+Item
+No. donors
+
+
+
+
+In the last 3 days have you taken any type of medication or drugs (pills, needles) except birth control pills or vitamins?
+3
+
+
+Taken Accutane in the past 12 months or Proscar, Danazol, or methotrexate ever?
+1
+
+
+Surgery in last 12 months
+1
+
+
+Ever had epilepsy, coma, stroke, repeated seizures, fainting
+2
+
+
+Ever had heart or blood pressure problems or heart surgery
+12
+
+
+Ever had kidney, lung, or blood condition
+7
+
+
+Been pregnant in the last 6 months or breast-fed in the last 3 months
+1
+
+
+Ever had yellow jaundice (other than at birth), hepatitis or liver disease
+2
+
+
+Received blood plasma, clotting factors or immune globulin in past 12 months
+1
+
+
+Had an AIDS test elsewhere (other than for donating blood)
+1
+
+
+
+
+A total of 14 people used some form of self-exclusion option. Eleven people indicated that they had reason to think that they should not donate blood on that day on the HQ but did not use the CSE option on the DHAQ, and three donors self-deferred using the CSE option on the DHAQ but did not indicate that they should not donate blood on the HQ (p = 0.008). None of the 14 donors who used these options used it on both questionnaires.
+
+
+Response discrepancies between the HQ and the DHAQ
+The frequency of discrepancies in which a response of 'yes' on one instrument changed to 'no' on the other, are shown in Table 3. Symptoms of AIDS were reported on the HQ but not on the DHAQ by 2.7% (34/1239) of donors (p < 0.001) and 2.3% (29/1211) reported on the HQ but not on the DHAQ that they had had sex with someone who may have participated in high-risk activities (p < 0.001). The most common major discrepancy for the blood contact risk questions in which the risk was denied on the DHAQ but identified on the HQ was for receiving blood, plasma, clotting factors or immune globulin in the past 12 months (2.9%, 36/1239, p < 0.001).
+
+Table 3
+
+Discrepancies on responses (yes to no, or no to yes) between the HealthQuiz (HQ) and the Donor Health Assessment Questionnaire (DHAQ) among the 1239 study participants.
+
+
+
+
+
+Questions
+
+
+Risk identified on HQ and denied on DHAQ n (%)
+
+
+Risk identified on DHAQ and denied on HQ n (%)
+
+
+p value for McNemar's Chi square test
+
+
+
+
+
+
+Risk for HIV/AIDS or STDs
+
+
+
+
+
+
+Since 1977, have you participated in any of the activities that put one at risk for AIDS?*
+4/1211 (0.3)
+0
+0.13
+
+
+Have you even once shared needles or taken street drugs by needle?
+1/101 (0.1)
+0
+1.00
+
+
+In the last 12 months have you had sex with someone who may have participated in high-risk activities (sexual background uncertain)?
+29/1211 (2.4)
+5/1211 (0.4)
+0.001
+
+
+Have you had an AIDS test elsewhere (other than for donating blood)?
+8/1239 (0.6)
+13/1239 (1.0)
+0.383
+
+
+Had symptoms of AIDS? 
+34/1239 (2.7)
+2/1239 (0.2)
+<0.001
+
+
+In the last 12 months have you had a tattoo, ear-piercing, acupuncture, electrolysis, needle stick injury or graft?
+14/1216 (1.2)
+8/1216 (0.7)
+0.286
+
+
+Have you ever had yellow jaundice (other than at birth), hepatitis or liver disease?
+17/1216 (1.4)
+0
+<0.001
+
+
+In the last 12 months to your knowledge have you come in close (intimate) contact with someone with yellow jaundice or hepatitis?
+1/1239 (0.1)
+0
+1.00
+
+
+In the last 12 months have you received blood, plasma, clotting factors or immune globulin?
+36/1239 (2.9)
+1/1239 (0.1)
+<0.001
+
+
+
+Medication Use
+
+
+
+
+
+
+In the last 3 days have you taken any type of medication or drugs, except birth control pills or vitamins?
+68/1239 (5.5)
+27/1239 (2.2)
+<0.001
+
+
+Have you taken Accutane or Tegison for a skin disorder or growth hormone (human pituitary)?
+7/1123 (0.6)
+0
+0.02
+
+
+In the last month have you taken Accutane for a skin disorder, Proscar or Danazol?
+1/94 (1.1)
+0
+1.00
+
+
+
+Illness or exposure
+
+
+
+
+
+
+Are you free from cold, flu, infection or active allergy today?
+50/1239 (4.0)
+3/1239 (0.2)
+<0.001
+
+
+Have you had a vaccination in the last 3 months or a rabies shot in the last year?
+12/1239 (1.0)
+7/1239 (0.6)
+0.36
+
+
+Have you had surgery in the last 6 months?
+16/1239 (1.3)
+4/1239 (0.3)
+0.01
+
+
+Have you had any of the following?
+
+
+
+
+
+Epilepsy, coma, stroke, repeated seizures or fainting
+21/1239 (1.7)
+8/1239 (0.6)
+0.02
+
+
+Heart or blood pressure problems or heart surgery
+216/1239 (17.4)
+3/1239 (0.2)
+<0.001
+
+
+Cancer, diabetes, ulcerative colitis or Crohn's disease
+17/1239(1.4)
+4/1239 (0.3)
+0.007
+
+
+Kidney, lung or blood condition
+149/1239 (12.0)
+4/1239 (0.3)
+<0.001
+
+
+Have you been pregnant in the last 6 months or breastfed in the last 3 months?
+3/1239 (0.2)
+1/1239 (0.1)
+0.625
+
+
+In the last 3 years have you lived in or visited an area where malaria is common?
+3/1239 (0.2)
+1/1239 (0.1)
+0.625
+
+
+
+
+* these activities included: if male, having sex with another male, even once; sharing needles or taking street drugs by needle; receiving regular treatment with blood or blood products; being the sexual partner of someone who has taken part in any of the above activities or who has contracted AIDS or has tested positive for AIDS  the symptoms of AIDS included: weight loss, night sweats, fever, diarrhea or cough; lumps in the armpits, neck or groin, coloured patches on skin or inside mouth
+
+
+Other common major discrepancies, where a risk was reported on the HQ but denied on the DHAQ included a history of heart or blood pressure problems (17.4%, 216/1239,) and a history of a kidney, lung or blood condition (12.0%, 149/1239) (p for both < 0.001).
+In almost all cases where the 'not sure' option was chosen on the HQ, the response of 'no' had been chosen on the written DHAQ (Table 4). Symptoms of AIDS were denied on the DHAQ but answered 'not sure' by 2.3% (29/1239). The largest discrepancy for the blood contact risk questions occurred for having received blood, plasma, clotting factors or immune globulin in the last 12 months. This question was denied on the DHAQ but answered 'not sure' on the HQ by 4.8% (60/1239). Among the minor discrepancies, the most common question denied on the DHAQ but answered 'not sure' on the HQ occurred for the question regarding taking Accutane or Tegison for a skin disorder, or taking a growth hormone (10.5%, 118/1123). The remaining minor discrepancies of this type were reported in up to 5% of cases (Table 4).
+
+Table 4
+
+Discrepancies on responses (yes to not sure, or no to not sure) between the HealthQuiz (HQ the Donor Health Assessment Questionnaire (DHAQ) among the 1239 study participants.
+
+
+
+
+
+Questions
+
+
+"Not sure" of risk on HQ and risk denied on DHAQ n (%)
+
+
+Risk identified on DHAQ and "not sure" of risk on HQ n (%)
+
+
+
+
+
+
+Risk for HIV/AIDS or STDs
+
+
+
+
+
+In the last 12 months have you had sex with someone who may have participated in high risk activities (sexual background uncertain)?
+8/1211 (0.7)
+0
+
+
+Have you had an AIDS test elsewhere (other than for donating blood)?
+6/1239 (0.5)
+2/1239 (0.2)
+
+
+Had symptoms of AIDS?*
+29/1239 (2.3)
+0
+
+
+
+Blood Contact Risk
+
+
+
+
+
+Have you ever had yellow jaundice (other than at birth), hepatitis, or liver disease?
+2/1216 (0.2)
+0
+
+
+In the last 12 months to your knowledge have you come in close (intimate) contact with someone with yellow jaundice or hepatitis?
+7/1239 (0.6)
+0
+
+
+
+Medication Use
+
+
+
+
+
+In the last 3 days have you taken any type of medicine or drugs, except birth control pills?
+13/1239 (1.0)
+9/1239 (0.7)
+
+
+Have you taken Accutane or Tegison for a skin disorder or growth hormone (human pituitary)?
+118/1123 (10.5)
+0
+
+
+In the last month have you taken Accutane for a skin disorder, Proscar or Danazol?
+7/94 (7.4)
+0
+
+
+
+Illness or Exposure
+
+
+
+
+
+Are you free from a cold, flu, infection or active allergy today?
+1/1239 (0.1)
+4/1239 (0.3)
+
+
+Have you had a vaccination in the last 3 months or a rabies shot in the last year?
+28/1239 (2.3)
+1/1239 (0.1)
+
+
+Have you had surgery in the last 6 months?
+4/1239 (0.3)
+3/1239 (0.2)
+
+
+Have you had any of the following?
+
+
+
+
+Epilepsy, coma, stroke, repeated seizures or fainting
+9/1239 (0.7)
+1/1239 (0.1)
+
+
+Heart or blood pressure problems or heart surgery
+62/1239 (5.0)
+0
+
+
+Cancer, diabetes, ulcerative colitis or Crohn's disease
+14/1239 (1.1)
+1/1239 (0.1)
+
+
+Kidney, lung or blood condition
+23/1239 (0.6)
+0
+
+
+Have you been pregnant in the last 6 months or breastfed in the last 3 months?
+7/1239 (0.6)
+1/1239 (0.1)
+
+
+Have you ever had malaria?
+12/1239 (1.0)
+0
+
+
+In the last 3 years have you lived or visited an area where malaria is common?
+28/1239 (2.3)
+1/1239 (0.1)
+
+
+
+
+* the symptoms of AIDS included: weight loss, night sweats, fever, diarrhoea or cough; lumps in the armpits, neck or groin, coloured patches on skin or inside mouth
+
+
+
+
+Acceptability of the HQ to donors
+The automated HQ was acceptable to a majority of the donors who responded to the questions, such that 82.7% (1011/1222) reported that it was not difficult to use, 88.4% (1080/1222) did not have trouble reading the questions, and 86.1% (1053/1222) understood all of the questions. These responses were not associated with age, sex, education or previous donor experience (data not shown).
+
+
+
+Discussion
+Using the computerized HQ, the number of donors that were eventually deferred was nearly double the number that was deferred based on the written DHAQ, and eleven donors indicated on the computerized HQ that there was some reason they should not donate blood on that day, but did not use the CSE option on the DHAQ. Risks related to blood-borne infections accounted for a small number of the items identified by the HQ that were not identified by the DHAQ, however the detection of even a small number of such individuals could potentially prevent a high risk donation. Although there were no seropositive donors in this study, the HQ identified additional donors who may have been at increased risk of acquiring a blood borne infection through various risk behaviours. The identification of high risk donors also has important implications for avoiding as yet unknown blood-borne infections.
+Our finding, that the computerized HQ identified 2.4% of donors with risk factors for HIV/AIDS and sexually transmitted infections that were not identified on the written DHAQ is not unique. In a randomized crossover trial in the U.S., an additional 4.4% of donors with HIV risks or AIDS symptoms were identified when using a computer-based interview which asked about activities that place them at high risk for HIV, compared to the American Red Cross standard written questionnaire and interview [20]. Another study in the U.S. suggests that people may be more likely to respond truthfully about risk behaviours when questioning is anonymous [21]. In that study, a questionnaire mailed one to two months following a donation identified a risk factor that should have resulted in deferral of their donation among 2% of respondents. Of the respondents who reported risks only on the mailed survey, 8% of their donations had been rejected for transfusion due to a positive laboratory test.
+Previous survey research on sexual behavior, smoking, alcohol, and drug use, has found that use of a computer-assisted questionnaire increased reporting of "stigmatized" behaviors compared to face-to-face interviews [14-17,22,23]. However, some of these studies [16,17,23] were limited by the lack of random allocation or randomized cross-over of the participants to the different screening methods, therefore it cannot be determined whether the differences in reporting were due to the different screening methods rather than differences in participants characteristics. In addition, all but one [22] of these studies were conducted in injection drug users at a needle exchange program, in gay men, and in women attending a sexually transmitted diseases clinic, therefore the results may not be generalizable to blood donor populations.
+The finding in the present study that the computerized screening approach was feasible and acceptable to donors is similar to previous studies [18,19]. Comfort with the screening process and privacy of responses are important issues in eliciting accurate and honest responses. In a previous study, donors with unreported deferrable risk factors and with reactive infectious disease screening reported being more likely to disclose personal information to a computer [18].
+A limitation of the present study and of other literature comparing two methods of self-reported information [15-17,22,23], was our inability to conclude that the HQ identified high-risk donors, in the absence of a gold standard. Since none of the donors in the present study were reactive for transmissible infections, we used deferral as a surrogate marker for high risk donors. Other studies in North America have also reported low rates of antibodies in blood donors. The sero-prevalence of HIV was 0.02% among 123,608 Canadian donors during 1985 [6] and was 0.03% in the U.S. among blood donors in 1995 [21]. Despite the current low seroprevalence of infections in blood donors in North America, a recent study has found that new cases of HIV, HCV, and HBV were as common among frequent donors as among infrequent donors [24], suggesting that caution must still be used in blood donor screening strategies.
+Previous research has suggested that the limitations of screening questionnaires in identifying ineligible donors may in part be due to the donors' failure to carefully read the instructions or understand the information [8]. In one study, some HIV-positive donors failed to exclude their donated units because of difficulty understanding the written explanation of the self-exclusion process [25]. While it may be that donors were more willing to disclose facts that made them ineligible for blood donation on a computerized questionnaire, other factors could have influenced the responses. Most of the donors were repeat donors and were familiar with the written DHAQ questions and format. Therefore, some donors may not have read the questions carefully, leading to inaccurate answers. The items for which the largest number of donors answered negative on the DHAQ but positive on the HQ were items which had multiple individual questions on the HQ but were listed in one question on the DHAQ. The high frequency of reporting on the HQ for items such as having heart or blood pressure problems or heart surgery (17.4%), and a kidney, lung or blood condition (12.0%) is surprising and suggests that some donors may not have understood or carefully read these questions. Affirmative answers to these questions on the DHAQ would have led to further review of the responses with the clinic staff and would have likely resulted in changes to the responses, otherwise the deferral rate would have been much higher. Without further staff investigation, healthy risk-free donors could mistakenly be deferred if questions on a self-administered questionnaire are not understood. These results highlight the need for careful evaluation of a computerized screening process to ensure that accurate information is obtained without burdening clinic staff.
+A computerized questionnaire may improve the efficiency of the donor screening process. The computer was easy to use and the data that were entered into the computer were immediately available as a printed report and in electronic medium for storage. Transcription errors were eliminated and the database was complete for each potential donor. A limitation of this study was the inability to compare the efficiency of the deferral process using the HQ to the usual process using the written instrument, since no information regarding staff resources was obtained.
+In response to the increasingly complex and time-consuming donor screening process, computer-assisted screening is currently in place in some areas, and the U.S. Food and Drug Administration (FDA) has recently provided draft guidelines for the use of self-administered questionnaires including those that are computer-assisted [26,27]. The FDA recommends assessment of the effectiveness of self-administered questionnaires in identifying unsuitable donors. The randomized cross-over trial is a useful methodology for this type of assessment, both to identify unclear or problematic questions and to have a valid comparison of responses to the two methods within each individual. Studies presenting different testing methods to different individuals, especially in a non-randomized fashion, cannot provide such comparisons.
+While the risk to blood product recipients of contracting infections from blood products has been dramatically reduced with the use of new diagnostic technologies, this study suggests that it may be possible to further improve the blood donor screening process. In addition to excluding high-risk donors, donor health assessment is carried out to include healthy risk-free donors and to protect individuals with medical conditions from possible adverse effects of donating. While we cannot conclude that the increased number of deferrals and risk factors identified in this study resulted in an improvement in the donor screening process, a computerized instrument may have the potential to improve this process if more truthful answers are elicited.
+
+
+Competing Interests
+None declared
+
+
+Authors' Contributions
+JWS contributed to the study conception and design and critically revised the manuscript, RH and GS contributed to the study conception and design and in the analysis and interpretation of the data, AA contributed to the study conception and design and acquisition of the data, RBH contributed to the study conception and design and critically revised the manuscript, RB contributed to acquisition and in the analysis and interpretation of the data, KAM contributed to the analysis and interpretation of the data, LL contributed to the acquisition of the data, DD contributed to analysis and interpretation of the data, and MH contributed to analysis and interpretation of the data and critically revised the manuscript.
+All authors have read and approved the final manuscript.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

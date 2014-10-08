@@ -1,0 +1,769 @@
+
+
+Background
+Determinants of ill-health have been studied far more than determinants of good and improving health. Health promotion measures are important even among individuals with chronic diseases. The aim of this study was to find predictors of positive subjective health among disability pensioners (DPs) with musculoskeletal disorders.
+
+
+Methods
+Two questionnaire surveys were performed among 352 DPs with musculoskeletal disorders. Two groups were defined: DPs with positive health and negative health, respectively. In consequence with the health perspective in this study the conception Positive Odds Ratio was defined and used in the logistic regression analyses instead of the commonly used odds ratio.
+
+
+Results
+Positive health was associated with age  55 years, not being an immigrant, not having fibromyalgia as the main diagnosis for granting an early retirement, no regular use of analgesics, a high ADL capacity, a positive subjective health preceding the study period, and good quality of life.
+
+
+Conclusion
+Positive odds ratio is a concept well adapted to theories of health promotion. It can be used in relation to positive outcomes instead of risks. Suggested health promotion and secondary prevention efforts among individuals with musculoskeletal disorders are 1) to avoid a disability pension for individuals <55 years of age; if necessary, to make sure rehabilitation actions continue, 2) to increase efforts to support immigrants to adjust to circumstances connected to ill-health and retirement, 3) to pay special attention to individuals with fibromyalgia and other general pain disorders, and 4) to strengthen ADL activities to support an independent active life among disability pensioners.
+
+
+
+Background
+Studies concerning determinants of ill-health are numerous within medical research. The positive end of the health spectrum is far less recognised. According to the Ottawa Charter 1986 health promotion studies focus on how to enable people to exert control over the determinants of health and thereby improve their health [1], i.e. the focus has moved from pathogenic to salutogenic.
+Health surveys often include questions on self-reported chronic disease and impairment, illness or injuries resulting in medical care and restrictions in daily activities. Measures of health status thus predominantly focus on deviations from health as a baseline and tend to define health as the absence of negative aspects [2]. In accordance with the well-known WHO definition of health [3], laymen include fitness and psychosocial well-being in their concept of good health and not merely the absence of disease or infirmity [4].
+A great number of scales have been constructed in order to describe health, including measurement of functional ability, health-related quality of life, psychological well-being, social support and life satisfaction [2]. Although these broader measures of health status exist, one frequently used way to measure subjective health status in questionnaires is by a single-item question. This kind of question has been found to have good reliability and a high degree of construct validity [5]. Self-rated health was furthermore found to form a continuum from good to poor [6]. It is thus possible to catch the whole spectrum from good to poor subjective health with one single item.
+Although determinants of excellent subjective health have been found to have much in common with determinants of ill-health in a general population [5], the factors behind ill-health are better understood than those behind good and improving subjective health. From a salutogenic perspective knowledge about predictors of positive subjective health is valuable. Antonovsky [7] identified coping mechanisms, which enabled some people to remain healthy despite unfavourable circumstances. Knowledge about predictors of positive health might be useful for health promotion activities in the general population, but also to support a positive health among chronically disabled individuals. One group of individuals that might be of interest to observe is those with long-lasting disorders precluding gainful work and therefore granted a disability pension.
+The number of disability pensioners has increased in many industrialised countries [8,9]. The rate of disability pensioners in the ages 1664 years in Sweden increased from 5.6% in 1980 to 7.6% in 1998 [10]. The main reason for a disability pension in Sweden is disorders of the musculoskeletal system.
+According to existing research, retirement per se does not seem to affect health and well-being to a large extent. However, criticism could be directed against the methods used in many studies [11]. In previous articles [12,13], we have shown that health consequences were negative among men and middle-aged women, and among female immigrants irrespective of age. Beneficial effects of early retirement were evident among old women. The conclusions drawn included that young persons have to qualify for a disability pension with a more serious state of ill-health than a person close to old-age pension. Obviously a disability pension might entail negative as well as positive consequences as regards health development. Knowledge about predictors of a positive subjective health is important for health promotion measures among individuals who run the risk of an early retirement due to lingering health problems.
+The aim of the present study, as a part of a major project, was to find predictors of positive subjective health among disability pensioners with musculoskeletal disorders.
+
+
+Methods
+A mailed survey was carried out among disability pensioners in Kristianstad municipality in southern Sweden, with about 70 000 inhabitants. An invitation to participate was sent to all 450 persons aged 2559 years who were granted a full-time disability pension during 19861990 due to disorders of the musculoskeletal system. They were defined by all diagnoses in chapter 13 (diseases of the musculoskeletal system and connective tissues), and diagnoses within the musculoskeletal system in chapter 17 (injuries and poisonings), in the ninth revision of the international classification of diseases.
+Five groups were formed out of the diagnoses: group A, Chronic arthritis and other inflammatory rheumatic disorders, diagnoses 710712, 714, 720, 725; group B, Back pain, diagnoses 721724; group C, Fibromyalgia and other general pain disorders (non-inflammatory conditions), diagnoses 726729; group D, Other non-inflammatory conditions (local and regional), diagnoses 713, 715719,730739; and group E, Injuries, diagnoses 805848, 880897, 905, 922924, 926929.
+The first questionnaire was sent in January 1992 to the selected disability pensioners (DPs). The response rate was 83.6%. The second questionnaire was sent in January 1994 to those DPs who participated in the first questionnaire survey, and who were still living in Sweden, 370 persons. Of these 95.1%, 352 DPs, responded.
+The age and sex distribution of the participants in the 1994 surveys is described in Table 1. The study group and the non-response analysis have been described in greater detail previously [13,14].
+
+Table 1
+
+Age and sex distribution among the participants in the 1994 survey (%).
+
+
+
+
+
+Males (n = 111)
+Females (n = 241)
+
+
+
+
+-44 years
+4.5
+6.6
+
+
+4554 years
+17.1
+26.6
+
+
+55- years
+78.4
+66.8
+
+
+
+
+The DPs were aged 2559 years at the time of retirement. The questionnaire was sent out 38 years after retirement.
+
+
+Self-reported health in 1994 was measured by the answers to the item "How would you describe your overall health status at present?" with five response categories "good, fairly good, neither good nor poor, fairly poor, poor". Changes in self-reported health between 1992 and 1994 were measured by the answers to the item "How would you describe your health status today in comparison with two years ago?" with five response categories: "much better, somewhat better, on the whole unchanged, somewhat worse, much worse".
+In order to define DPs with positive and negative health the two items above were used. Three alternatives were formed out of the five answers in each of the items: "good, neither/nor, poor" and "better, unchanged, worse", respectively. DPs with positive health (n = 84) were defined as those who reported a good health status in 1994, and for whom the health status had not deteriorated in the last two years. In a corresponding way DPs with negative health (n = 107) were defined as those who reported a poor health status in 1994, and for whom the health status had not improved (Table 2).
+
+Table 2
+
+Definition of groups with positive and negative health based on self-reported health status and change in health status.
+
+
+
+
+
+Reported change in health status since 1992
+
+
+
+
+Reported health status 1994
+Better
+Unchanged
+Worse
+
+Total
+
+
+
+
+
+
+
+
+Good
+
+29
+a)
+
+
+55
+a)
+
+13
+97
+
+
+Neither/nor
+22
+74
+48
+144
+
+
+Poor
+2
+
+33
+b)
+
+
+74
+b)
+
+109
+
+
+
+Total
+c)
+
+53
+162
+135
+350
+
+
+
+
+a) Group with positive health, n = 84 b) Group with negative health, n = 107 c) Two individuals did not answer the questions
+
+
+In this study quality of life is not restricted to health-related quality of life, but defined as the individual's evaluation of his/her life contents. This global quality of life was found to be strongly correlated to but not equivalent to subjective health status [15].
+Multivariate analyses were carried out by means of a logistic regression model with positive/negative health (1994) as the dependent variable. Explanatory variables from the 1992 study, which were included in the model, were those with a significant bivariate relation to the dependent variable. All these variables are listed and defined in Table 4. If two variables were highly correlated (r2  0.30), only one of them  the one with the highest bivariate correlation to the dependent variable  was included, depending on the restrictions of the model. All variables were dichotomised. Variables measured by ordinal scale or higher were dichotomised by using the median value to split the variable. However in the bivariate analyses the variables were not dichotomised. The goodness-of-fit of the model is described by using percent correct values from the classification table.
+In consequence with the health perspective in this study we have defined Positive Odds Ratio (POR) as an outcome of the logistic regression analysis instead of the commonly used odds ratio. POR was calculated as the odds ratio, but by changing positive and negative outcome as far as the dependent variable as well as the explanatory variables are concerned. If for example POR = 2, the interpretation is that those with a positive health are twice as likely than those with a negative health to have a positive outcome in the explanatory variable. The results from the logistic regression analyses were expressed as positive odds ratio (POR) and 95% confidence interval (CI).
+A chi-squared test was used to compare proportions between groups. The level of significance was set to 0.05. For all statistical procedures, SPSS for Windows 8.0 was used.
+The study was approved by the Committee on Ethics at the Faculty of Medicine, University of Lund (LU 28991 and LU 32793).
+
+
+Results
+In 1994, i.e. three to eight years after the early retirement, 27.7% (97/350) of the DPs rated their health status as good or fairly good, and 31.1% (109/350) as bad or fairly bad. Improved health status during the last two years was reported by 15.1% (53/350), while an impairment was reported by 38.6% (135/350) (Table 2). No differences were found according to year of early retirement regarding any of these variables.
+In order to elucidate the relations between some basic background variables and positive health, the bivariate relations are demonstrated in table 3. Positive health was associated with high age, not being an immigrant, and not having fibromyalgia or other general pain disorders as the main diagnosis for granting early retirement. On the other hand gender, education, year of early retirement and back pain as the main diagnosis for granting early retirement, were not found to be significantly related to positive/negative health.
+
+Table 3
+
+Relation between background variables and positive and negative health (%).
+
+
+
+
+
+Positive health (n = 84)
+Negative health (n = 107)
+P-valuea)
+
+
+
+
+Age
+
+
+
+
+
+ 54 years
+14
+46
+
+
+
+ 55 years
+86
+54
+
+0.000
+
+
+
+Gender
+
+
+
+
+
+Males
+36
+26
+
+
+
+Females
+64
+74
+0.154
+
+
+DP-year
+
+
+
+
+
+198687
+35
+35
+
+
+
+198889
+38
+38
+
+
+
+1990
+27
+28
+0.991
+
+
+Education
+
+
+
+
+
+Elementary
+87
+88
+
+
+
+Additional
+13
+12
+0.845
+
+
+Immigrant
+
+
+
+
+
+Yes
+6
+33
+
+
+
+No
+94
+67
+
+0.000
+
+
+
+Fibromyalgiab) as DP diagnosis
+
+
+
+
+
+Yes
+19
+37
+
+
+
+No
+81
+63
+
+0.006
+
+
+
+Back painc) as DP diagnosis
+
+
+
+
+
+Yes
+48
+38
+
+
+
+No
+52
+62
+0.197
+
+
+
+
+a) P-value when testing the hypothesis that there was no difference between groups with positive and negative health; figures in bold when significant (p < 0.05); b) Fibromyalgia and other general pain disorders (non-inflammatory conditions), for definition see Material and Methods; c) For definition see Material and Methods.
+
+
+
+Table 4
+
+Variables (1992) included in the logistic regression with positive/negative health (1994) as the dependent variable.
+
+
+
+
+Variable
+Scale a)
+
+
+Dichotomised
+
+
+
+
+
+Age
+
+
+
+Young (<55) / old ( 55)
+Q: 25 64
+
+
+Gender (no bivariate relation to positive/negative health)
+
+
+
+Male / female
+N
+
+
+Living alone
+
+
+
+Yes / no
+N
+
+
+Living with children
+
+
+
+Yes / no
+N
+
+
+Immigrationb)
+
+
+
+Yes / no
+N
+
+
+Diagnosis at retirement: fibromyalgia c)
+
+
+
+Yes / no
+N
+
+
+Physician visit last six months d)
+
+
+
+Yes / no
+
+
+
+In-patient care last six months d)
+
+
+
+Yes / no
+
+
+
+Regular use d) of:
+
+
+
+- sleeping medicine
+
+
+
+Yes / no
+N
+
+
+- analgesics
+
+
+
+Yes / no
+N
+
+
+Index of neurotic symptoms e)
+
+
+
+Low (02) / high (37)
+Q: 07
+
+
+Index of psychosomatic symptoms e)
+
+
+
+Low (02) / high (35)
+Q: 05
+
+
+ADL index f)
+
+
+
+Low (611) / high (1236)
+I: 636
+
+
+Subjective health c)
+
+
+
+Positive (1+2) / not positive (35)
+O: Good (1)  poor (5)
+
+
+Present quality of life g)
+
+
+
+Positive (1+2) / not positive (35)
+O: Very good (1)  very bad (5)
+
+
+Life-span quality of life g)
+
+
+
+Positive (1+2) / not positive (35)
+O: Very good (1)  very bad (5)
+
+
+Change in quality of life since retirement g)
+
+
+
+Better (1+2) / not better (35)
+O: Much better (1)  much worse(5)
+
+
+Expected future quality of life g)
+
+
+
+Not worse (13) / worse (45)
+O: Much better (1)  much worse(5)
+
+
+Satisfaction with: f)
+
+
+
+- economy
+O: Very satisfied (1)  very dissatisfied (5)
+
+
+Content (1+2) / not content (35)
+
+
+
+- dwelling
+
+
+
+Content (1) / not content (25)
+
+
+
+- leisure time
+
+
+
+Content (1+2) / not content (35)
+
+
+
+Lonesome f)
+
+
+
+Lonesome (1+2) / not lonesome (3+4)
+O: Yes, often (1)  no, never (4)
+
+
+Difficulties to pass time f)
+
+
+
+Difficulties (1+2) / no difficulties (3+4)
+O: Yes, often (1)  no, never (4)
+
+
+Positive self-image e)
+
+
+
+High positive self-image (510) / low positive self-image (1120)
+I: Index based on the sum of five items: 5  20
+
+
+Economic development since retirement
+
+
+
+Positive (1+2) / not positive (35)
+O: Much better today (1)  much worse today (5)
+
+
+
+
+a) N = Nominal scale; O = Ordinal scale; I = Interval scale; Q = Quote scale b) for detailed definition see [14]c) for definition see Methods d) for detailed definition see [12]e) for detailed definition see [16]f) low ADL index means high ADL capacity: for detailed definition see [15]g) for detailed definition see [17]
+
+
+To study the relation between different factors and subjective health, bivariate analyses were carried out including a large number of hypothetically correlated variables. All significant variables (Table 4) were used in calculating positive odds ratios (POR) expressing the chance of positive health in multiple logistic regression analyses (Table 5). Among background variables, not being an immigrant (POR = 5.51), high age (POR = 2.33), and not having fibromyalgia or other general pain disorders as DP diagnosis (POR = 2.16) appeared to be explanatory variables for positive health.
+
+Table 5
+
+Positive odds ratios (POR) and 95% confidence intervals (CI) for predictors of positive health. Results from logistic regression modelling of variables showing a bivariate correlation to positive/negative health.
+
+
+
+
+Background variablesa) (n = 190)
+
+
+POR
+
+b)
+
+
+
+CI
+
+
+
+
+
+
+Age 55 years and above
+
+2.33
+
+1.035.28
+
+
+Male genderc)
+1.33
+0.662.69
+
+
+Living alone
+2.16
+0.835.61
+
+
+Not living with children
+1.64
+0.674.00
+
+
+Not immigrant
+
+5.51
+
+1.9015.95
+
+
+Fibromyalgiad) not ERP diagnosis
+
+2.16
+
+1.024.55
+
+
+Health-related variablesa) (n = 167)
+
+
+
+
+Any physician visit last six months
+1.38
+0.523.62
+
+
+Not in hospital last six months
+2.38
+0.4014.21
+
+
+Not regular use of sleeping medicine
+1.07
+0.333.52
+
+
+Not regular use of analgesics
+
+2.76
+
+1.106.88
+
+
+Low index of neurotic symptoms
+1.55
+0.653.69
+
+
+Low index of psychosomatic symptoms
+1.96
+0.804.82
+
+
+Low ADL index
+
+3.10
+
+1.377.03
+
+
+Positive subjective health
+
+6.63
+
+2.6116.84
+
+
+Other variablesa) (n = 147)
+
+
+
+
+Positive present quality of life
+
+4.71
+
+1.6413.59
+
+
+Positive life-span quality of life
+
+6.09
+
+1.4325.99
+
+
+Better quality of life since retirement
+1.19
+0.453.13
+
+
+Expected better future quality of life
+2.55
+0.5212.54
+
+
+Not content with economy
+1.85
+0.675.12
+
+
+Content with dwelling
+1.72
+0.674.44
+
+
+Content with leisure time
+2.01
+0.765.37
+
+
+Not feeling lonesome
+1.16
+0.482.81
+
+
+Difficulties in passing time
+1.61
+0.564.63
+
+
+Positive self-image
+1.47
+0.563.86
+
+
+Positive economic development since retirement
+2.15
+0.805.82
+
+
+
+
+Variables not showing a bivariate relation to positive/negative health and therefore not included in the logistic regression model were: year of retirement, education, kind of work before retirement, work injury, working hours, satisfaction in previous job, dwelling, other diagnoses than back pain as DP diagnosis (see Methods for definition), other ailments than musculoskeletal disorders (cardiovascular, pulmonary, psychiatric, diabetes), medication (cardiovascular, pulmonary, psychiatric, diabetes), visit to caregivers (nurse, physiotherapist, alternative care), home-help service, transportation service, content with home and family, number of important social contacts, close social contacts, change in lonesomeness since retirement, early retirement best solution when retired, early retirement best solution today, weight, BMI (Body Mass Index), smoking habits, change in smoking habits, alcohol habits, and change in alcohol habits. a) Goodness-of-fit for the model were for background variables 66.3%, for health-related variables 77.3%, and for other variables 78.2%. b) Figures in bold when p < 0.05; c) The only variable included in the model not showing a bivariate correlation to positive/negative health; d) Fibromyalgia and other general pain disorders (non-inflammatory conditions), for definition see Material and Methods.
+
+
+Among the self-reported health-related variables the most important ones correlated to positive health were: not regular use of analgesics (POR = 2.76), a low ADL index (POR = 3.10), and positive health two years before (POR = 6.63). The other health-related variables were not significantly correlated to positive health in the multiple analysis (Table 5).
+A relation to positive health was furthermore found concerning positive present quality of life (POR = 4.71) and positive life-span quality of life (POR = 6.09) (Table 5).
+
+
+Discussion
+Among DPs in this study 24% (84/350, Table 2) were found to have a positive health according to our definition. It is well known that approximately 50% in a general population describe their health status in positive terms when asked [2]. But considering the fact that all DPs, at the time they received their early retirement, were seen as individuals with lingering health problems preventing gainful work in the future, 24% reporting positive health might be seen like a high proportion. Obviously some DPs are rather content with their health status three to eight years after the retirement. Since January 2000, DPs in Sweden have been able to try to go back to work to up to one year without jeopardising their status as DPs [18]. These new Swedish rules concerning "resting" disability pension might entice some of the DPs with positive health to try to go back to an economically active life on a suitable part-time basis.
+The background variables found to have a bivariate connection to health (Table 3) still were significantly related to positive health when controlled for other important factors in the logistic regression analysis (Table 5). Within the general population it is known that women more often than men report ill-health [19]. Still there was no significant difference in subjective health according to gender in our study; the early retired woman was as content as the early retired man concerning subjective health. This lack of difference in subjective health according to gender presumably is an effect of the fact that men and women in our study all are disability pensioners due to lingering health problems. The risk of becoming early retired due to musculoskeletal disorders in Sweden is higher among women than among men [20,21], and the gender distribution in our study is as expected (Table 1).
+Predictors of positive health among DPs in this study were, as far as background variables are concerned, high age ( 55 years) and not being an immigrant (Table 5). These are conditions out of reach of influence, but might imply that when individuals <55 years of age or immigrants are about to receive a disability pension special support might be beneficial for their health development.
+Among DPs with musculoskeletal disorders positive health was connected to the absence of fibromyalgia and other general pain disorders as well as no regular use of analgesics (Table 5). Fibromyalgia patients may learn how to cope with their ailment and reach a state where they can live a satisfactory life in spite of the pain [22]. In order to enhance the possibilities of a positive health for all individuals with musculoskeletal disorders at the risk of receiving a disability pension, those suffering from general pain disorders thus might need extended rehabilitation efforts focusing on how to cope with chronic pain. An important first step should be to confirm the diagnosis. Even if fibromyalgia today is accepted as a diagnosis, the suffering individuals may find difficulties in proving their ill-health to themselves, to other people and even to health-care officials [23-26]. This might enhance the psychic distress of the patients and thus aggravate the condition. A salutogenic approach must be based on mutual acceptance and understanding between patient and medical staff.
+A functional handicap usually is seen as the social consequences of disabilities or impairment [2]. It is often operationalised by questions concerning activities of daily living (ADL), as in this study. As might be expected there was a significant connection between ADL and positive health (Table 5). However, functional disability is not necessarily a consequence of impairment only but also of the properties of the physical environment [27]. Thus it is important to make sure that rehabilitation efforts include measures taken to improve the physical environment of individuals suffering from musculoskeletal disorders in order to contribute to a positive health.
+The close connection between quality of life and positive health found in this study (Table 5) corresponds to findings in other studies concerning health and quality of life [28-30]. Quality of life is often seen as a concept including health, social well-being, good functional level, psychological well-being and life satisfaction; indicators that pretty well coincide with what is regarded as positive health [2]. There is presumably a complex interaction process between biological, psychological and social factors affecting both health and quality of life [31,32]. In order to strengthen the possibilities of a positive health among DPs with musculoskeletal disorders obviously it is important to work with a holistic view including all dimensions and not just focus on the ill-health.
+Our study has a health promotion approach. Antonovsky [7] introduced a salutogenic approach in his theories, aiming at identifying coping mechanisms, which enable some people to stay healthy. In our study we talk about predictors of health rather than salutogenic factors, thereby underlining that some variables are positively related to health rather than necessarily being salutogenic. But we mean that using the positive dimension instead of the negative puts the focus on possibilities rather than obstacles. To the best of our knowledge there is no previous paper using the concept of Positive Odds Ratio. Even if the number of studies with a health promotion approach has increased, epidemiological studies are traditionally concerned with diseases. When epidemiological methods are applied to health promotion theories, epidemiology therefore deals with health as not being diseased [19]. We think that our way of developing and using an epidemiological standard is a natural consequence of the health perspective emanating from the Ottawa Charter [1].
+In our study global self-rated health was used as a measure of the individual's health status, and this was also the basis when defining positive/negative health. From a review of twenty-seven studies, Idler and Benyamini [33] concluded that global self-rated health is an independent predictor of mortality even when known health risk factors have been accounted for. This was the case in almost all the studies cited, and the relation was insensitive of semantic variations in the questions used in the different studies. It has also been concluded that self-rated health is a predictor of morbidity [34]. This knowledge combined with the fact that the results in our study make sense  i.e. a strong correlation between positive/negative health and health-related variables and quality of life  leads to the conclusion that the definitions made in our study concerning groups with positive and negative health based on measures of self-rated health are reliable. The reliability and the validity of the questionnaire have been reported in previous articles and have been shown to be good [12,14,16,17].
+When individuals with positive and negative health were compared, the definitions were made in such a way that only the most extreme groups were included. The disadvantages of this procedure were that it resulted in a reduced sample size, 191 out of 350 DPs, and therefore also bigger confidence intervals in the logistic regression analysis. Despite this we believe that the advantages of refining the two compared groups outweighed the disadvantages, as differences between those with positive and negative health were found to be more evident.
+
+
+Conclusions
+Concerning individuals suffering from musculoskeletal disorders, health promotion and secondary prevention efforts suggested by this study might be:
+- if a disability pension is the only possible solution for individuals below 55 years of age continued rehabilitation actions might support a positive health development,
+- efforts to support immigrants to adjust to circumstances connected to ill-health and retirement should be increased,
+- special attention should be paid to individuals with fibromyalgia and other general pain disorders,
+- ADL activities to support an independent active life among disability pensioners should be strengthened.
+Positive odds ratio is a concept well adapted to theories of health promotion, which can be used in relation to positive outcomes instead of risks.
+
+
+Competing interests
+None declared
+
+
+Authors' contributions
+GE participated in conceiving the study and had the main responsibility for writing the manuscript.
+LE participated in conceiving the study, carrying out the study and writing the manuscript.
+IL participated in conceiving the study and writing the manuscript.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

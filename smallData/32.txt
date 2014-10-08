@@ -1,0 +1,504 @@
+
+
+Background
+Following health sector reform, Ethiopia started training new categories of health workers. This study addresses students' perspectives regarding their training and career plans.
+
+
+Methods
+A cross sectional questionnaire was administered to 145 students in the three schools of the Amhara regional state of Ethiopia.
+
+
+Results
+The majority of students were male (62%) and originally from urban areas (76%). Job search was the most common reason for enrolling in the training for almost half (48%) of the respondents, followed by a desire to help the sick (46%). Once trained, the majority (98%) of graduates preferred to serve in the government sector and in rural health institutions (84%). Females were more willing to work in rural settings [2 (df 1)= 7.37; P = 0.007]. The majority (98%) of students felt the training period should be extended. 12% of graduates lacked confidence in their competencies after completing the training. A substantial proportion of the respondents (29%) did not feel the social science courses (Anthropology, Ecology and Psychology) were useful.
+
+
+Conclusions
+This study demonstrates that mid-level health professional students are highly motivated, wish to address the health needs of rural communities, and are interested in professional development. However, students do not feel the training programs are fully addressing their needs. The students found that the duration of the training, the time for theory and practice, the availability of teaching materials, the course contents and their teachers were inadequate. This study suggests that the current training programs have serious inadequacies that need to be addressed.
+
+
+
+Background
+There is hardly a developing country that is not openly considering or introducing decentralized health management [1]. The current national health policy of Ethiopia introduced in 1993, likewise, prioritized human resources development with emphasis on the expansion of the number of frontline and middle level health workers with community based and task oriented training. Regional states are responsible for the recruitment and training of these categories of health workers [2]. Moreover, the Health Sector Development Program (HSDP) has been formulated to address and implement the main issues of the health policy including institutional organization and human resources[3].
+Recruitment and training of community oriented and auxiliary health workers offers great potential for cost-effectively meeting the health needs of communities by increasing primary prevention and treatment of disease in many developing countries [4,5]. Furthermore, using such categories of health workers may improve the accessibility and cost effectiveness of health care services by reaching potentially underserved communities with high impact primary health programs. However, they require substantial support for training, management, supervision and logistics[6].
+Middle level health workers have been trained and dispatched to the remote rural health institutions of the country as part of the decentralization exercise of the health sector reform. In the Amhara regional state, the first batch of these middle level health workers were released in 1997 and has been assigned into the peripheral health institutions of the region ever since. Soon after their assignment and despite the expectations, skill deficiencies among these workers have been consistently reported and observed. Moreover, continuous dissatisfaction was exhibited towards these newly trained health workers from erstwhile health workers and at times sporadic frictions have been documented [Unpublished, South Gonder Zonal Health Department, 2000]. Such problems might have emanated from a complex of issues including the conduct of the training at the schools, the curriculum of the training, the logistics for the training and the working environment.
+Previous research reports showed that student evaluations were important and powerful techniques to improve instruction, course content and student satisfaction with courses in medical training [7-9]. The objective of this study was to identify the perspectives of middle level health students in the Amhara regional state of Ethiopia towards their training, future career and practice.
+
+
+Methods
+
+The study area
+The study was conducted in all the three middle level heath workers' training schools of the Amhara regional state in Ethiopia. The Amhara regional state covers some 16% of the area of the country and about a quarter of the population, making it the second largest state in the country. Administratively it is divided into ten zones with their own zonal health departments. Two of the training schools were housed in the premises of regional referral hospitals (Dessie and Bahir Dar) and one at a zonal hospital (Debre Tabor).
+
+
+Enrollment of students for the training programs
+Following a public notice interested high school graduates are screened at a zonal level committee using a set of criteria. The Regional Health Bureau sends the set of criteria. The criteria include at least a pass mark (grade C) in Biology in the National School Leaving Certificate Examination (ESLCE), healthy physical appearance and proof of being unemployed. Those students who are successfully screened will be subjected to an entrance examination prepared by the regional health bureau. The students should score a passing mark to enroll the health worker training schools.
+
+
+The organization of the training programs
+The schools give training in five disciplines: Junior Clinical Nursing, Junior Public Health Nursing, Junior Midwifery, Junior Laboratory Technician and Junior Pharmacy Technician training. The Federal Ministry of Health of Ethiopia developed the curriculum for the training. The current training period is 12 months comprising both the theoretical and practical aspects. The first three months are allocated exclusively for the theoretical and conceptual components; the next six months integrate clinical practice and the theoretical aspects. The last 3 months is devoted for the field practice in which students are dispatched into nearby, mostly urban oriented health institutions of the region with their teachers. The field practice mainly focus on their prime area of qualification. Students are continuously evaluated through out their training and are graduated with out final or qualifying examination (personal communication, Director of Debre Tabor school, 2000). The teachers were mainly diploma holder sanitarians and nurses. Teachers were recruited based on personal applications, the main motive of which was a 'better' urban working place. There were no teaching allowances of any type. For non-medical courses teachers were recruited from neighboring high schools and other related institutions.
+
+
+Study population
+The target population for the study was graduating students in all training programs in the three schools of the region (N = 219). All students who were available at their classrooms and dormitories during data collection were included in to the study. A total of 145 students completed a self-administered questionnaire in the last week of the training during February 2000. The sample size was more than what was required to observe significant differences between the groups at 95% Confidence Interval and 5% precision (n = 140). Informed verbal consent was obtained. The data was entered into a computer using EPI INFO (Version 6.04b) and analyzed using the SPSS (version 8) software packages. Descriptive summary statistics were used to present the data. The Pearson's Chi square test was employed to compare proportions. When the Pearson's Chi square test is not applicable the F-test and the Wald test were used. Significance was set at a two sided p value of 0.05. Bad and Fair rating of the knowledge, pedagogic and language skills of the teachers was categorized as dissatisfaction of the students towards their teachers.
+
+
+
+Results
+The majority of students (62.1%) were males and from urban areas (75.9%). The mean age of respondents was 21.7 (SD 2.8) with a range of 15 (Minimum 19 and Maximum 34). More than half [79(54.5%)] of the respondents were clinical nursing students (Table 1). Mean year elapsed between completion of high school and enrolment in to the training school was 3.17 (SD 2.52) with a range of 14 (Minimum 1 and Maximum 15). Almost a quarter (24%) of the students were employed for salary before their enrolment. Searching for job was the most common reason to enroll into the schools in 47.6% followed by wish to help the sick (46.2%). As it is shown in table 2 the other reasons include family/relative pressure (4.8%) and "attractive money/salary" (1.4%). There was no association between either sex [X2 (DF 1) = 0.16; P= 0.68] or origin [X2 (DF 1) = 0.41; P = 0.52] and enrolment for job search.
+
+Table 1
+
+Distribution of selected sociodemographic variables by sex of students of middle level health workers training, Amhara regional state, Ethiopia, February 2000.
+
+
+
+
+
+Variable
+
+
+Female (%)
+
+
+Male (%)
+
+
+Total (%)
+
+
+
+
+
+
+School
+
+
+
+
+
+
+Bahir Dar
+25(39.7)
+38(60.3)
+63(43.4)
+
+
+Dessie
+8(32)
+17(68)
+25(17.2)
+
+
+Debre Tabor
+22(38.6)
+35(61.4)
+57(39.3)
+
+
+
+Field of training
+
+
+
+
+
+
+Clinical Nursing
+33(41.8)
+46(58.2)
+79(54.5)
+
+
+Laboratory Technician
+3(23.1)
+10(76.9)
+13(9)
+
+
+Midwife Nursing
+5(71.4)
+2(28.6)
+7(4.8)
+
+
+Pharmacy Technician
+3(20)
+12(80)
+15(10.3)
+
+
+Public health Nursing
+11(35.5)
+20(64.5)
+31(21.4)
+
+
+
+Origin
+
+
+
+
+
+
+Rural
+12(34.3)
+23(65.7)
+35(24.1)
+
+
+Urban
+43(39.1)
+67(60.9)
+110(75.9)
+
+
+
+Marital status
+
+
+
+
+
+
+Married with child/ren
+2(20)
+8(80)
+10(6.9)
+
+
+Married with no child/ren
+3(60)
+2(40)
+5(3.4)
+
+
+Single
+48(37.8)
+79(62.2)
+127(87.6)
+
+
+Divorced
+2(66.7)
+1(33.3)
+3(2.1)
+
+
+
+Total
+
+
+55 (37.9)
+
+
+90 (62.1)
+
+
+145 (100)
+
+
+
+
+
+
+Table 2
+
+Reasons for enrolment of students of middle level health workers training schools, Amhara regional state, Ethiopia, February 2000.
+
+
+
+
+
+Reason
+
+
+Female (%)
+
+
+Male (%)
+
+
+Total (%)
+
+
+P-value
+
+
+
+
+
+Job search
+25 (36.2)
+44 (63.8)
+69 (47.6)
+0.68
+
+
+Helping the sick
+26 (38.8)
+41 (61.2)
+67 (46.2)
+0.84
+
+
+Family/relative pressure
+4 (57.1)
+3 (42.9)
+7 (4.8)
+0.42
+
+
+Attractive salary/money
+-
+2 (100)
+2 (1.4)
+0.52
+
+
+Total
+55 (37.9)
+90 (62.1)
+145 (100)
+
+
+
+
+
+A high level of motivation was demonstrated to serve in the locality from where they came from (96.6%) and of a rural set up (83.4%). Females were more willing to work in rural setting than males [X2 (DF 1)= 7.3; P = 0.007]. Up on completion of the training only 3 (2.1%) students prefer to work with the private sector. Time given for theory, the availability of teaching materials and food allowance were stated to be inadequate by 93.1%, 84.1% and 80.7% respondents respectively (Table 3).
+
+Table 3
+
+Attitude towards adequacy of important services in the course of the training of middle level health workers in Amhara regional state, Ethiopia, February 2000.
+
+
+
+
+
+Variable
+
+
+Adequate(%)
+
+
+Inadequate(%)
+
+
+
+
+
+Time for practice
+40(27.6)
+105(72.4)
+
+
+Time for theory
+10(6.9)
+135(93.1)
+
+
+Teaching materials
+23(15.9)
+122(84.1)
+
+
+Technical help from health workers
+127(87.6)
+18(12.4)
+
+
+Dormitory services
+83(57.2)
+62(42.8)
+
+
+Food allowance
+28(19.3)
+117(80.7)
+
+
+
+
+All students of midwifery, clinical nursing and public health nursing training programs and majority of laboratory (92.3%) and pharmacy (86.7%) programs stated the need to expand the duration of the training. Table 4 shows the mean time in months suggested for expanding the training period. The language capacity, pedagogic skills and knowledge of the teachers were rated as very good by 36%, 41% and 43% of the respondents (Table 5). As it is shown on table 5, no student rated the knowledge of the teachers as bad. There was no association demonstrated between type of field studied and dissatisfaction towards knowledge of teachers [X2 (DF 4) = 7.8; P = 0.09]. However, significant associations were demonstrated between field of study and dissatisfactions towards pedagogic skills [X2 (DF 4) = 9.7; P = 0.04] and language capacity [X2 (DF4) = 10.9; P = 0.02] of teachers. The pharmacy training program students were most dissatisfied with the pedagogic skills and language capacity of their teachers. Lack of confidence of their competencies after completion of the training was stated in 12% of the respondents. Neither gender [X2 (DF 1) = 0.01; P= 0.92] nor field of training [X2(DF 1) = 2.1; P= 0.73] was associated with this lack of confidence. The social science related courses (Anthropology, Psychology and Ecology) and Health Economics were rated as difficult to understand and non-useful for their future career and practice by 29% of the students.
+
+Table 4
+
+The mean time in months suggested for the training of the middle level health workers, Amhara Regional State, Ethiopia, February 2000.
+
+
+
+
+
+Field
+
+
+Minimum
+
+
+Maximum
+
+
+Mean (SD)
+
+
+
+
+
+Clinical Nursing
+12
+36
+21.8(4.3)
+
+
+Laboratory
+12
+24
+19.5(3.7)
+
+
+Midwifery
+18
+30
+24(3.4)
+
+
+Pharmacy
+15
+24
+21.5(3.4)
+
+
+Public Health Nursing
+18
+24
+20.9(3)
+
+
+
+
+
+Table 5
+
+Rate of Selected Capacities of Teachers by Schools, Middle Level Health Workers Training, Amhara Regional State, Ethiopia, February 2000.
+
+
+
+
+
+Variable
+
+
+Rate
+
+
+Total (%)
+
+
+
+
+
+
+Language Capacity
+
+Very good
+52(35.9)
+
+
+
+Good
+49(33.8)
+
+
+
+Fair
+43(29.7)
+
+
+
+Bad
+1(0.7)
+
+
+
+Knowledge of subject
+
+Very good
+62(42.8)
+
+
+
+Good
+60(41.4)
+
+
+
+Fair
+23(15.9)
+
+
+
+Bad
+-
+
+
+
+Pedagogic Skills
+
+Very good
+59(40.7)
+
+
+
+Good
+54(37.2)
+
+
+
+Fair
+30(20.7)
+
+
+
+Bad
+2(1.4)
+
+
+
+Total
+
+
+
+145(100)
+
+
+
+
+
+
+
+Discussion
+Although the sample size and the response rate of our study was adequate to observe statistically significant differences, the timing of our study which was the last week of the training has limited the participation of students from the Dessie school who had already left the school premises to prepare for graduation. Moreover, some students were also reluctant to participate in the survey for fearing their opinion might account negatively in their academic evaluation. Another limitation of our study is that the study addressed students' opinions regarding their training at the time of graduation with out any objective measure or field examination. However, given the absence of other studies done before, we believe that our study has identified significant problems in the training of middle level health workers in the Amhara Region of Ethiopia and indicate potential areas for appropriate and prompt interventions.
+Basic health training in Ethiopia has been characterized by high attrition rates especially among females and those from the lower social class with increasingly negative attitudes towards community health activities and rural services [9-14]. This has also been demonstrated elsewhere [15,16]. However, in our study a high degree of willingness for rural service (83.4%) and the civil service (97.9%) was demonstrated. This willingness could further enhance the implementation of the health policy of the country that gives emphasis in the decentralization of health services to the rural communities.
+Regarding the motives to become a health worker, job search was the commonest and an intention of earning high salary was the least common reason cited. This is contrasted with findings of a cross sectional survey among medical students, residents and teachers of the Addis Ababa University Medical Faculty where by searching for high salary was among the main reasons to join the profession [Unpublished, AAUMF Hakim, 1995].
+Moreover, students wish for a curriculum that addresses their personal, educational and scholarly goals. They should further be encouraged with adequate time in training, proper guidance and adequate facilities [7]. Our study found that such services were indeed scarce in the training schools of the Amhara regional state of Ethiopia. It was also found that the students do not have confidence that they are competent practitioners once they completed their training. An objective measure like a final or qualifying examination at the end of the training program might help students and faculty better assess student competencies. Moreover, poor teaching methods, inadequate teaching materials and the short duration of training may also result in low confidence and inadequate competencies among graduates.
+The competence of educators is also very crucial and must be a priority of medical training [7]. However, in our study it was found that the teachers were rated as not competent enough in pedagogic skills, language capacity and knowledge. Majority of the students in the training programs disclosed the need to expand the duration of the training. Both the times given for theory and practice were reported as inadequate. The mean time suggested for the prolongation of the duration of the training was highest for midwifery training. This could be because of the high level of experience and adequate exposure needed to conduct a delivery. Students want to be fully aware of and adequately exposed to conducting safe normal deliveries and identification of high risk patients before being dispatched as an independent health worker.
+
+
+Conclusions
+The study showed that the students are highly motivated, wish to address the health needs of rural communities, and are interested in professional development. However, the training programs are not fully addressing student's needs. The students found that the duration of training, the time for theory and practice, the availability of teaching materials, the course contents and their teachers to be inadequate. This study would suggest that the current program has serious inadequacies that need to be addressed. Further studies that address the training programs in terms of the learning process and the teaching environment in the Amhara and the other regional states of the country are essential.
+
+
+Competing interests
+None declared.
+
+
+Authors' contribution
+Haileyesus Getahun involved in the inception and the design of the study, data collection, data analysis and interpretation and write up of the study. Hana Yirga involved in the data analysis and interpretations and the write up of the study. Daniel Argaw involved in the data collection and the coordination of the study.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

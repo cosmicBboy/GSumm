@@ -1,0 +1,974 @@
+
+
+Background
+The purpose of this study was to investigate the impact of a 20-year process of de-industrialization in the British Columbia (BC) sawmill industry on labour force trajectories, unemployment history, and physical and psychosocial work conditions as these are important determinants of health in workforces.
+
+
+Methods
+The study is based on a sample of 1,885 respondents all of whom were sawmill workers in 1979, a year prior to commencement of de-industrialization and who were followed up and interviewed approximately 20 years later.
+
+
+Results
+Forty percent of workers, 64 years and under, were employed outside the sawmill sector at time of interview. Approximately one third of workers, aged 64 and under, experienced 25 months of more of unemployment during the study period. Only, 1.5% of workers were identified as a "hard core" group of long-term unemployed. Workers re-employed outside the sawmill sector experienced improved physical and psychosocial work conditions relative to those employed in sawmills during the study period. This benefit was greatest for workers originally in unskilled and semi-skilled jobs in sawmills.
+
+
+Conclusions
+This study shows that future health studies should pay particular attention to long-term employees in manufacturing who may have gone through de-industrialization resulting in exposures to a combination of sustained job insecurity, cyclical unemployment, and adverse physical and psychosocial work conditions.
+
+
+
+Background
+The primary purpose of this study is to further our understanding of the dynamics of de-industrialization on unemployment and on physical and psychosocial work conditions as these are key determinants of health in workplaces. We present here a case study of a single industry, sawmilling, in the province of British Columbia (BC) in Western Canada over a 20-year period between 1979 and 1999.
+This investigation is based on a sample of workers employed in 14 BC sawmills in 1979 just prior to a major recession. These workers were followed up and interviewed approximately 20 years later in order to determine their unemployment history, current employment (sector and occupation), and current physical and psychosocial work conditions.
+Canada's resource manufacturing sector was particularly hard hit by a recession which began in 1980 and lasted until 1985 [1-3]. In BC, unemployment in the forest products industry rose from 6.4% in 1979 to 19.2% in 1982 [4]. In the sawmill sub-sector unemployment was 44% in 1982 and, 39% of those downsized during the recession were without work 7 years later [5]. The recession was followed by a sustained period of restructuring in many of these sawmills.
+Canada's resource manufacturing sector was not unique in experiencing major employment losses in the 1980s and 1990s. Average unemployment rates in G-7 nations for the decade 19641973 were 3.1% compared to 7.8 % for the decade from 1983 to 1992 [6]. Reductions in employment were uneven across sectors. From 1973 to 1990, the annual growth of manufacturing employment per capita for the United States and for OECD nations was -0.7 and -1.6, respectively, compared to per capita growth of service sector employment of +1.5 in the United States and +1.3 the OECD [7]. Canada was particularly hard hit as it experienced the largest decrease in manufacturing employment (32%) compared to a G-7 average of 24 percent between 1971 and 1991 [8].
+Given that de-industrialization in developed nations is widespread and, because it has affected and continues to affect millions of workers, it is important to investigate the long term consequences of this process. Workers affected by de-industrialization will fall into three very broad, and not necessarily exclusive categories: the long term unemployed, those unemployed following downsizing but re-employed in the long term, and, "survivors" who remain employed in industries that will experience differing intensities of re-structuring.
+According to a large body of research, the first class of potential "losers" in the de-industrialization process, will likely be those workers with long term exposure to unemployment since it has adverse effects on general mortality and morbidity [9,10]. If de-industrialization produces a group of workers who are not re-employed or re-employable over the long term, this research indicates that such workers will be at high risk for ill health.
+In terms of the second class of workers  those who are downsized from an industry but find re-employment in the long term  the research is equivocal. Most of the research on unemployment conducted in the era from 1945 to the early 1970s focused on workers downsized because of fluctuations in the business cycle. However, according to Bartley the population of unemployed workers produced by de-industrialization should be called "redundants" [11]. These differ from the population of unemployed in the immediate post-war era because their status is due to permanent rather than cyclical shifts in the labour markets of developed economies.
+The implicit assumptions are first, that structural changes in the labour market, associated with de-industrialization, will make it more difficult than in the past for unemployed workers to find re-employment and, second, that re-employment of these redundants will ameliorate or reverse the ill effects of unemployment. Most longitudinal studies of the impact of unemployment followed by re-employment have focused on emotional and psychological outcomes. Some of these studies showed that adverse psychological impacts of unemployment continued unabated after re-employment [12,13]. Others showed psychological recovery following re-employment, but with the extent of recovery depending on whether the new job was better than the old [14,15].
+Interestingly, studies which demonstrated the ameliorative effects of re-employment following unemployment were conducted in situations where workers found jobs that were superior to their old jobs [16-19]. As far as is known, besides the general observation that many of the re-employment jobs were "better" than the workers' old jobs, these investigators did not compare occupational category or psychosocial and physical work conditions of old with re-employment jobs in any detail.
+The research on survivors is even less complete. Most studies of survivors focus on short term (3 months or less) psychological or behavioural outcomes [20-25] and have been conceptualized within a "survivor guilt" model [26] in which adverse effects observed among survivors are ascribed mainly to the loss of co-workers and organizational stability because of downsizing.
+Several studies have shown that survivors experienced lowered job satisfaction, organizational commitment, and greater stress [21-23,27,28]. Two of these studies determined that a downsizing process which was perceived as "fair" had a positive impact on survivors attitude to their job and commitment to their employer [23,27]. Two other studies showed that blue-collar workers and technicians were more likely to perceive the downsizing process as unfair compared to supervisors and managers [20,29].
+As in the case of re-employment research, most survivor studies assessed outcomes within a few weeks or months of downsizing so that long-term conclusions about the impacts on survivors are difficult to determine. The survivor guilt framework of these studies does not allow for the possibility that adverse health impacts among survivors could also have been due to the new job conditions they encountered as their industries restructured.
+As far as is known, only one long term study has been undertaken with survivors of downsizing [30]. This study investigated the effects of a well planned 'strategic' downsizing  conducted in conjunction with an "empowerment" program among 139 employees in a British chemical processing plant over four years. This downsizing was planned and implemented mainly through early retirement and "natural wastage" so that less than 5% of downsized workers were laid-off. The study observed statistically significant increases in task-level demand, control, worker participation, as well as in job satisfaction over 4 years. The authors concluded that detrimental effects on employee well-being due to increased demand may have been moderated by increased task-level control and participation in the downsizing and that the increased demands were largely due to surviving workers having to cope with the same amount work but with fewer co-workers.
+However, usually the downsizing process involves active restructuring [31], with complex alterations to existing technology, jobs, and work conditions without implementation of "empowerment" programs [32]. Such restructuring has been shown to adversely impact task-level control, social support and demand [33-35]. Also several studies have shown that restructuring may involve the introduction of new forms of work organization such as total quality management (TQM) and of new production methods, in particular lean production, all of which may impact physical and psychosocial work conditions profoundly [36,37].
+In a systematic review of 20 studies on the effects of industrial restructuring involving lean production techniques, Landsbergis showed that most of these workplaces were characterized by increased work pace and limited job autonomy [38]. In other words, the restructuring  at least in as much as it involved moves to lean production  may produce work conditions which are detrimental to workers health. Any long term investigation of survivors of de-industrialization must take into account the impact of restructuring on health via its influence on persistent threats to employment and by way of changed physical and psychosocial work conditions.
+This paper addresses several questions. What was the demographic impact of the de-industrialization process? Did de-industrialization, occurring over a 20-year period, in BC's sawmill sector, produce a core of long-term unemployed workers? The next group of questions concerns the second and third categories of workers affected by de-industrialization; those who were re-employed, over the long term outside the sawmill sector, and the survivors who remained employed in sawmills? How do these two groups of workers differ socio-demographically and in terms of their unemployment histories? And, how do the physical and psychosocial work conditions differ for these two groups approximately 20 years after the recession?
+
+
+Methods
+This investigation is based on a sample of 3,000 sawmill workers drawn randomly from a cohort that was originally gathered to study the impact of chlorophenol anti-sapstain chemicals on BC sawmill workers [39].
+
+Selection of sawmills and workers for the original study
+Fourteen medium to large sized sawmills, located mainly in Southwest BC, participated in a retrospective cohort study which was conducted between 1987 and 1998. Mills were selected on the basis of a long-term history of chlorophenol use and availability of intact personnel records. A total of 28,794 workers were enrolled in the cohort, representing approximately 20 percent of all BC sawmill workers. To be eligible, a worker had to be employed at a study mill for at least one year between January 1, 1950 and December 31, 1998. The cohort contains job history data on all cohort members from 1950 to 1998.
+Because a recession and major restructuring of sawmills began in 1980, the year 1979 was chosen as the pre-recession/restructuring "baseline" year. All workers enrolled in the cohort during 1979 were included in this baseline sub-cohort. A sample of 3,000 workers was randomly selected from the 9,806 workers working in a study sawmill in 1979.
+
+
+Locating interviewees
+In order to locate interviewees the 1979 sub-cohort was linked to the British Columbia Linked Health Database (BCLHDB). Through the BCLHDB we had access to the first 3-digits of the 6-digit postal codes allowing us to identify the community where cohort members lived, so that we could then locate individuals through local public information sources.
+The 9,806 workers employed at a study mill in 1979 were linked probabilistically to the BCLHDB. Linkage efficiency was 94.7% such that 3-digit postal codes were obtained for 9,282 of the 9,806 workers in the sub-cohort including 2,920 (97.3%) of the 3000 sampled workers. Searches of union pension plans, electronic telephone databases, and telephone books (by hand) were undertaken to obtain full addresses for the 3,000 workers. For the 80 unlinked workers in the sample, address searches were undertaken using names only.
+
+
+Administering the interviews
+Face-to-face interviews were conducted between November 1997 and March 1999. Subjects living in remote regions of the province were interviewed by telephone. A short version of the questionnaire (requiring about 20 minutes compared to one hour) was administered by telephone when a respondent was only willing to conduct a brief interview or when proxy interviews were conducted for deceased and incapacitated interviewees. However, because work-related variables were incompletely determined with the short version of the questionnaire, only the long version of the questionnaire was used in the analysis described here.
+
+
+The instrument
+The instrument was developed after a thorough review of the literature on technological change, restructuring, unemployment, and health and work. Two focus groups were conducted with experienced sawmill workers to finalize the questionnaire; it was then pilot tested on 29 retired sawmill workers.
+Socio-demographics characteristics were measured. To ascertain their labour market experience, the history of cross-sectoral and occupational mobility and the history of unemployment, measured by the number of episodes and duration, was determined from 1979 to time of interview.
+Task-level work characteristics were measured using a shortened version [40,41] (See Additional file) of the demand/control instrument [42]. The questions in this instrument measure decision lattitude (control), psychological and physical demand, and co-worker and supervisor social support for each job title held by a respondent. Psychosocial work conditions were determined in job held at time of interview for those still employed.
+
+
+Data analysis
+In order to measure cross-sectoral mobility industries were coded into the following sectors: sawmill, other forest products manufacturing (including pulp and paper, plywood, shingle and shake etc.); fishing and farming; construction/renovation; non-forest products manufacturing and mining; the service sector; and transportation.
+In order to measure cross-occupational mobility, all sawmill job titles obtained in the interviews were re-coded to one of 86 basic sawmill job titles [40]. All jobs were also coded using the Standard Occupational Classification [43] and then translated into the Pineo16 Occupational Status Scale [44]. This 16-category scale was collapsed into 4 basic categories; professional/managerial, trades, semi-skilled, and unskilled. Employment trajectories and sociodemographic characteristics were determined for workers who remain employed in the sawmill sector, for workers who were re-employed in other sectors, and for unemployed workers.
+In the first set of descriptive analyses, the labour force participation status and sector of last or current employment was determined for all respondents (See File 2:figure 1.doc). In the second set of analyses, socio-demographic characteristics for labour force participants 64 years and under at time of interview were compared between the unemployed, those employed in sawmills and workers employed outside the sawmill sector. Chi square statistics were calculated for all possible comparisons among the three groups of workers (Table 2).
+
+Figure 1
+
+Labour force participation of workers in 1979 and at time of interview. The number of labour force participants, aged 64 and under, was 1,239 (69 unemployed + 570 Non-Sawmill workers + 600 Sawmill workers).
+
+
+
+
+Table 2
+
+Sociodemographic characteristics by sector for labour force participants 64 years of age or under (percent).
+
+
+
+
+
+SOCIO-dEMGRAPHICS
+
+
+Sawmill (1) N = 600
+
+
+Other sector(2) N = 570
+
+
+Unemploy (3) N = 69
+
+
+Chi square 1*2*3
+
+
+Chi square 1*2
+
+
+Chi square 1*3
+
+
+Chi square 2*3
+
+
+
+
+
+
+Age category
+
+
+
+
+157.1***
+153.5***
+5.5
+21.3**
+
+
+3539
+48 (8.0)
+151 (26.5)
+8 (11.9)
+
+
+
+
+
+
+4044
+128 (21.3)
+192 (33.6)
+19 (26.9)
+
+
+
+
+
+
+4549
+131 (21.9)
+106 (18.6)
+19 (26.9)
+
+
+
+
+
+
+5054
+143 (23.8)
+71 (12.5)
+10 (14.9)
+
+
+
+
+
+
+5559
+108 (17.9)
+20 (3.5)
+9 (13.4)
+
+
+
+
+
+
+6064
+42 (7.0)
+30 (5.3)
+4 (6.0)
+
+
+
+
+
+
+
+Marital status
+
+
+
+
+0.47
+0.46
+0.06
+0.01
+
+
+% Not married
+91 (15.2)
+95 (16.7)
+11 (16.4)
+
+
+
+
+
+
+
+Place of birth
+
+
+
+
+39.3***
+39.3***
+0.80
+4.4*
+
+
+Non-Canadian born
+212 (35.3)
+108 (19.0)
+21 (29.9)
+
+
+
+
+
+
+
+Highest education
+
+
+
+
+78.9***
+68.8***
+3.9
+25.5***
+
+
+University
+48 (8.0)
+94 (16.5)
+2 (3.0)
+
+
+
+
+
+
+Community college
+68 (11.4)
+126 (22.1)
+10 (14.9)
+
+
+
+
+
+
+Apprentice
+113 (18.8)
+93 (16.3)
+11 (16.4)
+
+
+
+
+
+
+Secondary
+170 (28.3)
+160 (28.1)
+18 (25.4)
+
+
+
+
+
+
+Elementary or less
+201 (33.5)
+97 (17.0)
+28 (40.3)
+
+
+
+
+
+
+
+Income in 1998
+
+
+
+
+66.0***
+42.4***
+43.3***
+18.9**
+
+
+< $39,999
+49 (8.2)
+111 (19.5)
+10 (15.0)
+
+
+
+
+
+
+$40,000$79,999
+421 (70.1)
+312 (54.8)
+42 (60.0)
+
+
+
+
+
+
+>$80,000
+130 (21.6)
+147 (25.8)
+17 (25.0)
+
+
+
+
+
+
+
+Home ownership
+
+
+
+
+15.3**
+15.3***
+1.3
+0.5
+
+
+% own home
+547 (91.1)
+475 (83.3)
+60 (86.6)
+
+
+
+
+
+
+
+
+***p > 0.00; **p = 0.0010.01; *p = 0.050.01.
+
+
+In the third set of analyses, unemployment history was compared and contrasted between the unemployed, those employed in sawmills and workers employed outside the sawmill sector. Chi square statistics were calculated for all possible comparisons among the three groups of workers (Table 3). As well, in order to determine the size and characteristics of workers most affected by de-industrialization, length and duration of unemployment were calculated (for the three groups of workers) for workers experiencing 25 months or more unemployment during the study period (Table 4).
+
+Table 3
+
+Unemployment history by sctor for labour force participants 64 years of age or under (percent).
+
+
+
+
+
+SOCIO-dEMGRAPHICS
+
+
+Sawmill (1) N = 600
+
+
+Other sector(2) N = 570
+
+
+Unemploy (3) N = 69
+
+
+Chi square 1*2*3
+
+
+Chi square 1*2
+
+
+Chi square 1*3
+
+
+Chi square 2*3
+
+
+
+
+
+
+Ever/never
+
+
+
+
+
+26.5***
+
+
+
+
+Ever unemployed
+220 (36.7)
+295 (51.7)
+69 (100.0)
+
+
+
+
+
+
+
+
+
+
+
+
+# of episodes
+
+
+
+
+42.9**
+1.2
+37.2***
+32.0***
+
+
+1
+159 (72.1)
+200 (67.7)
+24 (34.3)
+
+
+
+
+
+
+2
+45 (20.5)
+69 (23.5)
+25 (35.8)
+
+
+
+
+
+
+3 or more
+16 (7.3)
+26 (8.8)
+20 (29.9)
+
+
+
+
+
+
+
+
+
+
+
+
+Duration
+
+
+
+
+24.8**
+4.5
+10.9**
+24.3***
+
+
+112 months
+76 (35.2)
+78 (26.4)
+38 (56.1)
+
+
+
+
+
+
+13 to 24 months
+80 (36.5)
+130 (44.1)
+13 (18.2)
+
+
+
+
+
+
+>25 months
+62 (28.3)
+87 (29.5)
+18 (25.8)
+
+
+
+
+
+
+
+
+***p > 0.00; **p = 0.0010.01; *p = 0.050.01.
+
+
+
+Table 4
+
+Length and duration of unemployment for those workers experiencing 25 or more months of unemployment by sector for labour force participants 64 years of age or under.
+
+
+
+
+
+Labour force participation status
+
+
+N
+
+
+Duration in months*
+
+
+Mean # of episodes
+
+
+
+
+
+Sawmill
+62
+38.3 (2587)**
+1.9 (15)***
+
+
+Non-sawmill
+87
+36.4 (2590)
+2.0 (18)
+
+
+Unemployed
+18
+50.4 (2589)
+4.1 (211)
+
+
+
+
+*Average cumulative duration. **Numbers in brackets =Range in months. ***Numbers in brackets=Range in the number of episodes of unemployment.
+
+
+Next, one-way analysis of variance was used to compare the mean scores for psychosocial and physical work conditions at time of interview between those still employed in the sawmill sector with those workers employed outside the sawmill sector (Table 5). A main effects model was constructed controlling for age, place of birth, and education. Separate models were run within each occupational category at time of interview so that the F statistic represents a test of significance for the impact of sector on physical and psychosocial work conditions.
+
+Table 5
+
+Analysis of variance* for physical and psychosocial work scores at time of interview for workers employed outside the sawmill sector and in a sawmill by occupational category at time of interview
+
+
+
+
+
+
+Control
+
+
+Social support
+
+
+Psychological demand
+
+
+Physical demand
+
+
+Noise
+
+
+
+
+
+
+Job category
+
+
+Sm*
+
+
+Non**
+
+
+Sm
+
+
+Non
+
+
+Sm
+
+
+Non
+
+
+Sm
+
+
+Non
+
+
+Sm
+
+
+Non
+
+
+
+
+
+
+
+
+Managers
+27.5
+26.9(0.60)
+6.0
+6.7(0.71)
+12.8
+13.7(0.25)
+2.4
+2.1(0.72)
+2.6
+2.1(0.00)
+
+
+Trades
+24.2
+24.8(0.72)
+5.8
+5.8(0.58)
+13.2
+12.6(0.01)
+3.0
+2.9(0.01)
+3.4
+2.9(0.00)
+
+
+Semi-skilled
+22.2
+23.3(0.05)
+5.4
+5.9(0.005)
+13.2
+12.9(0.35)
+2.7
+2.7(0.60)
+3.2
+2.8(0.00)
+
+
+Unskilled
+20.7
+22.4(0.01)
+5.2
+6.0(0.00)
+13.3
+12.4(0.01)
+3.0
+2.7(0.22)
+3.3
+2.4(0.00)
+
+
+
+
+Numbers in parentheses indicate p values, for the F statistic, after controlling for occupational category at time of interview, income, education, age, and place of birth. *Sm = Sawmill sector **Non = Non-sawmill sector Range in adjusted noise, social support, and physical demand scores was from 1 to 4. Range in adjusted psychological demand scores was from 8 to 20. Range in adjusted control scores was from 18 to 32.
+
+
+Finally, one-way analysis of variance was used to compare the mean scores for psychosocial and physical work conditions at time of interview between those still employed in the sawmill sector with those workers employed outside the sawmill sector (Table 6). A main effects models was constructed controlling for age, place of birth, and education. Separate models were run within each occupational category held at baseline in 1979 so that the F statistic represents a test of significance for the impact of sector on physical and psychosocial work conditions with occupational categories held a baseline.
+
+Table 6
+
+Analysis of variance* for physical and psychosocial work scores at time of interview for workers employed outside the sawmill sector and in a sawmill by occupational category in 1979
+
+
+
+
+
+
+Control
+
+
+Social support
+
+
+Psychological demand
+
+
+Physical demand
+
+
+Noise
+
+
+
+
+
+
+Job category
+
+
+SM*
+
+
+Non **
+
+
+Sm
+
+
+Non
+
+
+Sm
+
+
+Non
+
+
+Sm
+
+
+Non
+
+
+Sm
+
+
+Non
+
+
+
+
+
+
+
+
+Managers
+23.9
+24.3(0.08)
+5.9
+5.9(0.42)
+13.3
+13.7(0.90)
+2.6
+2.3(0.72)
+2.9
+2.3(0.17)
+
+
+Trades
+23.8
+24.7(0.17)
+6.0
+5.9(0.96)
+13.0
+12.4(0.01)
+2.9
+2.6(0.004)
+3.3
+2.8(0.000)
+
+
+Semi-skilled
+22.8
+24.2(0.09)
+5.6
+6.1(0.009)
+13.1
+12.8(0.18)
+2.6
+2.7(0.57)
+3.1
+2.5(0.000)
+
+
+Unskilled
+22.4
+25.0(0.000)
+5.4
+6.2(0.000)
+13.4
+13.2(0.16)
+2.9
+2.6(0.05)
+3.3
+2.4(0.000)
+
+
+
+
+Numbers in parentheses indicate p values, for the F statistic, after controlling for occupational category in 1979 (baseline), income, education, age, and place of birth. *Sm = Sawmill sector **Non = Non-sawmill sector Range in adjusted noise, social support, and physical demand scores was from 1 to 4. Range in adjusted psychological demand scores was from 8 to 20. Range in adjusted control scores was from 18 to 32
+
+
+
+
+
+Results
+
+Survey response
+Table 1 shows that 62.9 percent of respondents completed the long questionnaire and 9.1 percent completed the short questionnaire for an overall survey response rate of 72 percent. The refusal rate was 4.2 percent, and 19 percent of respondents were not located. The proportion of workers "not found" was highest among those who had worked in isolated "mill towns". Although refusal rates did not vary by age category, the "not found" rate was highest in younger age groups and workers with the lowest duration of work in a study sawmill. The analysis is based on the 1,885 respondents (62.9%) who answered the long questionnaire.
+
+Table 1
+
+Interview status
+
+
+
+
+
+Interview status
+
+
+Number
+
+
+Percent
+
+
+
+
+
+Long questionnaire (face-to-face)
+1885
+62.9
+
+
+Short questionnaire*
+270
+9.1
+
+
+
+Questionnaire sub-total
+
+
+2155
+
+
+72.0
+
+
+
+Refusals
+126
+4.2
+
+
+Deceased
+18
+0.6
+
+
+Needs translator
+8
+0.3
+
+
+Not located
+582
+19.0
+
+
+Unresolved
+111
+3.8
+
+
+
+Total
+
+
+3000
+
+
+100.0
+
+
+
+
+
+*32 short questionnaire interviews were with the relatives of deceased workers. The total number of deceased workers in the sample was therefore 50.
+
+
+
+
+Cross sectoral mobility of the labour force
+What were the labour force circumstances for workers at time of interview? In 1999, 464 (24.6%) were aged 65 and over. Of the remaining 1,421 (75.4%) respondents aged 64 or under, 600 (42.2%) were still employed in a sawmill, 570 (40.1%) were employed outside the sawmill sector, 131 (9.2%) had taken early retirement, 69 (4.9%) were unemployed, 40 (2.8%) were disabled, and 11 (0.8%) were either working as volunteers, looking after children at home, or attending educational institutions.
+Among the 570 workers age 64 and under who were employed outside the sawmill sector 212 (37.2%) were in the service sector, 167 (29.3%) were employed in non-sawmill forest products manufacturing  such as pulp mills, paper mills or logging operations, 73 (12.8%) were in construction or renovation, 56 (9.8%) were in transportation, 49 (8.6%) were in non-forest products manufacturing and 13 (2.3%) were employed in fishing or farming.
+
+
+Socio-demographic characteristics of labour force participants 64 years old and under
+There were no significant differences in marital status among the 3 groups (i.e. the unemployed, employed in the sawmill sector, and employed outside the sawmill sector) (Table 2). In comparing sawmill sector workers with the unemployed, no statistically significant differences were observed except for current income as 23 unemployed workers (33.4%) earned less than $49,000 in the year preceding interview compared to 49 (8.2%) sawmill workers (Chi square 43.3; p < 0.00)).
+The greatest differences in socio-demographic characteristics were found between groups of the currently employed. Approximately 50% of workers employed outside the sawmill sector were under age 45 compared to 29.3% of sawmill workers. As well, non-sawmill workers were approximately twice as likely to have a college or university education and to be Canadian born than sawmill workers.
+For both employed groups, approximately 25% earned more than $80,000 in the year before interview. However, 19.5% of workers employed outside the sawmill sector, and 8.2% of sawmill workers were in the lowest income category (less than $39,000). Home ownership was significantly greater for sawmill workers (91.1%) compared with non-sawmill workers (83.3%). Interestingly, more unemployed workers (86.6%) owned homes than workers employed outside the sawmill sector.
+
+
+Unemployment history of labour force participants 64 years old and under
+Statistically significant differences for the "ever" unemployed were observed as 51.7% of non-sawmill sector workers had experienced unemployment compared to 36.7% of sawmill workers (Table 3). As well, workers unemployed at time of interview were approximately 4 times as likely to have experienced 3 or more episodes of unemployment compared to workers employed at time of interview although long durations of unemployment (>25 months) were similar across the 3 groups.
+A total of 167 (13.2%) of labour force participants 64 years of age or under experienced an average cumulative duration of unemployment of 25 months or more during the study period (Table 4). The survivor group experienced an average of 38.3 months and 1.9 episodes of unemployment, the group re-employed outside the sawmill sector experienced an average of 36.4 months and 2.0 episodes of unemployment, and the group unemployed at time of interview experienced 50.4 months and 4.1 episodes of unemployment.
+
+
+Work conditions in re-structured sawmills compared to work conditions for those re-employed outside the sawmill sector
+Table 5 shows mean scores for control, social support, psychological demand, physical demand and noise for workers in the sawmill and non-sawmill sectors, within occupational categories at time of interview, after controlling confounders. Control and social support scores decreased moving down the occupational hierarchy in both sawmill and non-sawmill sectors. In contrast, demand and noise scores increased moving down the occupational hierarchy except for physical demand and noise among tradesmen and the semi-skilled.
+Control and social support were greater among non-sawmill workers, except in the case of control for managers which was greater for workers employed in a sawmill. Scores for demand variables, with the exception of psychological demand for managers, were greater for sawmill compared to non-sawmill workers.
+Statistically significant differences between the sawmill and non-sawmill sectors were observed for noise within all occupational categories. Noise scores were always higher in the sawmill sector with differences ranging from a low of 12.5% within the semi-skilled category to a high of 27.2% within the unskilled category. For physical demand, differences between the sectors were not statistically significant except for trades, where it was slightly greater for sawmill workers. Tradesmen and unskilled workers employed in sawmills experienced 4.5% and 6.8%, respectively, greater psychological demand (statistically significant) than their colleagues employed outside the sawmill sector.
+Semi-skilled and unskilled workers employed in sawmills experienced 9.2% and 15.4% less social support (statistically significant) than their colleagues employed outside the sawmill sector. And, semi-skilled and unskilled workers employed in sawmills experienced 5.0% and 7.6%, respectively less control, (statistically significant) than their colleagues employed outside the sawmill sector.
+Table 6 compares work conditions at time of interview according to occupational category in 1979 for sawmill workers and those who left the industry. This analysis assesses the impact of moving away from employment in sawmills for workers starting in the same occupational category at baseline. No statistically significant differences in work conditions were observed for workers who were managers at baseline and who had obtained re-employment outside the sawmill sector 20 years later. Workers who left the sawmill sector for re-employment elsewhere had reduced noise scores relative the survivors who stayed employed in sawmills for all occupational categories except managers. Reductions in noise scores were greatest for those who were originally unskilled workers in sawmills (27.3%). For workers who were tradesmen in a sawmill at baseline and moved to re-employment outside the sawmill sector at time of interview, statistically significant reductions were observed for psychological demand (4.6% decrease) and physical demand (10.3%).
+For workers who were in semi-skilled occupations in a sawmill at baseline and moved to re-employment outside the sawmill sector at time of interview, a statistically significant increase of 8.9% was observed for social support. For workers who were in unskilled occupations in a sawmill at baseline and moved to re-employment outside the sawmill statistically significant increases in control (2.7%), social support (14.8%), and statistically significant decreases in physical demand (10.3%) were observed.
+
+
+
+Discussion
+De-industrialization has been widespread in manufacturing workforces in developed nations over the past quarter of a century. This trend is likely to continue with technological innovation in manufacturing and, furthermore, is likely to continue in conjunction with sustained restructuring of manufacturing industries. The long-term impacts on threat of unemployment, unemployment, and working conditions have been under investigated in spite of the fact that this process is widespread in the industrialized world, is likely to have major impacts on health, and has affected and continues to affect many workers.
+The purpose this study was to better understand the dynamics of de-industrialization on intermediate workplace determinants of health in a sample of BC sawmill workers. The first question, addressed in the study was, what was the demographic impact of the de-industrialization process? Of those workers 64 years and under, and employed at time of interview, approximately half were employed outside the sawmill sector indicating that the non-sawmill sector was vibrant enough during the study period to provide employment opportunities for workers who exited the sawmill sector.
+Workers who exited the sawmill sector were slightly younger than those who remained employed in mills and also had significantly lower incomes, were better educated, and more likely to be Canadian born. This demographic profile may be partially explained because lay-offs in the industry proceeded strictly on a seniority basis. With the onset of recession and restructuring in 1980, younger workers were laid off first many of whom took further education leading to subsequent employment within the expanding non-sawmill sector. Availability of education for these young adults in conjunction with economic expansion in BC's non-sawmill segments of the economy partially explains these observations.
+Did de-industrialization, occurring over a 20-year period, in BC's sawmill sector, produce a core of long-term unemployed workers? The impact of de-industrialization can be gauged by the scope and depth of unemployment among workers in this sample. For example, approximately 40% of workers aged 64 and under at time of interview had experienced unemployment at least once during the study period. Within this group of workers, approximately one third experienced unemployment for an average cumulative duration of 36 or more months. And, within the group of workers who were unemployed at time of interview, one quarter experienced over 4 years of unemployment.
+In other words, among the large number of workers in this sample who experienced unemployment, those workers who were employed at time of interview were out of work 15 % of the study period and those workers unemployed at time of interview were out of work for over 20% of the study period. Although a hard core of long-term unemployed workers was not evident in this study, it is clear that in both groups of workers many were exposed to unemployment for long periods of time. This, means that the length of time, during the study period, that workers were exposed to a combination of the threat and experience of unemployment was also likely very high.
+How did the physical and psychosocial work conditions differ for sawmill survivors and exiters approximately 20 years after the recession? In general, physical and psychosocial work conditions experienced by workers employed, in similar occupations, outside the sawmill sector were better than for workers employed at sawmills. And, the work conditions benefits of re-employment in a similar job category outside the sawmill sector relative to continued work in the sawmills were greater for those employed in unskilled or semi-skilled occupations and trades at time of interview.
+In particular, statistically significant improvements in social support and control were observed for unskilled and semi-skilled workers and statistically significant improvements were observed in psychological demand for unskilled workers. Statistically significant improvements were also noted for psychological and physical demand among tradesmen who were re-employed outside the sawmill sector.
+By conducting the same analysis within occupational category at baseline, we were able to compare physical and psychosocial work conditions in 1999, for workers who started from the "the same place" in 1979. As in the previous analysis, workers who moved to re-employment outside the sawmill sector, in general, showed improvement in work conditions relative to workers who remained in sawmills. And again, as in the previous analysis the benefits of improved work conditions were most pronounced for the unskilled, semi-skilled, and tradesmen.
+In evaluating the balance of change in control and demand conditions, unskilled workers appear to have benefited most from modest improvements in physical and psychosocial working conditions in restructured sawmills. In contrast, managers may have gained the least benefit from restructuring (they were the only group to show a decline in control scores in combination with an increase in psychological demand, indicating that job strain for managers may be higher outside than inside the sawmill sector).
+There are several limitations to this study. First, the sawmill cohort, by selecting workers who worked for a minimum of one year excluded workers with the least seniority. This investigation, therefore likely underestimated unemployment relative to the entire BC sawmill workforce. Second, this bias will be reinforced because the workers "not found" in the sample of 3000 workers tended to be younger with less seniority than interview respondents. The "not found" likely consisted of young workers with low seniority who left the province during the initial recession between 1980 and 1985.
+Because downsizing in the early 1980s proceeded strictly on the basis of seniority, those most likely to be laid off in the early 1980s were also those with the lowest duration of employment. This group is over-represented among non-respondents. By 1999, members of this group would have likely been located if they were employed at a study sawmill so they also represent those workers in 1999 who were either living outside BC, or if employed, were working outside the sawmill sector in the province.
+Another limitation of this investigation pertains to its generalizability. As noted in the introduction, the way in which workers experience de-industrialization will depend on the extent of the process, the occupational mobility of downsized workers and their ability to obtain education, and the availability of alternative labour markets. The results of this study are based on a particular situation in the resource sector in BC in the 1980s and 1990s.
+However, the general trend to de-industrialization of blue-collar manufacturing was widespread in the industrial world during this time and is continuing. The particular finding in this study that "survivors" of this process may be at some risk for exposure to both unemployment and adverse physical and psychosocial work conditions highlights the possibility that de-industrialization in other industries may pose risks for survivors.
+
+
+Conclusions
+This potential for adverse exposures among survivors of de-industrialization has been noted, as far as is known, in one other study [45]. Studies related to de-industrialization usually focus on those who are downsized as the workers who retain jobs within these industries are usually considered the "winners" in the situation. This study points out that in the context of de-industrialization, involving both downsizing and re-structuring and technological change, the histories of unemployment as well as work conditions for those surviving who remain attached to the industry may also be worthy of study for their potential impacts on health.
+
+
+Competing Interests
+None declared.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+
+
+Supplementary Material
+
+
+Additional file
+13-item shortened demand/control questionnaire. This file contains the questions used to calculate control, social support, psychological and physical demand, and noise scores. Labour force participation of workers in 1979 and at time of interview
+
+
+
+Click here for file
+
+
+
+

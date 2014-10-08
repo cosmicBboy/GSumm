@@ -1,0 +1,1282 @@
+
+
+Background
+All current UK indices of socio-economic status have inherent problems, especially those used to govern resource allocation to the health sphere. The search for improved markers continues: this study proposes and tests the possibility that Council Tax Valuation Band (CTVB) might match requirements.
+
+
+Presentation of the hypothesis
+To determine if there is an association between CTVB of final residence and mortality risk using the death registers of a UK general practice.
+
+
+Testing the hypothesis
+Standardised death rates and odds ratios (ORs) for groups defined by CTVB of dwelling (A  H) were calculated using one in four denominator samples from the practice lists. Analyses were repeated three times  between number of deaths and CTVB of residence of deceased 1992  1994 inclusive, 1995  1997 inc., 1998  2000 inc.
+In 856 deaths there were consistent and significant differences in death rates between CTVBs: above average for bands A and B residents; below average for other band residents. There were significantly higher ORs for A, B residents who were female and who died prematurely (before average group life expectancy).
+
+
+Implications of the hypothesis
+CTVB of final residence appears to be a proxy marker of mortality risk and could be a valuable indicator of health needs resource at household level. It is worthy of further exploration.
+
+
+
+Background
+Mortality statistics remain the least ambiguous measure of significant illness, certainly beyond youth and early middle age. Therefore, when testing the validity of any supposed predictor of health, its association with mortality will be an 'acid test' and many of the recent reports on the relationship between socio-economic status and health have used mortality data [1-17]. These late 20th century studies confirm what had been detected in the 19th century [18]  that poor socio-economic circumstances are associated with reduced life span. But our understanding of the mechanisms involved remains defective, perhaps because there is no way of relating the many different, and often proxy, measures of socio-economic status: social standing lacks the definitude of death. Researchers have used occupational role [19], levels of educational attainment [12], ad hoc combinations of occupation, home and car ownership [20], refined indices such as that of Carstairs [21] or of Townsend [1], and so-called 'geodemographic' markers [15]. There are problems with all of these. For instance car ownership is an unavoidable expense for poor rural families and how, precisely, can one allocate occupational standing to the unemployed, the housewife, or the retired? And as often as locality comparisons are reported, critics remind us of the ecological 'fallacy' [22] viz. that 'average' endowment of an area, however small, will mask individual or household deprivation. The search for a valid, universal, current, and easily accessed UK measure of individual socio-economic standing continues, and particularly for primary care [23-27]. Resource allocation here is obviously a vital activity if limited health service provision is to be effectively targeted, an ambition reactivated by the Government's new policy of 'breaking the link between poverty and ill health' [28].
+In 1992 the British Government introduced legislation [29] that mandated all UK Local Authorities to levy a new tax  the Council Tax  to replace the Community Charge. Homes were to be assessed externally, allotted an 'open market' value (as at 1 April 1991) based on size, layout, character and locality, and placed into one of 8 'Valuation Bands' A  H that would dictate the amount of the tax. In an earlier report [30] we demonstrated an association between Council Tax Valuation Band (CTVB) and:
+(i) established deprivation indicators viz. home ownership, access to a car;
+(ii) clinical workload in a typical UK general practice, i.e. recorded morbidity.
+We were able to show, therefore, that CTVB matches established deprivation markers such as 'Townsend' [1] and that it also correlates (inversely) with patient demand. These associations are reinforced by our further finding [31], of a highly significant correlation between CTVBs & the Underprivileged Area 8 ('UPA8' or 'Jarman') scores [26] which are used to underpin the subsidy payments made to UK general practices in 'deprived' areas of the country. We have now extended our investigations of CTVB using mortality statistics.
+
+
+Presentation of the hypothesis
+The aim of this study is to test the hypothesis that the CTVB of the home in which a subject resides is a predictor of their mortality.
+
+
+Testing the hypothesis
+
+The Practice
+Five whole time partners practise in equal partnership in this semi-rural Research and Development/Training practice based in modern premises. The complements of practice nurses and of administrative staff are above local averages. Patient list size has been between 10,500 & 11,000 for over a decade: age spectrum and annual turnover are close to local and national averages. There are no significant ethnic minorities but Calne is, historically, an industrial town with pockets of deprivation (two enumeration districts have very high UPA8 scores) located in a sparsely populated and largely agrarian county.
+
+
+Study design
+The blueprint was to derive the death rates (standardised directly using our study population norms) of patients who were fully registered with the study practice  grouped by CTVB of residence  over the nine potential years of study, 1992  2000 inclusive.
+
+Numerator data (all deaths)
+The mortality data were retrieved from the practice archives (collected routinely by staff for our annual practice reports) and corroborated by the regular 'deduction' lists received from Wiltshire Health Authority for the return of case notes of patients no longer registered with the practice (because of death in this instance). The archived material provided full name, gender, date of birth, date of death, registered doctor and home address. Individuals living in residential or nursing homes (who are exempt from Council Tax [29]) were admitted to the study by a process of reverse attribution to their former private residential addresses. The data were then anonymised and aggregated into three triennial sets to match the 3 denominator samples i.e. deaths in 1992, 1993, & 1994, deaths in 1995, 1996, & 1997, and deaths in 1998, 1999, & 2000 respectively (see below).
+
+
+Denominator data (25% samples of practice lists)
+Three representative sets of denominator data were obtained from Wiltshire Health Authority records  viz. for July 1, 1993; July 1, 1996; and July 1, 1999 (to minimise unscheduled work for Health Authority staff). The data were aggregated from two sources in appropriate proportions:
+(i) computerised files provided by the Health Authority for the 'live' lists for the practice i.e. patients who had been registered at the pertinent times and who were still registered;
+(ii) archived (hard copy) 'deduction lists' from the Health Authority i.e. of patients who had been removed from the practice lists since each of the three sampling dates.
+The extracted data consisted of full name, gender, date of birth, registered doctor and home address. Reverse attribution was again applied and data anonymised. To make the data manageable, randomiser methods were used to select 25% samples of the denominator populations.
+
+
+Council Tax Valuation Bands
+The CTVB [A  H] for the home addresses of (a) the deceased and of (b) the denominator samples, were obtained from the Council Tax Valuation Lists published by, and available for reference at the offices of, the relevant Local Authorities [North Wiltshire and Kennet]. Banded assessments were originally made in 1991 & 1992: new or amended properties have all been subsequently assessed contemporaneously but then devalued to 1991 levels [29] for banding.
+
+
+
+Statistical testing
+The data are represented by actual numbers, standardised death rates, and odds ratios. All of the data in the analyses are from the 50 years and over practice population. The denominators are based on 25% samples of the 50 years and over practice populations: twenty five percent was chosen for logistic reasons. However, this is sufficient to provide us with stable estimates of the frequency distributions across the CTVB categories. Differences in the ages at death between the groups were tested by the Kruskal-Wallis H test. National data on population structure by CTVB group are not available: therefore the expected numbers of deaths used to calculate the standardised death rates (mean = 100) are calculated as the total number of deaths divided by the total size of the denominator population and then multiplied by the number in each CTVB group. Where appropriate, 95% confidence intervals have been calculated using the methods described in Altman (1999) [33]. Owing to the small number of deaths in these categories, aggregation of CTVBs F, G, and H was necessary: this was only undertaken in order to maintain sufficient numbers in each category (expected number of deaths not less than 5). When considering the odds ratios, CTVB is further reduced down to two categories based on the post-hoc observation of a change in the standardised death rates from greater to less than 100.
+Ethical approval was granted by the Bath Local Ethics Committee.
+
+Numerator findings
+Between 1 January 1992 and 31 December 2000 there were 975 deaths of patients registered at the practice; 459 were male (47.1%) and 516 were female (52.9%). Annual totals varied between 91 and 130 deaths (mean 108). There was no discernible time trend. The spectrum of deaths by age at death is given in Table 1. For women in the study the median age (inter-quartile range) at death is 82 (73  88) years contrasting to 77 (69  84) years for males.
+
+Table 1
+
+Number of deaths, n. 975, divided by age band, genders separated
+
+
+
+
+
+Age band, years
+
+
+09
+
+
+1019
+
+
+2029
+
+
+3039
+
+
+4049
+
+
+5059
+
+
+6069
+
+
+7079
+
+
+8089
+
+
+90+
+
+
+Totals
+
+
+
+
+
+
+No. of deaths
+
+
+males
+
+4
+2
+5
+4
+13
+29
+68
+144
+158
+32
+459
+
+
+
+
+females
+
+0
+2
+0
+2
+8
+21
+65
+128
+186
+104
+516
+
+
+
+
+totals
+
+4
+4
+5
+6
+21
+50
+133
+272
+343
+136
+975
+
+
+
+
+There were only 40 individuals who died aged less than 50 years (4.1%)  28 males and 12 females. All subsequent analyses (tables 2,3,4,5,6,7) were therefore restricted to numerator data (n. 935) and denominator data for those aged 50 years and above. Reverse attribution to former private address was applied to 59 Nursing Home residents and to 76 Residential Home occupants. There were insufficient data to so locate 58 of the 935 deaths (6.2%) because although dying in local Care Homes (34 at Nursing Homes, 24 at Residential Homes) they had formerly lived outside the Local Authority areas.
+
+Table 2
+
+Numbers of study deaths in the three study sets (over 50 years) distributed by CTVB of residence of the deceased (median age at death in parentheses)
+
+
+
+
+
+CTVB
+
+
+A
+
+
+B
+
+
+C
+
+
+D
+
+
+E
+
+
+F+
+
+
+
+
+
+
+1993
+
+67 (79)
+89 (79)
+52 (76)
+58 (79)
+32 (77)
+10 (81)
+
+
+
+1996
+
+68 (81)
+99 (79)
+42 (77)
+34 (82)
+16 (82)
+15 (85)
+
+
+
+1999
+
+49 (77)
+89 (79)
+56 (81)
+45 (81)
+19 (78)
+16 (78)
+
+
+
+
+
+Table 3
+
+Denominator frequencies i.e. 25% of practice populations (over 50 years) by CTVB in the 3 study sets - as at 1 July 1993, 1 July 1996, 1 July 1999
+
+
+
+
+
+
+CTVB
+
+
+A
+
+
+B
+
+
+C
+
+
+D
+
+
+E
+
+
+F+
+
+
+
+
+
+
+Denominators
+
+
+
+
+
+
+
+
+
+
+
+1993
+
+
+121
+209
+185
+175
+103
+87
+
+
+
+1996
+
+
+104
+222
+208
+184
+97
+73
+
+
+
+1999
+
+
+87
+187
+196
+216
+142
+116
+
+
+
+
+
+Table 4
+
+Standardised death rates for each of the three study (over 50 years) sets subdivided by CTVB of residence
+
+
+
+
+
+1993 study set
+
+
+
+
+
+
+CTVB
+
+
+A
+
+
+B
+
+
+C
+
+
+D
+
+
+E
+
+
+F+
+
+
+
+
+
+
+
+
+
+Deaths
+
+67
+89
+52
+58
+32
+10
+
+
+
+Denoms
+
+121
+209
+185
+175
+103
+87
+
+
+
+SDR
+
+158
+122
+80
+95
+88
+33
+
+
+
+95% CIs
+
+120  196
+96  147
+58  102
+70  119
+58  120
+12  53
+
+
+
+
+
+
+
+
+1996 study set
+
+
+
+
+
+
+
+
+
+CTVB
+
+
+A
+
+
+B
+
+
+C
+
+
+D
+
+
+E
+
+
+F+
+
+
+
+
+
+
+
+
+
+Deaths
+
+68
+99
+42
+34
+16
+15
+
+
+
+Denoms
+
+104
+222
+208
+184
+97
+73
+
+
+
+SDR
+
+212
+145
+65
+60
+53
+67
+
+
+
+95% CIs
+
+162  262
+116  173
+46  85
+40  80
+27  79
+33  100
+
+
+
+
+
+
+
+
+1999 study set
+
+
+
+
+
+
+
+
+
+CTVB
+
+
+A
+
+
+B
+
+
+C
+
+
+D
+
+
+E
+
+
+F+
+
+
+
+
+
+
+
+
+
+Deaths
+
+49
+89
+56
+45
+19
+16
+
+
+
+Denoms
+
+87
+187
+196
+216
+142
+116
+
+
+
+SDR
+
+194
+164
+98
+72
+46
+48
+
+
+
+95% CIs
+
+140  248
+130  198
+73  124
+51  93
+25  67
+24  71
+
+
+
+
+
+Table 5
+
+Standardised death rates for CTVB A,B residents compared with those for C+ residents with the Odds Ratios for former in relation to latter
+
+
+
+
+
+1993 study set
+
+
+
+
+
+
+CTVB
+
+
+A,B
+
+
+C +
+
+
+Odds Ratio A,B/C+ (95% CI)
+
+
+
+
+
+
+
+
+
+Deaths
+
+156
+152
+
+
+
+
+Denominators
+
+330
+550
+
+
+
+
+Mortality Risk
+
+0.473
+0.276
+1.71 (1.41  2.07)
+
+
+
+
+
+
+
+
+1996 study set
+
+
+
+
+
+
+
+
+
+CTVB
+
+
+A,B
+
+
+C +
+
+
+Odds Ratio A,B/C+ (95% CI)
+
+
+
+
+Deaths
+
+167
+107
+
+
+
+
+Denominators
+
+326
+562
+
+
+
+
+Mortality Risk
+
+0.512
+0.190
+2.69 (2.17  3.33)
+
+
+
+
+
+
+
+
+1999 study set
+
+
+
+
+
+
+
+
+
+CTVB
+
+
+A,B
+
+
+C +
+
+
+Odds Ratio A,B/C+ (95% CI)
+
+
+
+
+Deaths
+
+138
+136
+
+
+
+
+Denominators
+
+274
+670
+
+
+
+
+Mortality Risk
+
+0.504
+0.203
+2.48 (2.02  3.05)
+
+
+
+
+
+Table 6
+
+Standardised death rates for CTVB A,B residents (males and females differentiated) compared with those for C+ residents with the Odds Ratios for former in relation to latter
+
+
+
+
+
+1993 study set
+
+
+
+A,B
+
+
+C+
+
+
+Odds Ratios (A,B/C+) & 95% CIs
+
+
+
+
+
+
+Males
+
+
+Deaths
+
+74
+81
+
+
+
+
+
+Denominator
+
+171
+259
+
+
+
+
+
+Mortality Risk
+
+0.433
+0.313
+1.38 (1.06  1.81)
+
+
+
+Females
+
+
+Deaths
+
+82
+71
+
+
+
+
+
+Denominator
+
+159
+291
+
+
+
+
+
+Mortality Risk
+
+0.516
+0.244
+2.11 (1.61  2.78)
+
+
+
+
+
+
+
+
+1996 study set
+
+
+
+A,B
+
+
+C+
+
+
+Odds Ratios s(A,B/C+) & 95% CIs
+
+
+
+
+
+
+
+
+
+Males
+
+
+Deaths
+
+68
+57
+
+
+
+
+
+Denominator
+
+141
+268
+
+
+
+
+
+Mortality Risk
+
+0.482
+0.213
+2.26 (1.67  3.08)
+
+
+
+Females
+
+
+Deaths
+
+99
+50
+
+
+
+
+
+Denominator
+
+185
+294
+
+
+
+
+
+Mortality Risk
+
+0.535
+0.170
+3.15 (2.32.  4.25)
+
+
+
+
+
+
+
+
+1999 study set
+
+
+
+A,B
+
+
+C+
+
+
+Odds Ratios (A,B/C+) & 95% CIs
+
+
+
+
+
+
+
+
+
+Males
+
+
+Deaths
+
+57
+74
+
+
+
+
+
+Denominator
+
+125
+313
+
+
+
+
+
+Mortality Risk
+
+0.456
+0.236
+1.93 (1.43  2.60)
+
+
+
+Females
+
+
+Deaths
+
+81
+62
+
+
+
+
+
+Denominator
+
+149
+357
+
+
+
+
+
+Mortality Risk
+
+0.54
+0.174
+3.10 (2.34  4.18)
+
+
+
+
+
+Table 7
+
+Standardised death rates for CTVB A,B residents (older and younger deceased differentiated) compared with those for C+ residents with the Odds Ratios for former in relation to latter
+
+
+
+
+
+1993 study set
+
+
+
+A,B
+
+
+C+
+
+
+Odds Ratio (A,B/C+) & 95% CIs
+
+
+
+
+
+
+Below median age at death
+
+
+Deaths
+
+71
+84
+
+
+
+
+
+Denominator
+
+271
+491
+
+
+
+
+
+Mortality Risk
+
+0.262
+0.171
+1.53 (1.15  2.04)
+
+
+
+At or above median age at death
+
+
+Deaths
+
+85
+68
+
+
+
+
+
+Denominator
+
+59
+59
+
+
+
+
+
+Mortality Risk
+
+1.441
+1.153
+1.25 (1.01  1.54)
+
+
+
+
+
+
+
+
+1996 study set
+
+
+
+A,B
+
+
+C+
+
+
+Odds Ratio (A,B/C+) & 95% CIs
+
+
+
+
+
+
+
+
+
+Below median age at death
+
+
+Deaths
+
+83
+52
+
+
+
+
+
+Denominator
+
+285
+504
+
+
+
+
+
+Mortality Risk
+
+0.291
+0.103
+2.83 (2.05  3.88)
+
+
+
+At or above median age at death
+
+
+Deaths
+
+84
+55
+
+
+
+
+
+Denominator
+
+41
+58
+
+
+
+
+
+Mortality Risk
+
+2.048
+0.948
+2.16 (1.72  2.71)
+
+
+
+
+
+
+
+
+1999 study set
+
+
+
+A,B
+
+
+C+
+
+
+Odds Ratio (A,B/C+) & 95% CIs
+
+
+
+
+
+
+
+
+
+Below median age at death
+
+
+Deaths
+
+70
+62
+
+
+
+
+
+Denominator
+
+228
+606
+
+
+
+
+
+Mortality Risk
+
+0.307
+0.102
+3.01 (2.19  4.11)
+
+
+
+At or above median age at death
+
+
+Deaths
+
+68
+74
+
+
+
+
+
+Denominator
+
+47
+66
+
+
+
+
+
+Mortality Risk
+
+1.447
+1.12
+1.29 (1.04  1.60)
+
+
+
+
+Otherwise there were only 21 deceased (2% of all study deaths) for whom our practice archives and those of the Health Authority were jointly insufficient for unambiguous identification. The refined dataset for full analysis was therefore 856 deaths. The numbers of deaths (and median ages at death) according to determined CTVB of residence are shown in Table 2 where bands F,G,H are again united as 'F+'. There are no significant differences in age at death between the CTVB subgroups in any of the 3 study sets.
+
+
+Denominator findings
+25% randomised samples from the practice lists (50 years and over) as at 1 July 1993, 1996, & 1999, subdivided by CTVB of then residence (F, G, & H amalgamated because of small numbers), are shown in Table 3. We were able to locate all but 28 individuals (1.0%) to a CTVB.
+Standardised death rates (SDRs) death and denominator findings and SDRs (95% C Is) subdivided by CTVB for the three study sets are shown in Table 4. The risk of dying during the study period is consistently higher for residents of CTVB A, B homes than for those in the higher bands viz. C and above, significantly so for the '1996' and '1999' sets.
+In fact the conventional threshold of SDR 100 clearly differentiates two distinct populations  those deceased who had resided in CTVB A, B homes (SDRs always above 100) from those deceased who had resided in CTVB 'C+' homes (all SDRs below 100). This observation permitted further analyses viz. calculating Odds Ratios for A, B versus C+, again repeated in each of the three sets (see Table 5). These analyses were then extended to test for the influence of gender of the deceased in respective groups and of the age at death (below, versus above, median age at death of respective group). The results consistently show that the A, B residents are at significantly greater risk of dying than their counterparts residing in bands C and above and that socio-economic influence, as marked by CTVB, is higher in women and in those who die before median life expectancy (Tables 6,7).
+
+
+
+
+Implications of the hypothesis
+This is a modest study in general practice ecology. Its uses simple techniques and its conclusions should be viewed with caution. Its findings are, however, clear and consistent. In fact we have performed the study, effectively, three times and the results superimpose: there is a striking downward trend in death rates with increasing CTVB of final private residence which is not confounded by age at death. In other words those middle-aged and elderly of our practice population who live in the most modest homes are the most likely to die in any time interval: our study hypothesis is supported. These observations reinforce earlier findings from our practice [30] where we found a parallel (inverse) association between CTVB and illness: the higher the band, the lower the recorded morbidity. And mortality risk for those with death rates above average (residents of CTVB A and B) compared with their counterparts reveals the greatest differences to be in women and in those whom we might describe as dying prematurely  those who die before attaining group life expectancy. Perhaps these are all clues for where we should focus limited clinical resources.
+We were unable, in this study, to account for the influence of some factors that might be construed as confounders of our findings: widowhood and living alone are two obvious examples. On the other hand it might be that CTVB represents a categorical and valuable proxy marker of these known disadvantages giving social scientists and public health physicians an indication of where to focus preventative health measures. And the spectrum of the CTVBs of all the patients registered with a general practitioner could provide a unique predictor of the likely morbidity and mortality levels of that practice: again resources could be matched to true need, the only real answer to health inequality.
+CTVB may eventually prove to be a reliable and generic marker of socio-economic status in the UK. It certainly has many inherent strengths, being assessed independently of health and social agencies, universally attributed, officially recorded, discriminating to individual household level, and being in the public domain (now on the internet [34]). It is also free of the 'ecological fallacy' [22] and of other drawbacks of Census data such as skewed under-enumeration [35]. However, our findings need corroboration by other, larger studies before we speculate further.
+
+
+Competing interests
+None declared.
+
+
+Authors' contributions
+NRB & DMKS-C designed the study, performed the data collection and wrote the paper. GJT performed the statistical analysis. NRB conceived the study.
+All authors read and approved the final manuscript.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

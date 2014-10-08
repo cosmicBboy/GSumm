@@ -1,0 +1,32 @@
+2014-05-09 03:15:35,775 : INFO : loaded corpus index from ../mediumData/mediumData.mm.index
+2014-05-09 03:15:35,775 : INFO : initializing corpus reader from ../mediumData/mediumData.mm
+2014-05-09 03:15:35,775 : INFO : accepted corpus with 1002 documents, 57681 features, 707258 non-zero entries
+MmCorpus(1002 documents, 57681 features, 707258 non-zero entries)
+2014-05-09 03:15:37,830 : INFO : collecting document frequencies
+2014-05-09 03:15:37,830 : INFO : PROGRESS: processing document #0
+2014-05-09 03:15:38,091 : INFO : calculating IDF weights for 1002 documents and 57680 features (707258 matrix non-zeros)
+2014-05-09 03:15:38,142 : INFO : loading TfidfModel object from ../mediumData/mediumData.tfidf_model
+2014-05-09 03:15:40,104 : INFO : loading Dictionary object from ../mediumData/mediumData.dict
+2014-05-09 03:15:40,233 : INFO : using symmetric alpha at 0.05
+2014-05-09 03:15:40,233 : INFO : using serial LDA version on this node
+2014-05-09 03:15:40,419 : INFO : running online LDA training, 20 topics, 10 passes over the supplied corpus of 1002 documents, updating model once every 1002 documents, evaluating perplexity every 1002 documents, iterating 50 with a convergence threshold of 0
+2014-05-09 03:16:23,024 : INFO : -181.972 per-word bound, 6011400449625502755394190537979889062444707830892068864.0 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:16:23,024 : INFO : PROGRESS: pass 0, at document #1002/1002
+2014-05-09 03:16:29,418 : INFO : 883/1002 documents converged within 50 iterations
+__start__here__
+2014-05-09 03:16:29,664 : INFO : topic #16 (0.050): 0.001*suicide + 0.000*smoking + 0.000*diabetes + 0.000*weight + 0.000*children + 0.000*physicians + 0.000*abuse + 0.000*treatment + 0.000*patients + 0.000*birth
+2014-05-09 03:16:29,672 : INFO : topic #13 (0.050): 0.001*asthma + 0.000*condom + 0.000*smoking + 0.000*drugs + 0.000*parents + 0.000*patients + 0.000*drug + 0.000*girls + 0.000*job + 0.000*mental
+2014-05-09 03:16:29,678 : INFO : topic #0 (0.050): 0.000*patients + 0.000*treatment + 0.000*death + 0.000*injury + 0.000*distress + 0.000*infection + 0.000*falls + 0.000*alcohol + 0.000*neighbourhood + 0.000*belt
+2014-05-09 03:16:29,686 : INFO : topic #17 (0.050): 0.000*breast + 0.000*cancer + 0.000*screening + 0.000*smoking + 0.000*journals + 0.000*pension + 0.000*neighbourhood + 0.000*disability + 0.000*patients + 0.000*treatment
+2014-05-09 03:16:29,693 : INFO : topic #14 (0.050): 0.001*smoking + 0.000*tax + 0.000*cancer + 0.000*welfare + 0.000*patients + 0.000*programme + 0.000*suicide + 0.000*behaviors + 0.000*disability + 0.000*intervention
+2014-05-09 03:16:29,700 : INFO : topic #4 (0.050): 0.000*suicide + 0.000*drinking + 0.000*hepatitis + 0.000*border + 0.000*syndrome + 0.000*influenza + 0.000*syringes + 0.000*smokefree + 0.000*organizational + 0.000*screening
+2014-05-09 03:16:29,708 : INFO : topic #18 (0.050): 0.001*measles + 0.000*vaccination + 0.000*controls + 0.000*women + 0.000*vitamin + 0.000*neonatal + 0.000*smoking + 0.000*mortality + 0.000*overweight + 0.000*waterpipe
+2014-05-09 03:16:29,715 : INFO : topic #11 (0.050): 0.001*smoking + 0.000*smokers + 0.000*sexual + 0.000*tobacco + 0.000*women + 0.000*cessation + 0.000*mental + 0.000*asthma + 0.000*albinism + 0.000*pregnancy
+2014-05-09 03:16:29,723 : INFO : topic #7 (0.050): 0.001*smoking + 0.001*students + 0.000*diabetes + 0.000*sexual + 0.000*cancer + 0.000*death + 0.000*screening + 0.000*women + 0.000*urban + 0.000*partners
+2014-05-09 03:16:29,730 : INFO : topic #3 (0.050): 0.001*smoking + 0.000*children + 0.000*mental + 0.000*earthquake + 0.000*measles + 0.000*overweight + 0.000*smokers + 0.000*disaster + 0.000*physical + 0.000*vaccination
+2014-05-09 03:16:29,738 : INFO : topic #10 (0.050): 0.000*children + 0.000*activity + 0.000*obesity + 0.000*surveillance + 0.000*patients + 0.000*women + 0.000*physical + 0.000*students + 0.000*overweight + 0.000*prevalence
+2014-05-09 03:16:29,745 : INFO : topic #1 (0.050): 0.001*water + 0.001*influenza + 0.001*smoking + 0.000*patients + 0.000*vaccination + 0.000*delay + 0.000*smokers + 0.000*tuberculosis + 0.000*treatment + 0.000*blood
+2014-05-09 03:16:29,752 : INFO : topic #15 (0.050): 0.000*women + 0.000*infection + 0.000*sexual + 0.000*smoking + 0.000*injury + 0.000*obesity + 0.000*weight + 0.000*parents + 0.000*patients + 0.000*children
+2014-05-09 03:16:29,760 : INFO : topic #8 (0.050): 0.001*screening + 0.000*cancer + 0.000*patients + 0.000*vaccine + 0.000*vaccination + 0.000*mental + 0.000*vitamin + 0.000*sawmill + 0.000*intervention + 0.000*pain
+2014-05-09 03:16:29,767 : INFO : topic #6 (0.050): 0.000*intervention + 0.000*girls + 0.000*injuries + 0.000*sick + 0.000*immigrants + 0.000*smoking + 0.000*injury + 0.000*children + 0.000*stroke + 0.000*birth
+2014-05-09 03:16:29,772 : INFO : topic diff=15.897358, rho=1.000000

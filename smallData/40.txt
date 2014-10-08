@@ -1,0 +1,345 @@
+
+
+Background
+Bulgaria's official stroke mortality rates are higher for rural than urban areas. Official mortality data has indicated that these rates are amongst the highest in Europe. There has been a lack of studies measuring stroke incidence in urban and rural populations.
+
+
+Methods
+We established intensive notification networks covering 37791 residents in Varna city and 18656 residents (55% of them village-dwellers), all aged 45 to 84, in 2 rural districts. From May 1, 2000 to April 30, 2001 frequent contact was maintained with notifiers and death registrations were scanned regularly. Suspected incident strokes were assessed by study neurologists within a median of 8 days from onset.
+
+
+Results
+742 events were referred for neurological assessment and 351 of these, which met the WHO criteria for stroke, were in persons aged 45 to 84 and were first ever in a lifetime. Incidence rates, standardised using the world standard weights for ages 45 to 84, were 909 (/100000/year) (95% CI 7121105) and 597 (482712) for rural and urban males and 667 (515818) and 322 (248395) for rural and urban females. Less than half were admitted to hospital (15% among rural females over 65). Twenty-eight day case fatality was 35% (123/351) overall and 48% (46/96) in village residents. The excess case fatality in the villages could not be explained by age or severity.
+
+
+Conclusions
+Rural incidence rates were over twice those reported for western populations but the rate for urban females was similar to other western rates. The high level and marked heterogeneity in both stroke incidence and case fatality merit further investigation.
+
+
+
+Background
+Official mortality data, derived from death certificates, show Bulgaria to rank near the top for stroke mortality among European countries to the west of the former Soviet Union [1]. Age-standardised stroke mortality rates for persons aged less than 65 have recently been exceeded only by those of its neighbour Romania. In 1996 Bulgaria's rates for males (66/100000/yr) and females (32.5/100000/yr) were approximately 10 times the lowest rates (for Switzerland  at 5.8 and 3.9 for males and females respectively). The rates for Bulgaria were, never the less, substantially lower than those for several of the newly independent states of the former Soviet Union. Time trends within Bulgaria show a rise of over 60% in male rates under age 65 from the early 1970s to the first half of the 1990s, since when rates have fallen. Female rates have tended to fall slowly since the 1970s. The validity of official mortality data such as these appears to vary substantially between countries [2]. However, the only internationally published validation study of stroke mortality data in Bulgaria, using data from three statistical regions (Blagoevgrad, Bourgas and Dobrich, the latter close to Varna), found a general tendency to under-report stroke as the underlying cause of death [3].
+Available evidence on smoking prevalence and blood pressure distributions appears to offer little explanation for the presumptively high stroke incidence. For males, recent high smoking prevalences have plausibly contributed to the recent rise in stroke mortality. However, the proportional excess in stroke mortality relative to EU rates is almost as great in females and, at middle and older ages, their smoking prevalence has been low [4]. Blood pressure distributions from risk factor surveys in the capital Sofia [5] and in Veliko Turnovo in central Bulgaria [6] (both predominantly urban) were in the centre of the range reported for MONICA populations [7]. We are not aware of any published information on blood pressure distributions in representative rural populations. Thirty percent of the population live in areas classified as rural where official mortality rates are substantially higher than in the urban areas (Z. Bogdanov and L. Tsoneva-Pencheva, 'Stroke mortality in urban and rural populations in the country', unpublished report (in Bulgarian), Sofia, 1994).
+We sought to measure stroke incidence in urban and rural populations in and near the provincial city of Varna on the Black Sea coast. There have been no previous studies of stroke incidence in Bulgaria reported in the international literature.
+
+
+Methods
+(A more detailed version of the Methods section is available in Additional file 1).
+In this region of Bulgaria a substantial proportion of stroke cases were believed not to receive specialist attention. 'Hot pursuit' methods were therefore deemed necessary to achieve sufficiently sensitive ascertainment [8,9].
+The study was designed to ascertain incident (first ever in a lifetime) strokes, prospectively, in residents of the Primorski district of the city of Varna and the rural obstinae (local districts) of Provadia and Dolen Chiflik, some 30 to 70 Km to the southwest of the city. Approximately 45% of the populations of the rural districts live in the two towns after which the districts are named, and these towns are both classified as 'urban' by the statistical authorities. (A map of study locations is given in Additional file 2)
+Populations at risk were defined as persons aged 35 or more with an eligible address in the 'current address' field of the computerised population registers maintained and continuously updated by the municipal office for residential registration. The 10 digit personal identification number included in the registers, incorporates date of birth and sex, allowing easy calculation of the numbers of persons at risk at the study midpoint (taken as November, 2000). In the more restricted age range used for the external comparisons that we report here  ages 45 to 84  there were 37791 in the designated urban population and 18656 in the designated rural population.
+Designated sources of notification for suspected eligible strokes included: the centres which processed emergency calls to the Ambulance and Emergency Services (in Varna, Dolen Chiflik and Provadia), the Varna District Hospital emergency room, duty doctors and nurses in the in-patient neurological units in the area (four urban and one rural), local physicians practising within, or close to, the specified study areas, admission and discharge books for four hospitals, duty doctors in two residential homes (one for the elderly and one for persons with physical disabilities), death registrations lodged with the Regional Health Centre (typically within days of death for the urban population and taking up to a month for the rural population), and autopsy protocols from department of pathology at Varna University Hospital and Varna District Hospital. For strokes occurring in inpatient units other than neurological (in the four relevant hospitals), sources of notifications were the consultant neurologists, medical discharge records, other clinical records and records of specialist groups on disability within the hospital. These were checked monthly. The central records of the ambulance service were also scanned once a month for possible missed cases.
+We aimed to conduct neurological assessments within a week of onset. The registrar phoned or visited contact persons in the main sources of information (ambulance call centres, emergency rooms, and neurological units) each working day. Primary care physicians were contacted by phone twice weekly in the urban area and three times per week in the rural area. Cooperating staff within all medical inpatient units and within all general and neurological medical practices were asked to notify all cases referred to them as possible stroke, including cases reported as transient ischaemic episode (TIA), vertebrobasilar insufficiency, epilepsy or dementia. Death certificates were scanned weekly, mostly before they were coded for underlying cause by the regional vital statistical office.
+To maximise the sensitivity of ascertainment, redundant notification was deliberately sought. Up to 6 notification sources were recorded for each event. All notified events were initially assessed by the registrar (VA) to exclude from further investigation those who were residentially ineligible, those which had unequivocal evidence that the event was not a stroke or, if a possible stroke, unequivocal evidence that it was not the first ever in the lifetime. Doubtful cases were always discussed with the study neurologists and usually referred for clinical assessment by them.
+'Direct' neurological assessments were conducted by study neurologists (MS and PK) whenever possible  inclusive of cases admitted to hospital. These assessments included a detailed history, and full neurological examination, including the components of the Glasgow Coma Scale [10]. Results from doppler sonography, echocardiography, CT scan, cerebral angiography and lumbar puncture were recorded whenever available.
+'Indirect' neurological assessments were conducted for patients who had received specialist medical attention but died before direct assessments by study neurologists could be could be carried out. These assessments involved interviewing the consulting neurologist whenever possible and abstracting hospital and personal medical records. A third type of assessment was used for 'late notified' fatal events, that is, those first detected by the scanning of death certificates (which were usually abstracted before coding by the regional vital statistics office). All these cases had a stroke diagnosis in one of the cause of death fields of the death certificate. Where no additional information could be located relating to specialist assessment before death, reliance had to be placed on interviews with the general practitioner and relatives. Information from these sources was interpreted conservatively. (More detail on the methods applied in this third type of assessment and their outcomes is available in Additional file 1, Additional file 3 and Additional file 5).
+The WHO clinical definition of a stroke as 'rapidly developing clinical signs of focal (or global) disturbance of cerebral function lasting more than 24 hours (unless interrupted by surgery or death) with no apparent cause other than a vascular origin' [11] was applied. Global clinical signs were accepted only for patients with deep coma or subarachnoid haemorrhage. Strokes were distinguished from transient ischaemic attacks (which were excluded from the study) by duration of functional loss or symptoms of greater than 24 hours.
+All cases assessed as first ever in lifetime strokes were followed up at day 28 (where day of occurrence counted as day 0).
+Study priorities were determined by the study's main aim: to test hypotheses derived from death certificate based information and local clinical experience that the incidence of total stroke was truly very high in this region and that it was higher in rural than urban populations. The aims were therefore to maximise ascertainment of potentially eligible events, to maximise the validity of the clinical distinction between stroke and 'non-stroke' and to determine whether there had been a prior history of stroke. Classification by pathological sub-type could only be made with confidence for the minority of confirmed incident cases that had received appropriate ancillary investigations.
+For external comparisons, rates were age-standardised by 5-year age groups from 459 to 804, using the world standard age weights, following Sudlow et al [12]. Differences in case-fatality (which became apparent during the course of the study) were explored by stratifying on age, sex, location and Glasgow Coma Score when assessed.
+Study classification of events as stroke or not was compared (for cases followed by death before May 31, 2001) with cause of death as coded by the regional vital statistical service.
+Confidence intervals for specific rates were calculated using the Poisson distribution and for standardised rates and ratios were calculated by standard methods [13] and for case fatality using the Wald method [14]. For testing whether case fatality was higher in village residents one tailed p values were estimated using a score statistic [15]. Ethical approval was granted by the Ethics Committee of the Varna Medical University. Informed consent was obtained for all patients directly assessed by study neurologists  where necessary from their next of kin.
+
+
+Results
+
+Ascertainment, classification and incidence results
+For the study period, 1928 notifications were processed relating to 1586 independent events and 742 of these were assessed by study neurologists as potential incident strokes. One hundred and forty five of the assessments were of late notified fatal events where evidence from specialist assessment before death was lacking (assessment type 3). Median (interquartile) time to neurological assessment was 8 (4  31) days for all assessed events, 6 (3  15) days for those classified as incident strokes and 5 (3  10) days for incident strokes directly assessed by study neurologists. (More detail on sources of notifications is available in Additional file 3).
+Three hundred and eighty nine events were classified as incident (first ever in lifetime) strokes of which 351 were in persons aged 45 to 84. The study classified 133 events as recurrent strokes (this is not the total of recurrent strokes identified as it does not include events excluded earlier in the assessment process) and 190 events as not stroke, with insufficient information for classification in 30 cases.
+Incidence of first ever in lifetime strokes by urban-rural location, sex and age is given in Table 1, along with the relevant population denominators. As in other studies, age-specific rates in males are higher than those in females. Overall, ascertained incidence rates were significantly higher in rural areas.
+
+Table 1
+
+Study populations, numbers and rates of first ever in lifetime strokes during study year by location, sex and age group with population denominators
+
+
+
+
+
+
+Males
+Females
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4554
+5564
+6574
+7584
+Total*
+4554
+5564
+6574
+7584
+Total*
+
+
+
+
+Urban
+N
+12
+26
+41
+30
+109
+6
+11
+35
+23
+75
+
+
+
+Population
+6240
+5104
+4592
+1450
+17386
+6911
+6281
+5286
+1927
+20405
+
+
+
+Rate per 100000
+192
+509
+893
+2069
+597
+87
+175
+662
+1194
+322
+
+
+
+95% CI 
+99336
+333746
+6411211
+13962954
+482712
+32189
+87313
+461921
+7571791
+248395
+
+
+Rural
+N
+14
+23
+27
+21
+85
+3
+18
+29
+32
+82
+
+
+
+Population
+3183
+2474
+2250
+939
+8846
+2922
+2657
+2927
+1304
+9810
+
+
+
+Rate per 100000
+440
+930
+1200
+2236
+909
+103
+677
+991
+2454
+667
+
+
+
+95% CI 
+240738
+5891395
+7911746
+13843419
+7121105
+21300
+4021071
+6641423
+16793464
+515818
+
+
+
+
+* directly age standardised by 5-year age groups to world standard population  exact Poisson confidence intervals (except for standardised rates)  2p = .007 for urban rural difference  2p = .00006 for urban rural difference
+
+
+
+
+Hospitalisation, pathological type and seasonality
+Among persons aged 45 to 84 ascertained as having incident strokes, proportions admitted to hospital ranged from 76% (29/38) in urban males aged under 65 to 15% (9/61) in rural females aged over 65. The overall proportion was 46% (163/351). Results of CT scans were available for 119, of lumbar puncture for 7 and of autopsy for 7. Of these, 4 had both lumbar puncture and CT scan results, giving 129 incident strokes investigated by at least one of these means. Classification by pathological type for this sample of unknown representativeness is given in Additional file 4.
+Incidence by month showed a modest (22%) excess of strokes in November to April (193) compared to May to October (158) (marginally non-significant, p = 0.06).
+
+
+Comparisons with the results of other 'hot pursuit' studies
+External comparisons with other 'hot pursuit' studies collated by Sudlow and Warlow [12] are given in Figure 1. Whilst the rates for rural males and females in the Varna study are more than twice the sex-specific means (unweighted) of the other studies (excluding Novosibirsk), the rate for urban females lies within the range found in western populations. The rate for urban males is modestly elevated.
+
+Figure 1
+
+Ascertainment rates for first in ever in lifetime strokes, ages 45 to 84 by sex, rural and urban components of Varna Diet and Stroke Study compared to other populations [12]. Rates are age-standardised using the world standard weights. Bars show 95% confidence intervals for Varna rates.
+
+
+
+The relative excess in Varna is greater at younger ages (Figure 2) implying an earlier mean age at onset and a greater average number of years of life lost per fatal case (relative to a standard life table)  a pattern also seen in the Novosibirsk population (which was exclusively urban) [12]. In these circumstances, the proportional excess, in Varna, in years of life lost from stroke will be greater than the proportional excess in incidence rates.
+
+Figure 2
+
+Ratios of incidence rates in Varna rural and urban populations and in Novosibirsk (Russia) to the unweighted average of rates for 9 western populations (used as reference) [12]. Comparisons are made separately for two age bands, 45 to 64 and 65 to 84 with the rates for the bands being first calculated as the unweighted averages of contributory sex and age specific rates. 95% confidence intervals are calculated on the assumption that the reference rates are free of sampling variance.
+
+
+
+
+
+Case fatality
+Case fatality showed little tendency to increase with age until age 75: it was 35% overall, 30% (73/245) in those aged less than 75 and 47% (50/106) in those 75 to 84. An unexpected post hoc finding was a much higher case fatality (48%) in that part of the population classified a priori as 'rural' who actually lived in villages rather than in the 2 rural towns. Case fatality turned out to be rather similar in town and city residents (25% and 32%). Because differences in age and severity (Glasgow Coma Score (GCS)) distributions confound case fatality comparisons based on residence  for example there was a smaller proportion of elderly cases in the towns  comparisons among the 303 cases for whom GCS scores were available, are given in Figure 3 stratified by GCS category and age band. These data dependent and rather imprecise comparisons suggest that the higher case fatality in village residents is not explained by differences in severity and is more marked in the highest age group.
+
+Figure 3
+
+Comparisons of 28 day case fatality for incident strokes in village residents compared to residents of rural towns and the city, stratified by severity category (on the Glasgow Coma Scale) and age band. Mild cases are those with a Glasgow Coma Score of 13 or higher [10]. 95% confidence intervals calculated by the Wald method [14]. p values are single sided for the comparisons between village residents and others (n = 303 incident strokes with GCS scores).
+
+
+
+
+
+Comparison with vital statistics office coding for fatal cases
+Of the 742 neurologically assessed events, 340 were in persons known to have died by May 31, 2001 and death certificate coding of the underlying cause of death became available for 315 of these. In the case of study classifications based on specialist assessments ('direct' or 'type 1' assessments, n = 91 and 'indirect' or 'type 2' assessments, n = 79), the study classified 146 as stroke compared to 133 with stroke assigned as the underlying cause of death by the vital statistics office. In the case of the third group, information from clinical assessments prior to death by study or service neurologists (or from autopsy) was lacking. Sixty nine of these were classified as stroke by the study compared to 110 coded to stroke as the underlying cause of death by the vital statistics service. (Further information comparing study classifications with those of the vital statistics office is given in Additional file 5).
+
+
+
+Discussion
+Although our denominator sizes are very small, our numerator (a total of 351 ascertained incident strokes in persons aged 45 to 84) would rank the study 8th out of 12 if it had been included with the other 'hot pursuit' incidence studies reviewed by Sudlow and Warlow. Because we had a prior intention to compare urban and rural rates (as initially defined) and because of their intrinsic interest, we have presented these rates separately. The point estimates need to be interpreted in the light of their confidence intervals.
+The validity of our main findings depends primarily upon: i. the accuracy with which ascertained events have been correctly matched to their source population; ii. the completeness of ascertainment of potentially eligible events; iii. the validity of their classification as stroke/not stroke, and iv. the validity of classification of strokes as 'first ever in lifetime'.
+The use of the same population register both to check the residential eligibility of cases and to calculate numbers at risk deals adequately with the first point  and also removes the uncertainties that might otherwise attend denominator estimates. We complied with all 6 of the 'minimum criteria for adequate case ascertainment' specified by Sudlow and Warlow [9]. Data also allowed 3 of the 4 'internal' quality checks as used in the MONICA stroke incidence studies [16] to be made  the proportion of fatal cases not hospitalised, the 28 day case fatality and the proportion of nonfatal cases not hospitalised. The result was satisfactory for each when our populations were classified simply as 'urban' or 'rural'. But for the post hoc category of 'villages' case fatality did exceed the suggested upper limit of 40%.
+Because we are reporting rates that are relatively high, the possibility of positive biases in classification (steps iii and iv above) needs to be considered. Misclassification between stroke and 'not stroke' has been shown to be very infrequent when based on a systematic clinical assessment by experienced neurologists [17]. In circumstances where high proportions of suspected strokes are assessed by CT scans, the validity of clinical classifications can be assessed in independent validation studies. Such circumstances were not available in this study.
+In fatal cases, where study classifications were based on specialist assessments before death (or on autopsy findings) they resulted in a higher number classified as stroke (146) than were coded to stroke as the underlying cause of death by the vital statistics office (133). Whilst the direction of this difference could theoretically indicate some positive bias, it is consistent with the findings of other Bulgarian investigators who have found that vital statistics coding tends to under-attribute deaths to stroke [3].
+In relation to those cases first identified by the scanning of death certificates and for which no information from specialist assessments could be located ('type 3' assessments, n = 145), negative biases seem much more likely than positive ones. All of these had a stroke diagnosis in one of the cause of death fields of the death certificate (which were mostly abstracted before coding). Only 69 of these were classified as stroke by the study compared to 110 attributed to stroke by the vital statistics service. Of the 69, only 32 were classified as first ever in a lifetime and of these, 23 were aged 45 to 84 and thus contributed to the incidence estimates in Table 1. Of this 23, 7 had information from their GP that was judged 'sufficient' for classification as stroke or not and 16 had information from relatives judged 'sufficient' to permit a clinical stroke diagnosis. These results are consistent with study policy which was to exercise conservatism, in those cases where information was least adequate, before classifying events as stroke and as first ever in a lifetime.
+The external comparisons in Figures 1 and 2 suggest that these rural populations studied in north-East Bulgaria are experiencing stroke incidence rates amongst the highest yet reported for European populations. In the age band 45 to 64, rates are approximately 3 times those of the pool of western comparators. Although these comparator data are old, stroke has not tended to increase in western populations so comparisons based on recent studies would not be expected to show smaller differences. (For Novosibirsk, also included in these comparisons, attack rates increased substantially from 1987 to 1994 [18] so comparisons with Novosibirsk based on recent data might be expected to show smaller (or no) differences.)
+The most comprehensive data on the occurrence of stroke in the post-socialist countries of Europe are the official mortality data, conveniently collated by WHO Europe [1]. These suggest that high stroke rates are rather pervasive throughout the post socialist countries and, overall, they show larger east/west rate ratios for stroke than for ischaemic heart disease. However, independent incidence studies have played an important role in revealing local differences both in stroke incidence and in the level of correspondence between fatal strokes detected in the registers and in the vital statistical systems. For example, in the former German Democratic Republic deaths were substantially under-attributed to stroke in the official mortality data [19]. In Kaunus, Lithuania, a 'cold pursuit' incidence study conducted in the late 1980s reported relatively high stroke incidence. Their findings were supported, in fatal cases, by high autopsy rates and they found 'no significant discrepancies' between their study and official mortality statistics [20]. A more recent study in Uzhgorod in the western Ukraine claimed to find a marked under-attribution of deaths to stroke in that city's vital statistical records but speculated, somewhat inconsistently, that the high official stroke mortality rates for the Ukraine as a whole were due to the over-attribution of deaths to stroke by the vital statistical services in other parts of the country [21]. Local incidence studies thus continue to be necessary, both to render official mortality data more interpretable and to reveal real local variation in stroke incidence and case fatality.
+The marked heterogeneity of risk identified by this study is of substantial public health and epidemiological interest. For public health, the relatively 'normal' risks in urban females show that it is possible to avoid the very high risks experienced by the rural populations even under current economic and social circumstances. Epidemiologically, the challenge posed is to identify causes of stroke (and of death when stroke occurs) associated with living in rural areas that are apparently much less operative in urban populations, especially in females. Given Bulgaria's rapid urbanisation in the mid to late 20th century [22], most city dwellers are only separated from their rural origins by one or two generations. They have also recently been sharing with their rural compatriots the unfavourable economic and social conditions prevailing during Bulgaria's transition period. Against the commonalities of urban and rural modes of life, attention should focus on candidate causes showing appropriate rural urban gradients. Smoking gradients tend to go in the 'wrong' direction [4] but there is some limited evidence (from parallel dietary studies) that hypertension is much more poorly controlled in rural areas. In our dietary studies we are finding very high sodium excretion in both urban and rural areas and major differences in plasma vitamin C in winter (very low in rural areas) though not in summer (high everywhere) (unpublished observations). The identification of the causes responsible for the rural / urban gradient could assist in reducing the very high burdens stroke imposes on the population of Bulgaria. It could also assist other similarly placed populations in 'transition' in Europe.
+The logistical challenges in conducting this study were substantial, with our study neurologists driving over 10000 km to cover the rural area during the 12 months of this study. Never the less, we have demonstrated that it is feasible to conduct a prospective ('hot pursuit') incidence study of stroke in a rural population where only a minority of cases are admitted to hospital. Taking extra effort to include rural populations in epidemiological studies of stroke in modernising populations with high stroke rates and suggestive evidence of urban/rural differences, may be rewarded by the demonstration of substantial heterogeneity of risk, thus increasing the value of such studies in both public health and scientific terms.
+
+
+Conclusion
+We have established that in north east Bulgaria:
+a) stroke incidence is very high in rural areas, taken to include both rural towns and villages;
+b) the high risks of incident stroke are shared to only a small extent (and then only in the case of males) by a culturally similar urban population; and
+c) case fatality is higher for cases occurring in village dwellers than in cases occurring in the residents of rural towns or the city, especially over the age of 75.
+Our results are consistent with the high rates of deaths attributed to stroke in rural populations in the official mortality statistics and suggest that these may be due to a combination of high incidence and high case fatality.
+
+
+Competing interests
+None declared.
+
+
+Authors' contributions
+JP was involved in the design, implementation, analysis, interpretation, drafting of manuscript.
+PK was involved in the design, implementation, ascertainment and classification of cases, analysis and interpretation, review of manuscript.
+MS was involved in the implementation, ascertainment and classification of cases, review of manuscript.
+NF was involved in the design, implementation, review of manuscript.
+VA was involved in the implementation, ascertainment of cases, database management, review of manuscript.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+
+
+Supplementary Material
+
+
+Additional File 1
+More detailed account of methods including flowchart for assessment of late notified fatal cases
+
+
+
+Click here for file
+
+
+
+
+
+Additional File 2
+Location of Provadia and Dolen Chiflik rural districts in relation to Varna city
+
+
+
+Click here for file
+
+
+
+
+
+Additional File 3
+Sources of notifications of potential stroke events with onsets between 1/5/2000 and 30/4/2001, with outcomes of initial and neurological assessments
+
+
+
+Click here for file
+
+
+
+
+
+Additional File 4
+Classification of first in lifetime strokes by pathological type in 129 investigated strokes.
+
+
+
+Click here for file
+
+
+
+
+
+Additional File 5
+Neurological assessments in fatal cases compared with vital statistics office coding of underlying cause of death plus information on sources used in late notified fatal cases ('type 3' assessments)
+
+
+
+Click here for file
+
+
+
+

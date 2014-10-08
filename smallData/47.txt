@@ -1,0 +1,380 @@
+
+
+Background
+Uncontrolled hypertension (HT) is an established risk factor for the development of vascular diseases. Prevalence varies in different communities and no such study has been conducted in the Parsi community living in Bombay, India. The objectives of this study were to determine the prevalence, awareness, compliance to medication and control of HT in this community.
+
+
+Method
+We used a 1 in 4 random selection of subjects who were  20 years of age. A questionnaire was administered and the blood pressure (BP) was measured by a doctor. HT was defined as diastolic blood pressure (DBP)  90 mm Hg  systolic pressure (SBP)  140 mm Hg. Isolated systolic hypertension (ISH) was defined as SBP  160 mm Hg with DBP < 90 mm Hg. Subsequently, we reanalysed the data using current definition of ISH as SBP  140 mm Hg with DBP < 90 mm Hg.
+
+
+Results
+2879 subjects  20 years of age were randomly selected of which 2415 (84%) participated in the study. The overall prevalence of HT in the community was 36.4%, of whom 48.5% were unaware of their hypertensive status. Of those aware of having HT, 36.4% were non-compliant with their anti-hypertensive drugs and only 13.6% had optimally controlled HT. Prevalence of ISH using the present criteria was 19.5% and 73% of hypertensives  60 years had ISH.
+
+
+Conclusion
+This study shows that prevalence of HT in the Parsi community is high and nearly half are unaware of their hypertensive status. ISH is the dominant form of HT in the elderly. Compliance to treatment is poor and optimal BP control is achieved in only a small minority. The study highlights the need for regular screening coupled with educational programs to detect and optimally treat HT in the community.
+
+
+
+Background
+The Parsis, followers of the Bronze Age Prophet Zarathushtra, migrated to India from Iran between the seventh and tenth centuries AD [1]. This small community is relatively affluent, having ready access to medical care. It has an 'ageing' demographic profile with a large number of middle aged and elderly. In this respect it is more similar to the demographic profile seen in developed countries, unlike the profile of the general Indian population which is predominantly young (Table 1). The community does not accept religious conversions, and allows very little intermarriage with other religions [2]. As a consequence, its population has been declining at a rate of about 10% every decade and UNESCO has initiated a project (Project 302 IND 70) to preserve the community's unique culture and heritage. The findings of the present study will be used in the 'medical module' of the project.
+
+Table 1
+
+Percentage distribution of population by age groups
+
+
+
+
+
+Age group (in years)
+
+
+India (1981 census)
+
+
+USA (1980)
+
+
+Parsis (1985 survey)
+
+
+
+
+
+09
+26.7
+14.6
+7.4
+
+
+1019
+22.5
+17.4
+10.4
+
+
+2029
+16.2
+18.0
+11.6
+
+
+3039
+12.3
+14.0
+13.0
+
+
+4049
+9.5
+10.1
+13.2
+
+
+5059
+6.3
+10.3
+15.9
+
+
+6064
+2.7
+4.5
+8.1
+
+
+65 +
+3.8
+11.3
+20.5
+
+
+
+Total
+
+100%
+100%
+100%
+
+
+
+
+In India, as in most other countries, hypertension (HT) is a major public health problem, with the prevalence in urban areas estimated to be about 2732%. Moreover, most studies have shown that compliance to medication is poor and optimal blood pressure (BP) control is achieved in less than 10% of hypertensives.
+In 1985, a prevalence study of neurological diseases among the Parsis living in the colonies of Bombay was conducted. It was found that the prevalence of stroke in this population was 842.3/100,000 with HT being the most important risk factor [3,4]. As a follow up of this observation, the present study was conducted to assess the prevalence of HT in the community, prior awareness, compliance to anti-hypertensive medication and extent of BP control.
+
+
+Method
+Approximately 71% of the 91,000 Parsis in India live in the city of Bombay [2]. About one-third of the Parsis in Bombay reside in large groups of houses known as colonies. These colonies were built in earlier years by wealthy Parsis for the less affluent members of the group. Most of these people have lived there for years, even after their social circumstances improved.
+In the 1985 survey, on prevalence day, there were 14,010 people living in 4,537 households. For the present study, we arranged men and women  20 years in ascending order by age and, using a random number generator, we chose a one in four sample for each colony for men and women separately (implicit stratification). High school graduates, a social worker and a doctor administered a questionnaire to each person after taking written informed consent. The questionnaire was designed to elicit information on family history of HT, prior BP measurement, awareness of HT (from family physicians or other heath care providers) and treatment taken. In addition, data regarding height and weight of the subject and history of tobacco and alcohol consumption were recorded.
+The doctor took the BP using a Hawksley random zero Syphgmomanometer. This instrument reduces observer bias and digit preference by 'muddling' the zero levels and has been widely used in epidemiological surveys [5]. Two BP readings were taken during the same visit. The first reading was taken during the initial part of the interview and the second towards the end with the subject at rest. Importance was given to the second reading in order to try to eliminate factors like anxiety and stress that are known to increase the BP physiologically.
+HT was defined as diastolic BP (DBP)  90 mm Hg  a systolic BP (SBP)  140 mm Hg. Subjects having normal BP on examination but who were taking anti-hypertensive medicines regularly were included in the hypertensive category. Isolated systolic hypertension (ISH) was defined as SBP  160 mm Hg with DBP < 90 mm Hg. This was the criterion for ISH used in the SHEP study [6] and was the criterion being used when the present study was initiated. Current recommendations define ISH as SBP  140 mm Hg with DBP < 90 mm Hg [7]. Subsequently, we re-analysed our findings using the new criteria for ISH to compare our results with other recent studies.
+
+
+Results
+Of the 2879 persons selected, 2415 (84%) participated in the study (Table 2). The percentage of men and women were 45.5% (1099) and 54.5% (1316) respectively. Most of the subjects had easy access to a doctor and 90.2% reported having had their BP checked in the recent past.
+
+Table 2
+
+Profile of those who participated in the study
+
+
+
+
+
+Age group in years
+
+
+Men
+
+
+Women
+
+
+Men + Women
+
+
+
+
+
+2029
+152
+170
+322
+
+
+3039
+169
+201
+370
+
+
+4049
+188
+203
+391
+
+
+5059
+214
+289
+503
+
+
+6069
+213
+239
+452
+
+
+70+
+163
+214
+377
+
+
+
+Total
+
+
+1099
+
+
+1316
+
+
+2415
+
+
+
+
+
+The overall prevalence of HT (including ISH) was calculated by adding those with optimally controlled BP (due to regular anti-hypertensive medication) with those having high BP on examination. Using the current definition, prevalence of HT (including ISH) was 32.8% (360 of 1099) in men and 39.4% (519 of 1316) in women with a mean prevalence of 36.4% in those  20 years of age. Prevalence in the different age groups is shown in Table 3 and 4.
+
+Table 3
+
+Prevalence of hypertension in men
+
+
+
+
+Age group (years)
+'Diastolic' HT (including optimally controlled HT
+Borderline ISH (SBP:140159 mmHg with DBP < 90 mm Hg)
+ISH (SBP 160 mm Hg DBP < 90 mm Hg)
+Overall prevalence
+
+
+
+
+2029
+11.2% (17)
+2.0% (3)
+
+13.2% (20/152)
+
+
+3039
+16.0% (27)
+1.2% (2)
+
+17.2% (29/169)
+
+
+4049
+23.4% (44)
+3.2% (6)
+1.6% (3)
+28.2% (53/188)
+
+
+5059
+24.3% (52)
+10.8% (23)
+1.9% (4)
+36.9% (79/214)
+
+
+6069
+16.0% (34)
+22.6% (48)
+5.2% (11)
+43.7% (93/213)
+
+
+70+
+12.9% (21)
+26.4% (43)
+13.5% (22)
+52.8% (86/163)
+
+
+
+Total
+
+
+
+
+
+32.8% (360/1099)
+
+
+
+
+
+HT: hypertension; 'diastolic' HT: diastolic BP  90 mm Hg with normal or elevated systolic BP; ISH: isolated systolic hypertension; SBP: systolic blood pressure; DBP: diastolic blood pressure
+
+
+
+Table 4
+
+Prevalence of hypertension in women
+
+
+
+
+Age group (years)
+'Diastolic' HT (including optimally controlled HT
+Borderline ISH (SBP:140159 mmHg with DBP < 90 mm Hg)
+ISH (SBP  160 mm Hg DBP < 90 mm Hg)
+Overall prevalence
+
+
+
+
+2029
+7.1% (12)
+1.8% (3)
+0.6% (1)
+9.4% (16/170)
+
+
+3039
+11.0% (22)
+1.5% (3)
+
+12.4% (25/201)
+
+
+4049
+18.2% (37)
+6.4% (13)
+2.0% (4)
+26.6% (54/203)
+
+
+5059
+24.2% (70)
+18.3% (53)
+4.5% (13)
+47.1% (136/289)
+
+
+6069
+18.0% (43)
+21.0% (50)
+16.3% (39)
+55.2% (132/239)
+
+
+70+
+13.1% (28)
+26.6% (57)
+33.2% (71)
+72.9%(156/214)
+
+
+
+Total
+
+
+
+
+
+39.4% (519/1316)
+
+
+
+
+
+HT: hypertension; 'diastolic' HT: diastolic BP  90 mm Hg with normal or elevated systolic BP; ISH: isolated systolic hypertension; SBP: systolic blood pressure; DBP: diastolic blood pressure
+
+
+While estimating prevalence of ISH, we only considered those having ISH on examination. This would underestimate to some extent the prevalence of ISH, as those on regular anti-hypertensive medication and with a BP of < 140/90 mm Hg were considered to have controlled 'diastolic HT'. Prevalence of ISH using the SHEP criteria was 6.9% (men: 3.6% women: 9.7%). Prevalence using the JNC VI criteria was 15% in men and 23.3% in women with mean prevalence being 19.5%. Among those suffering from HT, the proportion having ISH progressively increases with age. In those  60 years, ISH (using the SHEP criteria) comprised 53.2% of hypertensives (men 37.5%; women 60.8%) and using the new criteria comprised 73% of those with HT (men 69.3%; women 75.3%). Corresponding figures in those  70 years are 65.5%- men 51.2%, women 71.7%- (using the SHEP criteria) and 79.8%- men 75.6% and women 82.1%- (using the new criteria).
+While calculating awareness, we considered ISH as SBP  160 mm Hg with DBP < 90 mm Hg as this was the criteria used for defining ISH at the time of the study. Among men, 47% were aware of their hypertensive status while among women, 56% were aware. Compliance to medication was regular in 63.3% of men and in 64% of women.
+A subject was considered to have optimally controlled HT if he or she had a DBP < 90 mm Hg with SBP < 160 mm Hg while on regular anti-hypertensive medication. Using this criteria, optimal BP control was achieved in only 13.6% of those who were aware of having HT (men: 11.6%; women: 15%).
+
+
+Discussion
+There is a paucity of large, well designed, population based studies on HT in India [8]. Earlier studies on the prevalence of HT in India considered HT to be  160/95 mm Hg while the later studies used the current definition of HT as  140/90 mm Hg. To maintain uniformity, we compared our findings with those of some recent Indian studies that used the newly recommended criteria. The findings of the third National Health and Nutrition Examination Survey (NHANES III) of the American population [9] will be used to compare our findings in the Parsi community with that of a developed country.
+In rural India, some studies have shown a low prevalence of about 34% [8]. However, more recent studies, using current criteria for HT, shows a prevalence of 21% (24% in men and 17% in women) in rural India and 32% (30% in men and 33% in women) in urban India [10,11]. In the Parsi study, prevalence of HT in the adult population was 35.8% (31.9% in men and 39% in women). In the American population, prevalence of HT was 27% in those  25 years [9]. While assessing prevalence, one needs to take into account the demographic profile of the population under study because prevalence of HT increases with age. As seen in Table 1, the general Indian population (1981 census) is young with 77% being less than 40 years of age. In the American population (1980), 64.4% were less than 40 years while in the Parsi community (1985 survey) only 42.4% were less than 40 years. If we were to age standardise the prevalence of HT with that of the 1981 Indian population, the crude prevalence rate of HT would be 24.7% in men and 24.6% in women. This is significantly less than the figures of 30% and 33% for men and women respectively found in urban north India [11]. On the other hand, the age standardised prevalence for the American population (of 1980) would be 29.4%, which is similar to the actual prevalence of 27% observed in the NHANES III survey. These findings suggest that, unlike common perception, HT is a greater public health problem in developing countries than in developed countries
+Kalavathy and colleagues[12], found that 51.8% of the elderly in Kerala, South India, had HT. The Hypertension Study Group[13], in their multi-centre study, found that the overall prevalence of HT in the elderly was 65%. Our study also showed a progressively increasing prevalence with age, with 56.3% of those  60 years and 64.2% of those  70 years having HT.
+Using the SHEP criteria, prevalence of ISH was 6.9% in our study compared to the prevalence of about 10% in the SHEP study. Using the current criterion for defining ISH, prevalence in our study was 19.5% (15% in men and 23.3% in women). In contrast, studies have shown that the prevalence of ISH in rural India is only about 3.4 % while in urban areas it is about 6.2% (6% in men and 6.3% in women)[10,11]. The age standardized prevalence for the adult Indian population would be 7.7% and 11.6% in men and women respectively which is still less than that observed in the Parsi community. The Parsi study also shows that prevalence of HT, especially ISH, is significantly more in women than in men. The reason for this difference is not clear.
+Our study shows that with increasing age progressively more subjects with HT have ISH rather than 'diastolic' HT. A recent Indian study [15] showed that the prevalence of ISH in subjects attending a HT clinic was 56.6% in those > 60 years of age. In the Parsi study, in those  60 years, 53.2% and 73% of hypertensives had ISH using the SHEP and present criteria respectively. This observation is important because many physicians continue to disregard the importance of treating mild increases in SBP. In the American survey, it was found that > 75% of those unaware and > 60% of those aware of their hypertensive status but with uncontrolled HT had only mildly elevated systolic HT[14].
+In the Parsi study, 53% of men and 44% of women were unaware of their hypertensive status. This large figure is surprising considering that 90.2% of those interviewed had had their BP measured in the recent past. Lack of awareness is high in most Indian communities. It is especially high in the rural population of Western India where 92.5% were unaware[10]. The survey of the American population also revealed a high percentage (31%) of subjects being unaware of their hypertensive status [9,14] but this is significantly less than that in the Parsi community.
+In the Hypertension Study Group survey [13], compliance to medication was 40% among the elderly. In urban Delhi, compliance was only 30% in those aware of having hypertension [16]. Compared to these figures, compliance to medication was better in the Parsi community (64%) but was still significantly less than the 83% compliance reported in the American population [14].
+Most Indian studies have shown that optimal BP control was achieved in only a small proportion of those who were aware of having HT. Optimal control was present in only 10% in the Hypertension Study Group [13] while in urban Delhi [16] it was only 9%. In our study, it was only marginally higher at 13.6%. The NHANES III survey also found that optimal BP control was achieved only in 23% of the American population [14].
+An important limitation of our study is that we did not use the JNC VI criteria for defining ISH in our initial analysis of data. Although we subsequently re-analyzed the data using the new criteria, this was applicable only for estimating prevalence. Awareness, compliance and optimal BP control had to be estimated using the old criteria as these were in use when the study was initiated. Secondly, as mentioned above, there would have been some under-estimation of the prevalence of ISH as patients on regular medication and controlled HT were classified as having 'diastolic HT'. Other limitations include study of a single community and BP measurement on a single day which could over-estimate prevalence due to 'white-coat' effect among other factors.
+
+
+Conclusion
+This study shows that more than a third of the adult members of the Parsi community suffer from HT and nearly half of those having HT are unaware of their illness. Compliance to medication is poor and only a small minority have optimally controlled blood pressures. ISH is present in about three-fourths of elderly hypertensives and many of these subjects have only mild increases in systolic pressure. Finally, our study shows that even in relatively affluent communities, with ready access to medical care, there is an urgent need for regular screening for HT coupled with educational programs to emphasize the benefits of optimal BP control.
+
+
+Competing interests
+None declared.
+
+
+Authors contribution
+NEB was instrumental in initiating the study, formulating the study design, and carrying out the study.
+TK was instrumental in completing the study, analyzing data and preparing the manuscript for publication.
+Both the authors have read and approved the final manuscript.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

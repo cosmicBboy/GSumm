@@ -1,0 +1,207 @@
+2014-05-09 03:23:10,363 : INFO : loaded corpus index from ../mediumData/mediumData.mm.index
+2014-05-09 03:23:10,363 : INFO : initializing corpus reader from ../mediumData/mediumData.mm
+2014-05-09 03:23:10,364 : INFO : accepted corpus with 1002 documents, 57681 features, 707258 non-zero entries
+MmCorpus(1002 documents, 57681 features, 707258 non-zero entries)
+2014-05-09 03:23:13,019 : INFO : collecting document frequencies
+2014-05-09 03:23:13,019 : INFO : PROGRESS: processing document #0
+2014-05-09 03:23:13,284 : INFO : calculating IDF weights for 1002 documents and 57680 features (707258 matrix non-zeros)
+2014-05-09 03:23:13,340 : INFO : loading TfidfModel object from ../mediumData/mediumData.tfidf_model
+2014-05-09 03:23:15,336 : INFO : loading Dictionary object from ../mediumData/mediumData.dict
+2014-05-09 03:23:15,462 : INFO : using symmetric alpha at 0.05
+2014-05-09 03:23:15,462 : INFO : using serial LDA version on this node
+2014-05-09 03:23:15,647 : INFO : running online LDA training, 20 topics, 10 passes over the supplied corpus of 1002 documents, updating model once every 1002 documents, evaluating perplexity every 1002 documents, iterating 50 with a convergence threshold of 0
+2014-05-09 03:24:00,362 : INFO : -181.981 per-word bound, 6048899001928552284193958973070036662975201103101034496.0 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:24:00,362 : INFO : PROGRESS: pass 0, at document #1002/1002
+2014-05-09 03:24:06,827 : INFO : 892/1002 documents converged within 50 iterations
+2014-05-09 03:24:07,071 : INFO : topic #0 (0.050): 0.001*smoking + 0.001*smokers + 0.000*asthma + 0.000*patients + 0.000*women + 0.000*children + 0.000*mental + 0.000*pregnancy + 0.000*hypertension + 0.000*epilepsy
+2014-05-09 03:24:07,078 : INFO : topic #13 (0.050): 0.001*vaccination + 0.001*smoking + 0.000*exercise + 0.000*cancer + 0.000*smokers + 0.000*students + 0.000*exposure + 0.000*influenza + 0.000*physicians + 0.000*vaccine
+2014-05-09 03:24:07,084 : INFO : topic #9 (0.050): 0.000*smoking + 0.000*women + 0.000*patients + 0.000*intervention + 0.000*death + 0.000*mortality + 0.000*treatment + 0.000*programme + 0.000*water + 0.000*stroke
+2014-05-09 03:24:07,092 : INFO : topic #8 (0.050): 0.001*asthma + 0.000*injury + 0.000*children + 0.000*adolescents + 0.000*water + 0.000*patients + 0.000*dementia + 0.000*expectancy + 0.000*birth + 0.000*intervention
+2014-05-09 03:24:07,100 : INFO : topic #12 (0.050): 0.001*patients + 0.001*mental + 0.000*sexual + 0.000*water + 0.000*condom + 0.000*smoking + 0.000*overweight + 0.000*treatment + 0.000*women + 0.000*respondents
+2014-05-09 03:24:07,107 : INFO : topic #18 (0.050): 0.000*malaria + 0.000*children + 0.000*infection + 0.000*costs + 0.000*patients + 0.000*parents + 0.000*women + 0.000*child + 0.000*surveillance + 0.000*weight
+2014-05-09 03:24:07,115 : INFO : topic #2 (0.050): 0.000*sexual + 0.000*screening + 0.000*surveillance + 0.000*vaccine + 0.000*suicide + 0.000*vaccination + 0.000*treatment + 0.000*condoms + 0.000*infection + 0.000*drinking
+2014-05-09 03:24:07,122 : INFO : topic #3 (0.050): 0.000*students + 0.000*smoking + 0.000*screening + 0.000*pain + 0.000*tobacco + 0.000*disaster + 0.000*influenza + 0.000*patients + 0.000*tuberculosis + 0.000*smokeless
+2014-05-09 03:24:07,130 : INFO : topic #15 (0.050): 0.001*stroke + 0.000*intervention + 0.000*blood + 0.000*overweight + 0.000*smoking + 0.000*women + 0.000*physicians + 0.000*prenatal + 0.000*suicide + 0.000*weight
+2014-05-09 03:24:07,137 : INFO : topic #11 (0.050): 0.001*smoking + 0.000*winter + 0.000*activity + 0.000*pregnancy + 0.000*cocaine + 0.000*schools + 0.000*patients + 0.000*disability + 0.000*physical + 0.000*vitamin
+2014-05-09 03:24:07,145 : INFO : topic #16 (0.050): 0.001*injuries + 0.000*smoking + 0.000*breastfeeding + 0.000*adherence + 0.000*injury + 0.000*breast + 0.000*cancer + 0.000*inspection + 0.000*treatment + 0.000*women
+2014-05-09 03:24:07,152 : INFO : topic #19 (0.050): 0.000*treatment + 0.000*patients + 0.000*drug + 0.000*activity + 0.000*cancer + 0.000*women + 0.000*village + 0.000*rural + 0.000*infection + 0.000*menopause
+2014-05-09 03:24:07,159 : INFO : topic #7 (0.050): 0.001*smoking + 0.001*patients + 0.000*women + 0.000*activity + 0.000*physical + 0.000*tobacco + 0.000*vaccination + 0.000*neighbourhood + 0.000*delay + 0.000*care
+2014-05-09 03:24:07,167 : INFO : topic #17 (0.050): 0.000*suicide + 0.000*delay + 0.000*symptoms + 0.000*patients + 0.000*deaths + 0.000*overweight + 0.000*alcohol + 0.000*poisoning + 0.000*smoking + 0.000*smokers
+2014-05-09 03:24:07,175 : INFO : topic #6 (0.050): 0.001*students + 0.000*patients + 0.000*screening + 0.000*physicians + 0.000*elderly + 0.000*adolescents + 0.000*mental + 0.000*disability + 0.000*balding + 0.000*weight
+2014-05-09 03:24:07,180 : INFO : topic diff=15.895658, rho=1.000000
+2014-05-09 03:24:46,020 : INFO : -18.602 per-word bound, 397897.6 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:24:46,020 : INFO : PROGRESS: pass 1, at document #1002/1002
+2014-05-09 03:24:51,430 : INFO : 978/1002 documents converged within 50 iterations
+2014-05-09 03:24:51,662 : INFO : topic #8 (0.050): 0.001*asthma + 0.000*injury + 0.000*children + 0.000*dementia + 0.000*adolescents + 0.000*expectancy + 0.000*vaccine + 0.000*birth + 0.000*maternal + 0.000*breakfast
+2014-05-09 03:24:51,669 : INFO : topic #12 (0.050): 0.001*sexual + 0.001*mental + 0.001*condom + 0.001*patients + 0.001*water + 0.001*treatment + 0.001*partners + 0.001*respondents + 0.001*infection + 0.001*women
+2014-05-09 03:24:51,676 : INFO : topic #11 (0.050): 0.001*smoking + 0.000*winter + 0.000*pregnancy + 0.000*schools + 0.000*cocaine + 0.000*antenatal + 0.000*activity + 0.000*parents + 0.000*incidents + 0.000*vitamin
+2014-05-09 03:24:51,683 : INFO : topic #17 (0.050): 0.001*suicide + 0.001*alcohol + 0.001*symptoms + 0.001*deaths + 0.000*delay + 0.000*drinkers + 0.000*poisoning + 0.000*drinking + 0.000*overweight + 0.000*patients
+2014-05-09 03:24:51,691 : INFO : topic #13 (0.050): 0.001*vaccination + 0.000*vaccine + 0.000*influenza + 0.000*smoking + 0.000*exercise + 0.000*exposure + 0.000*measles + 0.000*lung + 0.000*cancer + 0.000*smokers
+2014-05-09 03:24:51,698 : INFO : topic #6 (0.050): 0.001*students + 0.001*physicians + 0.000*screening + 0.000*private + 0.000*disability + 0.000*physician + 0.000*patients + 0.000*elderly + 0.000*adolescents + 0.000*harm
+2014-05-09 03:24:51,707 : INFO : topic #2 (0.050): 0.001*surveillance + 0.000*vaccine + 0.000*screening + 0.000*sexual + 0.000*vaccination + 0.000*timeliness + 0.000*drinking + 0.000*infection + 0.000*condoms + 0.000*measles
+2014-05-09 03:24:51,714 : INFO : topic #18 (0.050): 0.001*malaria + 0.000*costs + 0.000*q + 0.000*infection + 0.000*children + 0.000*child + 0.000*parents + 0.000*surveillance + 0.000*occup + 0.000*infected
+2014-05-09 03:24:51,722 : INFO : topic #10 (0.050): 0.001*suicide + 0.001*obesity + 0.001*overweight + 0.000*syndrome + 0.000*parents + 0.000*schools + 0.000*students + 0.000*death + 0.000*diabetes + 0.000*contacts
+2014-05-09 03:24:51,729 : INFO : topic #19 (0.050): 0.000*treatment + 0.000*drug + 0.000*village + 0.000*cig + 0.000*interpreter + 0.000*biotechnology + 0.000*patients + 0.000*elasticity + 0.000*price + 0.000*infection
+2014-05-09 03:24:51,737 : INFO : topic #5 (0.050): 0.001*mortality + 0.001*smoking + 0.001*cancer + 0.001*cardiovascular + 0.001*injury + 0.001*women + 0.001*cholesterol + 0.001*trends + 0.001*income + 0.001*inequalities
+2014-05-09 03:24:51,744 : INFO : topic #14 (0.050): 0.000*pneumococcal + 0.000*tobacco + 0.000*water + 0.000*tax + 0.000*disabled + 0.000*tuberculosis + 0.000*breastfeeding + 0.000*vaccination + 0.000*border + 0.000*waste
+2014-05-09 03:24:51,752 : INFO : topic #1 (0.050): 0.001*water + 0.000*influenza + 0.000*breast + 0.000*vitamin + 0.000*sexual + 0.000*intervention + 0.000*cancer + 0.000*acculturation + 0.000*waterpipe + 0.000*syphilis
+2014-05-09 03:24:51,759 : INFO : topic #3 (0.050): 0.000*pain + 0.000*students + 0.000*screening + 0.000*smokeless + 0.000*influenza + 0.000*tobacco + 0.000*disaster + 0.000*periodontal + 0.000*avoidable + 0.000*collagen
+2014-05-09 03:24:51,767 : INFO : topic #4 (0.050): 0.000*diabetes + 0.000*food + 0.000*migrants + 0.000*children + 0.000*waterpipe + 0.000*smoking + 0.000*cancer + 0.000*euros + 0.000*screening + 0.000*family
+2014-05-09 03:24:51,772 : INFO : topic diff=0.302303, rho=0.707107
+2014-05-09 03:25:31,846 : INFO : -16.868 per-word bound, 119627.7 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:25:31,846 : INFO : PROGRESS: pass 2, at document #1002/1002
+2014-05-09 03:25:36,985 : INFO : 1002/1002 documents converged within 50 iterations
+2014-05-09 03:25:37,275 : INFO : topic #8 (0.050): 0.001*asthma + 0.000*dementia + 0.000*injury + 0.000*vaccine + 0.000*expectancy + 0.000*wheezing + 0.000*breakfast + 0.000*asylum + 0.000*ozone + 0.000*suspects
+2014-05-09 03:25:37,283 : INFO : topic #11 (0.050): 0.000*winter + 0.000*vitamin + 0.000*antenatal + 0.000*incidents + 0.000*cocaine + 0.000*measles + 0.000*abortion + 0.000*cotinine + 0.000*pregnancy + 0.000*schools
+2014-05-09 03:25:37,290 : INFO : topic #13 (0.050): 0.001*vaccination + 0.000*measles + 0.000*vaccine + 0.000*influenza + 0.000*caries + 0.000*sleep + 0.000*exposure + 0.000*iron + 0.000*prisons + 0.000*exercise
+2014-05-09 03:25:37,298 : INFO : topic #1 (0.050): 0.000*vitamin + 0.000*water + 0.000*influenza + 0.000*acculturation + 0.000*waterpipe + 0.000*syphilis + 0.000*hemodialysis + 0.000*sponsorship + 0.000*homocysteine + 0.000*religious
+2014-05-09 03:25:37,305 : INFO : topic #12 (0.050): 0.002*sexual + 0.001*water + 0.001*patients + 0.001*mental + 0.001*infection + 0.001*treatment + 0.001*condom + 0.001*respondents + 0.001*children + 0.001*women
+2014-05-09 03:25:37,314 : INFO : topic #19 (0.050): 0.000*village + 0.000*cig + 0.000*interpreter + 0.000*biotechnology + 0.000*elasticity + 0.000*price + 0.000*betel + 0.000*coerced + 0.000*reward + 0.000*voucher
+2014-05-09 03:25:37,320 : INFO : topic #17 (0.050): 0.001*suicide + 0.001*poisoning + 0.001*alcohol + 0.000*drinkers + 0.000*deaths + 0.000*villages + 0.000*refusal + 0.000*drinker + 0.000*symptoms + 0.000*sawmill
+2014-05-09 03:25:37,328 : INFO : topic #0 (0.050): 0.001*pandemic + 0.000*asthma + 0.000*hypertension + 0.000*smokers + 0.000*pressure + 0.000*autism + 0.000*children + 0.000*systolic + 0.000*epilepsy + 0.000*neighborhood
+2014-05-09 03:25:37,335 : INFO : topic #15 (0.050): 0.000*stroke + 0.000*prenatal + 0.000*supplements + 0.000*measles + 0.000*magazines + 0.000*intervention + 0.000*schoolchildren + 0.000*responders + 0.000*suicides + 0.000*newborns
+2014-05-09 03:25:37,343 : INFO : topic #14 (0.050): 0.000*pneumococcal + 0.000*tax + 0.000*disabled + 0.000*border + 0.000*waste + 0.000*goitre + 0.000*breastfeeding + 0.000*circumcision + 0.000*driving + 0.000*formula
+2014-05-09 03:25:37,351 : INFO : topic #7 (0.050): 0.002*smoking + 0.002*patients + 0.001*activity + 0.001*physical + 0.001*students + 0.001*diabetes + 0.001*smokers + 0.001*women + 0.001*tobacco + 0.001*intervention
+2014-05-09 03:25:37,360 : INFO : topic #10 (0.050): 0.001*suicide + 0.000*obesity + 0.000*autopsy + 0.000*parents + 0.000*suicidal + 0.000*contacts + 0.000*domains + 0.000*schools + 0.000*syndrome + 0.000*overweight
+2014-05-09 03:25:37,369 : INFO : topic #3 (0.050): 0.000*smokeless + 0.000*periodontal + 0.000*pain + 0.000*avoidable + 0.000*collagen + 0.000*drunkenness + 0.000*influenza + 0.000*inpatients + 0.000*folate + 0.000*lesbians
+2014-05-09 03:25:37,378 : INFO : topic #16 (0.050): 0.001*injuries + 0.001*breastfeeding + 0.000*inspection + 0.000*immunisation + 0.000*adherence + 0.000*injury + 0.000*folic + 0.000*notification + 0.000*compliant + 0.000*inspections
+2014-05-09 03:25:37,387 : INFO : topic #5 (0.050): 0.002*mortality + 0.001*injury + 0.001*smoking + 0.001*cancer + 0.001*deaths + 0.001*trends + 0.001*cardiovascular + 0.001*causes + 0.001*rural + 0.001*inequalities
+2014-05-09 03:25:37,393 : INFO : topic diff=0.301611, rho=0.577350
+2014-05-09 03:26:17,306 : INFO : -15.331 per-word bound, 41225.5 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:26:17,306 : INFO : PROGRESS: pass 3, at document #1002/1002
+2014-05-09 03:26:21,931 : INFO : 1002/1002 documents converged within 50 iterations
+2014-05-09 03:26:22,193 : INFO : topic #13 (0.050): 0.001*measles + 0.000*vaccination + 0.000*vaccine + 0.000*caries + 0.000*sleep + 0.000*iron + 0.000*inmates + 0.000*influenza + 0.000*percentiles + 0.000*ring
+2014-05-09 03:26:22,201 : INFO : topic #2 (0.050): 0.000*vaccine + 0.000*timeliness + 0.000*measles + 0.000*surveillance + 0.000*rabies + 0.000*fever + 0.000*sleep + 0.000*meningococcal + 0.000*driving + 0.000*invitations
+2014-05-09 03:26:22,209 : INFO : topic #5 (0.050): 0.002*mortality + 0.001*deaths + 0.001*injury + 0.001*causes + 0.001*trends + 0.001*cancer + 0.001*inequalities + 0.001*air + 0.001*disaster + 0.001*migration
+2014-05-09 03:26:22,216 : INFO : topic #7 (0.050): 0.003*smoking + 0.002*patients + 0.002*students + 0.002*smokers + 0.001*physical + 0.001*activity + 0.001*diabetes + 0.001*women + 0.001*tobacco + 0.001*screening
+2014-05-09 03:26:22,225 : INFO : topic #16 (0.050): 0.000*inspection + 0.000*breastfeeding + 0.000*injuries + 0.000*immunisation + 0.000*folic + 0.000*notification + 0.000*inspections + 0.000*compliant + 0.000*submersion + 0.000*cake
+2014-05-09 03:26:22,233 : INFO : topic #1 (0.050): 0.000*vitamin + 0.000*acculturation + 0.000*waterpipe + 0.000*syphilis + 0.000*hemodialysis + 0.000*sponsorship + 0.000*homocysteine + 0.000*religious + 0.000*water + 0.000*nmol
+2014-05-09 03:26:22,242 : INFO : topic #8 (0.050): 0.001*asthma + 0.000*dementia + 0.000*wheezing + 0.000*breakfast + 0.000*asylum + 0.000*ozone + 0.000*brucellosis + 0.000*suspects + 0.000*pancreatic + 0.000*homeopathic
+2014-05-09 03:26:22,249 : INFO : topic #18 (0.050): 0.000*malaria + 0.000*q + 0.000*occup + 0.000*ivermectin + 0.000*backpackers + 0.000*insecurity + 0.000*fevers + 0.000*mastectomy + 0.000*polio + 0.000*caretaker
+2014-05-09 03:26:22,258 : INFO : topic #3 (0.050): 0.000*smokeless + 0.000*periodontal + 0.000*collagen + 0.000*drunkenness + 0.000*avoidable + 0.000*folate + 0.000*inpatients + 0.000*lesbians + 0.000*sedentarism + 0.000*pandemic
+2014-05-09 03:26:22,265 : INFO : topic #19 (0.050): 0.000*village + 0.000*cig + 0.000*interpreter + 0.000*biotechnology + 0.000*elasticity + 0.000*price + 0.000*betel + 0.000*coerced + 0.000*voucher + 0.000*reward
+2014-05-09 03:26:22,273 : INFO : topic #14 (0.050): 0.000*pneumococcal + 0.000*tax + 0.000*disabled + 0.000*border + 0.000*goitre + 0.000*waste + 0.000*circumcision + 0.000*driving + 0.000*colour + 0.000*caries
+2014-05-09 03:26:22,280 : INFO : topic #6 (0.050): 0.000*students + 0.000*balding + 0.000*belt + 0.000*mefloquine + 0.000*smokeless + 0.000*harm + 0.000*imprisoned + 0.000*workforce + 0.000*journals + 0.000*morphine
+2014-05-09 03:26:22,289 : INFO : topic #15 (0.050): 0.000*prenatal + 0.000*supplements + 0.000*newborns + 0.000*magazines + 0.000*suicides + 0.000*schoolchildren + 0.000*defects + 0.000*isolates + 0.000*asylum + 0.000*aerobic
+2014-05-09 03:26:22,296 : INFO : topic #12 (0.050): 0.002*sexual + 0.002*water + 0.001*infection + 0.001*mental + 0.001*patients + 0.001*treatment + 0.001*children + 0.001*condom + 0.001*respondents + 0.001*pregnancy
+2014-05-09 03:26:22,303 : INFO : topic #4 (0.050): 0.000*waterpipe + 0.000*euros + 0.000*migrants + 0.000*antihypertensives + 0.000*mobile + 0.000*immigrant + 0.000*journals + 0.000*quid + 0.000*syphilis + 0.000*infertility
+2014-05-09 03:26:22,309 : INFO : topic diff=0.204061, rho=0.500000
+2014-05-09 03:27:04,663 : INFO : -14.587 per-word bound, 24604.1 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:27:04,664 : INFO : PROGRESS: pass 4, at document #1002/1002
+2014-05-09 03:27:09,729 : INFO : 1002/1002 documents converged within 50 iterations
+2014-05-09 03:27:10,000 : INFO : topic #16 (0.050): 0.000*inspection + 0.000*folic + 0.000*breastfeeding + 0.000*immunisation + 0.000*inspections + 0.000*notification + 0.000*submersion + 0.000*cake + 0.000*isolates + 0.000*compliant
+2014-05-09 03:27:10,010 : INFO : topic #4 (0.050): 0.000*waterpipe + 0.000*euros + 0.000*antihypertensives + 0.000*mobile + 0.000*quid + 0.000*syphilis + 0.000*infertility + 0.000*outlets + 0.000*betel + 0.000*covariables
+2014-05-09 03:27:10,017 : INFO : topic #14 (0.050): 0.000*tax + 0.000*pneumococcal + 0.000*border + 0.000*goitre + 0.000*circumcision + 0.000*disabled + 0.000*waste + 0.000*colour + 0.000*driving + 0.000*caries
+2014-05-09 03:27:10,025 : INFO : topic #19 (0.050): 0.000*village + 0.000*interpreter + 0.000*cig + 0.000*biotechnology + 0.000*elasticity + 0.000*betel + 0.000*coerced + 0.000*voucher + 0.000*price + 0.000*pretest
+2014-05-09 03:27:10,032 : INFO : topic #10 (0.050): 0.001*suicide + 0.001*autopsy + 0.000*suicidal + 0.000*knee + 0.000*seafood + 0.000*radiography + 0.000*sleep + 0.000*thoughts + 0.000*infusions + 0.000*contacts
+2014-05-09 03:27:10,040 : INFO : topic #7 (0.050): 0.003*smoking + 0.002*patients + 0.002*students + 0.002*smokers + 0.002*women + 0.002*diabetes + 0.001*physical + 0.001*cancer + 0.001*activity + 0.001*tobacco
+2014-05-09 03:27:10,047 : INFO : topic #13 (0.050): 0.001*measles + 0.000*caries + 0.000*sleep + 0.000*iron + 0.000*inmates + 0.000*vaccine + 0.000*ring + 0.000*percentiles + 0.000*undocumented + 0.000*vaccination
+2014-05-09 03:27:10,057 : INFO : topic #9 (0.050): 0.000*ns + 0.000*veterans + 0.000*turbidity + 0.000*acetaminophen + 0.000*ambulance + 0.000*cortisol + 0.000*travellers + 0.000*magnesium + 0.000*haemodialysis + 0.000*dialysis
+2014-05-09 03:27:10,064 : INFO : topic #0 (0.050): 0.001*pandemic + 0.000*autism + 0.000*journalists + 0.000*neighborhood + 0.000*epilepsy + 0.000*tumor + 0.000*antidepressants + 0.000*sell + 0.000*miscarriage + 0.000*business
+2014-05-09 03:27:10,072 : INFO : topic #6 (0.050): 0.000*balding + 0.000*belt + 0.000*mefloquine + 0.000*smokeless + 0.000*imprisoned + 0.000*morphine + 0.000*bupropion + 0.000*mosquito + 0.000*output + 0.000*salmonellosis
+2014-05-09 03:27:10,080 : INFO : topic #15 (0.050): 0.000*newborns + 0.000*supplements + 0.000*magazines + 0.000*suicides + 0.000*prenatal + 0.000*isolates + 0.000*schoolchildren + 0.000*asylum + 0.000*defects + 0.000*aerobic
+2014-05-09 03:27:10,087 : INFO : topic #1 (0.050): 0.000*acculturation + 0.000*waterpipe + 0.000*vitamin + 0.000*syphilis + 0.000*hemodialysis + 0.000*sponsorship + 0.000*homocysteine + 0.000*religious + 0.000*nmol + 0.000*pediatricians
+2014-05-09 03:27:10,096 : INFO : topic #18 (0.050): 0.000*malaria + 0.000*q + 0.000*occup + 0.000*ivermectin + 0.000*backpackers + 0.000*fevers + 0.000*mastectomy + 0.000*polio + 0.000*insecurity + 0.000*caretaker
+2014-05-09 03:27:10,104 : INFO : topic #2 (0.050): 0.000*timeliness + 0.000*measles + 0.000*rabies + 0.000*vaccine + 0.000*meningococcal + 0.000*sleep + 0.000*invitations + 0.000*fever + 0.000*couples + 0.000*serosurvey
+2014-05-09 03:27:10,112 : INFO : topic #5 (0.050): 0.001*mortality + 0.001*causes + 0.001*deaths + 0.001*injury + 0.001*air + 0.001*inequalities + 0.001*trends + 0.001*disaster + 0.001*migration + 0.001*coronary
+2014-05-09 03:27:10,116 : INFO : topic diff=0.137769, rho=0.447214
+2014-05-09 03:27:51,970 : INFO : -14.186 per-word bound, 18636.2 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:27:51,970 : INFO : PROGRESS: pass 5, at document #1002/1002
+2014-05-09 03:27:57,581 : INFO : 1002/1002 documents converged within 50 iterations
+2014-05-09 03:27:57,835 : INFO : topic #17 (0.050): 0.001*suicide + 0.000*veterans + 0.000*poisoning + 0.000*sawmill + 0.000*drinker + 0.000*radiation + 0.000*village + 0.000*intentional + 0.000*drinks + 0.000*hanging
+2014-05-09 03:27:57,843 : INFO : topic #10 (0.050): 0.001*suicide + 0.001*autopsy + 0.000*knee + 0.000*suicidal + 0.000*seafood + 0.000*radiography + 0.000*infusions + 0.000*thoughts + 0.000*cryptosporidiosis + 0.000*boosting
+2014-05-09 03:27:57,851 : INFO : topic #9 (0.050): 0.000*ns + 0.000*veterans + 0.000*turbidity + 0.000*acetaminophen + 0.000*ambulance + 0.000*cortisol + 0.000*travellers + 0.000*magnesium + 0.000*haemodialysis + 0.000*dialysis
+2014-05-09 03:27:57,860 : INFO : topic #8 (0.050): 0.000*wheezing + 0.000*breakfast + 0.000*asylum + 0.000*brucellosis + 0.000*asthma + 0.000*ozone + 0.000*suspects + 0.000*pancreatic + 0.000*homeopathic + 0.000*schizophrenia
+2014-05-09 03:27:57,868 : INFO : topic #5 (0.050): 0.001*causes + 0.001*mortality + 0.001*deaths + 0.001*air + 0.001*inequalities + 0.001*migration + 0.001*disaster + 0.001*coronary + 0.001*prenatal + 0.001*injury
+2014-05-09 03:27:57,877 : INFO : topic #0 (0.050): 0.001*pandemic + 0.000*autism + 0.000*journalists + 0.000*tumor + 0.000*epilepsy + 0.000*neighborhood + 0.000*sell + 0.000*antidepressants + 0.000*miscarriage + 0.000*pesticides
+2014-05-09 03:27:57,885 : INFO : topic #7 (0.050): 0.003*smoking + 0.002*patients + 0.002*students + 0.002*smokers + 0.002*cancer + 0.002*women + 0.002*diabetes + 0.001*physical + 0.001*screening + 0.001*activity
+2014-05-09 03:27:57,895 : INFO : topic #19 (0.050): 0.000*village + 0.000*cig + 0.000*interpreter + 0.000*biotechnology + 0.000*elasticity + 0.000*betel + 0.000*coerced + 0.000*voucher + 0.000*pretest + 0.000*paragonimiasis
+2014-05-09 03:27:57,903 : INFO : topic #4 (0.050): 0.000*waterpipe + 0.000*euros + 0.000*antihypertensives + 0.000*quid + 0.000*mobile + 0.000*syphilis + 0.000*infertility + 0.000*outlets + 0.000*betel + 0.000*covariables
+2014-05-09 03:27:57,911 : INFO : topic #13 (0.050): 0.001*measles + 0.000*caries + 0.000*iron + 0.000*inmates + 0.000*undocumented + 0.000*percentiles + 0.000*ring + 0.000*radiation + 0.000*correctional + 0.000*thyroid
+2014-05-09 03:27:57,918 : INFO : topic #16 (0.050): 0.000*inspection + 0.000*folic + 0.000*inspections + 0.000*submersion + 0.000*cake + 0.000*immunisation + 0.000*isolates + 0.000*seniors + 0.000*geocoding + 0.000*symposia
+2014-05-09 03:27:57,927 : INFO : topic #1 (0.050): 0.000*acculturation + 0.000*waterpipe + 0.000*syphilis + 0.000*vitamin + 0.000*hemodialysis + 0.000*sponsorship + 0.000*homocysteine + 0.000*religious + 0.000*nmol + 0.000*pediatricians
+2014-05-09 03:27:57,935 : INFO : topic #2 (0.050): 0.000*timeliness + 0.000*measles + 0.000*rabies + 0.000*meningococcal + 0.000*invitations + 0.000*couples + 0.000*serosurvey + 0.000*recalls + 0.000*fever + 0.000*automated
+2014-05-09 03:27:57,944 : INFO : topic #3 (0.050): 0.000*smokeless + 0.000*periodontal + 0.000*collagen + 0.000*drunkenness + 0.000*folate + 0.000*inpatients + 0.000*lesbians + 0.000*sedentarism + 0.000*atherosclerosis + 0.000*pelvic
+2014-05-09 03:27:57,951 : INFO : topic #14 (0.050): 0.001*tax + 0.000*pneumococcal + 0.000*border + 0.000*goitre + 0.000*circumcision + 0.000*waste + 0.000*colour + 0.000*caries + 0.000*alliesthesia + 0.000*disabled
+2014-05-09 03:27:57,956 : INFO : topic diff=0.095437, rho=0.408248
+2014-05-09 03:28:38,782 : INFO : -13.951 per-word bound, 15840.6 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:28:38,782 : INFO : PROGRESS: pass 6, at document #1002/1002
+2014-05-09 03:28:43,377 : INFO : 1002/1002 documents converged within 50 iterations
+2014-05-09 03:28:43,633 : INFO : topic #18 (0.050): 0.000*malaria + 0.000*q + 0.000*occup + 0.000*ivermectin + 0.000*backpackers + 0.000*fevers + 0.000*mastectomy + 0.000*caretaker + 0.000*deshg + 0.000*chlamydial
+2014-05-09 03:28:43,640 : INFO : topic #10 (0.050): 0.001*autopsy + 0.001*suicide + 0.000*knee + 0.000*seafood + 0.000*radiography + 0.000*infusions + 0.000*suicidal + 0.000*cryptosporidiosis + 0.000*boosting + 0.000*falciparum
+2014-05-09 03:28:43,648 : INFO : topic #1 (0.050): 0.000*acculturation + 0.000*waterpipe + 0.000*syphilis + 0.000*hemodialysis + 0.000*sponsorship + 0.000*homocysteine + 0.000*vitamin + 0.000*religious + 0.000*nmol + 0.000*pediatricians
+2014-05-09 03:28:43,656 : INFO : topic #7 (0.050): 0.003*smoking + 0.002*patients + 0.002*smokers + 0.002*students + 0.002*cancer + 0.002*women + 0.002*diabetes + 0.001*screening + 0.001*physical + 0.001*activity
+2014-05-09 03:28:43,664 : INFO : topic #15 (0.050): 0.000*isolates + 0.000*suicides + 0.000*asylum + 0.000*newborns + 0.000*magazines + 0.000*shantytown + 0.000*supplements + 0.000*physiotherapy + 0.000*appendicitis + 0.000*defects
+2014-05-09 03:28:43,672 : INFO : topic #2 (0.050): 0.000*timeliness + 0.000*measles + 0.000*rabies + 0.000*invitations + 0.000*meningococcal + 0.000*couples + 0.000*serosurvey + 0.000*recalls + 0.000*induration + 0.000*paratyphoid
+2014-05-09 03:28:43,679 : INFO : topic #13 (0.050): 0.001*measles + 0.000*caries + 0.000*iron + 0.000*inmates + 0.000*undocumented + 0.000*percentiles + 0.000*ring + 0.000*radiation + 0.000*correctional + 0.000*thyroid
+2014-05-09 03:28:43,688 : INFO : topic #4 (0.050): 0.000*waterpipe + 0.000*euros + 0.000*antihypertensives + 0.000*quid + 0.000*mobile + 0.000*infertility + 0.000*betel + 0.000*outlets + 0.000*covariables + 0.000*syphilis
+2014-05-09 03:28:43,695 : INFO : topic #8 (0.050): 0.000*wheezing + 0.000*breakfast + 0.000*asylum + 0.000*brucellosis + 0.000*ozone + 0.000*suspects + 0.000*pancreatic + 0.000*homeopathic + 0.000*schizophrenia + 0.000*magnesium
+2014-05-09 03:28:43,704 : INFO : topic #17 (0.050): 0.001*suicide + 0.000*veterans + 0.000*sawmill + 0.000*poisoning + 0.000*radiation + 0.000*drinker + 0.000*intentional + 0.000*drinks + 0.000*hanging + 0.000*village
+2014-05-09 03:28:43,711 : INFO : topic #5 (0.050): 0.001*causes + 0.001*mortality + 0.001*air + 0.001*deaths + 0.001*prenatal + 0.001*coronary + 0.001*migration + 0.001*inequalities + 0.001*disaster + 0.001*lung
+2014-05-09 03:28:43,719 : INFO : topic #14 (0.050): 0.001*tax + 0.000*pneumococcal + 0.000*border + 0.000*goitre + 0.000*circumcision + 0.000*colour + 0.000*waste + 0.000*caries + 0.000*alliesthesia + 0.000*calibrations
+2014-05-09 03:28:43,727 : INFO : topic #9 (0.050): 0.000*ns + 0.000*veterans + 0.000*turbidity + 0.000*acetaminophen + 0.000*ambulance + 0.000*cortisol + 0.000*travellers + 0.000*magnesium + 0.000*haemodialysis + 0.000*dialysis
+2014-05-09 03:28:43,735 : INFO : topic #12 (0.050): 0.002*sexual + 0.002*water + 0.002*infection + 0.001*treatment + 0.001*mental + 0.001*pregnancy + 0.001*children + 0.001*patients + 0.001*exposure + 0.001*sex
+2014-05-09 03:28:43,742 : INFO : topic #16 (0.050): 0.000*inspection + 0.000*folic + 0.000*inspections + 0.000*submersion + 0.000*cake + 0.000*isolates + 0.000*seniors + 0.000*geocoding + 0.000*symposia + 0.000*twins
+2014-05-09 03:28:43,749 : INFO : topic diff=0.067929, rho=0.377964
+2014-05-09 03:29:20,932 : INFO : -13.802 per-word bound, 14285.5 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:29:20,932 : INFO : PROGRESS: pass 7, at document #1002/1002
+2014-05-09 03:29:25,214 : INFO : 1002/1002 documents converged within 50 iterations
+2014-05-09 03:29:25,451 : INFO : topic #12 (0.050): 0.002*sexual + 0.002*water + 0.002*infection + 0.001*treatment + 0.001*pregnancy + 0.001*mental + 0.001*children + 0.001*exposure + 0.001*patients + 0.001*sex
+2014-05-09 03:29:25,458 : INFO : topic #8 (0.050): 0.000*wheezing + 0.000*breakfast + 0.000*asylum + 0.000*brucellosis + 0.000*ozone + 0.000*pancreatic + 0.000*homeopathic + 0.000*suspects + 0.000*schizophrenia + 0.000*magnesium
+2014-05-09 03:29:25,467 : INFO : topic #1 (0.050): 0.000*acculturation + 0.000*waterpipe + 0.000*hemodialysis + 0.000*sponsorship + 0.000*syphilis + 0.000*homocysteine + 0.000*nmol + 0.000*pediatricians + 0.000*vitamin + 0.000*cryptosporidiosis
+2014-05-09 03:29:25,475 : INFO : topic #9 (0.050): 0.000*ns + 0.000*veterans + 0.000*turbidity + 0.000*acetaminophen + 0.000*ambulance + 0.000*cortisol + 0.000*travellers + 0.000*magnesium + 0.000*haemodialysis + 0.000*dialysis
+2014-05-09 03:29:25,483 : INFO : topic #18 (0.050): 0.000*malaria + 0.000*q + 0.000*occup + 0.000*ivermectin + 0.000*backpackers + 0.000*fevers + 0.000*mastectomy + 0.000*caretaker + 0.000*deshg + 0.000*chlamydial
+2014-05-09 03:29:25,491 : INFO : topic #16 (0.050): 0.000*inspection + 0.000*folic + 0.000*inspections + 0.000*submersion + 0.000*cake + 0.000*isolates + 0.000*symposia + 0.000*geocoding + 0.000*acculturation + 0.000*seniors
+2014-05-09 03:29:25,498 : INFO : topic #6 (0.050): 0.000*belt + 0.000*balding + 0.000*mefloquine + 0.000*yr + 0.000*imprisoned + 0.000*morphine + 0.000*bupropion + 0.000*salmonellosis + 0.000*sectoral + 0.000*tsunami
+2014-05-09 03:29:25,506 : INFO : topic #15 (0.050): 0.000*isolates + 0.000*asylum + 0.000*suicides + 0.000*shantytown + 0.000*physiotherapy + 0.000*appendicitis + 0.000*suicidality + 0.000*osteoporotic + 0.000*newborns + 0.000*magazines
+2014-05-09 03:29:25,515 : INFO : topic #0 (0.050): 0.001*pandemic + 0.000*autism + 0.000*journalists + 0.000*tumor + 0.000*epilepsy + 0.000*neighborhood + 0.000*sell + 0.000*miscarriage + 0.000*discolouration + 0.000*exp
+2014-05-09 03:29:25,523 : INFO : topic #19 (0.050): 0.000*cig + 0.000*interpreter + 0.000*biotechnology + 0.000*elasticity + 0.000*village + 0.000*betel + 0.000*coerced + 0.000*pretest + 0.000*paragonimiasis + 0.000*dengue
+2014-05-09 03:29:25,530 : INFO : topic #17 (0.050): 0.000*veterans + 0.000*sawmill + 0.000*suicide + 0.000*poisoning + 0.000*radiation + 0.000*intentional + 0.000*hanging + 0.000*sham + 0.000*drinks + 0.000*responsiveness
+2014-05-09 03:29:25,538 : INFO : topic #2 (0.050): 0.000*timeliness + 0.000*measles + 0.000*rabies + 0.000*meningococcal + 0.000*invitations + 0.000*serosurvey + 0.000*couples + 0.000*recalls + 0.000*induration + 0.000*paratyphoid
+2014-05-09 03:29:25,546 : INFO : topic #7 (0.050): 0.003*smoking + 0.002*patients + 0.002*smokers + 0.002*students + 0.002*cancer + 0.002*women + 0.002*diabetes + 0.002*screening + 0.001*physical + 0.001*activity
+2014-05-09 03:29:25,553 : INFO : topic #4 (0.050): 0.000*waterpipe + 0.000*euros + 0.000*antihypertensives + 0.000*quid + 0.000*betel + 0.000*infertility + 0.000*outlets + 0.000*covariables + 0.000*retinol + 0.000*infertile
+2014-05-09 03:29:25,561 : INFO : topic #5 (0.050): 0.001*causes + 0.001*air + 0.001*prenatal + 0.001*coronary + 0.001*migration + 0.001*disaster + 0.001*inequalities + 0.001*mortality + 0.001*lung + 0.001*deaths
+2014-05-09 03:29:25,567 : INFO : topic diff=0.049791, rho=0.353553
+2014-05-09 03:30:03,637 : INFO : -13.701 per-word bound, 13315.2 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:30:03,638 : INFO : PROGRESS: pass 8, at document #1002/1002
+2014-05-09 03:30:07,655 : INFO : 1002/1002 documents converged within 50 iterations
+2014-05-09 03:30:07,889 : INFO : topic #18 (0.050): 0.000*q + 0.000*occup + 0.000*malaria + 0.000*ivermectin + 0.000*backpackers + 0.000*fevers + 0.000*mastectomy + 0.000*caretaker + 0.000*deshg + 0.000*chlamydial
+2014-05-09 03:30:07,897 : INFO : topic #17 (0.050): 0.001*veterans + 0.000*sawmill + 0.000*suicide + 0.000*poisoning + 0.000*intentional + 0.000*sham + 0.000*radiation + 0.000*hanging + 0.000*drinks + 0.000*rotavirus
+2014-05-09 03:30:07,903 : INFO : topic #5 (0.050): 0.001*causes + 0.001*air + 0.001*prenatal + 0.001*coronary + 0.001*migration + 0.001*disaster + 0.001*inequalities + 0.001*lung + 0.001*rights + 0.001*chlamydia
+2014-05-09 03:30:07,910 : INFO : topic #10 (0.050): 0.001*autopsy + 0.000*knee + 0.000*seafood + 0.000*radiography + 0.000*suicide + 0.000*infusions + 0.000*cryptosporidiosis + 0.000*boosting + 0.000*falciparum + 0.000*pelvic
+2014-05-09 03:30:07,918 : INFO : topic #7 (0.050): 0.003*smoking + 0.002*patients + 0.002*smokers + 0.002*cancer + 0.002*students + 0.002*women + 0.002*diabetes + 0.002*screening + 0.001*physical + 0.001*activity
+2014-05-09 03:30:07,926 : INFO : topic #0 (0.050): 0.001*pandemic + 0.000*autism + 0.000*journalists + 0.000*tumor + 0.000*sell + 0.000*neighborhood + 0.000*epilepsy + 0.000*miscarriage + 0.000*discolouration + 0.000*exp
+2014-05-09 03:30:07,934 : INFO : topic #9 (0.050): 0.000*ns + 0.000*veterans + 0.000*turbidity + 0.000*acetaminophen + 0.000*cortisol + 0.000*ambulance + 0.000*travellers + 0.000*magnesium + 0.000*dialysis + 0.000*haemodialysis
+2014-05-09 03:30:07,941 : INFO : topic #14 (0.050): 0.001*tax + 0.000*pneumococcal + 0.000*border + 0.000*goitre + 0.000*circumcision + 0.000*colour + 0.000*caries + 0.000*alliesthesia + 0.000*calibrations + 0.000*wastes
+2014-05-09 03:30:07,950 : INFO : topic #8 (0.050): 0.000*wheezing + 0.000*breakfast + 0.000*asylum + 0.000*brucellosis + 0.000*ozone + 0.000*pancreatic + 0.000*homeopathic + 0.000*schizophrenia + 0.000*suspects + 0.000*magnesium
+2014-05-09 03:30:07,957 : INFO : topic #4 (0.050): 0.000*waterpipe + 0.000*euros + 0.000*antihypertensives + 0.000*quid + 0.000*betel + 0.000*infertility + 0.000*outlets + 0.000*covariables + 0.000*retinol + 0.000*infertile
+2014-05-09 03:30:07,965 : INFO : topic #12 (0.050): 0.002*sexual + 0.002*water + 0.002*infection + 0.001*treatment + 0.001*pregnancy + 0.001*mental + 0.001*exposure + 0.001*children + 0.001*sex + 0.001*workers
+2014-05-09 03:30:07,973 : INFO : topic #16 (0.050): 0.000*inspection + 0.000*folic + 0.000*inspections + 0.000*submersion + 0.000*cake + 0.000*isolates + 0.000*acculturation + 0.000*symposia + 0.000*geocoding + 0.000*twins
+2014-05-09 03:30:07,980 : INFO : topic #2 (0.050): 0.000*timeliness + 0.000*measles + 0.000*rabies + 0.000*meningococcal + 0.000*serosurvey + 0.000*couples + 0.000*recalls + 0.000*invitations + 0.000*induration + 0.000*paratyphoid
+2014-05-09 03:30:07,987 : INFO : topic #15 (0.050): 0.000*isolates + 0.000*asylum + 0.000*shantytown + 0.000*physiotherapy + 0.000*appendicitis + 0.000*suicidality + 0.000*suicides + 0.000*osteoporotic + 0.000*schizophrenic + 0.000*tabletop
+2014-05-09 03:30:07,994 : INFO : topic #6 (0.050): 0.000*belt + 0.000*balding + 0.000*mefloquine + 0.000*yr + 0.000*imprisoned + 0.000*morphine + 0.000*bupropion + 0.000*salmonellosis + 0.000*sectoral + 0.000*tsunami
+2014-05-09 03:30:08,000 : INFO : topic diff=0.037342, rho=0.333333
+2014-05-09 03:30:47,344 : INFO : -13.628 per-word bound, 12659.7 perplexity estimate based on a held-out corpus of 1002 documents with 11179 words
+2014-05-09 03:30:47,344 : INFO : PROGRESS: pass 9, at document #1002/1002
+2014-05-09 03:30:51,650 : INFO : 1002/1002 documents converged within 50 iterations
+2014-05-09 03:30:51,882 : INFO : topic #16 (0.050): 0.000*inspection + 0.000*folic + 0.000*inspections + 0.000*submersion + 0.000*cake + 0.000*isolates + 0.000*acculturation + 0.000*symposia + 0.000*geocoding + 0.000*twins
+2014-05-09 03:30:51,891 : INFO : topic #15 (0.050): 0.000*isolates + 0.000*asylum + 0.000*shantytown + 0.000*physiotherapy + 0.000*appendicitis + 0.000*suicidality + 0.000*osteoporotic + 0.000*schizophrenic + 0.000*tabletop + 0.000*defect
+2014-05-09 03:30:51,899 : INFO : topic #4 (0.050): 0.000*waterpipe + 0.000*euros + 0.000*antihypertensives + 0.000*quid + 0.000*betel + 0.000*infertility + 0.000*outlets + 0.000*covariables + 0.000*retinol + 0.000*infertile
+2014-05-09 03:30:51,908 : INFO : topic #8 (0.050): 0.000*wheezing + 0.000*breakfast + 0.000*asylum + 0.000*brucellosis + 0.000*ozone + 0.000*pancreatic + 0.000*homeopathic + 0.000*schizophrenia + 0.000*sunlight + 0.000*revascularization
+2014-05-09 03:30:51,917 : INFO : topic #19 (0.050): 0.000*cig + 0.000*interpreter + 0.000*biotechnology + 0.000*elasticity + 0.000*betel + 0.000*coerced + 0.000*pretest + 0.000*paragonimiasis + 0.000*dengue + 0.000*curricular
+2014-05-09 03:30:51,926 : INFO : topic #17 (0.050): 0.001*veterans + 0.000*sawmill + 0.000*sham + 0.000*intentional + 0.000*poisoning + 0.000*suicide + 0.000*rotavirus + 0.000*pylori + 0.000*hanging + 0.000*apprentices
+2014-05-09 03:30:51,934 : INFO : topic #13 (0.050): 0.001*measles + 0.000*caries + 0.000*iron + 0.000*inmates + 0.000*undocumented + 0.000*ring + 0.000*correctional + 0.000*percentiles + 0.000*orphans + 0.000*nodules
+2014-05-09 03:30:51,942 : INFO : topic #2 (0.050): 0.000*timeliness + 0.000*measles + 0.000*rabies + 0.000*meningococcal + 0.000*serosurvey + 0.000*couples + 0.000*recalls + 0.000*induration + 0.000*paratyphoid + 0.000*invitations
+2014-05-09 03:30:51,951 : INFO : topic #1 (0.050): 0.000*acculturation + 0.000*waterpipe + 0.000*hemodialysis + 0.000*sponsorship + 0.000*homocysteine + 0.000*nmol + 0.000*pediatricians + 0.000*iron + 0.000*cryptosporidiosis + 0.000*grocery
+2014-05-09 03:30:51,959 : INFO : topic #6 (0.050): 0.000*belt + 0.000*balding + 0.000*mefloquine + 0.000*yr + 0.000*imprisoned + 0.000*morphine + 0.000*bupropion + 0.000*salmonellosis + 0.000*sectoral + 0.000*tsunami
+2014-05-09 03:30:51,966 : INFO : topic #18 (0.050): 0.000*q + 0.000*occup + 0.000*ivermectin + 0.000*backpackers + 0.000*malaria + 0.000*fevers + 0.000*mastectomy + 0.000*caretaker + 0.000*deshg + 0.000*chlamydial
+2014-05-09 03:30:51,974 : INFO : topic #10 (0.050): 0.000*autopsy + 0.000*knee + 0.000*seafood + 0.000*radiography + 0.000*infusions + 0.000*cryptosporidiosis + 0.000*boosting + 0.000*falciparum + 0.000*suicide + 0.000*pelvic
+2014-05-09 03:30:51,982 : INFO : topic #14 (0.050): 0.001*tax + 0.000*pneumococcal + 0.000*border + 0.000*goitre + 0.000*circumcision + 0.000*caries + 0.000*colour + 0.000*alliesthesia + 0.000*calibrations + 0.000*wastes
+2014-05-09 03:30:51,990 : INFO : topic #12 (0.050): 0.002*sexual + 0.002*water + 0.002*infection + 0.001*treatment + 0.001*pregnancy + 0.001*mental + 0.001*exposure + 0.001*sex + 0.001*children + 0.001*disability
+2014-05-09 03:30:51,999 : INFO : topic #11 (0.050): 0.000*tooth + 0.000*breakfast + 0.000*cercariae + 0.000*shower + 0.000*overdose + 0.000*vaccinia + 0.000*advisor + 0.000*airflow + 0.000*w + 0.000*medicament
+2014-05-09 03:30:52,004 : INFO : topic diff=0.028731, rho=0.316228
+2014-05-09 03:30:52,013 : INFO : saving LdaState object under ../mediumData/mediumData.lda_model.state, separately None
+2014-05-09 03:30:52,077 : INFO : saving LdaModel object under ../mediumData/mediumData.lda_model, separately None
+2014-05-09 03:30:52,077 : INFO : not storing attribute state
+2014-05-09 03:30:52,077 : INFO : not storing attribute dispatcher
+[Finished in 466.9s]

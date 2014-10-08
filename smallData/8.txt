@@ -1,0 +1,519 @@
+
+
+Background
+This study examined the relationship between the bacteriological contamination of drinking water from private wells and acute gastrointestinal illness (AGII), using current government standards for safe drinking water.
+
+
+Methods
+A prospective cohort study was conducted using 235 households (647 individuals) randomly selected from four rural hamlets. Data were collected by means of a self-administered questionnaire, a self-report diary of symptoms and two drinking water samples.
+
+
+Results
+Twenty percent of households sampled, had indicator bacteria (total coliform or Escherichia coli (E. coli)) above the current Canadian and United States standards for safe drinking water. No statistically significant associations between indicator bacteria and AGII were observed. The odds ratio (OR) for individuals exposed to E. coli above the current standards was 1.52 (95% confidence interval (CI), 0.336.92), compared to individuals with levels below current standards. The odds ratio estimate for individuals exposed to total coliforms above the current standards was 0.39 (95% CI, 0.101.50).
+
+
+Conclusions
+This study observed a high prevalence of bacteriological contamination of private wells in the rural hamlets studied. Individual exposure to contaminated water defined by current standards may be associated with an increased risk of AGII.
+
+
+
+Background
+Although the incidence of waterborne illness has decreased in North America, contaminated water remains a problem in rural areas that rely on private drinking water supplies. In Ontario and in the United States at least 30% of rural wells are fecally contaminated and exceed current government standards for safe drinking water. [1-7] Because of the high prevalence of contaminated wells in rural areas it is important to determine the health effects and thus quantify the burden of illness.
+Studies worldwide, however, have been unable to demonstrate associations between fecally contaminated water characterized by indicator organisms and self-reported acute gastrointestinal illness (AGII). [8-10] This lack of association may be related to the specific indicator bacteria used to quantify risk, as well as, the presence of relatively low levels of these indicator bacteria.[8,11] Total coliform is a non-specific indicator of fecal contamination and can originate from a number of different plant and soil sources. Fecal coliform represents a more specific indicator of fecal contamination, however, it does not specifically quantify Escherichia coli (E. coli), the most common coliform inhabiting the intestinal tract. Three studies which reported positive findings found associations with alternative indicator bacteria, albeit, the associations were limited to specific populations. A study of children in the Philippines showed substantially more illness among children drinking contaminated water quantified by the presence of E. coli, but the effect was limited to children less than 2 years of age and only for those children drinking highly contaminated water.[12] A study conducted in French alpine villages found a positive association between fecal streptococcus only. No independent associations were found for levels of total coliform or fecal coliform and AGII. In fact, fecal coliforms were found to be protective for small villages.[11] As well, a study of farm wells in Ontario found a significant association between the presence of E. coli and AGII at the individual level modified by the distance from the septic tank.[13]
+We sought to examine the association between drinking contaminated water defined according to current standards in Ontario and AGII in a random sample of households in four typical rural communities in southern Ontario. Using prospectively collected symptom diaries we studied all individuals in the household and used both non-specific (total coliform counts) and specific (E. coli counts) measures of fecal contamination.
+
+
+Methods
+Four rural communities located in eastern Ontario were selected for this study, representing a cross section of rural populations in this area. The hamlets were largely composed of English speaking residents (98%) averaging 3.1 individuals per household.[14] The mean age of the residents averaged between 32.7 and 38.2 years and the mean household income ranged between $41,000 and $56,000.[14]
+Households were randomly selected using a phone book database and subsequently, contacted by phone to enlist their participation. All households in the study area were eligible with the exception of those not consuming water from a private well, and residents of retirement or nursing homes. Relevant study information was collected on each member of the participating household. The study was conducted over a three month period commencing April 3, 1995 and ending July 22, 1995. Each household was blinded to the exposure during the 28 day study period and followed for a period of 28 days. Sample size was determined so as to be able to detect a 9% difference in incidence of AGII.
+
+Data collection
+Data collection was accomplished through a self-administered questionnaire, a self-report diary, and two drinking water samples. The questionnaire ascertained information on demographic factors (age, sex, and number of residents in house), other factors possibly predictive of AGII (living on a farm, presence of pets and livestock, recent travel and number of years at current residence), and tap water consumption. The diary determined the occurrence of AGII through a checklist of AGII symptoms.[15] To determine water contamination, two water samples were collected from each household, two weeks apart on day 8 and day 22 of the 28 day observation period. Water samples were immediately placed on ice in a cooler and transported within six hours of collection to the laboratory. Each water sample was collected in a sterile 300 ml bottle containing sodium thiosulphate and subsequently tested for total coliform, background bacteria, and E. coli within 24 hours of collection.[16] Total coliforms were enumerated by pouring the water sample through a cellulose acetate membrane filter, placed on an m-ENDO-LES agar plate and incubated at 35C for 24 hours. Background bacteria are associated with water pollution because of contamination by soil, sediment, fecal wastes and/or sewage. The background bacteria were counted as non-target colonies in the total coliform analysis. E. coli was enumerated by pouring 100 mls of the water sample through a cellulose ester membrane filter. The filter was placed on m-FC-BCIG agar and incubated at 44.5C for 24 hours.
+
+
+Exposure to contaminated water
+Exposure to contaminated water was defined using the water sample with the highest quantity of indicator bacteria per 100 ml. Subsequently, bacteriologically contaminated drinking water was examined according to the presence of any indicator bacteria, and the current standards set by the Ontario Ministry of Environment / Ontario Ministry of Health (>0 colony forming units (cfu) E. coli/100 ml or >5 cfu total coliform/100 ml).[17] To evaluate a dose response relationship three strata were created based on the mean of the two water samples. Categories were determined according to zero indicator bacteria in both samples, and the median of the remaining distribution of sample means.
+
+
+Acute gastrointestinal illness
+AGII was defined by the following combination of symptoms reported in the diary for any day during the 28 day study period: 1) vomiting or liquid diarrhea or 2) nausea or soft, loose diarrhea combined with abdominal cramps.[15] Episodes were further defined as one or more symptomatic days, with at least six consecutive symptom-free days between episodes.[15] For the purposes of this study, only the first episode was considered.
+
+
+Data analysis
+Odds ratios and 95% confidence intervals were used to quantify the relationship between AGII and bacteriological contamination of water supplies. Multivariable models were used to estimate the odds ratio controlling for important covariates. Covariates were selected through a backward stepwise regression. Covariates included in this process were age, sex, number of residents in the household, farm residence, livestock, pets, travel within the past six months, education and number of years at current residence. To adjust for the lack of independence between members of the same household, logistic-binomial regression for random effects was used.[18]
+As well, the indicator bacteria were categorized into three strata to investigate patterns of risk with respect to the degree of contamination. A test for trend was performed by treating this categorical representation as a continuous factor in the regression model. The influence of high background bacterial counts in the water samples was also examined by removing the samples having greater than 150 cfu/100 ml in the final logistic regression model. Background bacteria that exceeds 200 cfu/100 ml interferes with the analysis and interpretation of the total coliform test.[19] Although the Ministry of Environment's maximum acceptable limit for background bacteria on a total coliform analysis is 200 cfu/100 ml, some laboratory results were reported on a nominal scale (> 150 cfu/100 ml), therefore a cut-point of 150 cfu/100 ml was used to characterize samples with high background bacterial counts.
+
+
+
+Results
+Of the 327 households initially contacted by phone, 235 households (72%) representing 647 individuals agreed to participate in the study. Response rates for household completion of the questionnaire, diary and compliance with the water sample collections ranged from 92% for the diary to 99% for the water samples. Ninety-six percent of the households sampled were single family homes. Complete data, in terms of having a completed survey, and diary plus two water samples were available on 619 individuals. Demographic characteristics of the study population are depicted in Table 1.
+
+Table 1
+
+Incidence of Acute Gastrointestinal Illness During a 28 Day Period Among Study Subjects
+
+
+
+
+Variable
+No Reported AGII
+Reported AGII
+
+
+
+
+
+
+
+
+
+N
+%
+N
+%
+
+
+
+
+
+Sex
+
+
+
+
+
+
+
+Female
+272
+90.7
+28
+9.3
+
+
+Male
+296
+92.8
+23
+7.2
+
+
+
+Age
+
+
+
+
+
+
+
+50+years
+189
+96.9
+6
+3.1
+
+
+1149 years
+315
+90.3
+34
+9.7
+
+
+010 years
+62
+84.9
+11
+15.1
+
+
+Education completed
+
+
+
+
+
+
+College/trade school/university
+248
+92.9
+19
+7.1
+
+
+Grade school/highschool
+316
+90.8
+32
+9.2
+
+
+
+
+AGII is acute gastrointestinal illness for specific defination, see methods
+
+
+Of the 235 private wells sampled, 91% of the wells were drilled wells, 3% were sandpoint or dug wells, 2% were bored and 4% were unsure of the well type. Twenty-nine percent of wells sampled were less than 11 years of age, 63% of wells were between 11 and 60 years of age, 3% were greater than 60 years of age and 5% of were unsure of the age of the well. Furthermore, sixty-four percent of wells were between 31 and 100 feet deep, 22% of wells were greater than 100 feet deep, 6% of wells were less than 30 feet deep and 8% were unsure of the depth of their well. Twelve percent of wells were located on a farm. According to current MOH standards, 17.1% of houses exceeded acceptable levels of total coliform and 9.5% exceeded acceptable levels of E. coli, for at least one water sample. In total, 20% of households had at least one sample exceeded MOH standards for safe drinking water.
+One or more episodes of AGII were identified in 51 of the 619 participants (8.2%). Table 2 presents the number of AGII events and adjusted odds ratios according to exposure to the indicator bacteria. The risk estimates are adjusted for age and years at current residence. No statistically significant association was observed for the indicator bacteria E. coli or for total coliform. The adjusted odds ratio for AGII among individuals living in households whose drinking water had E. coli present in at least one water sample compared to those with no positive water sample was 1.52 (95% CI 0.331.50). Using total coliforms that exceeded 5 cfu/ml as the measure of contamination, the adjusted OR for AGII was 0.39 (95% CI 0.11.50). After adjusting for the presence of indicator bacteria in the water supply, age and years of residence were both associated with acute gastrointestinal symptoms (Table 3). Children 10 years of age or younger were more likely to have acute gastrointestinal symptoms (OR 4.23, 95% CI 1.1116.18) and individuals who had lived for 10 or more years at their current address were less likely to report acute gastrointestinal symptoms. (OR 0.25, 95% CI 0.080.85).
+
+Table 2
+
+Adjusted Measures of Association
+
+
+
+
+Exposure
+No AGII
+AGII
+Odds Ratio (95% CI)*
+
+
+
+
+
+
+E. coli
+
+
+
+
+
+
+
+0 cfu/100 ml
+523
+46
+
+
+
+1+ cfu/100 ml
+45
+5
+1.52 (0.336.92)
+
+
+
+Total Coliform
+
+
+
+
+
+
+< 6 cfu/100 ml
+483
+48
+
+
+
+6+ cfu/100 ml
+85
+3
+0.39 (0.101.50)
+
+
+
+Total Coliform
+
+
+
+
+
+
+0 cfu/100 ml
+366
+32
+
+
+
+1+ cfu/100 ml
+202
+19
+1.07 (0.422.69)
+
+
+
+
+*Adjusted for age and number of years at current residence. AGII is acute gastrointestinal illness for specific defination, see methods
+
+
+
+Table 3
+
+Significant Covariates in the Final Logistic Regression Model
+
+
+
+
+Covariate
+Percent
+Rate of AGII
+Odds Ratio (95% CI)*
+
+
+
+(N = 619)
+per 100 /month
+
+
+
+
+
+
+Age
+
+
+
+
+
+
+50+
+31.6
+3.1
+1.00
+
+
+1149
+56.6
+9.7
+3.24 (1.099.66)
+
+
+010
+11.8
+15.1
+4.23 (1.1116.18)
+
+
+
+Years of Residence
+
+
+
+
+
+
+04
+14.7
+14.3
+1.00
+
+
+59
+31.2
+11.9
+0.65 (0.202.17)
+
+
+10+
+54.1
+4.5
+0.25 (0.080.85)
+
+
+
+
+*Adjusted for presence of indicator bacteria. AGII is acute gastrointestinal illness for specific defination, see methods
+
+
+Factors representing bacteriological contamination were categorized into ordered levels to investigate a dose response (Table 4). The pattern of risk observed for each factor was not consistent with an increased odds of developing AGII for each corresponding increase in the level of exposure.
+
+Table 4
+
+Test for Trend using the Mean of the Two Water Samples
+
+
+
+
+Indicator
+No
+AGII
+Odds Ratio (95% CI)*
+Test For
+
+
+
+AGII
+
+
+Trend*
+
+
+
+
+
+
+E. coli
+
+
+
+
+
+
+
+
+0
+522
+46
+1.00
+
+
+
+0.11.5
+27
+2
+0.85 (0.107.19)
+
+
+
+1.6700
+18
+3
+2.69 (0.3421.56)
+P = 0.45
+
+
+
+Total Coliform
+
+
+
+
+
+
+
+0
+366
+32
+1.00
+
+
+
+0.12.5
+103
+16
+2.00 (0.705.46)
+
+
+
+2.67750
+98
+3
+0.33 (0.071.52)
+P = 0.47
+
+
+
+
+*Adjusted for age and number of years at current residence. AGII is acute gastrointestinal illness for specific defination, see methods 
+
+
+Cold water consumption is assumed to be the primary route of exposure to contaminated water in this population. However, evaluation of the combined effects of exposure to contaminated water and volume of cold water consumed was limited by the small number of subjects in this study. The expected pattern of increased risk with increased water consumption among those using contaminated water was not observed.
+The presence of high background bacteria can influence the enumeration of the indicator bacteria. Typically, the number of cfu's for total coliform may be underestimated in the presence of high background bacteria. The agar used for the enumeration of total coliform is nonspecific and also supports the growth of background bacteria. Compared to the total coliform test, however, the agar used for the enumeration of E. coli is affected to a much lesser extent by the presence of background bacteria. One hundred and twenty observations with high background counts were removed leaving a sample size of approximately 499 observations. The point estimates of risk for E. coli and total coliform increased substantially but remained nonsignificant. (Table 5).
+
+Table 5
+
+Association between Faecal Water Quality Indicators with Background Counts Less than 150 cfu/100ml and AGII
+
+
+
+
+Exposure
+No AGII
+AGII
+Odds Ratio (95% CI)*
+
+
+
+
+
+
+E. coli
+
+
+
+
+
+
+
+0 cfu/100 ml
+433
+40
+
+
+
+1+ cfu/100 ml
+12
+4
+2.85 (0.978.39)
+
+
+
+Total Coliform
+
+
+
+
+
+
+< 6 cfu/100 ml
+423
+42
+
+
+
+6+ cfu/100 ml
+32
+2
+0.32 (0.034.08)
+
+
+
+Total Coliform
+
+
+
+
+
+
+0 cfu/100 ml
+332
+29
+
+
+
+1+ cfu/100 ml
+123
+15
+1.77 (0.943.30)
+
+
+
+
+*Adjusted for age and number of years at current residence. AGII is acute gastrointestinal illness for specific defination, see methods 
+
+
+
+
+Conclusions
+We found that approximately 20% of private wells are contaminated with coliforms sufficient to exceed current government standards for safe drinking water. This prevalence is similar to that seen in other studies in Canada[1,3,5,13] and the US.[4,6,7] These results confirm other studies and extend them because we have used a highly specific measure of fecal contamination (E. coli counts of 1 cfu/100 ml). Our results suggest that contaminated drinking water, according to government standards may pose a risk for AGII.
+Our study is limited mainly by its sample size. The key parameter driving the sample size was the relative risk estimate. The most comparable study in terms of exposure levels and outcome suggested that a relative risk of 2.8 for AGII could be expected in a comparison of individuals with contaminated supplies to those without.[15] The estimated sample size should have been able to detect a statistically significant association with an OR of at least 2.8.
+Our study used two water samples within a 28 day period to quantify drinking water quality. Although the quality of small, untreated water supplies may vary over a short period of time any reported episode of AGII in this study would be associated with a water sample taken at most 7 days from the episode. E. coli has been found to survive in drinking water anywhere from four to twelve weeks.[20] Nevertheless, the possibility of a differential exposure misclassification exists. Exposure misclassification may have arisen as well because we used fecal indicators that were currently used in Ontario. Some studies [11,21] have shown fecal streptococcus to be a better indicator of water quality.
+Lastly, the case definition used to define an episode of AGII was equivalent to the one used by Payment et al.[15] which found even mild episodes of AGII were associated with drinking water quality. The results of this study, therefore, may not be comparable to studies using a more rigid definition of AGII.
+None the less, the results provide hypotheses for further research. The difference in the risk estimates associated with the presence of E. coli versus total coliform may be contingent on the higher sensitivity and specificity of the E. coli measure for faecal contamination. The risk estimates associated with total coliform did not provide additional information in terms of health risk. In fact, the point estimate suggested that consuming water with total coliform of 5 or more cfu/100 ml was associated with fewer AGII symptoms, however, our sample size was too small to adequately pursue this hypothesis.
+These data tend to confirm results of other studies[8,11,13] and suggest that lower levels of indicator bacteria may represent an insufficient amount of microbial contamination to cause illness, that other bacterial indicators may be better associated with health risk and that some exposure to contaminated drinking water may in fact be protective for AGII. In addition, both older age and longer duration of residence were both associated independently with the presence of contaminated water, with a statistically significant less incidence of gastrointestinal symptoms. In each of these situations, the individual has had a greater chance of being exposed to bacteriologically contaminated groundwater and hence, a greater opportunity to develop resistance/tolerance to a number of enteric pathogens. This proposed immunity theory could have implications for individuals with no previous exposure to private well water, for the young and elderly and for immunocompromised individuals.
+This study confirms previous reports of a relatively high prevalence of bacteriological contamination of private wells in rural settings. The results of the study also suggest that consuming contaminated water characterised by the presence of E. coli and low background counts may not increase an individual's risk of AGII. This finding in concert with the protective effect of older age and greater number of years at current residence justify future research into mechanisms of resistance and tolerance and to possible harmful effects on immunocompromised individuals. The observed risk estimates for the indicator bacteria E. coli and total coliform warrants further investigation to provide evidence based information on their usefulness as a marker for nonpotable water and health risk and to provide evidence-based information to verify current government standards.
+
+
+Competing interests
+None declared.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

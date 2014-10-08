@@ -1,0 +1,442 @@
+
+
+Background
+An earthquake in the coffee growing region of Colombia on January 25, 1999 destroyed 70% of the houses in Armenia city. Transitory housing camps still remained until two years after the disaster. Parasitological studies found that, in this population, giardiasis was the most frequent parasitic infection. This study was carried out in order to determine the epidemiological risk factors associated with this high prevalence.
+
+
+Methods
+Fecal samples were obtained from 217 children aged between 3 and 13 years. Stool samples were studied by direct wet examination and stained with ferric hematoxilin for microscopical examination. Epidemiological data were collected by questionnaire and analyzed by using the Epi-info software (CDC, Atlanta 2001).
+
+
+Results
+Giardia cysts were observed in 60.4% of the samples presented and trophozoites in 4.6%. The following epidemiological and laboratory factors were significantly associated with Giardia infection: 1. Use of communal toilet (vs. individual toilet) OR: 3.9, CI95%: 1.216; 2. water provision by municipal ducts (vs. water provision by individual tanks) OR: 3.5, CI95% 1.114, and 3. presence of mucus in stool OR: 2.3, IC95%: 0.96.7.
+
+
+Conclusions
+A high prevalence of giardiasis was found in children living in temporary houses after the 1999 earthquake in Armenia (Colombia). Giardiasis is an emerging disease in post-disaster situations and adequate prevention measures should be implemented during these circumstances.
+
+
+
+Background
+On the 25 January, 1999 an earthquake with an intensity of 6.2 points on the Richter's scale occurred in a focus located only 20 kilometers away from Armenia, Colombia. Although 28 towns or municipalities, including Armenia, were severely damaged by the earthquake, the worst effects occurred in Armenia itself and in its surrounding towns. The consequences of the catastrophe were devastating, mainly because of the loss of people's property and belongings: around 70% of Armenian houses were destroyed and in some neighboring towns the percentage was greater than 80%. In the rural area, the proportion of lost houses was also 80%. The death toll was estimated at 1184, and the number of people injured was more than 5,000 [1].
+The region known as "Departmento del Quindo" includes, according to the political and administrative division of the Colombian territory, several small towns and its capital city, Armenia. The whole area of influence of the telluric movement is known as "Eje Cafetero" (Coffee Axis), because it is here that most of the world famous Colombian coffee is produced. This area is located within the country's central mountain range. Before the tragedy, Armenia had 296,330 inhabitants, with the whole Department of Quindo having approximately 500,000.
+The devastating effects on the houses of Armenia induced the organization of transitory housing facilities in tents and "alojamientos" (multi-family spaces), which caused difficulties in the provision of basic sanitary services, water supplies and food. Fears about epidemics were high, but no outbreaks of infectious diseases, including diarrhea, dengue or malaria occurred [2]. Temporary housing facilities remained until two years after the disaster, which raised concerns about public health conditions in this people. The University of Quindo undertook epidemiological studies in order to determine which health disorders were occurring. This included the effect on mental and physical health morbidity [2,3]. One of the pathological aspects that was studied was the prevalence of intestinal parasites in this people. During this survey it was found that giardiasis was the most prevalent intestinal parasitic infection. Therefore, a study was designed in order to ascertain the epidemiological factors related to this high prevalence. In this paper we report the findings of the laboratory examination of stools and their association with data collected by questionnaire.
+
+
+Methods
+
+Study design, characteristics of the camps and questionnaire
+A prospective study of the prevalence of Giardia in stool specimens of children living in temporary houses in Armenia was carried out. A total of 26,780 people lived in temporary housing camps built under the supervision of non-governmental organizations. This study was conducted in 18 camps ("asentamientos"), multi-family spaces which grouped temporary houses or tents, and were representative of a total of 86 camps which were established in Armenia after the January 25, 1999 earthquake. A census population of the families living in the 18 camps found 816 children aged between 3 and 13 years. A random sample of 193 targeted households was selected for a systematic household survey conducted between January 2000 and July 2001. Thus, 217 children aged between 3 and 13 years were sampled. The children were included only if their father or other adult with legal custody of the children agreed to give written informed consent.
+A household was defined as a unit of persons residing in one tent or temporary house. The median household size was made up of 5 persons. All households had municipal garbage disposal services. Electricity was available for all households.
+From each selected household one adult was interviewed using a standardized questionnaire which focused on both the demographic characteristics of children such as age and school years, as well as on the presence of clinical symptoms such as diarrhea (passing more than two liquid stools daily) or flu symptoms (rhinorrea without pharyngitis and with only minor or no fever at all) with a duration of less than eight days at the moment of interview. The weight of each child was recorded. Interviewers were selected from university students of biology who had previous experience in community work, were from the same city and knew the terms used by people to describe their typical symptoms and living conditions; they were previously trained by an epidemiologist.
+Stool samples of children were collected the day after the questionnaire was filled. The source of drinkable water and the type of toilet used were recorded for each child. Water supply varied between camps: in some camps water was provided by the municipal water ducts, in others there were individual tanks for each house. Municipal water (piped water) was the major source of drinking water and was used in 15 camps. The source of municipal water was surface water ("Ro Quindio") provided through the aqueduct system which existed before the earthquake. Water chlorination concentrations were between 2,5 and 3 mg/liter. This is a closed water delivery system; however after the earthquake some of the ducts collapsed and leakages occurred. For this reason, in 3 camps individual tanks were used as a source of drinkable water. The tanks were made of plastic material and had a 2,000 liter storage capacity. Individual tanks were filled by a tank car. In addition, municipal health services distributed 1,217 kg of sodium isocianyde dichloride in all camps to be used in individual tanks. There were two types of hygienic room services. One was the communal toilet service that consisted of one latrine for each 910 families placed in the center of camp; other type of toilet was the individual sanitary service located in each temporary house and used only by the members of that household. The researcher also registered the "clean status" of the temporary house; a house was considered "clean" if no particular odors were detected, the food was stored in proper recipients, and food waste was disposed of in garbage cans. The place for food storage was also recorded. No questions about animal contact were done.
+
+
+Specimen collection and stool examination
+Stool samples were collected early in the morning in sterile plastic containers supplied by the researchers and conserved on ice until laboratory examination. Samples with water or urine contamination were discarded. A second sample was requested from all children at day 5 after the first sample and a third sample one month later. Stool samples were stained with ferric hematoxilin and examined after centrifugation; this test has a sensitivity of 61% on the first sample and a cumulated sensitivity of 83% when three different serial samples are examined [4].
+
+
+Statistical Analysis
+Statistical significance tests for comparison of rates were performed when sample sizes were insufficient and asymptotic tests when sizes were sufficient. All tests were two-sided, and a p value of <0.05 was considered as significant. Exact 95% confidence intervals (Cl) were calculated [5].
+
+
+
+Results
+In total, stools from 217 children were examined, 97 were girls (44.7%) and 120 boys (55.3%). In the first sample, prevalence of Giardia cysts was 60.4% (131 children) and Giardia trophozoite forms 4.6%. A second sample was obtained in only 53 of 217 children. Families were not informed about the result of the first sample before collecting the second one. Collection was requested on a voluntary basis. From these 53 children with a second sample, 40 were positive and 13 negative on the first sample. Thirty children were positive for Giardia cysts on the second sample (56%), only three of them being negative at the first sample. Only six children provided a third sample; three of them, who were all previously positive for Giardia cysts, were positive.
+Analysis of infections by other parasites was also performed (Table 1). There were no statistically significant differences in the prevalence of giardiasis in children infected with other parasites. No cultures for bacteria were performed during this study.
+
+Table 1
+
+Parasitic infections in stool samples of children (n= 217) living in temporary housing after the 1999 earthquake disaster in Armenia.
+
+
+
+
+
+Organism
+
+
+Number of infected children
+
+
+Percent of sampled children
+
+
+Number of infected children also infected with giardiasis
+
+
+
+
+
+
+Ascaris lumbricoides
+
+36
+16.6%
+19
+
+
+
+Balantidium coli
+
+4
+1.8%
+3
+
+
+
+Endamoeba coli
+
+71
+32.7%
+40
+
+
+
+Endolimax nana
+
+125
+57.6%
+56
+
+
+
+lodamoeba buschlii
+
+31
+14.3%
+19
+
+
+Entamoeba histolytica/dispar (determined by micrometry)
+116
+53.4%
+75
+
+
+
+
+The analysis of epidemiological characteristics (Table 2) showed that the presence of Giardia cysts was associated with the use of communal toilet versus use of individual toilet (OR 3.9). The water provision by municipal water services was associated with a higher risk for giardiasis, in contrast with people that used individual water tanks (OR 3.5). The finding of mucus in stool was higher in children with Giardia cysts (OR 2.3). A "clean house" was a protective factor for the presence of Giardia cysts (OR 0.4).
+
+Table 2
+
+Association between epidemiological and laboratory findings with the presence Giardia cysts in stool samples from children living in temporary housing after the 1999 earthquake disaster in Armenia.
+
+
+
+
+
+Risk factor
+
+
+With factor
+
+
+Without factor
+
+
+OR
+
+
+95% Confidence Intervals
+
+
+P
+
+
+
+
+
+Communal toilet (versus individual toilet)
+21/25
+110/192
+3.9
+1.216
+
+0.01
+
+
+
+Municipal water service versus individual water tank
+27/58
+104/159
+3.5
+1.114
+
+0.02
+
+
+
+Mucus in fecal sample
+20/26
+111/191
+2.39
+0.96.7
+
+0.049
+
+
+
+Leukocytes in stool
+16/22
+115/195
+1.85
+0.705.35
+0.15
+
+
+Plastic stock of food versus carton stock of food
+49/93
+82/124
+1.7
+0.93.1
+0.06
+
+
+Yeast in stool
+57/93
+74/124
+1.06
+0.611.82
+0.46
+
+
+Diarrhea
+23/42
+108/175
+0.75
+0.41.4
+0.84
+
+
+Flu symptoms
+79/136
+52/81
+0.7
+0.41.4
+0.45
+
+
+Lipids in stool
+120/201
+11/16
+0.67
+0.182.2
+0.65
+
+
+Clean lodgment
+62/118
+69/99
+0.48
+0.270.84
+
+0.014
+
+
+
+
+
+In total 199 of the 217 children studied attended school. The source of water at school was municipal water and communal toilet was the type of sanitary service there. As data were collected concerning the putative factor (water source) and/or disease (Giardia), data were also analyzed on the presence or absence of the confounding variable (attendance at school). The data were then divided into strata for confounding variable (attendance at school) in a series of 2  2 tables, one for each level of the confounding variable (Figure 1). Using Mantel-Haenszel odds ratio method the OR was 15.1 (CI95% 836) with a p value of 0.00000000. This analysis indicate that drinking municipal water at camps was strongly associated with giardiasis even with the confounding variable "school" taken into account.
+
+Figure 1
+
+Stratified analysis of children who did and did not attend school and presence of Giardia cysts in stool samples from children living in temporary housing after the 1999 earthquake disaters in Armenia.
+
+
+
+Presence of Giardia trophozoites was higher in patients with municipal water service and with lipids in stools (Table 3); however due to the small number of children with trophozoites, no difference attained statistical significance. Other demographic factors including weight, age and the number of years at school were not associated with giardiasis (Table 4).
+
+Table 3
+
+Association between epidemiological factors, laboratory findings and the presence of Giardia trophozoites in stool samples from children living in temporary housing after the 1999 earthquake disaster in Armenia.
+
+
+
+
+
+Risk factor
+
+
+With factor
+
+
+Without factor
+
+
+OR
+
+
+95% Confidence Intervals
+
+
+P
+
+
+
+
+
+Municipal water service versus individual water tank
+10/159
+0/58
+?
+?-1.1
+0.06
+
+
+Lipid drops in stools
+2/16
+8/201
+3.41
+0.4516.5
+0.16
+
+
+Flu symptoms
+6/81
+4/136
+2.62
+0.6910.8
+0.11
+
+
+Plastic stock of food versus carton stock of food
+1/19
+9/198
+1.16
+0.0507.71
+0.97
+
+
+Leukocytes
+1/22
+9/195
+0.98
+0.046.44
+0.66
+
+
+Yeast in stools
+4/93
+6/124
+0.88
+0.213.0
+0.69
+
+
+Communal toilet (versus individual toilet)
+1/25
+9/192
+0.84
+0.035.50
+0.71
+
+
+Mucus in fecal sample
+1/26
+9/191
+0.80
+0.035.24
+0.72
+
+
+Diarrhea
+1/42
+9/175
+0.45
+0.012.86
+0.88
+
+
+Clean lodgment
+3/118
+7/99
+0.34
+0.071.34
+0.97
+
+
+
+
+
+Table 4
+
+Mean age, school years and weight and presence of cysts of Giardia in stool samples from children living in temporary housing after the 1999 earthquake disaster in Armenia (Colombia).
+
+
+
+
+
+
+Giardia Cysts
+
+
+Mean  SD
+
+
+P
+
+
+
+
+
+Mean age
+No
+7.3  2.9
+0.79
+
+
+
+Yes
+7.4  3.1
+
+
+
+Weight (Kg)
+No
+23.1  9.1
+0.89
+
+
+
+Yes
+23.3  9.9
+
+
+
+School years
+No
+1.6  1.9
+0.87
+
+
+
+Yes
+1.7  2.2
+
+
+
+
+
+
+
+Discussion
+Two previous studies carried out by the Colombian National Institute of Health found that Giardia was the most prevalent intestinal parasite. In 1965 a prevalence of 9.4% was found and in the 1980 survey the rate was 21.4%. These rates were the reported for children in the 5 to 14 year-age group living in the central region of Colombia, where the department of Quindo is located. In both studies (in 1965 and in 1980) diagnostic methods were the same as those used in the present study, microscopic examination and the rates were estimated from the examination of only one sample [6]. We found a higher prevalence. Our findings could indicate that giardiasis emerges during events which alter the existing sanitary conditions. We found that a higher prevalence was associated mainly with communal toilets and municipal duct provision at camp, which indicates that both factors favored dissemination of giardiasis in temporary camps after the disaster. As demonstrated by stratified analysis, drinking municipal water at camps was strongly associated with giardiasis even when attendance to school was taken in account as confounding variable. In future in similar conditions it will be important to make efforts addressed to guarantee individual toilet for each household and to control the water source by checking the presence of Giardia in water at temporary camps.
+In the present study, clinical symptoms were not associated with the presence of Giardia cysts or trophozoites in stools, but presence of cysts were significantly associated with mucus in stool. Mucus in stool can indicate inflammatory responses and our finding could indicate that chronic infection may induce inflammatory changes without major clinical symptoms. However, a longitudinal prospective study comparing infected and non-infected children with Giardia would be necessary in order to establish if chronic Giardia infection has an impact on growth or nutritional status in this particular population. In humans, the clinical effects of Giardia infection range from the asymptomatic carrier state to a severe malabsorption syndrome [7]. Factors possibly contributing to the variation in clinical manifestations include the virulence of the Giardia strain, the number of cysts ingested, the age of the host, and the state of the host immune system at the time of infection.
+Giardiasis was most prevalent in children who drank municipal water. Giardia survives in chlorinated water [8]. To protect against transmission all drinking water should receive chemical pretreatment, preferably with sedimentation, and filtration in addition to disinfection [9]. Municipal water should supply water with a concentration of less than 0.770 cysts per 100 liters [10]. There are two previous reports of outbreaks of giardiasis after natural disasters, both linked to flooding after heavy water run-off. One occurred in Montana (United States) where an outbreak of gastrointestinal illness affected 780 persons [11]. In Utah (United States) 1,230 people were affected with diarrhea [12]. Water systems providing unfiltered surface water and contaminated with flooding were identified as the origin of both epidemics. In Armenia the earthquake damaged the municipal system of water ducts [2]; this probably induced their contamination, explaining the high rate of giardiasis that we found in children. It is interesting to note that individual tanks were filled with municipal water. One explanation for the lower prevalence of giardiasis in children that used individual tanks is that in tanks there is additional sedimentation that can reduce the contamination of water with Giardia[10]. Health municipal services also distributed chlorine to be used in individual tanks. Although we could not establish the extent to which this chlorine was used, it is possible that additional chlorination contributed to reduce the probability of Giardia infection. There are no data available on the prevalence of giardiasis in general population in Armenia. It will be necessary to begin studies in order to establish the public health impact of this parasite infection in the city.
+
+
+Conclusions
+Giardiasis was the most prevalent intestinal parasite found in children living in post-earthquake camps in Armenia, Colombia. Our results suggest that this is an emerging disease in post-disaster situations. However, data on prevalence of giardiasis before the earthquake and in population living away from camps is lacking. The use of communal toilets instead of individual household toilets was found to be an epidemiological risk factor associated to giardiasis. Adequate prevention measures which include efforts to make individual toilets available are also important to prevent dissemination of this parasite. The present study also found a relationship with the water provided by municipal closed ducts that were affected by the earthquake. This highlights the need for implementing adequate surveillance systems for the presence of Giardia in water sources in similar circumstances.
+
+
+Competing interests
+None declared
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

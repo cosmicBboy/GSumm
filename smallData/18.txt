@@ -1,0 +1,389 @@
+
+
+Background
+Race is commonly described in epidemiological surveys based on phenotypic characteristics. Training of interviewers to identify race is time-consuming and self identification of race might be difficult to interpret. The aim of this study was to determine the agreement between race definition based on the number of ascendants with black skin colour, with the self-assessment and observer's assessment of the skin colour.
+
+
+Methods
+In a cross-sectional study of 50 women aged 14 years or older, from an outpatient clinic of an University affiliated hospital, race was assessed through observation and the self-assignment of the colour of skin and by the number of black ascendants including parents and grandparents. Reliability was measured through Kappa coefficient.
+
+
+Results
+Agreement beyond chance between self-assigned and observed skin colour was excellent for white (0.75 95% CI 0.720.78) and black women (0.89 95% CI 0.710.79), but only good for participants with mixed colour (0.61 95% CI 0.580.64), resulting in a global kappa of 0.75 (95% CI 0.710.79). However, only a good agreement for mixed women was obtained. The presence of 3 or more black ascendants was highly associated with observed and self-assessed black skin colour. Most women self-assigned or observed as white had no black ascendants.
+
+
+Conclusions
+The assessment of race based on the race of ascendants showed reasonable agreement with the ascertainment done by trained interviewers and with the self-report of race. This method may be considered for evaluation of race in epidemiological surveys, since it is less time-consuming than the evaluation by interviewers.
+
+
+
+Background
+The characterisation of race or ethnicity has been frequently required to describe populations in epidemiological surveys [1]. Race is commonly investigated as a risk factor [2,3] or as a potential confounding in the explanations of health outcomes [4] in studies of risk factors for hypertension or osteoporosis, conditions known to affect differently white and black individuals. For instance, Black hypertensive patients in sub-Saharan Africa are prone to cerebral haemorrhage, malignant hypertension, uraemia, and congestive heart failure, whereas they are relatively protected against coronary artery disease [5]. Race is also highly associated with bone mineral density of the lumbar spine, trochanter, femoral neck, and midradius [6], and black individuals are generally considered protected against osteoporosis
+The race concept is also important in the investigation of inheritance, since it is related to methods of treatment and prevention. Many diseases are heritable, and many of these diseases are more or less prevalent within certain populations. Diseases such as sickle-cell anaemia, cystic fibrosis, and phenylketonuria are caused when an individual carries a double recessive gene(s) that causes the disease [7]. Many genetic diseases can be controlled if detected early enough (e.g. phenylketonuria can be controlled with a proper diet), and other diseases are more frequent in some ancestral lines than others (e.g. osteoporosis is more frequent in white women) [6].
+Race is often classified based on phenotypic characteristics such as colour of the skin, but other characteristics such as hair colour and type are rarely described. Race refers to differences in biology, while ethnicity involve differences of shared characteristics, including ascendants, geographical origins, cultural traditions, and language [8]. It has been suggested that more than one source of information should be used to describe race, including self-assigned ethnicity (using nationally agreed guidelines enabling comparability with census data) and the ethnicity assigned by the observer, based on national census categorisation or logical categories proposed by the researchers [9]. Evaluation of race according to skin colour, hair type, conformation of the nose and lips, and jaw position has been used to identify black, white and mixed individuals [10], although the criteria to classify them are scarcely reported [11,12]. Consequently, reliability of data on race or ethnicity is difficult to achieve and the classification used may not capture the diversity of inhabitants of different countries or regions [4,13]. Conceptual and methodological problems in the investigation of ethnicity have been recognised [14]. Our study was designed to determine the reliability between three methods of establishing race, one based on the number of black ascendants, the self-assessment of skin colour, and race assigned by observers.
+
+
+Methods
+A cross-sectional study was conducted on a sample of 50 women aged 14 years or older, which were systematically selected from an outpatient clinics of a University affiliated hospital in Porto Alegre, southern Brazil. Participants included in the study answered to a pre-tested and structured questionnaire, which collected information on the number of black ascendants (parents and grandparents), school attendance, and included a self-assignment of the colour of skin as well as the observer assessment of skin colour.
+In a preliminary phase, a training was provided to the observers to standardise the identification of the skin colour and in the details of several phenotypic characteristics employed in Brazil before [10] such as the colour of hair, lines and hands' palm surface. Following the training, the principal investigator and the research assistants observed 28 women and compared their findings of the physical features. The research team reached full agreement for skin colour (white, mixture or black), hair colour (blonde, light brown, medium brown, dark brown or black), lines and hands' palm surface (pink palm and colourless lines, pink palm and red lines or white palm and dark lines) for the last 15 women observed. We also investigated the race of ascendants, through the question: "Which are the race of your ascendants: parents and grandparents?". A total of six research assistants were certified for the study.
+During the study, after the informed consent was obtained, one interviewer applied the questionnaire asking questions to the participants and the research team independently registered the information on physical characteristics, observing the women under sunlight. All interviewers were blinded to each other answers. Skin colour was described by the observers as white, mixed or black, the self-assigned skin colour used white, black, mixed, and local words meaning light mulatto and dark mulatto. The race of the parents and grandparents was investigate using a heredogram, which incorporated two generations to the assess the inheritance. Even though information could be reported for a maximum of six ascendants some women did not know the father or grandparents. Therefore, we collapsed the categories with more than 3 ascendants of black origin in the category of at least three black ascendants. There was investigated a sample of 50 women, which did not include the 28 women at the training phase. This sample size was sufficient to detect an agreement of at least 85%, with an error of 10%, and a confidence interval of 95%. In order to calculate the kappa coefficients, self-reported mixed skin colour was collapsed with light mulatto and dark mulatto. Analysis were carried out through Chi-square for contingency tables and kappa statistics to calculate to what extent the observers agreed beyond what we would expect by chance alone [15]. Kappa coefficients were calculated from observation of six interviewers and the skin colour self-assigned by the participant. The Kappa statistic was calculated for each two categories (white vs. non white; black vs. non black and mixed vs. non mixed) and a global Kappa with 95% confidence interval for all three categories. Kappa greater than 0.75 was taken as an excellent agreement, between 0.75 and 0.40 intermediate to good agreement, and below 0.40, poor agreement. The reliability of self-assigned black, mixed, or white skin colour with the number of black ascendants was obtained by weighted kappa. Weights were giving to the frequencies in each cell of the table according to their distance from the diagonal that indicates agreement [16]. The study was approved by the Ethics Committee of our Institution and all participants gave their informed consent to participate.
+
+
+Results
+Table 1 presents the characteristics of the 50 women included in the study. Most participants were white, had black or dark hair and 56% of them had no black ascendants.
+
+Table 1
+
+Distribution of demographic, socio-economic and phenotypic characteristics of studied population
+
+
+
+
+
+Mean ( SD) or N (%)
+
+
+
+
+Age (years)
+34,7 ( 12,6)
+
+
+School attendance (years)
+8,6 ( 4,2)
+
+
+Self-assigned skin colour
+
+
+
+White
+20 (40%)
+
+
+Light mulatto
+6 (12%)
+
+
+Mixed
+6 (12%)
+
+
+Dark mulatto
+8(16%)
+
+
+Black
+10 (20%)
+
+
+Observed skin colour*
+
+
+
+White
+27 (54%)
+
+
+Mixed
+13 (26%)
+
+
+Black
+10 (20%)
+
+
+Hair colour*
+
+
+
+Black
+18 (36%)
+
+
+Dark brown
+16 (32%)
+
+
+Medium brown
+7 (14%)
+
+
+Light brown
+7 (14%)
+
+
+Blond
+2 (4%)
+
+
+Hair style *
+
+
+
+Straight
+13 (26%)
+
+
+Wavy
+17 (34%)
+
+
+Curly
+13 (26%)
+
+
+Afro
+7 (14%)
+
+
+Colour of lines and hand palm surface *
+
+
+
+Pink palm and colourless lines
+25 (50%)
+
+
+Pink palm and red lines
+13 (26%)
+
+
+White palm and dark lines
+12(24%)
+
+
+Number of black ascendants
+
+
+
+0
+28 (56%)
+
+
+1
+7 (14%)
+
+
+2
+5 (10%)
+
+
+3 or more
+10 (20%)
+
+
+
+
+* According to the observation of the majority of interviewers
+
+
+Table 2 shows that the agreement between self-assigned and observed skin colour was excellent for white and black women, but only good for mixed participants, resulting in a global agreement beyond chance of 0.75.
+
+Table 2
+
+Agreement between self-assigned and observed skin colour of the participants
+
+
+
+
+Skin colour
+Overall agreement
+Kappa (95% Cl)
+
+
+
+
+White
+95%
+0.75 (0.720.78)
+
+
+Mixed
+55%
+0.61 (0.580.64)
+
+
+Black
+90%
+0.89 (0.860.92)
+
+
+Global
+78%
+0.75 (0.710.79)
+
+
+
+
+The presence of three or more black ascendants was highly associated with observed and self-assessed black skin colour, as well as the absence of black ascendants was associated with those considered whites (table 3). Approximately half of women self-assigned or observed as having mixed skin colour reported none black ascendant.
+
+Table 3
+
+Association between number of black ascendants and observed or self-assigned skin colour
+
+
+
+
+
+Number of black ascendants
+
+
+
+
+
+
+
+
+
+
+Skin colour
+0
+1
+2
+ 3
+p
+
+
+
+
+Self-assigned
+
+
+
+
+<0.0001
+
+
+White
+90%
+5%
+5%
+0%
+
+
+
+Light mulatto
+67%
+33%
+0%
+0%
+
+
+
+Mixed
+50%
+17%
+17%
+16%
+
+
+
+Dark mulatto
+38%
+38%
+12%
+12%
+
+
+
+Black
+0%
+0%
+20%
+80%
+
+
+
+Observed
+
+
+
+
+<0.0001
+
+
+White
+81%
+15%
+4%
+0%
+
+
+
+Mixed
+46%
+15%
+15%
+24%
+
+
+
+Black
+0%
+10%
+20%
+70%
+
+
+
+
+
+Table 4 presents the inter-observer agreement for phenotypic characteristics of the participants. Observed skin colour reached excellent agreement, while colour of lines and hands' palm surface, and hair colour had good agreement. Hairstyle presented an intermediate agreement, but the confidence interval was wide. Self-assigned skin colour was also associated with the colour of the lines and of the hands' palm surface (p < 0.0001). Pink and colourless palms' lines were observed in 95% of white women, 50% of light mulatto, 17% of mixed and 25% of dark mulatto. On the other hand, 90% of black women had dark lines and white hands' palm.
+
+Table 4
+
+Interobserver agreement for participants' phenotypic characteristics
+
+
+
+
+
+Kappa (95% CI)
+
+
+
+
+Observed skin colour
+0,79 (0,680,91)
+
+
+Colour of lines and hand palm surface
+0,66 (0,550,78)
+
+
+Hair colour
+0,60 (0,480,71)
+
+
+Hair style
+0,48 (0,050,91)
+
+
+
+
+
+
+Discussion
+Race can be a useful term in the information about susceptibility to certain heritable conditions. In this use of the concept of race, it is possible to describe those who are susceptible according to their biological ancestry [7]. Thus, the race concept (populations showing some discrete trait) is a proper unit for such objective, and would include specific ancestral populations at risk and ethnic groups that may also be at risk if such a population was in the individual's genealogy.
+Epidemiological studies conducted in populations with racial diversity have investigated pathways of diseases in the social environment and its mediation by economic resources. For conceptual and practical reasons, the current preference to define ethnicity in such studies is for self-assessment [17]. However, ethnicity incorporates a concept that is not easy to measure with accuracy or validity and people may change their assessment over time [17]. Any method of characterisation of race is imprecise, but we are compelled in having some in order to improve caring for people. In Brazil, the self-definition of race include unsounded and hardly interpretable words which makes difficult the comparison between national and international studies. We collapsed the categories light mulatto and dark mulatto within a mixed category since they are difficult to interpret as white or black. In Brazil mulatto is another word for mixed race.
+In this study, both observed and self-assigned skin colour achieved excellent global reliability. The agreement suggests that health researchers may adopt any of these methods to collect information on race if some drawbacks were overcame. First, the observer's assessment of skin colour depends on training and a clear definition of the categories [11] and to reassure the level of training, inter-observer agreement should be determined. The agreement between the researchers was poor at the starting of the training and improved to an excellent agreement at the end of the training. A similar performance in inter-observer agreement was described in a previous study conducted in the same population of origin of the present sample [18].
+In this study, the assessment of mixed skin colour reached a modest overall agreement, despite the intensity of training. Although the observation was carried out under the sunlight on less exposed surface of the arm, the perceived colour varies among people. It may also be affected by the skin colour of the observers, an aspect that could not be explored because all of them were white.
+Southern Brazil is a tri-racial mixture of Caucasians, Negroes and Indians [12]. Most of the population is Caucasian, predominantly Portugueses, Germans and Italians. Indians represent a very small fraction of the population. Mulattos were more numerous than negroes. Accordingly, the assessment of race was based on self-identification is not clear-cut. The disadvantage was that reported skin colour was expressed by local terms that needed to be decoded, such as light mulatto or dark mulatto [10]. These terms needed to be translated into conventional categories, as white, mixed or black. In this study we grouped all non-white or black women into mixed colour [10]. The self-assigned skin colour method may be biased in Caucasians, that over-estimate their skin pigmentation, and by individuals who do not consider themselves fair [19].
+Our data show that the definition of race through the number of black ascendants may be a very good option. Regardless of training to observe skin colour or grouping local terms for self-assigned skin colour, the association of number of black ascendants with skin colour was highly significant. Most of white women had no black ascendants as well as black women had three or more. The agreement among the research assistants on colour of lines and of hands' palm surface, hair colour and style attained good kappa coefficients, but the confidence intervals were wide. Although the intensive training in order to standardise data collection of phenotypic characteristics, those physical attributes were not assessed independently of skin colour [10].
+
+
+Conclusions
+In conclusion, our study showed that the assessment of race based on the race of the ascendants informed by the individual has a reasonable agreement with the ascertainment done by trained interviewers and with the self-report of race. This approach may save time on training of interviewers and may overcome potential measurement biases of other methods of race definition.
+
+
+Competing Interests
+None declared.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

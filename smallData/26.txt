@@ -1,0 +1,313 @@
+
+
+Background
+The purpose of this study was to investigate the association between secondhand smoke and the risk of developing a first event of acute coronary syndromes (ACS), i.e. acute myocardial infarction or unstable angina, among non-smokers, in relation to the presence of several other cardiovascular risk factors.
+
+
+Methods
+Eight hundred and forty-eight patients with first event of ACS and 1078 cardiovascular disease-free matched controls completed a detailed questionnaire regarding their exposure to secondhand smoke, among other investigated parameters.
+
+
+Results
+Two hundred and ninetyseven (35%) of the patients and 259 (24%) of the controls were defined as secondhand smokers. After controlling for several potential confounders, the results showed that non-smokers occasionally (< 3 time per week) exposed to cigarette smoke were associated with 26% higher risk of ACS (OR = 1.26, P-value < 0.01) compared to non-smokers not exposed to smoke, while regular exposure is associated with 99% higher risk of developing ACS (OR = 1.99, P-value < 0.001). Moreover, the previous risk increases progressively from 15% to 256% if one or more of the classical cardiovascular risk factors (i.e. hypertension, hypercholesterolemia, diabetes mellitus, sedentary life and family history of premature coronary heart disease) are present.
+
+
+Conclusions
+Consequently, this study supports the hypothesis that even occasional secondhand smoke increases the risk of developing acute coronary syndromes, especially when other risk factors are present. Given the high prevalence of cigarette smoking, the public health consequences of passive smoking with regard to coronary heart disease are important.
+
+
+
+Background
+In the past decade many developing and industrized countries have seen the rapid increase in mortalities caused by coronary heart disease. For example, in 1995, an estimated 480,000 deaths in the United States resulted from coronary heart disease. This represented more than 1 of every 5 deaths, 100,000 of which have been attributed to active smoking [1]. Although cigarette smoking is one of the most important modifiable risk factors for coronary heart disease, the effects of passive smoking on health have not been fully recognized by many existing public health policies [1]. Previous epidemiologic studies have investigated the effect of passive smoking on the risk of developing coronary heart disease [1-4]. However, the relationship between passive smoking and the development of acute coronary syndromes, especially in countries with high prevalence of active smoking, is not well studied. Moreover, the effects of relatively light exposures, the duration of the exposure, and the interaction between passive smoking with other risk factors related to cardiovascular disease, have rarely been investigated in the past.
+The purpose of this study is to investigate the association between passive smoking and the risk of developing non-fatal acute coronary syndromes, among non-smokers, after taking into account the presence of several cardiovascular risk factors. We studied overall exposure as well as specific exposure at workplace or at home. The study base is a population with high prevalence of active cigarette smoking [5].
+
+
+Methods
+The CARDIO2000 is a multicentre case-control study that investigates the association between several demographic, nutritional, lifestyle, biochemical and clinical risk factors with the risk of developing non-fatal acute coronary syndromes. Both patients and controls were a representative random sample from the Greek population. From January 2000 to August 2001, 848 individuals who had just entered to the hospital for a first event of coronary heart disease (stable angina was excluded from the analysis) were entered into the study. Seven hundred (82%) of the patients were males (mean age  standard deviation 59.0  10 years old, range: 26  83) and 148 (18%) were females (65.3  9 years old, range 41  84). The inclusion criteria for cardiac patients are:
+1. First event of acute myocardial infarction diagnosed by two or more of the following features: typical electrocardiographic changes, compatible clinical symptoms, specific diagnostic enzyme elevations, or
+2. First diagnosed unstable angina corresponding to class III of the Braunwald classification.
+After the selection of the cardiac patients we randomly selected 1078 cardiovascular disease free subjects (controls), matched to the patients by age (i.e. within the interval [age of the patient  3 years]), sex, and region. Of the controls, 862 were males (mean age  standard deviation: 58.0  10 years old, range: 28  86) and 216 were females (64.8  9 years old, range: 39  84). Controls were individuals who visited the outpatients departments of the same hospital and at the same period with the coronary patients, for routine examinations or minor surgical operations. The controls were subjects without any clinical symptoms, signs or suspicion of cardiovascular disease in their medical history, as a physician evaluated it. We used this type of controls in order to have more accurate medical information, to eliminate the potential adverse effect of several, unknown, confounders and to increase the likelihood that cases and controls share the same study base. The number of the subjects was decided through power analysis, in order to evaluate differences in the odds ratio greater than 7% (statistical power > 0.80, significant level < 0.05).
+
+Investigated parameters
+The information regarding the investigated biochemical or clinical parameters achieved from the subjects' medical records, and the information regarding the life style characteristics through a self-reported, confidential, questionnaire, during a specific interview by a specialist, after the 2nd day of the hospitalisation, for the cases, and at entry for the controls. Among several demographic, lifestyle, nutritional, psychosocial, clinical and biochemical risk factors, we evaluated the exposure to passive tobacco smoke. In particular, on the questionnaires, we asked: "Are you currently exposed to cigarette smoke from other people (at workplace, restaurants, bars or nightclubs, home, outdoors etc.), more than 30 minutes per day?" All the responses were categorized into three levels: no exposure, occasional exposure (< 3 times per week), and regular exposure. We, also, recorded separately about two locations, home and workplace (as the most frequent places of exposure). In addition to the previous questions we, also, asked: "As an adult, how many years have you lived with someone who has smoked regularly?" Response categories were none or <1 year, 1 to 4, 5 to 9, 10 to 19, 20 to 29, 30 to 39 and > 40 years, as done by other investigators in the past [1]. Because these were self-reported assessments and prone to bias, we compared these results to reports obtained from subjects' relatives or friends. The Kendals' tau-coefficient showed high concordance between the answers of the investigated patients  controls and their relatives or friends ( = 0.87, p < 0.01). Cases or controls with discordance were excluded from the analysis.
+Moreover, the educational level was measured by years of schooling, while mean annual income, during the past 5 years, was, also, recorded. Clinical symptomatology of depression during the past month was determined by a special, confidential and weighted questionnaire, which was based on a self-reported depression scale (range 060) developed by Radloff, known as the Center of Epidemiological Studies-Depression scale (CES-D). Based on a pilot analysis in clinically confirmed depressive subjects from the same study base, a cut-off point of 15 on the scale was used in order to discriminate significant depressive symptoms. Thus, we classified the subjects in two categories, those with and without short-term depressive symptoms (CES-D > 15 or < 15) [6]. Physical activity was defined as any type of non-occupational physical exercise, at least 1/week during the past year. The rest of the subjects were defined as physically inactive. Also, the duration of physical exercise was taken into account. In keeping with the long-standing classification criteria used in several population-based studies, patients whose mean blood pressure levels were greater or equal to 140 / 90 mmHg or were under antihypertensive medication were classified as hypertensives [6]. Hypercholesterolemia was defined, as cholesterol levels greater than 220 mg/dl or greater than 200 mg/dl when two other risk factors for coronary heart disease or use of special hypo-lipidemic treatment was present. Diabetics were those with fast blood glucose greater than 125 mg/dl or were under special diet or treatment. Finally, obesity was defined as body mass index (weight / {height} 2) greater than 29.9 Kgr/m2. Details regarding the design and methodology of CARDIO2000 study have been previously published [5,6].
+
+Statistical analysis
+Continuous variables are presented as mean  one standard deviation, while qualitative variables are presented as absolute and relative frequencies. Pearson's correlation coefficient was used in order to evaluate associations between the continuous variables, while contingency tables with calculation of chi-squared test, as well as application of Student's t-test evaluated associations between the categorical and continuous variables. The estimations of the odds ratio of developing acute coronary syndromes by exposure status was performed by calculating odds ratios (OR) and their corresponding confidence intervals through conditional logistic regression analysis. Age, sex, presence of hypertension, hypercholesterolemia, diabetes mellitus, family history of CHD, physical activity status, education and financial level, presence of short term depressive episodes, annual income, and body mass index were considered as potential independent covariates in the multivariate logistic model that was developed to evaluate the association between passive smoking (main factor of interest) and the development of acute coronary syndromes (outcome). Final model was developed through backward elimination procedure, for the selection of variables, based on the Wald's statistic and using 5% of the probability for enters and 10% of the probability of removal a variable from the survival model. Deviance residuals were calculated in order to evaluate the model's goodness-of-fit. The dose-response equation between the relative risk of developing acute coronary syndromes and the years of exposure was derived through exponential regression analysis. We used the exponential function since this link gave us the higher R-squared values compared with k-order polynomial function. In particular, we calculated the odds ratios at each time interval mentioned above, after adjusting for the same potential confounders at each stage, and then we estimated the coefficients of the equation: odds ratio = a eb*{level of exposure}. Finally, the exposed attributable fraction was calculated by the formula: EAF = (odds ratio - 1) / odds ratio [8]. All reported probability values (P-values) were derived form two-sided tests. STATA 6 software was used for the all the calculations (STATA Corp. College Station, Texas, USA).
+
+
+
+
+Results
+The analysis of the data showed that 297 (35%) of the patients and 259 (24%) of the controls were defined as (non-smokers) passive smokers. Of them, 197 (27%) of the patients and 103 (17%) of the controls were classified as regular passive smokers (mainly at work or/and at home) and the rest of them as occasional. The majority of the patients (58%) and controls (72%) defined as occasionally exposed to second hand smoke said that these exposures where mainly in restaurants, cafeterias and bars. Table 1 shows the distribution of the investigated characteristics of the subjects, stratified by the exposure to secondhand smoke. The unadjusted odds ratio of developing acute coronary syndromes by non-smokers who are exposed to cigarette smoking compared with non-smokers who are not exposed to cigarette smoking is 1.46 (297 / 848 patients vs. 259 / 1078 controls, P-value < 0.05).
+
+Table 1
+
+Non-smokers patients' and controls' characteristics, by group of study
+
+
+
+
+Group of study
+ACS patients (n = 848)
+Controls (n = 1078)
+
+
+
+Non-smokers exposed to passive smoking
+
+
+
+
+
+
+
+
+
+Yes
+No
+Yes
+No
+
+
+
+
+Number of individuals
+297 (35%)
+551 (65%)
+259 (24%)
+819 (76%)
+
+
+
+Age
+
+60  10
+61  10
+60  10
+61  9
+
+
+
+Hypertension
+
+137 (46%)
+242 (44%)
+65 (25%)
+213 (26%)
+
+
+
+Hypercholesterolemia
+
+190 (64%)
+342 (62%)
+85 (33%)
+254 (31%)
+
+
+
+Diabetes mellitus
+
+74 (25%)
+143 (26%)
+18 (7%)
+49 (6%)
+
+
+
+Family history of CHD
+
+134 (45%)
+265 (48%)
+44 (17%)
+123 (15%)
+
+
+
+Physical inactivity
+
+199 (67%)
+336 (61%)
+148 (57%)
+401 (49%)
+
+
+
+Obesity
+
+190 (64%)
+336 (61%)
+96 (37%)
+311 (38%)
+
+
+
+Years of education
+
+9  3
+11  3 *
+11  2
+13  3 *
+
+
+
+Depression
+
+71 (24%)
+127 (23%)
+44 (17%)
+156 (19%)
+
+
+
+Income (#,000 US$)
+
+7.25 1.1
+7.12 2.0
+8.23 1.4
+8.57 2.1
+
+
+
+
+*P-value < 0.05, comparisons between, subjects who were exposed to passive smoking vs. subjects who were not exposed to passive smoking, by group of study
+
+
+Afterwards, based on the multivariate analysis we evaluated the association between exposure to passive smoking and odds of developing acute coronary syndromes, after taking into account the effect of several potential confounders presented in table 1. The estimations of the odds ratios are presented in Table 2, separately for males and females. As we can see the non-smokers reporting occasional or regular exposures to cigarette smoke had significantly higher odds of developing a first event of an acute coronary syndrome, compared with non-smokers who are not exposed to secondhand smoke (Table 2). The previous odds ratio is, slightly, higher in females compared to males (p = NS). According to these findings, and from a public health perspective, we could say that 34 out of 134 (25%) individuals who were regularly exposed to passive smoking would develop coronary heart disease because of exposure, in their life (exposed attributed fraction). No statistically significant interactions were observed between exposure to passive smoking and the other evaluated risk factors, with the exception of education level. In particular, the odds ratio of developing acute coronary syndromes due to the exposure to passive smoking was significantly lower in individuals who had academic education (>12 years of schooling) compared to individuals with lower education, i.e. <6 years of schooling (OR = 1.28; 95% CI 1.071.53 vs. OR = 1.87; 95% CI 1.54  2.27, P-value < 0.05). Moreover, the quantitative dose-response equation (years of exposure  adjusted odds ratios of developing ACS) showed that the risk of developing acute coronary syndromes increases exponentially by the years of exposure to secondhand smoke (see equation 1)
+
+Table 2
+
+Final results from the multivariate analysis in non-smokers, by sex.
+
+
+
+
+
+Males
+Females
+
+
+
+Odds ratio
+95% CI
+Odds ratio
+95% CI
+
+
+
+
+Passive smoking
+
+
+
+
+
+
+Occasional vs. no exposure
+1.25
+1.05  1.49
+1.29
+1.04  1.61
+
+
+Regular vs. no exposure
+1.97
+1.84  2.10
+2.06
+1.93  2.21
+
+
+Hypertension (yes / no)
+1.66
+1.16  2.38
+4.96
+2.56  9.53
+
+
+Hypercholesterolemia (yes / no)
+3.77
+2.68  5.27
+2.19
+1.80  2.66
+
+
+Diabetes mellitus (yes / no)
+2.04
+1.25  3.35
+2.18
+1.02  4.69
+
+
+Family history of CHD (yes / no)
+5.11
+3.77  7.01
+3.14
+2.68  3.67
+
+
+Physical inactivity (yes / no)
+1.10
+1.02  1.25
+1.19
+0.87  1.63
+
+
+Education (per 6-year of schooling)
+0.87
+0.79  0.97
+0.53
+0.46  0.60
+
+
+Depression (yes / no)
+1.58
+1.25  1.99
+1.93
+1.85  2.01
+
+
+
+
+Variables entered in the initial model: age, sex (by design), hypertension, hypercholesterolemia, diabetes mellitus, physical inactivity, family history of premature coronary heart disease, education level, annual income and psychological (depression) status
+
+
+Odds ratio = 1.0332 0.022  {years of exposure}  (1)
+We attempted to further refine the exposure categories by examining the separate effects of exposure at home or workplace. Sixty-nine (35%) of the non-smoker patients and 33 (20%) of the non-smoker controls reported that they were exposed to passive smoking, only, at workplace, while 51 (26%) of the non-smoker patients and 30 (18%) of the controls reported that they were exposed, only, at home. Additionally, the years of exposure to smoke were higher at workplace compared to home (29  6 vs. 20  7 years, P-value < 0.001). However, the later finding may be confounded by the years of marriage that they were not recorded in the questionnaires. With respect to the previous limitation, the odds ratio of developing acute coronary syndromes was 1.97 (P-value = 0.0031) for the non-smokers who were regularly exposed, only, at work, while it was found 1.33 (P-value = 0.0021) for the non-smokers who were exposed, only, at home, after taking into account the effect of the conventional cardiovascular risk factors. The previous "risks" increases significantly in subjects who are exposed both at home and at workplace (odds ratio = 2.56, P-value < 0.001).
+Finally, we calculated the score of the common cardiovascular risk factors (hypertension, hypercholesterolemia, diabetes mellitus, sedentary life and family history of premature coronary heart disease) that were present, both, in patients and controls. Then we estimated the odds of developing acute coronary syndromes using as a reference category subjects without any one of the aforementioned risk factors. The results are presented in Figure 1. Although this type of analysis may hide some methodological considerations (since the specific effects of the different risk factors are not identical) we can see that the odds of developing acute coronary syndromes increases, exponentially, by the number of risk factors that prevail in the investigated individuals.
+
+Figure 1
+
+Estimations of the odds ratio of developing acute coronary syndromes, among non-smokers who are exposed to passive smoking and who had one-to-five additional cardiovascular risk factors (hypertension, hypercholesterolemia, diabetes mellitus, sedentary life and family history of premature coronary heart disease); the (exponential) line illustrates the trend on the odds ratios by level of risk factors (p-value for trend < 0.001)
+
+
+
+
+
+Discussion
+In this brief, report we aimed to raise a serious and underestimated, we believe, problem of public health, i.e. the effect of passive smoking on coronary heart disease risk, under the additional effect of several cardiovascular risk factors. Based on the information derived from a large population-based sample of coronary patients and controls, we observed that 35% of the patients and 24% of the controls were exposed to passive cigarette smoking (Table 1). Multivariate analysis showed that the coronary risk increases proportionally to the level and the years of exposure. It seems that our findings support the hypothesis that even occasional exposure to passive smoking can, significantly, increase the risk of developing acute coronary syndromes among non-smoking subjects [1-3,9-15]. This effect, also, appears to be increased if exposure occurs in the workplaces compared to home. The later finding could be explained through the bigger duration and the higher intense of exposure, compared to the family environment, but it may be limited by the unknown factor of the years of marriage.
+During the past years several investigators have reported similar findings [9,11-15]. Kawachi and his colleagues through a prospective evaluation of 32,046 women 36 to 61 years old suggested that regular exposure to passive smoking at home or work may increase the risk of CHD among non-smoking women. Our study showed similar results, however no difference between sexes was observed. Several potential mechanisms have been identified through which passive smoking may increase the risk of CHD, like carboxyhemoglobinemia, increased platelet aggregation, damage to the arterial endothelium, and reduced HDL cholesterol [11-15]. Unfortunately, the design as well as the investigated information of this study does not allow us to discuss further the previous findings. Regarding the confounding effect of educational level it seems that that low education status subjects are rather unprotected against the acute coronary risk due to passive smoking. Previous epidemiological studies have shown that the amount of cigarettes smoked was inversely related to the education level of the individuals [16,17]. The latter may, partially, explain the observed, by our study, inverse association between the odds ratio of developing acute coronary syndromes due to passive smoking exposure and the education level, since, it seems that low educated individuals are more often exposed to passive smoking than the high educated.
+
+Limitations of the study
+In this case-control study two, main, sources of systematic errors may exist, the selection and the recall bias. In order to eliminate selection bias we tried to set objective criteria, both, for patients and controls. Additionally, we made an effort to eliminate any suspicious for clinical symptoms or signs of cardiovascular disease in controls. However, insignificant misclassification may exist, since a small percentage of asymptomatic coronary patients may be wrongly assigned to controls, even they were evaluated by a cardiologist. Concerning information bias we tried to avoided it through accurate and detailed data from patients' medical records. However, recall bias may still exist, especially in the measurement of passive smoking exposure, and the onset of the investigated cardiovascular risk factors. Also, the use of odds ratios may overestimate the relative risk. Furthermore, regarding the potential effect of uncontrolled  unknown confounders, we tried to reduce it through multivariate analysis and using the same study base, both, for patients and controls. Finally, the high prevalence of active smoking and the few, and usually override, restrictions on public smoking, in the investigated population, may bias our results towards the null and might underestimate our findings.
+
+
+
+Conclusion
+Despite the fact that exposure to passive smoking was assessed by self-report, these data suggest that even occasional exposure to passive smoking is associated with an increase of coronary heart disease risk, among non-smokers. Moreover, the previous risk increases substantially when other cardiovascular risk factors prevail among individuals as well as in low educated subjects. Given the high prevalence of cigarette smoking in many developing as well industrialized societies [1], the consequences of passive smoking to public health, especially coronary heart disease, seems to be notable. The only safe way to protect non-smokers from exposure to cigarette smoke is to eliminate this health hazard from public places and workplaces through efficient legislation. The consistency of these findings with the existing totality of evidence [10-15] increases the belief that the observed association may represent cause and effect.
+
+
+Competing interests
+None declared.
+
+
+Authors' contributions
+D.B. Panagiotakos: Senior investigator of CARDIO2000 study, design, biostatistical and epidemiological analysis of the data, interpretation of the results, C. Chrysohoou, Senior investigator of CARDIO2000 study, study design, interpretation of the results and discussion, C. Pitsavos: Supervisor of the CARDIO2000 study, design and interpretation of the results, I. Papaioannou: data interpretation, J. Skoumas: data interpretation and discussion, C. Stefanadis: discussion and revisions and P. Toutouzas: discussion and revisions.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

@@ -1,0 +1,86 @@
+replacing dtm (aka vector space model) with "graph theory"
+
+use mesh terms:
+- use graphs with mesh
+- problem with vsm: you have a lot of duplicated data
+- with graphs: every new document adds new node or edge
+- cluseter/curate documents is first step
+-- minimum amout of data is in abstract
+- question: how to store this network
+==========
+Business Model:
+freemium model
+ad supported for free users
+foundations, grants
+possible sellable data: social impact of scientific articles
+
+Storyboard:
+- researcher looks for information on "soda ban/sugary drinks::obesity"
+- search results returns a 'playlist' of articles (just like a google scholar search result)
+- read and write about what they learned
+- this also gives them a platform to easily store and share their primary literature
+- User profile comes from
+acedemia.edu
+kora
+research gate
+linkedin
+meetup
+zotero
+mendelay
+- beta program (will use unsupervised learning)
+given the same search results and search query
+'good' articles will be taged by beta users to fine-tune search algorithim
+mesh: concepts and qualifiers
+
+rollout strategy: tweet aurthors a link to a paper playlist on a topic they wrote about
+secondary outcome: generate conversation with citations
+
+lean startup approach (scientific method):
+- approach health bloggers and jornalists (already have interest)
+- readers have more of a say than writers do
+
+key partners: NLM, NIH, PlOS, etc
+
+Offering:
+value propositions: reduce time it takes to find primary source scientific literature
+
+key activities: indexing primiary and grey literature
+
+key resources: 
+
+customer relationships: 
+
+channels: web application
+
+customer segments: 
+
+cost structure
+
+revenue streams
+
+==========
+
+Key Product: paper search and recommendation platform for research in the health sciences
+Market Segments: Journalists, Bloggers, and Academic Researchers
+
+Context: The velocity and volume of data generated in the health sciences is increasing.
+Needs: Journalists and bloggers need to find scientific literature about their topics of interest.
+Vision: We want to provide a low friction, low maintenance research platform that saves time and allows users to discover relevant content
+Outcome: A cross between Google Scholar and Pandora. Our data aggregation and curation platform will enable users to search for a specific topic and create 'paper playlists' from the results. Our proprietary system will then learn from the users' search queries and playlist selections to provide regular digests that recommend new articles that are relevant to their research.
+
+Our Process:
+1.  Create Curation System (currently working on): using MESH terms and user profile to rank articles
+2.  Summarization (we currently have) it is currently based on the entire article, we will adapt this to a more specific summarization of just extracting the findings from the abstract (this will be used as a subtitle for the search results/playlist)
+3.  User interaction/interface
+
+questions:
+- What are the advantages and disadvantages of a for-profit vs non-profit organization.
+- partners: National Library of Medicine (NLM), NIH, PlOS, news media websites (NPR, pro publica, huffington post, nyt)
+- What are the different revenue models that we can use as a search and content curation web app?
+- In order to decrease barriers for new users, we think a freemium model would be best. Other than ad-space, how else can we bring in revenue?
+- Do you think journalists and bloggers are a viable target audience? or should we go back and address researchers
+- What are management strategies that we can use to facilitate the product development process?
+- Our people: 4 people: 3 programmers, 1 designer (+1). What other skill sets do we need for the agile development/customer development phase?
+- what are realistic time line to get minimum viable product. 
+- what would be key metrics for 'success' pageviews, clicks per search, users/mo, average clicks/user
+- how to engage early adopters (other than tweeting)

@@ -1,0 +1,889 @@
+
+
+Background
+Very low birthweight, i.e. a birthweight < 1500 g, is among the strongest determinants of infant mortality and childhood morbidity. To develop primary prevention approaches to VLBW birth and its sequelae, information is needed on the causes of preterm birth, their personal and social antecedents, and on conditions associated with very low birthweight. Despite the growing body of evidence linking sociodemographic variables with preterm delivery, little is known as to how this may be extrapolated to the risk of very low birthweight.
+
+
+Methods
+In 1992, two years after the German unification, we started to recruit two cohorts of very low birthweight infants and controls in East and West Berlin for a long-term neurodevelopmental study. The present analysis was undertaken to compare potential preconceptional risk factors for very low birthweight delivery in a case-control design including 166 mothers (82 East vs. 84 West Berlin) with very low birthweight delivery and 341 control mothers (166 East vs. 175 West).
+
+
+Results
+Multivariate logistic regression analysis was used to assess the effects of various dichotomous parental covariates and their interaction with living in East or West Berlin. After backward variable selection, short maternal school education, maternal unemployment, single-room apartment, smoking, previous preterm delivery, and fetal loss emerged as significant main effect variables, together with living in West Berlin as positive effect modificator for single-mother status.
+
+
+Conclusion
+Very low birthweight has been differentially associated with obstetrical history and indicators of maternal socioeconomic status in East and West Berlin. The ranking of these risk factors is under the influence of the political framework.
+
+
+
+Background
+The majority of preterm infants, i.e. those born prior to 37 weeks of gestation, do well, thanks to the advances of modern obstetric and neonatal care. However, chances for intact survival of preterm infants decrease with advancing immaturity [1], and very low birthweight (VLBW) infants, i.e. those with a birthweight < 1500 g, continue to constitute an enormous burden on the tangible and intangible resources of families, health care providers, and educational systems. VLBW infants are more likely to undergo recurrent hospitalizations and require special educational assistance, and VLBW sequelae such as motor deficits and cognitive disturbances may persist for life time [2].
+Attempts at averting very preterm birth altogether (primary prevention), intervening prior to impending preterm birth (secondary prevention), and sophisticated treatment of preterm infants (tertiary prevention) to minimize sequelae have met with mixed success. Progress has largely been confined to the latter two of these strategies while primary prevention measures such as social support programs [3] and home uterine monitoring for the detection and treatment of early contractions have so far not yet proven successful [4]. While our knowledge of the natural history of this complex and probably multi-determined health state is very limited [5,6], the information availabe suggests that risk factors for preterm delivery may predate pregnancy.
+Preterm birth is a world-wide problem, but rates of VLBW differ more than twofold between industrialized countries. Some countries with advanced neonatal care, including the United States, show poor performance in the international ranking of infant mortality rates due to a high proportion of VLBW deliveries [7]. The rate of preterm birth in the United States is double or more that of many other industrialized nations, which has been attributed in part to the increased likelihood of preterm delivery in black women, as compared with white women in the United States. Black/white ratios of infant mortality (2.4) and VLBW (2.6) are indeed very similar [7].
+Some of the discrepancy between the races has been associated with maternal socioeconomic status and subsequent access to preventive health care [8,9]. Racial disparity in socioeconomic status may be greater than the ability to adjust for it in epidemiological studies [10]. However, the racial difference in the risk of preterm delivery has also been observed in United States Army personnel who have no-cost access to high-quality health care [11]. In the United States, immigrant black women have substantially lower preterm birth rates than black women born in the United States [12,13]. In the Netherlands where there is easy access to medical care for all inhabitants, adjusted birthweights of Dutch, Turkish, and Carribean were not found to differ significantly. In contrast, very low social class was associated with a slightly reduced birth weight [14].
+While the association between sociodemographic variables and preterm delivery becomes growingly evident, little is known about how these factors may promote the risk of VLBW [15]. Variables predictive of preterm delivery may not be associated with VLBW, while others such as maternal smoking have been found to be associated with delivery before 32 weeks but not with preterm birth itself [16].
+The investigation presented here has seized the historical opportunity provided by the process of German unification since 1989. In both parts of Berlin, geography, nutritional traditions, the degree of urbanization and industrialization, language, and genetic background were virtually identical. Both countries took pride in no-cost access to prenatal care and advanced perinatal medicine available to everybody. However, while medicine had the same scientific roots and similar traditions in both parts of Germany, social and economic systems started to differ vastly after 1945, with an ever-increasing distance after the two German states were founded in 1949 and the wall was built in 1961. Consecutively, the socio-political infrastructure and with that the organization of health care diverged progressively. After the political unification, the percentage of VLBW infants increased and the mortality of VLBW infants decreased in both parts of Germany [17], whereas the pattern of breastfeeding remained different as long as eight years afterwards [18].
+In 1992, two years after the unification, we started to recruit two cohorts of VLBW infants and controls in East and West Berlin for a long-term neurodevelopmental study [19]. The present case-control analysis was undertaken to detect and to compare preconceptional, exclusively parental risk factors associated with VLBW in East and West Berlin.
+
+
+Methods
+The original study population consisted of all consecutive VLBW infants (birthweight from 500 to less than 1500 g) born alive (presence of heart beat or pulsating umbilical cord or breathing efforts) between June 15, 1992 and June 15, 1994, in a West Berlin university hospital and a major municipal East Berlin hospital, and all consecutive VLBW infants between April 1, 1993 and June 15, 1994, in the East Berlin university hospital. The two infants born next to a VLBW infant in the same hospital and who displayed a birthweight of at least 2500 g served as controls.
+During the three years the study was conducted, VLBW infants accounted for 0.821 % (199/24252) and 0.895% (608/67882) of all infants born in East and West Berlin, respectively (p = 0.281). Similarly, the ratio of infants with birthweights <1500 g and  2500 g (199/21492 = 9.25  10-3 vs 608/59360 = 10.24  10-3) did not differ between East and West Berlin (p= 0.219).
+After informed consent, mothers were asked to participate in the study. Medical history and socioeconomic data were collected via structured questionnaires within the first three days after delivery. Interviews with non-German mothers were conducted with the assistance of a translator. Pregravid body measurements were retrieved from maternity booklets. Education was classified as short (less than 10 years), intermediate (a minimum of 10 years, as required for most skilled job training opportunities), and advanced (college/university entry grade, i.e. a minimum of 12 years).
+Comparisons between groups were performed by 2 test or Fisher's exact test. Potential associations between effect variables and VLBW delivery were explored by univariate logistic regression analyses. In general, depending on the proportions in the control group, odds ratios between 2.8 (proportion = 5%) and 1.8 (proportion = 30%) can be detected with the given sample size of 166 in the VLBW mothers group and 341 in the control mothers group, a two-sided significance level of 0.05, and a power of 80%. However, the analyses were not determined by one single primary hypothesis but by a bundle of potential associations. Thus, the analysis was exploratory, and P-values have no recognized interpretation under these conditions.
+The relative risk of VLBW delivery was estimated by odds ratios and 95% confidence intervals. Univariate logistic regression analyses were performed separately for East and West Berlin mothers. To control for possible confounding and identify interaction effects, a multivariate logistic regression model [20] was developed including those factors significant (p < 0.05) in the univariate analyses in any of the two groups  with the exception of paternal education and employment status which were positively associated with the corresponding maternal factors to a considerable amount, i.e. Spearman's R = 0.498 and 0.310, respectively. Effect modification through living in East / West Berlin was tested by including location as a factor into the initial multivariate model, together with terms for interaction between covariates and location. The resulting model was obtained by performing backward binary logistic regression analysis. For the variable selection process, P-values < 0.05 for inclusion, and  0.1 (significance of change when variable removed) for exclusion, respectively, were used. Location, as a design variable of the study, was included into the entire selection process.
+Additionally, we performed the analogous model building procedure with less stringent selection criteria, taking P-values of 0.20 and 0.25 as inclusion and exclusion criteria, respectively.
+Statistical analysis was performed using SPSSWIN10.0 (SPSS Inc, Chicago, Illinois).
+
+
+Results
+
+Study population
+During the study period, a total of 194 VLBW were born to 179 mothers in the particpiating hospitals. Thirteen out of 179 VLBW infant mothers (7.3%) refused to participate, the most frequent reason cited being death of the infant (n = 7). Similarly, 37 out of 378 control infant mothers (9.8%) did so, the largest fraction of them (n = 16) without known reason. Thus, the number of VLBW and control infant mothers actually participating in the study were 166 (82 in East Berlin and 84 in West Berlin) mothers of 190 VLBW infants, and 341 (175 in West Berlin and 166 in East Berlin) mothers of 307 control infants. Refusal rates did not differ significantly between VLBW and control infant mothers (p = 0.427) or between East and West Berlin mothers (28 of 276 [10.1%] vs. 22 of 281 [7.8%], p = 0.375).
+
+
+Prevalence of potential risk factors in East and West Berlin
+In Table 1, the prevalences of preconceptional factors potentially related to VLBW delivery in the study population are presented. In general, most of these factors occured more often in the group of VLBW infant mothers than in the control group. With the exception of a higher rate of pregnancies after assisted reproduction in the West as compared to the East Berlin group, obstetric history data did not differ considerably. The percentages of single mothers, mothers living in single-room apartments, and very slim or very young mothers were higher in the East Berlin group. Also, in East Berlin there were more mothers who were unemployed. In contrast, the rates of paternal unemployment did not differ considerably. Elder women (> 35 years of age) and women who were migrants from developing countries (mostly Turkey in West Berlin, and Vietnam in East Berlin) constituted a larger proportion of the West than of the East Berlin group. The levels of both maternal and paternal education were also distributed differently in the East and West Berlin groups, with larger fractions having either low (less than 10 years) or high (12 years or more) school education in West Berlin, as opposed to East Berlin.
+
+Table 1
+
+Prevalence of potential preconceptional risk factors in East and West Berlin *
+
+
+
+
+Potential risk factors
+Control group
+VLBW
+
+
+
+East Berlin n = 166
+West Berlin n = 175
+East Berlin n = 82
+West Berlin n = 84
+
+
+
+
+
+Obstetric history
+
+
+
+
+
+
+
+previous preterm delivery
+4.8
+8.0
+15.9
+14.3
+
+
+previous fetal loss
+36.1
+36.0
+50.0
+53.6
+
+
+previous induced abortion
+21.7
+20.6
+29.3
+31.0
+
+
+assisted reproduction
+1.8
+5.7
+2.5
+8.3
+
+
+prima para
+49.4
+51.4
+51.2
+56.0
+
+
+
+
+
+
+
+
+Other maternal variables
+
+
+
+
+
+
+
+low net income (< 800 DM/m)
+1.2
+2.3
+7.3
+7.1
+
+
+single mother
+16.3
+4.6
+31.7
+20.2
+
+
+school education
+
+
+
+
+
+
+less than 10 years
+15.1
+25.7
+34.1
+45.2
+
+
+10 to 11 years
+57.8
+37.1
+51.2
+28.6
+
+
+at least 12 years
+27.1
+37.1
+13.4
+26.2
+
+
+single-room apartment
+9.0
+3.4
+18.3
+10.7
+
+
+unemployed during pregnancy
+19.9
+6.9
+35.4
+16.7
+
+
+migrant from developing country
+7.2
+18.3
+13.4
+26.2
+
+
+age less than 20 years
+5.4
+1.7
+8.5
+4.8
+
+
+age more than 35 years
+6.6
+14.9
+11.0
+19.0
+
+
+body mass index less than 20
+34.5
+22.5
+31.6
+20.0
+
+
+body mass index more than 30
+5.5
+4.7
+3.8
+3.8
+
+
+smoking during pregnancy
+26.5
+26.9
+40.7
+44.0
+
+
+
+
+
+
+
+
+Paternal variables
+
+
+
+
+
+
+
+unemployment
+12.7
+9.7
+24.7
+15.5
+
+
+school education
+
+
+
+
+
+
+less than 10 years
+15.3
+28.9
+30.4
+40.7
+
+
+10 to 11 years
+53.4
+26.0
+48.1
+25.9
+
+
+at least 12 years
+31.3
+45.1
+21.5
+33.3
+
+
+
+
+* Values are (valid) percentages of total control and VLBW mothers population in East and West Berlin, respectively.
+
+
+
+
+Factors associated with VLBW infant delivery in East and West Berlin
+Separate univariate logistic models for East and West Berlin data yielded partly differing results. Among the obstetric history variables, only previous preterm delivery in East Berlin, and previous fetal loss (stillbirth or spontaneous abortion) in both sites were significantly related to VLBW infant delivery (Table 2).
+
+Table 2
+
+Odds Ratios (95% confidence intervals) for factors related to VLBW in East and West Berlin*
+
+
+
+
+potential risk factors for VLBW
+
+East Berlin
+West Berlin
+
+
+
+
+
+
+
+
+
+
+
+VLBW
+
+
+VLBW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+no
+yes
+OR (95% CI)
+p
+no
+yes
+OR (95% CI)
+p
+
+
+
+
+166
+82
+
+
+175
+84
+
+
+
+
+
+
+previous preterm delivery
+no
+157
+69
+3.70 (1.479.33)
+0.006
+161
+72
+1.92 (0.854.35)
+0.120
+
+
+
+yes
+8
+13
+
+
+14
+12
+
+
+
+
+previous fetal loss
+no
+106
+41
+1.77 (1.033.02)
+0.038
+112
+39
+2.05 (1.213.48)
+0.008
+
+
+
+yes
+60
+41
+
+
+63
+45
+
+
+
+
+previous induced abortion
+no
+130
+58
+1.49 (0.822.73)
+0.191
+139
+58
+1.73 (0.963.12)
+0.068
+
+
+
+yes
+36
+24
+
+
+36
+26
+
+
+
+
+assisted reproduction
+no
+163
+79
+1.38 (0.238.40)
+0.730
+164
+77
+1.49 (0.554.07)
+0.435
+
+
+
+yes
+3
+2
+
+
+10
+7
+
+
+
+
+prima para
+no
+82
+40
+1.03 (0.601.74)
+0.927
+90
+37
+1.35 (0.802.27)
+0.267
+
+
+
+yes
+84
+42
+
+
+85
+47
+
+
+
+
+low net income
+no
+164
+76
+6.47 (1.2832.8)
+0.024
+171
+78
+3.29 (0.9011.00)
+0.071
+
+
+
+yes
+2
+6
+
+
+4
+6
+
+
+
+
+single mother status
+no
+139
+56
+2.39 (1.284.45)
+0.006
+167
+67
+5.30 (2.1812.90)
+< 0.001
+
+
+
+yes
+27
+26
+
+
+8
+17
+
+
+
+
+low maternal education**
+no
+141
+53
+3.09 (1.665.74)
+< 0.001
+130
+46
+2.39 (1.384.13)
+0.002
+
+
+
+yes
+25
+29
+
+
+45
+38
+
+
+
+
+single-room apartment
+no
+151
+67
+2.25 (1.044.87)
+0.039
+169
+75
+3.38 (1.169.84)
+0.025
+
+
+
+yes
+15
+15
+
+
+6
+9
+
+
+
+
+maternal unemployment
+no
+133
+53
+2.21 (1.224.00)
+0.009
+163
+70
+2.72 (1.206.17)
+0.017
+
+
+
+yes
+33
+29
+
+
+12
+14
+
+
+
+
+migrant from developing country
+no
+154
+71
+1.99 (0.844.72)
+0.119
+143
+62
+1.59 (0.862.95)
+0.145
+
+
+
+yes
+12
+11
+
+
+32
+22
+
+
+
+
+maternal age < 20 years
+no
+157
+75
+1.63 (0.584.54)
+0.351
+172
+80
+2.87 (0.6313.10)
+0.175
+
+
+
+yes
+9
+7
+
+
+3
+4
+
+
+
+
+maternal age > 35 years
+no
+155
+73
+1.74 (0.694.38)
+0.241
+149
+68
+1.35 (0.682.68)
+0.393
+
+
+
+yes
+11
+9
+
+
+26
+16
+
+
+
+
+body mass index < 20
+no
+108
+54
+0.88 (0.501.56)
+0.654
+131
+64
+0.86 (0.451.66)
+0.657
+
+
+
+yes
+57
+25
+
+
+38
+16
+
+
+
+
+body mass index > 30
+no
+156
+76
+0.68 (0.182.60)
+0.577
+161
+77
+0.78 (0.203.04)
+0.725
+
+
+
+yes
+9
+3
+
+
+8
+3
+
+
+
+
+smoking during pregnancy
+no
+122
+49
+1.87 (1.073.27)
+0.029
+128
+47
+2.14 (1.243.70)
+0.006
+
+
+
+yes
+44
+33
+
+
+47
+37
+
+
+
+
+paternal unemployment
+no
+145
+61
+2.26 (1.154.48)
+0.019
+158
+71
+1.70 (0.783.69)
+0.179
+
+
+
+yes
+21
+20
+
+
+17
+13
+
+
+
+
+low paternal education**
+no
+138
+55
+2.41 (1.274.58)
+0.007
+123
+48
+1.69 (0.972.94)
+0.062
+
+
+
+yes
+25
+24
+
+
+50
+33
+
+
+
+
+
+
+* Analysed using univariate logistic regressions separately for East and West Berlin mothers. ** school education less than 10 years
+
+
+Most variables associated with low socioeconomic status of the mother, such as low education (less than 10 years of school), living in a single-room apartment, maternal unemployment, or single-mother status, were associated with an increased risk of delivery of a VLBW infant in both groups, as was smoking during pregnancy. Odds ratios usually amounted from about 2 to more than 3 for low maternal education in East Berlin and single-room apartment in West Berlin. A remarkable difference could be found between odds ratios for single-mother status in East Berlin (OR = 2.39) as compared to West Berlin (OR = 5.30) (Table 2). Low net income, low paternal education, and paternal unemployment yielded significant association with VLBW only in the East Berlin group.
+
+
+Results of the multivariate logistic model: effect modification through location
+After control for confounding and idenfication of interactions between main effect variables and living in East or West Berlin by multivariate analysis of the total sample, previous preterm delivery, living in a one-room apartment, and low maternal education emerged as the strongest independent explanatory variables (OR  2), followed by smoking during pregnancy, maternal unemployment, and previous fetal loss (OR > 1.5). Moreover, interaction between location and marital status could be identified: single-mother status turned out to increase the risk of VLBW delivery stronger in West Berlin as compared to East Berlin. (Table 3) The chance of VLBW delivery for single mothers living in West Berlin was nearly four times as high as compared to that of mothers with a partner who were living in East Berlin. In contrast, in East Berlin single mother status showed a relatively weak effect as compared to non-single status there (OR = 1.5). Location, by study design, did not reveal any considerable effect on mothers with companion.
+
+Table 3
+
+Factors associated with VLBW infant delivery after adjustment for potential confounding and assessment for effect modification
+
+
+
+
+main effect variables and interaction terms in the resulting model*
+OR (95% CI)
+
+
+
+
+previous preterm delivery
+2.31 (1.204.44)
+
+
+low maternal education
+2.00 (1.313.19)
+
+
+single-room apartment
+1.95 (0.983.87)
+
+
+previous fetal loss
+1.64 (1.092.46)
+
+
+maternal unemployment
+1.60 (0.942.72)
+
+
+smoking during pregnancy
+1.51 (0.992.31)
+
+
+no single mother, living in East Berlin**
+1.0
+
+
+no single mother, living in West Berlin
+0.96 (0.611.51)
+
+
+single mother, living in East Berlin
+1.53 (0.783.00)
+
+
+single mother, living in West Berlin
+3.86 (1.509.95)
+
+
+
+
+* Obtained after backward multiple logistic regression ** reference category
+
+
+
+
+
+Discussion
+Among infants epidemiologically classified as preterm (born before 37 weeks of gestation) or having low birth weight (< 2500 g), VLBW infants constitute approximately 15%. However, long-term sequelae of preterm birth are virtually confined to VLBW infants, and VLBW rather than preterm birth by itself constitutes a major public health issue.
+Our findings confirm the importance of sociodemographic variables for VLBW delivery by mothers brought up in two societies with vastly differing economic systems but similar standards of medical care, including accessibility. While technologically advanced equipment may still have been used more widely in West Berlin and efforts aimed at regionalization of high-risk pregnancies may have met with more success in East Berlin during the first five-year period following political unification, the associations of most variables with VLBW were similar in East and West Berlin.
+Nevertheless, for single-mother status the univariate analyses revealed a considerable difference in odds ratios between the two parts of Berlin, being in West Berlin more than twice that in East Berlin. Multivariate logistic regression with inclusion of interaction terms verified single-mother status to be a risk factor strongly depending on the part of Berlin the mother lived in, confirming the assumption that certain risk factors act differently in different political frameworks. The important effect of living in East or in West Berlin on single-mother status as a VLBW risk factor partly resides in different attitudes fostered by the state (in East Berlin) or churches (in West Berlin). Single mother status has been largely acceptable in East Berlin, and the percentage of single mothers in East Berlin was twice that in West Berlin. Single mothers had easier access to subsidized housing in East Berlin. In particular, single-mother status was much less indicative of low socio-economic status in East Berlin, as compared to West Berlin. Traditionally, recognized marriage is being advocated by both the protestant and catholic church, and churches do have a strong legal position in West Germany (and hence West Berlin), whereas religion has been viewed as a completely private (and rather detrimental) matter in East Germany.
+In the univariate analyses, the father's social status was significantly related to VLBW in East Berlin while it had little impact on VLBW in the West Berlin group. These findings are in line with recently published observations from Denmark [21] which failed to identify paternal determinants of preterm delivery.
+In the multivariate analysis, no more significant influence of paternal variables could be detected (at the 0.05 level). However, allowing P-values of 0.20 and 0.25 as inclusion and exclusion criteria for variable selection, low net income (OR = 2.1, CI = [0.7, 6.9]), paternal unemployment  as independent factor (OR = 1.6, CI = [0.8, 3.4]) as well as interacting with living in East Berlin (OR [father unemployed and living in East Berlin / father employed and living in West Berlin] = 2.0, CI = [0.9, 4.2])  and maternal unemployment with increased effect when living in West Berlin, were obtained as additional factors associated with VLBW infant delivery. This supports the hypothesis that, under different socio-political circumstances, the influence of socio-demographic factors on VLBW delivery partly differs substantially.
+As the present study is strictly based on birthweight to avoid the inaccuracies and uncertainties inherent to gestational age calculations, it cannot discriminate between determinants of intrauterine growth impairment and early onset of labor. Several variables related to increased VLBW risk in this study have been reported previously also to be associated with preterm birth. These include indicators of low social status such as low school education, single-mother status, low income [16,1,22-25] previous preterm delivery or fetal loss [26,27] and smoking [28-30]. These factors appear to be related to both preterm (before 37 weeks of gestation) and very preterm (before 32 weeks of gestation) delivery [15]. In contrast, medical variables previously reported to be associated with preterm birth or low birthweight, such as low maternal body weight, teenage pregnancy or old age of the mother [23,31-33] were not associated with VLBW. This supports the notion that despite the inadvertent overlap between VLBW and preterm birth, VLBW should be dealt with separately [34,35].
+
+
+Conclusions
+The advances in the management of impending preterm delivery and in the intensive care of preterm infants are in sharp contrast to the failure to reduce the rate of VLBW during the last 25 years. While we do not know how risk factors present before pregnancy translate into biologic events that trigger labor prematurely and limit intrauterine growth, our findings confirm the assumption that there are strong associations between low parental, especially maternal, socioeconomic status, cigarette smoking, and VLBW. Moreover, VLBW was differently associated with marital status in East and West Berlin.
+As physicians treat individual patients but not societies, VLBW may be a public health issue awaiting political treatment; still approaches to compensate for social inequalities regarding access and utilization of preventive health care resources should be specificly promoted.
+
+
+Competing interests
+None declared
+
+
+Authors' Contributions
+Ingrid Grimmer was central in conducting the study, collecting data and reassuring progress. Christoph Bhrer did most of the literature search and manuscript writing.
+Joachim W. Dudenhausen and Michael Obladen designed the study and obtained the grant to finance it.
+Andrea Stroux did the statistical analysis and contributed to the manuscript writing.
+Horst Reiher, Horst Halle and Joachim W. Dudenhausen recruited mothers to participate in the study and provided obstetrical history data.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

@@ -1,0 +1,336 @@
+
+
+Background
+The main purpose of the study was to quantify the direct costs of oral cancer treatment to the healthcare system of Greece. Another aim was to identify factors that affect costs and potential cost reduction items. More specifically, we examined the relationship between stage of disease, modality of treatment and total direct costs.
+
+
+Methods
+The medical records and clinic files of the Oral and Maxillofacial Clinic of the Athens General Hospital "Genimatas" were abstracted to investigate clinical treatment characteristics, including length of hospitalization, modes of treatment, stage of disease etc. Records of 95 patients with oral squamous cell carcinoma (OSSC), with at least six months of follow-up, were examined. The clinical data was then used to calculate actual direct costs, based on 2001 market values.
+
+
+Results
+The mean total direct costs for OSSC treatment estimated at euro 8,450 or approximately US$ 7,450. Costs depended on the stage of the disease, with significant increases in stages III and IV, as compared with stages I and II (p < 0.05). Multi-modality treatment applied mainly to patients in stages III and IV was the factor that affected the cost. Disease stage was also associated with the total duration of hospitalization (p < 0.05).
+
+
+Conclusions
+The clinical management of advanced oral cancer is strongly associated with higher costs. Although the ideal would be to prevent cancer, the combination of high-risk screening, early diagnosis and early treatment seems the most efficient way to reduce costs, and most importantly, prolong life.
+
+
+
+Introduction
+Oral cancer (OC) has been recognized as a significant health hazard with substantial management difficulties. In Greece, the estimated annual incidence of OC is 600650 new cases [1]. Oral cancer is associated with significant morbidity, and low survival. Its management often causes adverse effects, such as disfigurement. Regarding costs, the introduction of new diagnostic, pharmacological and treatment technologies of the last decade, contribute towards such high costs, although the survival rate remains unchanged [2]. Although it is a relatively rare disease, the fact that healthcare costs are rising fast (above inflation rate), coupled with the high expenses associated with treating advanced cancer [3] do present a significant challenge for the Greek economy. Ways and methods to control such expenses are needed. As oral cancer affects mainly persons above 60 years of age, future cost projections identify a significant and alarming increase, as a result of longer survival and the reduction of competing mortality causes.
+Methodological advances in the field of health economics have allowed for an increased understanding of the role of proper economic analyses in medical decision making [4-7]. A common concern to all four main techniques of economic studies, namely cost analysis, cost-benefit, cost-effectiveness and cost-utility, is the actual definition of cost. The economic definition of cost of an intervention is calculated as the value of the consumed resources, if those resources had been put to use for an alternative service. Using this definition, it becomes apparent that hospital charges do not necessarily represent true hospital costs [7]. Agreeing to the above, Luce et al. propose that it is the use of the resource rather than the monetary exchange that defines the direct cost, emphasizing that a valid analysis needs to capture "true costs" rather than "charges" [8].
+The second consideration relates to the comprehensive accounting of all resources consumed or gained as a result of surgical intervention. Direct costs are represented by such items as hospital room costs, laboratory costs, operating room costs, and physicians' charges. A number of additional costs less easily defined, remain to be considered. They are often referred to as indirect costs, and may include income loss from employment, loss of productivity due to pain or disfigurement, rehabilitation costs (speech therapy, implant placement, etc).
+The last consideration relates to the perspective that the analysis is viewed. Economic analysis can be performed from a number of perspectives, including the perspective of the patient, the health care provider, the insurance company, the State or the society at large. Each of these different entities will realize the economic effect of the true costs differently. In this study, direct costs were calculated from the perspective of the health care system.
+Healthcare professionals that treat OC patients in Greece recognize the economic burden incurred to the family and society; however, they may not be aware of the actual monetary figures. The present study attempts to quantify the OC treatment direct costs to the healthcare system. The data was derived from hospital records of 95 OC patients treated at the Athens General Hospital "G. Genimatas" between 1993 and 1999. Apart from its descriptive nature, this work attempts to identify potential cost reduction strategies and to examine the relationship between stage of disease, treatment modality and monetary costs.
+
+
+Materials and Methods
+As a first step to this work, we performed a hospital record review of the Oral and Maxillofacial Clinic of the Athens General Hospital "G. Genimatas". A total of 95 records were located and reviewed. Records belonged to patients been diagnosed with squamous cell carcinoma of the oral cavity (OSSC) between January 1st 1993 and December 31st 1999. Patients should have histologically confirmed malignancies of the oral cavity, including the tongue, floor of the mouth, buccal mucosa, gingival tissues, retromolar trigon, palate, and lips, but excluding tumors of the oropharynx or pharynx. The ICD-10 coding for the above lesions are as follows: C00.3-C00.9, C01-C06. An additional rule was that at least six months of close follow-up should be recorded. The definition of close follow up was intended to be uniform for all patients, according to the clinic's policy, as follows: weekly for a month, and monthly for the remaining 5 months. After the first 6 months, patients had to be followed every 3 months for half a year and biannually thereafter. We chose a total follow up period of 3 years, to accommodate the 1999 patients. The clinical data was then used to calculate direct costs with 2001 price values, as explained later.
+All records were checked against the clinic's database to verify the diagnosis, inpatient hospitalization period and length, clinical stage, operating room (O.R.) visits, the need for radiation therapy, chemotherapy and finally the need for reconstruction as well as complications, secondary operating procedures and intensive care unit (I.C.U) days.
+Billing records of the hospital were not used to derive costs because hospital charges of the national healthcare system (NHS) do not accurately reflect true healthcare costs. As hospitals are subsidized by the State, charges are grossly under-priced to accommodate NHS's policy to provide universal hospital coverage.
+Costs were calculated by multiplying in-patient hospitalization and clinical procedures with a fair and customary fee and by adding expense items such as operating room charges, physician charges, radiation therapy and chemotherapy costs. Prices were sought in official publications or professional association catalogues. For example, prices for the chemotherapeutic medications were found in Pharmacopoeia. Medication prices are set by the Ministry of Trade and enforced by EOF, the National Organization for Pharmaceuticals (the FDA or EMEA analogue in Greece). Where no price was readily available or referenced in professional association publications, we obtained current data by calculating the mean value from three quotes obtained by 3 private hospitals. The exact cost categories and price values are presented in Figure 1.
+To illustrate the above, we present a calculation of the costs for an actual case of OSSC. The patient was diagnosed with a T2N1M0 (stage III) oral squamous cell carcinoma of the mandibular alveolar process. The treatment involved surgical resection, as well as post-operative radiation therapy. The patient developed a recurrence 1 years later, for which he was treated with a second surgical operation. The final reconstruction included the placement of a titanium reconstruction plate. The patient was hospitalized for a total of 122 days. Based on the above, we calculated the cost as follows:
+Cost = Hospitalization costs + O.R costs + Surgeon's and Anesthesiologist's Fees + Post-op RT + Reconstruction plate ?
+Cost (in euros) = 19,692 + 980 + 2,318 + 968 + 646 = 24,604 (~ US$ 22,200)
+Data management and statistical evaluation was performed in two stages: first, descriptive statistics were calculated using MS Excel. Then, we used STATA 6.0 for Windows (Stata Corp.) to perform analytic work, and more specifically to identify what factors affect the fluctuation or variability of cost among the 95 cases. Multivariate linear regression was employed to identify predictors of cost (expressed as the log transformation of cost), as well as predictors of prolonged hospitalization.
+
+Figure 1
+
+Cost of OC treatment (US$), stratified by stage of disease
+
+
+
+
+Figure 2
+
+Mean length of hospitalization (in days) and cost* per patient, stratified by disease stage * expressed in US$ thousand (pictured in relative scale)
+
+
+
+
+
+Results
+The TNM stage distribution of the patients and tumor locations are presented in Table 1. All patients had a biopsy to confirm the diagnosis of malignancy. Approximately half of the patients (44%) were classified as stage III, one third (32%) was classified as stage II, 13% belonged to stage IV and the remainder 10% were classified as stage I. Among the 95 operations performed to remove the tumor, 47 were considered of medium intensity and 48 were considered as major operations. Further, 17 subjects received chemotherapy and 56 subjects received radiation therapy.
+
+Table 1
+
+Patient distribution and hospitalization days, stratified by stage of disease and intraoral site
+
+
+
+
+
+
+Stage 1
+
+
+Stage 2
+
+
+Stage 3
+
+
+Stage 4
+
+
+
+
+
+
+
+
+
+
+Location
+
+No. of patients
+Mean Hosp. Days (range)
+No. of Patients
+Mean Hosp. Days (range)
+No. of Patients
+Mean Hosp. Days (range)
+No. of Patients
+Mean Hosp. Days (range)
+
+
+
+
+
+
+
+
+Tongue
+5
+11 (818)
+7
+20,8 (868)
+7
+15,8 (831)
+3
+29 (1441)
+
+
+Lip
+3
+22 (1030)
+8
+18,3 (735)
+4
+25,2 (1543)
+0
+0
+
+
+Floor of Mouth
+1
+17
+11
+18,2 (646)
+2
+72 (5886)
+3
+33 (3057)
+
+
+Alveolar Process
+1
+10
+5
+26 (1272)
+8
+44 (10122)
+5
+49,5 (994)
+
+
+Bucal Mucosa
+0
+0
+4
+21,5 (1231)
+3
+38,6 (2456)
+0
+0
+
+
+Maxilla
+0
+0
+3
+30,6 (2332)
+0
+0
+0
+0
+
+
+Palate
+0
+0
+2
+41,5 (1370)
+2
+51,5 (2885)
+1
+18
+
+
+Retromolar Triangle
+0
+0
+1
+13
+5
+32,4 (1067)
+1
+28
+
+
+
+
+
+Table 2
+
+Details of cost calculation per clinical category
+
+
+
+
+
+
+Item
+
+
+
+
+Basis or details of calculation
+
+
+
+
+Cost (in US$)
+
+
+
+
+
+
+Hospital & facility charges
+Includes laboratory expenses, radiographs, CT-scans, biopsy expenses and medications
+143.0 (per day, per patient)
+
+
+Operating Room costs
+Calculated according to the hours of OR use and consists of:
+Up to 1 h : 303.0
+
+
+
+i) scrubbed nurses' fee and OR expenses
+12,5 h: 445.0
+
+
+
+ii) anesthesiologist's assistant fee and sedative medications costs.
+3 h or more: 570.0
+
+
+Surgeon's Fees
+Based on Oral Maxillofacial Surgeons
+Biopsies (minor): 160.0
+
+
+
+Association fees (suggested price list)
+Medium surg.: 210.0
+
+
+
+
+Major surg.: 392.0
+
+
+Anesthesiologist's Fees.
+Based on Society of Anesthesiologists fees
+Minor cases: 210.0
+
+
+
+
+Major cases: 390.0
+
+
+Radiation Therapy costs
+1) Radical Radiation Therapy for local control
+Total for 1: 2,195.0
+
+
+
+2) Post-op Radiation Therapy:
+Total for 2: 885.0
+
+
+Chemotherapy costs
+Daily total chemotherapy costs (hospitalization cost + medication costs)
+277.0 (per day, per patient)
+
+
+Other costs
+1) Leibinger or AO Titanium Reconstruction plates and screws
+1) 580.0 per case
+
+
+
+2) MEDPOR or other alloplastic material
+2) as needed
+
+
+
+3) Intensive Care Unit
+3) ICU: 785.0 per day
+
+
+
+
+Graph 1 lists the estimated costs per stage. It was observed that costs depended on the stage of the disease, with statistically significant increases (p < 0.05) in stages III and IV, as compared with stages I & II. More specifically, for the 10 patients classified as having stage I (T1N0M0), their mean hospitalization period was 14.6 days, with a range from 8 to 30. The most prevalent location was the tongue and the floor of the mouth (6 cases), followed by the lip (3 cases) and the bucal mucosa (1 case). Mean treatment cost per patient was euro 3,815 (~ US$ 3,400).
+The mean cost for Stage II (T2N0M0) patients was euro 6,112 (~ US$ 5,400) and their mean hospitalization was 30,3 days, with a range of 6 to 72. The primary location of the tumor was mainly the floor of the mouth (11 cases) and the lip (8 cases), followed by the tongue (7 cases), the alveolar process (5 cases), the bucal mucosa (4 cases), the maxilla (3 cases), the palate (2 cases) and lastly the retromolar triangle (1 case).
+The mean cost for Stage III (T3N0M0-T1, T2N1M0) patients was euro 10,780 (~ US$ 9,500) and their mean hospitalization period was 34.3 days, with a range of 8 to 122 days. The most frequent site for oral cancer development was the alveolar process (8 cases) and the tongue (7 cases), followed by the retromolar triangle (5 cases), the lips (4 cases), the bucal mucosa (3 cases), the floor of the mouth (2 cases) and the palate (2 cases).
+Finally, the mean cost for the 13 patients classified as having stage IV OSSC was euro 11,950 (~ US$ 10,520) and their mean hospitalization period was 39 days, with a range of 9 to 94. Tumors were mainly located on the tongue and the floor of the mouth (6 cases), followed by the alveolar process (5 cases), the retromolar triangle (1 case) and the palate (1 case).
+Treatment modality per TNM stage of disease exhibited significant heterogeneity; 90% of stage I OC patients were treated only by surgery, whereas less than 10% of the patients in stages III and IV were treated with a single modality; more than 90% of those with advanced cancer received multi-modality treatments, e.g. surgery plus radiation therapy, surgery plus radiation therapy plus chemotherapy or radical radiation therapy plus chemotherapy.
+Regarding the variation of inpatient hospitalization, it was observed that disease stage was associated with the total duration of hospitalization (Figure 2). This was confirmed by the statistical analysis. Hospitalization did not differ significantly between stages I and II. However, hospitalization was found to be significantly prolonged in stage III (p < 0.01) and IV (p < 0.01) as compared to stage 1. In addition, the variation in hospitalization length was found associated with the mode of treatment, with radiation therapy (p < 0.01) and chemotherapy (p < 0.01) being predictors of prolonged stay. Surgery was not found to be significantly associated with prolonged hospitalization.
+Regarding the cost of treating oral cancer, it was shown that costs increase as the disease progresses. Costs exhibited a statistically significant increase with each succeeding stage. In addition, it was found that radiation therapy (p < 0.01) and chemotherapy (p < 0.01) were both significantly associated with monetary increases, whereas the performance of a surgical intervention (p < 0.135) was not a predictor of increased costs.
+
+
+Discussion
+The present study is the first attempt to quantify the direct monetary costs of OC treatment and rehabilitation, incurred to the healthcare system of Greece. Cost predictors and cost reduction strategies were also identified.
+Our analysis presented certain methodological challenges. First, the reported costs are computed estimates of direct monetary costs. The estimation process involved two distinct parts: a) the gathering of accurate data of performed services within a public teaching hospital, as well as the identification of expense categories (such as chemotherapeutic medication cost), and b) the calculated costing of the above with current market values, as they occur in private institutions. Such a two-step process was necessary because the State subsidizes healthcare delivery in public institutions. Public hospital charges are grossly underestimated and they do not reflect the real cost to the healthcare system. For example, one day of hospitalization is charged at euro 73.088.0, including all services performed. The differential between charge and true cost to the national healthcare system is absorbed by the State.
+However, even our approach may lead to underestimate of true direct costs, due to inherent difficulties in the accounting system of public hospitals to enlist all resources consumed. Due to such methodological challenges and the absence of other available national evidence, it is necessary for other groups to replicate our findings.
+A second challenge was the fact that we have calculated just direct costs. As mentioned above, oral cancer therapy is associated with multiple indirect costs, such as reduced productivity during hospitalization and recovery, loss of income, potential inability to perform previous tasks because of deformity and functional problems, costs of various co-morbidities, shortening of life years and reduction in the quality of life, etc. Thus, the present analysis follows a cost minimization approach. Total true costs may exceed the reported direct costs, but their exact calculation is a subject to a future investigation.
+A third challenge was the fact that our data come from the records of a single institution, and oral cancer treatment may not be representative for all cases in Greece. However, anecdotal evidence from tumor boards of this and other major hospitals in the vicinity of Athens suggest a homogeneous approach in the management of OC. The retrospective review of the records could also bias the results if record keeping was not homogeneous during the last 7 years. To minimize such bias, we chose to review both the individual patient files as well as the official clinic records.
+The total direct costs for treating this group of 95 OC Greek patients in 2002 would be approximately euro 802,300. If we were to extrapolate to the total group of incident cases per year in Greece, then the annual national cost for the clinical management of oral cancer would be euro 5,500,000 or approximately 4,830,000 US dollars. The above figure is a conservative estimate; it probably is an underestimate of true costs, as it does not include indirect costs.
+The average cost of treatment per patient was estimated at US$ 7,450. Compared to similar treatments elsewhere in Europe or the United States, the clinical management of oral cancer in Greece, in absolute terms, seems low. In the Netherlands, Van Agthoven et al. reported an average cost of US$ 22,080 (25,096 euros) on the basis of 306 patients with a primary OC tumor [9]. In the United States, Funk et al reported an average cost of US$ 32,500 after evaluating 73 patients with a primary oral cavity tumor [10]. However, relative to the Gross Domestic Product per capita in Greece, treating oral cancer requires 65% of a person's annual salary (8-month salaries).
+The stratified analysis of costs per patient by stage of disease revealed that treatment cost varied according to the severity of the disease. It ranged from approximately US$ 3,662 for Stage I, to US$ 11,467 for Stage IV cancers. Similar variation per stage of laryngeal cancer was noted among others by Morton et al. in New Zealand [11]; their reported costs ranged from US$ 11,000 to 27,000.
+Regarding the frequency of patients in each stage of disease, we found that 10% were classified as Stage I, 32% as Stage II, 44% as Stage III and 13% as Stage IV. Waldfahrer et al. found 11.3% classified as Stage I, 13.2% as Stage II, 29.1% as Stage III and 46.2% as Stage IV [12]. Quer et al found 59% of oral cavity cancers as advanced stage [13]. Although there are differences within each cell, the three studies compare well in the percentage of patients with advanced disease (Stage III or IV), with 57% in our study, 59% reported by Quer and 75.3% reported by Waldfahrer et al. A lower percentage of advanced disease is reported in a study from Memorial Sloan-Kettering, with 29% of the patients having advanced oral cancer [14]
+Regarding the length of hospitalization, the average length of stay at French hospitals, as reported by Pinsolle et al., was 29 days with the 90% of the patients staying at the hospital not more than 20 days [15]. Van Agthoven et al. reported an average of 31 hospitalized days for oral cavity cancers [9]. In our study, patients with Stage III were discharged on average after 34.3 days and those with Stage IV after 39 days. Flynn et al. reported that the average length of stay for OC patients was 18 days [16]. Ryan et al. reported that OC patients were hospitalized for 9 to 16 days [17]. Thus, our reported hospitalization period seems significantly higher than in other institutions abroad. Speculation of the reasons include inefficiencies of the Greek healthcare system, such as absence of coordination between different clinics, absence of organized multidisciplinary teams or tumor boards, unnecessary beauraucratic controls, low productivity of some hospital units and the creation of "bottlenecks".
+Cost reduction strategies in Greece must incorporate methods of reducing the hospitalization. Hospitals that treat OC must maintain a multidisciplinary and highly specialized team, that is appropriately supported by radiographic and laboratory infrastructure and by available surgical wards.
+Although reducing hospitalization may lower direct costs, cost reduction strategies should focus on preventing the need for chemotherapy and radiation treatment. However, the reduction in the utilization of multi-modality therapies is only possible if patients are diagnosed in early stages. The present analysis clearly demonstrated that advanced stages of OC are strongly associated with higher costs, mainly due to the fact that multiple modalities of treatment cost significantly more than surgery. Thus, identification of the disease at the earliest possible stage would increase the percentage of patients that are candidates for single modality therapy. Along with the direct cost savings, early treatment also results in increased survival and quality of life (less indirect costs).
+The issue of early detection / early diagnosis and therefore early treatment of OC has received considerable attention in the literature worldwide. Numerous studies have addressed pitfalls in the proper detection of oral cancer [18-20]. Others documented the benefits of early detection and population screening programs in the proper management of OC [21-24]. It has been estimated that nearly 25% of the deaths from cancer might be eliminated by early detection and intervention. The potential cost-effectiveness of screening programs certainly deserves more investigation.
+Costs should not be the primary consideration when treating OC. Achieving high patient survival while maintaining a good quality of remaining life seems the highest priority. However, as society has only limited resources, minimizing costs cannot be ignored; available funds, freed from treatment, could be redirected and allocated to the prevention of disease rather than treatment. Thus, more studies are needed to document the role of early detection and early treatment to the reduction of healthcare costs, and more important, to patient survival.
+
+
+Authors' contributions
+A.I.Z designed the study, directed the project and was mainly responsible for writing of the manuscript; N.A abstracted the hospital records, compiled the dataset, gathered clinical and market values for cost items and created the study tables; N.K helped during the hospital review and provided clinical expertise during the interpretation of the results; D.Z was mainly responsible for data management and statistical analysis; V.C coordinated the project, gathered and reviewed literature and compiled market cost data; A.V reviewed the analysis plan and the results, and provided expert economic consulting and advise during study design and analysis.
+
+
+Competing interests
+None
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

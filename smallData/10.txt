@@ -1,0 +1,1250 @@
+
+
+Background
+Investigating the validity of the self-reported values of weight allows for the proper assessment of studies using questionnaire-derived data. The study examined the accuracy of gender-specific self-reported weight in a sample of adults. The effects of age, education, race and ethnicity, income, general health and medical status on the degree of discrepancy (the difference between self-reported weight and measured weight) are similarly considered.
+
+
+Methods
+The analysis used data from the US Third National Health and Nutrition Examination Survey. Self-reported and measured weights were abstracted and analyzed according to sex, age, measured weight, self-reported weight, and body mass index (BMI). A proportional odds model was applied.
+
+
+Results
+The weight discrepancy was positively associated with age, and negatively associated with measured weight and BMI. Ordered logistic regression modeling showed age, race-ethnicity, education, and BMI to be associated with the degree of discrepancy in both sexes. In men, additional predictors were consumption of more than 100 cigarettes and the desire to change weight. In women, marital status, income, activity level, and the number of months since the last doctor's visit were important.
+
+
+Conclusions
+Predictors of the degree of weight discrepancy are gender-specific, and require careful consideration when examined.
+
+
+
+Background
+Individuals are often asked about common physical attributes such as weight and height in lieu of actual measurements. In some surveys and large epidemiologic studies, self-reported measurements of these characteristics may replace actual instrument-derived data. For instance, the National Health Interview Surveys, one of the oldest US national health surveys used to obtain data on the health of the resident, civilian, non-institutionalized population of the United States relies on the question "About how much [do you] weigh without shoes?".
+Previous studies have indicated that self-reported and actual weights correlate by more than 90% [1,2], but that more than 20% of adults underestimate their actual weight by 2 kilograms or more [1,3-5]. There is also a general overestimation of weight by overweight people and the elderly [6-8].
+Recently, Kuczmarski et al.[9] examined the effect of age on the extent to which the body mass index (BMI) calculated from self-reported anthropometric information compared with estimates calculated from measured values. Using data from the Third National Health and Nutrition Examination Survey (NHANES III), the authors found that significant misclassification of overweight status could arise if self-reported values for height and weight were accepted as true. This was especially apparent in those of at least 60 years of age. Results from a Swedish population suggest that socioeconomic factors also play a role in these differentials [10].
+The use of equations to predict measured variables from self-reported variables have been derived from regression models but have been unable to eliminate systematic error in their predictions [11,12].
+Differences in findings across international settings also compound the problem. Results from a Scottish population seem to indicate that rates of misclassification are low [13] in contrast to those found in Wales [14], Australia [15], France [16], Spain [6], and Sweden [17]. Chiu et al.[18] suggest that a more comprehensive approach to the determinants of this misclassification phenomenon be examined.
+Investigating the validity of the self-reported values of weight allows for the proper assessment of studies using questionnaire-derived data. The same studies citing problems with the validity of self-reported measures also caution against their use in epidemiologic research [6,9,12,14-17]. While there is an understanding that certain specific characteristics (e.g., age, gender, socioeconomic status, etc.) are associated with misclassification, little has been written about the joint effect of a collection of presumed predictors and the degree of misclassification. In a sense, focus shifts from attempting to estimate measured variables from predictive coefficients derived from regression equations to qualitatively examining the relationship of the potential for misclassification given a set of putative covariates.
+This paper attempts to provide that information using a nationally-representative sample of US adults. Project investigators considering the use of self-reported values may be guided by these results in evaluating whether the potential for misclassification is present to an extent that suggests that measured values be derived. Specifically, this study assesses the effects of age, education, race and ethnicity, income, and general health and medical status on the degree of discrepancy between self-reported and measured weight in a nationally-representative sample of US adults.
+
+
+Methods
+
+Sample design
+Data were derived from NHANES III, conducted by the National Center for Health Statistics of the Centers for Disease Control and Prevention. NHANES III was designed to provide a nationally representative sample of the US population. The plan and operation of the NHANES III have been described elsewhere [19,20]. Briefly, the study was conducted from 1988 to 1994, and was composed of two 3-year phases: phase I from 1988 to 1991, and phase II from 1991 to 1994. To ensure reliable estimates, the oversampling of selected subgroups (including children, the elderly, Mexican-Americans, and non-Hispanic blacks) was performed. The current analysis combines both phases of the survey and focuses on individuals aged 17 and older.
+Individuals were interviewed at home and invited to participate in clinical examinations conducted either in the home or in a mobile examination center (MEC). Persons with missing weight data were excluded from the analysis, as were persons who had a proxy answer questions for them, and pregnant women. In some cases in which measured weight was not available during the clinical examination, an imputation procedure was performed that substituted an estimate of weight based on external characteristics or self-reported values. These cases were also excluded. All told, data from 15,944 subjects were available for analyses. No statistically significant differences were found between those excluded from the analysis and those retained (data not shown).
+
+
+Dependent variables
+Participants were asked how much they weighed "without clothes or shoes". Responses were given in pounds and converted to kilograms. Actual weight (in kilograms) was measured in the MEC using a Toledo 2181 self-zeroing digital weight scale which was calibrated at regular intervals. In the home examination, examiners were provided with a SECA Integra Model 815 Scale standardized against the MEC Toledo scale. All persons were asked to remove footwear and heavy outer clothing prior to measurement. The degree of discrepancy in weight was calculated as the difference between self-reported and measured weight, and was categorized into 7 levels (>10 kg too low, 510 kg too low, 24 kg too low, within 2 kg of actual value, 24 kg too high, 510 kg too low, and >10 kg too high).
+
+
+Independent variables
+The effects of four classes of variables were examined. Sociodemographic variables included sex, age, race-ethnicity, highest educational attainment, and annual family income. Weight perception related variables included questions about attempts to lose weight in the past 12 months, the desire to change weight ("Would you like to weight more, less, or stay about the same?"), participants' perception of current weight ("Do you consider yourself now to be overweight, underweight, or about the right weight?"), and level of activity ("How does the amount of activity you reported for the past month compare with your physical activity for the past 12 months? During the past month, were you more active, less active, or about the same?" and "Compared to most men or women your age, would you say that you are more active, less active, or about the same?").
+Participants were also asked questions about their general state of health ("Would you say your health in general is excellent, very good, good, fair, or poor?"), length of time since their last visit to a health professional (including hospitalizations) to discuss their health, and the number of hospitalizations and visits to physicians during the past year.
+Anthropometric variables included calculation of BMI computed as weight in kilograms divided by square of height in meters using measured attributes, standing height, waist to hip ratio, and triceps and subscapular skinfold measurements.
+
+
+Statistical methods
+All analyses incorporated sampling weights consistent with the sampling design of the NHANES III survey in order to take into account the unequal selection probabilities resulting from the complex, multi-stage design of the study; adjustment for non-coverage and non-response; and the oversampling of subgroups [19].
+Statistical analyses were carried out using Stata 7.0 [21]. Conventional statistical analyses with underlying distributional assumptions were inappropriate for variance estimation and statistical testing because of the multistage probability sampling design of the NHANES III. The use of conventional statistical analyses (which are based on simple random sampling) produces underestimates of the variance, thereby inflating statistical significance. Stata implements a method of variance estimation known as "linearization" in which linear approximates (ie., the estimated variance) of a nonlinear function (ie., the true variance) are derived by taking the first-order Taylor series of the approximation.
+An approximate F statistic incorporating an adjusted Wald test was used to compare continuous variables [22]. Design-based F statistics were calculated for cross-tabulations of categorical variables. The independent effects of particular independent variables on the degree of discrepancy were examined in univariable and multivariable models using regression analyses. A Type I error rate of five percent was used.
+
+
+
+Results
+Table 1 describes the characteristics of the study population. The mean (standard error [SE]) age was 43.14 (0.38) years, about 51.25% was female, and slightly more than three-fourths were non-Hispanic Whites with similar proportions reported completion of tertiary-level education or less, and annual incomes of less than $50,000. About half of the adult female population (44.45 percent) and almost two-thirds (61.74 percent) of the male population reported having smoked 100 cigarettes in the past.
+
+Table 1
+
+General characteristics of males and females in the Third National Health and Nutrition Survey, 19881994.
+
+
+
+
+Characteristic
+Male (n = 9,401)
+Female (n = 10,649)
+Characteristic
+Male (n = 9,401)
+Female (n = 10,649)
+
+
+
+
+Age, years
+42.28 (0.42)*
+44.13 (0.48)
+Tried to lose weight in the past 12 months, % yes
+29.14 (0.66)
+49.84 (1.03)
+
+
+
+
+
+
+
+Race-ethnicity, %
+
+
+Trying to lose weight now, % yes
+24.64 (0.95)
+40.15 (1.11)
+
+
+Non-Hispanic White
+76.02 (1.32)
+75.39 (1.25)
+Would like to change weight, %
+
+
+
+
+Non-Hispanic Black
+10.46 (0.55)
+11.90 (0.78)
+Weigh more
+12.67 (0.59)
+4.72 (0.31)
+
+
+Mexican-American
+5.72 (0.48)
+4.80 (0.37)
+Weigh less
+49.10 (0.89)
+69.99 (0.78)
+
+
+Other
+7.80 (0.92)
+7.91 (0.79)
+Stay the same
+38.23 (0.82)
+25.29 (0.68)
+
+
+
+
+
+
+
+Highest educational attainment, %
+
+
+Perception of current weight, %
+
+
+
+
+Less than Primary
+0.81 (0.14)
+0.82 (0.17)
+Overweight
+42.61 (0.84)
+50.56 (0.90)
+
+
+Primary
+6.22 (0.46)
+5.97 (0.42)
+Underweight
+8.08 (0.53)
+4.36 (0.23)
+
+
+Secondary
+20.66 (0.88)
+19.31 (0.81)
+Just right
+49.31 (0.75)
+35.08 (0.88)
+
+
+Tertiary
+45.90 (0.96)
+53.26 (0.93)
+Level of activity with people of same age
+
+
+
+
+Beyond Tertiary
+26.41 (1.16)
+20.64 (1.01)
+More active
+37.63 (0.95)
+28.96 (0.89)
+
+
+Marital status, %
+
+
+Less active
+18.65 (0.88)
+25.26 (0.83)
+
+
+
+
+
+
+
+Never Married
+23.24 (1.15)
+17.67 (0.82)
+About the same
+43.72 (0.94)
+45.78 (0.69)
+
+
+Married
+66.78 (0.96)
+58.54 (0.92)
+Personal perception of health status
+
+
+
+
+Widowed
+2.44 (0.21)
+11.10 (0.56)
+Excellent
+21.85 (0.80)
+19.03 (0.88)
+
+
+Divorced
+7.54 (0.47)
+12.69 (0.61)
+Very good
+31.38 (0.76)
+30.26 (0.89)
+
+
+Annual income, %
+
+
+Good
+32.42 (0.63)
+33.35 (0.89)
+
+
+
+
+
+
+
+None
+0.30 (0.11)
+0.34 (0.14)
+Fair
+11.25 (0.65)
+14.01 (0.72)
+
+
+$1 to 9,999
+9.00 (0.61)
+13.48 (0.82)
+Poor
+2.64 (0.19)
+3.35 (0.28)
+
+
+$10,000 to 19,999
+20.45 (0.80)
+22.24 (0.77)
+Health status as assessed by medical doctor
+
+
+
+
+$20,000 to 29,999
+16.97 (0.72)
+16.85 (0.63)
+Excellent
+47.79 (3.06)
+45.80 (2.68)
+
+
+$30,000 to 39,999
+15.79 (0.69)
+13.52 (0.64)
+Very good
+24.40 (2.10)
+24.00 (1.78)
+
+
+$40,000 to 49,999
+12.51 (0.75)
+11.54 (0.69)
+Good
+21.09 (2.16)
+22.61 (2.43)
+
+
+$50,000 or over
+24.98 (1.18)
+22.02 (1.33)
+Fair
+5.93 (0.57)
+6.40 (0.57)
+
+
+Ever smoked cigarettes, % yes
+61.74 (0.90)
+44.45 (1.00)
+Poor
+0.79 (0.12)
+1.19 (0.19)
+
+
+Time since last visit to health professional, months
+14.96 (0.44)
+8.09 (0.30)
+Measured height, m
+1.76 (0.00)
+1.62 (0.00)
+
+
+Measured weight, kg
+81.57 (0.36)
+68.87 (0.38)
+Self-reported height, m
+1.77 (0.00)
+1.63 (0.00)
+
+
+Self-reported weight, kg
+82.06 (0.33)
+67.24 (0.35)
+Measured BMI, kg/m2
+26.40 (0.11)
+26.28 (0.15)
+
+
+
+
+* figures in parentheses are standard errors. body mass index = (weight in kilograms)/(height in meters)2
+
+
+Almost 30 percent of males reported having tried to lose weight in the past 12 months with about one-fourth attempting to lose weight at the time of the interview. The proportions for females were about 50 and 40 percent, respectively. About half of the men interviewed (49.10 percent) said they wanted to weigh less than their current weight, while this figure for females was 69.99 percent. About half of the females interviewed felt that they were overweight, compared to only 42.61 percent of males. A quarter of all women and 19 percent of all men interviewed reported that they were less active than people of the same age. The distribution of levels of health perception by the participants and assessment by a medical examiner were similar for males and females. The average number of months since the last visit to a health professional was 15 months for males and 8 months for females.
+The mean BMI was 26 kg/m2 for both men and women. The average measured weight was 81.57 kg for males and 68.87 kg for females. Average self-reported weight was 82.06 kg and 67.24 kg for males and females, respectively.
+Using ordered logistic regression, the crude odds ratios of the association of the degree of discrepancy in weight and selected characteristics are given in table 2. Compared to the 30 to 39 age group, younger males and those greater than 80 years of age were more likely to overestimate their weight (p  0.01). In contrast, females of at least 60 years of age were more likely to overestimate their weight (p  0.01). In both sexes, increasing age was associated with a higher probability of discrepancy.
+
+Table 2
+
+Odds ratios of crude ordered logistic regression analysis examining the probability of a discrepancy between self-reported and measured weight by selected characteristics. Third National Health and Nutrition Examination Survey, 19881994.
+
+
+
+
+Characteristic
+Male
+Female
+Characteristic
+Male
+Female
+
+
+
+
+Age, years
+
+
+Annual income
+
+
+
+
+< 20
+1.401 (1.111, 1.750)**
+1.039 (0.765, 1.411)
+None
+0.781 (0.248, 2.435)
+1.215 (0.499, 2.931)
+
+
+2029
+1.281 (1.092, 1.487)*
+1.142 (0.912, 1.288)
+$1 to 9,999
+1.236 (0.863, 1.769)
+1.182 (0.938, 1.490)
+
+
+3039 (Reference)
+1.000
+1.000
+$10,000 to 19,999
+1.036 (0.845, 1.270)
+0.865 (0.717, 1.044)
+
+
+4049
+0.830 (0.678, 1.016)
+1.004 (0.929, 1.074)
+$20,000 to 29,999 (Reference)
+1.000
+1.000
+
+
+5059
+0.951 (0.794, 1.139)
+1.157 (0.934, 1.433)
+$30,000 to 39,999
+0.921 (0.718, 1.181)
+0.792 (0.665, 0.943)*
+
+
+6069
+0.927 (0.805, 1.067)
+1.327 (1.125, 1.550)**
+$40,000 to 49,999
+0.765 (0.629, 0.931)*
+0.712 (0.616, 0.823)**
+
+
+7079
+1.061 (0.905, 1.232)
+1.770 (1.457, 2.129)***
+ $50,000
+0.659 (0.568, 0.765)***
+0.668 (0.597, 0.747)***
+
+
+8089
+1.575 (1.299, 1.891)***
+2.188 (1.639, 2.892)***
+
+
+
+
+
+> 90
+2.439 (1.616, 3.681)**
+4.761 (2.523, 8.894)***
+Tried to lose weight in the past 12 months (versus "No")
+0.488 (0.455, 0.524)***
+0.605 (0.560, 0.653)***
+
+
+Race-ethnicity (versus Non-Hispanic While)
+
+
+Ever smoked cigarettes (versus "No")
+1.273 (1.185, 1.353)***
+1.045 (0.913, 1.196)
+
+
+Non-Hispanic Black
+1.657 (1.399, 1.943)***
+1.035 (0.906, 1.183)
+
+
+
+
+
+Mexican-American
+1.157 (1.097, 1.209)*
+1.171 (1.090, 1.245)*
+Trying to lose weight now (versus "No")
+0.500 (0.485, 0.511)***
+0.631 (0.582, 0.684)***
+
+
+Other
+1.100 (0.945, 1.267)
+1.288 (1.064, 1.543)*
+
+
+
+
+
+
+
+
+Would like to change weight (versus "Stay the same")
+
+
+
+
+Highest educational attainment
+
+
+Weigh more
+1.925 (1.384, 2.651)***
+2.180 (1.253, 3.756)***
+
+
+Less than Primary
+0.720 (0.204)
+2.484 (1.369, 4.508)**
+Weigh less
+0.507 (0.484, 0.526)***
+0.465 (0.439, 0.488)***
+
+
+Primary
+1.364 (1.172, 1.571)**
+1.598 (1.230, 2.055)***
+
+
+
+
+
+Secondary
+1.360 (1.282, 1.508)***
+1.325 (1.217, 1.428)***
+Perception of current weight (versus "Just Right")
+
+
+
+
+Tertiary (Reference)
+1.000
+1.000
+Overweight
+0.515 (0.484, 0.548)***
+0.510 (0.485, 0.537)***
+
+
+Beyond Tertiary
+0.662 (0.594, 0.737)***
+0.912 (0.820, 1.014)
+Underweight
+1.910 (1.368, 2.641)***
+2.335 (1.358, 3.974)***
+
+
+Marital status (versus Married)
+
+
+Level of activity with people of same age (versus "About the same")
+
+
+
+
+Never Married
+1.463 (1.250, 1.695)***
+1.077 (0.903, 1.285)
+More active
+0.898 (0.781, 1.032)
+1.183 (1.148, 1.207)**
+
+
+Widowed
+1.341 (1.016, 1.751)*
+1.718 (1.489, 1.965)***
+Less active
+0.855 (0.748, 1.177)
+0.955 (0.897, 1.089)
+
+
+Divorced
+1.256 (1.069, 1.461)*
+0.947 (0.814, 1.101)
+
+
+
+
+
+
+
+
+Measured BMI, kg/m2
+
+
+
+
+Personal perception of health status
+
+
+< 18.5
+2.659 (2.022, 3.462)***
+3.642 (2.973, 4.461)***
+
+
+Excellent
+0.903 (0.767, 1.063)
+0.899 (0.776, 1.041)
+18.524.9 (Reference)
+1.000
+1.000
+
+
+Very good
+1.000 (0.950, 1.043)
+0.977 (0.842, 1.134)
+25.029.9
+0.451 (0.420, 0.484)***
+0.532 (0.496, 0.571)***
+
+
+Good (Reference)
+1.000
+1.000
+30.034.9
+0.260 (0.246, 0.275)***
+0.335 (0.312, 0.360)***
+
+
+Fair
+1.303 (1.113, 1.510)**
+1.336 (1.146, 1.542)**
+35.039.9
+0.108 (0.103, 0.114)***
+0.239 (0.225, 0.253)***
+
+
+Poor
+1.536 (1.106, 2.111)**
+1.376 (0.779, 2.429)
+ 40
+0.055 (0.053, 0.057)***
+0.129 (0.128, 0.134)***
+
+
+Time since last visit to health professional, months
+1.002 (0.990, 1.004)
+0.997 (0.995, 0.999)*
+Measured weight, kg
+0.962 (0.956, 0.968)***
+0.958 (0.954, 0.962)***
+
+
+Health status as assessed by medical doctor
+
+
+Measured height, m
+0.881 (0.510, 1.508)
+0.057 (0.055, 0.060)***
+
+
+Excellent
+1.096 (0.889, 1.352)
+1.197 (1.084, 1.308)*
+
+
+
+
+
+Very good
+1.052 (0.850, 1.303)
+0.987 (0.807, 1.208)
+Self-reported height, m
+1.518 (0.521, 3.984)
+0.093 (0.087, 0.099)***
+
+
+Good (Reference)
+1.000
+1.000
+
+
+
+
+
+Fair
+0.908 (0.708, 1.165)
+1.268 (0.811, 1.982)
+
+
+
+
+
+Poor
+1.818 (1.253, 2.452)*
+0.919 (0.644, 1.298)
+
+
+
+
+
+
+
+* p  0.05; ** p  0.01; *** p  0.001;  body mass index = (weight in kilograms)/(height in meters)2;  figures in parentheses are 95% confidence intervals.
+
+
+Non-Hispanic black and Mexican-American males were 66 percent (95% CI: 41% to 95%) and 16 percent (95% CI: 1% to 32%) more likely, respectively, to overestimate their weight compared to their non-Hispanic white counterparts. For females, non-Hispanic blacks were no more likely to report discrepancies in weight compared to non-Hispanic whites. However, Mexican-American women and women of other races were 17 percent (95% CI: 1% to 35%) and 29 percent (95% CI: 2% to 62%) more likely to overestimate their weight.
+The attainment of a primary education in males was associated with an increase of 1.364 (95% CI: 1.132 to 1.643) in the odds of overestimating measured weight by self report compared to those attaining a tertiary education. Secondary education was associated with an increase of a similar magnitude. Results were similar for females.
+The association between annual income and the degree of discrepancy in weight is statistically evident only in the upper income brackets. Compared to those earning $20,000 to $29,000 a year, males earning more than $40,000 a year are more likely to underestimate their weight (p  0.05). For females, this association is evident at a much lower income bracket ($30,000, p  0.05).
+Smoking more than 100 cigarettes in the past was associated with an increase of 27 percent (95% CI: 11% to 46%) in the chances of overestimating weight. This association was seen in males only.
+Participants who, in the past year, attempted to lose weight were more likely to underestimate their weight during the interview (males: OR = 0.488; 95% CI: 0.420 to 0.567; females: OR = 0.605; 95% CI: 0.532 to 0.689). Similar associations were found among those who were currently attempting to lose weight.
+Discrepancy in self-reported weight was found to reflect the desires and perceptions of the participants. The desire to weigh more and the perception of being underweight was each associated with a two-fold increase in the likelihood of overestimating weight during the interview. A similar two-fold increase in the chance of reporting a lower weight was seen when participants reported a desire to weigh less or when they perceived themselves to be overweight.
+Self-reported level of activity and the number of months since the last visit to a health professional were associated with a discrepancy in self-reported weight only in women. Compared to women who reported comparable levels of activity with people of the same age, women who considered themselves more active were 1.183 times (95% CI: 1.060 to 1.319) more likely to overestimate their weight. An increase in one year since the last visit to a health professional was associated with a 3 percent increase (95% CI: 0.3% to 6%) in the likelihood on underestimating one's weight.
+The participants' perception of their health status was associated with a disagreement between self-reported and measured weight only in the two worst levels. Compared to a rating of "good," males reporting their health as being "fair" and "poor" were 1.303 and 1.536 times more likely, respectively, to overestimate their weights (p  0.01). For females, this association was statistically evident only in those reporting "fair" health (OR = 1.336; 95% CI: 1.104 to 1.616).
+Similarly, a medical professional's assessment of health was associated with a discrepancy in self-reported weight only in the extremes of the scale. For males, this was apparent only in those whose health was assessed as being "poor;" in females, an association was found only in those with a rating of "excellent." Compared to those with a rating of "good," males with a "poor" rating were 1.818 times (95% CI: 1.102 to 3.000) more likely to overestimate their weights. Females with a rating of "excellent" were 1.197 times (95% CI: 1.015 to 1.413) more likely to overestimate their weights.
+BMI was associated with decreasing trends in the odds ratios in both sexes (p for trend < 0.0001). Using a BMI of 18.5 to 24.9 as the reference group, males and females with a BMI of less than 18.5 were 2.659 (95% CI: 1.522 to 4.646) and 3.642 (95% CI: 2.580 to 5.143) times more likely to overestimate their weights, respectively. Underestimation of weight was associated with higher BMI categories. For females, overweight, obesity I, II, and III statuses were associated with 47%, 66%, 76% and 87% increases in the likelihood of underestimating their weights, respectively. These values were 55%, 74%, 89%, and 94% for males, respectively.
+The application of a multiple ordered logistic regression model to the predictors produced the estimates of association shown in table 3. Separate models are given for males and females. For both sexes, important predictors of the degree of discrepancy in self-reported weight include age, race-ethnicity, highest educational attainment, and measured BMI. For males alone, additional predictors were cigarette smoking and the desire to change weight. For females, marital status, annual income, level of activity, and the length of time since the participant's last visit to a health professional were important.
+
+Table 3
+
+Multiple ordered logistic regression of the predictors of the discrepancy between self-reported and measured body weight by sex in the Third National Health and Nutrition Examination Survey, 19881994.
+
+
+
+
+Characteristic
+Male (n = 9,401)
+Female (n = 10,649)
+
+
+
+
+Age, years
+
+
+
+
+< 20
+0.703 (0.478, 0.955) *
+0.558 (0.469, 0.664)***
+
+
+2029
+0.997 (0.831, 1.196)
+0.908 (0.751, 1.098)
+
+
+3039 (Reference)
+1.000
+1.000
+
+
+4049
+0.920 (0.761, 1.113)
+1.196 (0.960, 1.490)
+
+
+5059
+1.127 (0.903, 1.405)
+1.607 (1.235, 2.070)***
+
+
+6069
+1.000 (0.846, 1.181)
+1.609 (1.198, 2.139)***
+
+
+7079
+0.988 (0.801, 1.212)
+1.707 (1.378, 2.094)***
+
+
+8089
+1.174 (0.812, 1.697)
+1.851 (1.226, 2.767)***
+
+
+ 90
+1.474 (0.575, 3.741)
+4.297 (3.390, 5.882)***
+
+
+Race-ethnicity (versus Non-Hispanic White)
+
+
+
+
+Non-Hispanic Black
+1.471 (1.254, 1.708)***
+1.369 (1.186, 1.565)***
+
+
+Mexican-American
+1.035 (0.864, 1.240)
+1.421 (1.226, 1.631)***
+
+
+Other
+0.933 (0.764, 1.139)
+1.310 (1.043, 1.629)*
+
+
+Highest educational attainment
+
+
+
+
+Less than Primary
+0.652 (0.417, 1.019)
+1.826 (0.303, 10.996)
+
+
+Primary
+1.415 (1.162, 1.705)**
+1.358 (1.068, 1.709)*
+
+
+Secondary
+1.288 (1.135, 1.447)**
+1.283 (1.118, 1.458)**
+
+
+Tertiary (Reference)
+1.000
+1.000
+
+
+Beyond Tertiary
+0.627 (0.564, 0.697)***
+0.839 (0.755, 0.933)**
+
+
+Marital status (versus Married)
+
+
+
+
+Never Married
+
+1.009 (0.785, 1.297)
+
+
+
+DROPPED
+
+
+
+Widowed
+
+1.085 (0.906, 1.299)
+
+
+Divorced
+
+0.822 (0.714, 0.947)*
+
+
+Annual income
+
+
+
+
+None
+
+1.293 (0.636, 2.604)
+
+
+$1 to 9,999
+
+1.108 (0.954, 1.274)
+
+
+$10,000 to 19,999
+
+0.916 (0.763, 1.099)
+
+
+
+DROPPED
+
+
+
+$20,000 to 29,999 (Reference)
+
+1.000
+
+
+$30,000 to 39,999
+
+0.905 (0.744, 1.101)
+
+
+$40,000 to 49,999
+
+0.749 (0.639, 0.878)**
+
+
+ $50,000
+
+0.709 (0.625, 0.804)***
+
+
+Ever smoked cigarettes (versus "No")
+1.190 (1.003, 1.411)*
+DROPPED
+
+
+Would like to change weight (versus "Stay the same")
+
+
+
+
+Weigh more
+1.500 (1.289, 2.273)**
+DROPPED
+
+
+Weigh less
+0.988 (0.846, 1.153)
+
+
+
+Level of activity with people of same age (versus "About the same")
+
+
+
+
+More active
+DROPPED
+1.088 (0.945, 1.253)
+
+
+Less active
+
+1.224 (1.129, 1.314)**
+
+
+Time since last visit to health professional, months
+DROPPED
+0.996 (0.992, 0.999)*
+
+
+Measured BMI, kg/m2
+
+
+
+
+< 18.5
+2.161 (1.847, 2.529)**
+3.930 (3.370, 4.583)***
+
+
+18.524.9 (Reference)
+1.000
+1.000
+
+
+25.029.9
+0.475 (0.434, 0.520)***
+0.419 (0.393, 0.447)***
+
+
+30.034.9
+0.262 (0.244, 0.248)***
+0.254 (0.235, 0.274)***
+
+
+35.039.9
+0.100 (0.095, 0.105)***
+0.186 (0.176, 0.196)***
+
+
+ 40
+0.051 (0.049, 0.053)***
+0.086 (0.084, 0.088)***
+
+
+
+
+* p  0.05; ** p  0.01; *** p  0.001;  body mass index = (weight in kilograms)/(height in meters)2;  figures in parentheses are 95% confidence intervals.
+
+
+Adjustment of other covariates reversed the direction of effect of age in males and females. Compared to those aged 30 to 39, males and females aged less than 20 years were found to be 20 (95% CI: 6% to 47%) and 44 percent (95% CI: 23% to 60%) more likely, respectively, to underestimate their weights. No other statistically significant associations were found for other age group in males. Females older than 60 years, however, were more likely to overestimate their weights with the oldest age group being 3.3 times more likely than those in the reference group.
+The adjusted effect of race-ethnicity in males was similar to the crude estimates. For females, however, non-Hispanic blacks, a group previously found to be no more likely to misreport their weights during the analysis of crude effects, were shown to have 1.369 times (95% CI: 1.145 to 1.636) the odds of overestimation compared to their non-Hispanic white counterparts. The estimates for Mexican-Americans and women of other groups were only slightly increased after adjustment.
+The estimated effects of BMI and highest educational attainment after adjustment were similar to estimates of their crude effects, as were the adjusted effects of cigarette smoking and desire to change weight in males, and annual income and the length of time since the participant's last visit to a health professional in females.
+Utilizing these figures, estimates of the proportions of males and females in the NHANES III by the degree of discrepancy between self-reported and measured weight stratified by age are given in table 4 and represented graphically in figure 1. Overall, more than 35 percent of males overestimate their weight by 2 kilograms or more; in females, this proportion is only about 14 percent. About a 35 percent of all females underestimate their weight, compared to about 25 percent for males. Although the proportion of people correctly reporting their weight to within 1 kilogram was approximately constant throughout the age range, a greater proportion of the elderly was shown to overestimate, and of the young to underestimate, their weights.
+
+Figure 1
+
+Proportions with discrepancies between self-reported and measured weight, by extent of discrepancy, sex, and age in the Third National Health and Nutrition Examination Survey, 19881994.
+
+
+
+
+Table 4
+
+Crude and adjusted proportions with discrepancies* between self-reported and measured weight, by extent of discrepancy, sex, and age in the Third National Health and Nutrition Examination Survey, 19881994.
+
+
+
+
+Age (years)
+> 4 kg less
+23 kg less
+Within 1 kg
+23 kg more
+>4 kg more
+Mean Discrepancy (kg)
+N
+
+
+
+
+ESTIMATES OF EFFECT AFTER ADJUSTMENT
+
+
+
+
+
+
+
+Males
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+< 20
+7.31 (0.35)
+11.85 (0.40)
+38.25 (0.35)
+23.53 (0.42)
+19.06 (0.61)
+1.06 (0.17)
+508
+
+
+2029
+8.40 (0.34)
+12.68 (0.27)
+38.14 (0.29)
+22.48 (0.29)
+18.30 (0.43)
+0.70 (0.18)
+1,579
+
+
+3039
+10.37 (0.43)
+14.77 (0.26)
+39.76 (0.26)
+20.27 (0.30)
+14.82 (0.35)
+0.37 (0.11)
+1,439
+
+
+4049
+12.29 (0.44)
+16.47 (0.33)
+40.09 (0.27)
+18.48 (0.35)
+12.67 (0.39)
+-0.03 (0.26)
+1,193
+
+
+5059
+10.39 (0.28)
+15.25 (0.26)
+40.29 (0.28)
+19.83 (0.28)
+14.24 (0.38)
+0.23 (0.14)
+846
+
+
+6069
+10.25 (0.40)
+15.22 (0.31)
+40.58 (0.21)
+19.85 (0.33)
+14.09 (0.36)
+0.29 (0.11)
+1,152
+
+
+7079
+9.29 (0.36)
+14.18 (0.36)
+39.72 (0.26)
+20.98 (0.38)
+15.82 (0.48)
+0.52 (0.18)
+852
+
+
+8089
+6.29 (0.23)
+10.81 (0.28)
+37.17 (0.39)
+24.22 (0.26
+21.51 (0.60)
+1.38 (0.17)
+611
+
+
+ 90
+3.98 (0.33)
+7.62 (0.56)
+32.41 (1.33)
+26.75 (0.47)
+29.24 (1.92)
+2.18 (0.48)
+53
+
+
+All Ages
+9.93 (0.19)
+14.42 (0.14)
+39.46 (0.13)
+20.66 (0.15)
+15.52 (0.18)
+0.42 (0.09)
+8,233
+
+
+
+
+
+
+
+Females
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+< 20
+20.86 (0.91)
+20.43 (0.37)
+46.01 (0.74)
+9.80 (0.44)
+2.90 (0.17)
+-1.69 (0.35)
+570
+
+
+2029
+17.77 (0.44)
+19.40 (0.22)
+48.61 (0.34)
+10.95 (0.27)
+3.28 (0.11)
+-1.79 (0.20)
+1,771
+
+
+3039
+21.57 (0.59)
+20.88 (0.23)
+45.77 (0.50)
+9.16 (0.27)
+2.62 (0.11)
+-1.72 (0.14)
+1,801
+
+
+4049
+20.28 (0.70)
+20.35 (0.20)
+46.69 (0.60)
+9.81 (0.24)
+2.88 (0.10)
+-1.64 (0.21)
+1,311
+
+
+5059
+18.05 (0.58)
+19.14 (0.33)
+47.81 (0.44)
+11.44 (0.38)
+3.56 (0.16)
+-1.38 (0.12)
+970
+
+
+6069
+15.24 (0.39)
+17.96 (0.26)
+49.89 (0.38)
+12.81 (0.31)
+4.11 (0.16)
+-0.91 (0.13)
+1,125
+
+
+7079
+12.87 (0.41)
+16.16 (0.29)
+51.25 (0.33)
+14.84 (0.35)
+4.88 (0.17)
+-0.37 (0.12)
+945
+
+
+8089
+9.55 (0.34)
+13.55 (0.32)
+51.99 (0.32)
+18.27 (0.45)
+6.65 (0.30)
+-0.16 (0.13)
+662
+
+
+ 90
+3.73 (0.31)
+6.53 (0.48)
+44.20 (1.64)
+29.41 (1.01)
+16.13 (1.60)
+1.38 (0.42)
+81
+
+
+All Ages
+18.32 (0.36)
+19.30 (0.13)
+47.83 (0.27)
+11.12 (0.17)
+3.43 (0.07)
+-1.41 (0.08)
+9,236
+
+
+
+
+* Discrepancy = (self-reported weight)  (measured weight)  Percentages may not sum to 100 due to rounding  Figures in parentheses are standard errors Adjusted for race-ethnicity, highest educational attainment, and BMI category. For males, additional covariates included cigarette smoking in the past and desire to lose weight. For females, additional covariates included marital status, annual income, level of activity, and time since last visit to a health professional.
+
+
+
+
+Discussion
+The systematic differences between self-reported and measured values of weight were documented by previous studies [1,3-5]. However, the lack of population-based samples made estimates difficult to generalize to larger population groups or to special subgroups. In this study, a nationally-representative sample was used to derive estimates of this bias and its determinants.
+The main finding suggests that personal attributes are associated with the tendency of adults to differ in their reporting of their correct weight. Overall, there was a general underreporting of weight by about half a kilogram. However, males overestimated their weights by half a kilogram and females underestimated their weights by almost 1.5 kilograms.
+These personal attributes were often gender-specific, a bias that extended to the predictors of the degree of discrepancy between the two measures. The results may be regarded as one of the instances in which gender-specific interaction is demonstrated [4]. While there were covariates that affected both sexes, the magnitudes and directions of effect were often not similar. Only the youngest males, for instance, showed any statistically significant probability of reporting weight discrepancy compared to the reference group and after adjustment for other covariates. In females, almost the entire age range is influenced. Some covariates were statistically significant in one sex but not in the other as was, for instance, level of activity in females or cigarette smoking in males.
+Variables were selected on the basis of a statistically significant association with the degree of discrepancy. While the use of a proportional odds model clearly delineates the importance of these predictors in terms of relative odds, this study was limited in its examination of the absolute magnitude of these discrepancies (i.e., the number of kilograms reported versus measured) after accounting for the study's complex sampling design and adjustment for multiple covariates.
+Some variables served as non-specific indicators of lifestyle and health behaviors. The better quantification of some of these behaviors (such as smoking or level of activity) may lead to a better characterization of their association with self-reported weight. The length of time since the participant's last visit to a health professional is particularly nettlesome, as one can premise that individuals seeking consultation for health conditions are more likely to be cognizant of their weight, especially in particular medical conditions such diabetes or cardiovascular disease. The inclusion and simultaneous adjustment of an additional set of variables, however, was deemed inadvisable from a model-building standpoint. Therefore, generalizations of these results to these subgroups must be tempered with caution.
+This study supports previous research in suggesting that the biases associated with self-reported weight precludes its use as an accurate surrogate for measured values in epidemiologic studies and field trials [6,9,12,14-17]. However, the results also suggest a finding that was not altogether unexpected  that in certain subgroups (e.g., the obese elderly) where accuracy is of prime concern, biases may be particularly significant.
+The implications for practice are clear: project investigators should endeavor to gain accurate measures of weight in adults where feasible. The ease of acquisition of self-reported values must be weighed against the overall utility of an analysis that incorporates potentially biased estimates of effect. Careful deliberation about the resource implications of such an endeavor and its likely gain in accuracy must also be carried out.
+Future research is necessary to examine the generalizability of these findings in other settings. Research might be targeted to better understand the impact of surrogate measures in well-defined population groups. It is hoped that by generating a fuller picture of the complex relationships that impact on self-reported weight and weight perception, a better understanding of the issues surrounding overweight and obesity may be gained.
+
+
+Conclusions
+Self-reported measures of body weight in adults are associated with gender-specific biases. The careful and deliberate consideration of their usefulness as surrogates of instrument-derived measures is important, especially when particular subgroups are involved.
+
+
+Competing interests
+None declared.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

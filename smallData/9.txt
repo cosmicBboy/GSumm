@@ -1,0 +1,314 @@
+
+
+Background
+Breastfeeding rates in Scotland are very low, particularly in the more disadvantaged areas. Despite a number of interventions to promote breastfeeding very few women actually intend to breastfeed their baby. The aim of this study was to identify personal and social factors independently associated with intention to breastfeed.
+
+
+Methods
+Nine hundred and ninety seven women from two socio-economically disadvantaged housing estates located on the outskirts of Glasgow participated in a study that aimed to increase the prevalence of breastfeeding. Self-administered questionnaires completed by each participant collected information in early pregnancy, prior to exposure to the study intervention, on feeding intention, previous feeding experience and socio-demographic data.
+
+
+Results
+Five factors were independently predictive of breastfeeding intention. These were previous breastfeeding experience, living with a partner, smoking, parity and maternal age. After adjusting for these five factors, neither deprivation nor receipt of milk tokens provided useful additional predictive information.
+
+
+Conclusion
+In this population of socially disadvantaged pregnant women we identified five variables that were independently predictive of breastfeeding intention. These variables could be useful in identifying women at greatest risk of choosing not to breastfeed. Appropriate promotional efforts could then be designed to give due consideration to individual circumstances.
+
+
+
+Background
+Breastfeeding has been recognised as the optimal method of feeding the newbom infant [1,2]. It confers a number of health advantages while providing for optimal growth and development. In recent years, there have been increasing attempts to promote breastfeeding in Scotland and this is associated with a rise in breastfeeding from 35.6% in 19901 to 42.0% in 19978 (2.6% of the increase could be accounted for by an increase in maternal age) as measured at six postnatal weeks [3]. However, only around 50% of mothers express an intention to breastfeed [4]. The lowest incidence of breastfeeding occurs in some of the most disadvantaged urban areas. Children from disadvantaged areas are more likely to suffer illness in childhood, to place greater demands on health care services and to grow up to be unhealthy adults [5-7].
+Even within a socially disadvantaged community, the population is heterogeneous with respect to factors that may influence infant feeding behaviour, including attitudes to breastfeeding. If we could predict which pregnant women were more or less likely to breastfeed within such a community, we could target health promotion interventions more precisely. This paper reports the results of an attempt to identify factors independently associated with intention to breastfeed by analysing data collected in the course of a community based intervention study.
+
+
+Methods
+A prospective controlled study to evaluate the impact of peer support on breastfeeding behaviour among socio-economically disadvantaged women was conducted from October 1994 until July 1997 [8]. Women were recruited at their first (booking) visit to the antenatal clinic. Nine hundred and ninety seven women were approached, and invited to participate in the study. The data were collected via a self-administered questionnaire covering feeding intention and previous feeding experience as well as demographic data. For the purpose of this paper the baseline data from the intervention and control groups were combined since the data were collected prior to commencement of the study intervention.
+The data were analysed in order to identify personal factors associated with a woman's intention to breastfeed. The outcome variable of interest was feeding intention. The variables identified as potentially being associated with feeding intention are summarised in Box 1.
+
+
+
+*Deprivation category (DEPCAT) is a small area based measure of deprivation based on % household with no car, overcrowding, male unemployment, low social class [9].
+These variables were selected because they had been identified in previous studies as having an influence on feeding intention [4,10,11].
+Univariate logistic regression analysis was used to assess individually the association between the various factors and feeding intention. Multivariate analysis based on stepwise logistic regression analysis was used to identify a set of independently useful predictors of feeding intention.
+
+
+Results
+Information was obtained from the 995 (99.8%) subjects who consented to participate in the study.
+
+Description of sample
+Of the 995 subjects, 926 (93%) lived in a highly disadvantaged urban community (DEPCAT 7) [9], 402 (41%) received milk tokens and 619 (62%) had smoked regularly in the 12 months prior to recruitment. Just under half (417) were primigravid (42%), 630 (63%) lived with a partner, 112 (11%) had previous experience of breastfeeding and 197 (20%) stated an intention to breastfeed. The age of the participants ranged from 1541 with an average age of 25 years. The average age of those intending to breastfeed was 26.3 compared to 24.9 for those not intending to breastfeed.
+
+
+Univariate analyses
+The results of the univariate analyses are summarised in Table 1.
+
+Table 1
+
+Univariate Analysis Results Based on Logistic Regression Analysis
+
+
+
+
+
+Factor
+
+
+Odd Ratio
+
+
+C.I. for Odds Ratio
+
+
+p-value
+
+
+Comment
+
+
+
+
+
+
+
+Previous breastfeeding experience
+
+(Odds for Yes vs No)
+
+5.26
+3.49 to 7.96
+
+<0.0001
+
+Significantly more likely to intend to breastfeed if have previous experience
+
+
+
+
+Living partner
+
+(Odds Yes vs No)
+
+2.05
+1.44 to 2.94
+
+<0.0001
+
+Significantly more likely to intend to breastfeed if living with partner
+
+
+
+
+Regular smoker in the last 12 months
+
+(Odds Yes vs No)
+
+0.56
+0.41 to 0.77
+
+<0.001
+
+Significantly more likely to intend to breastfeed if non-smoker
+
+
+
+
+Receiving milk tokens
+
+(Odds Yes vs No)
+
+0.55
+0.39 to 0.77
+
+<0.001
+
+Significantly more likely to intend to breastfeed if not receiving milk tokens
+
+
+
+
+Age at booking visit
+
+(Increase in odds per 1 year advance in age)
+
+1.05
+1.02 to 1.08
+
+<0.001
+
+Significantly more likely to intend to breastfeed as age increases
+
+
+
+
+Deprivation Category
+
+(Odds for Depcat 7 vs 4)
+
+0.46
+0.28 to 0.80
+
+<0.01
+
+Significantly more likely to intend to breastfeed if in the lower deprivation category.
+
+
+
+
+Primigravid
+
+(Odds Yes vs No)
+
+1.12
+0.82 to 1.54
+0.47
+No significant difference in feeding intentions for the prim- and non-prim women
+
+
+
+
+Intention to breastfeed was significantly positively associated with previous breastfeeding experience, living with partner and increasing maternal age, and was significantly negatively associated with smoking, receipt of milk tokens and deprivation. There was no significant difference in feeding intentions for primigravid and multigravid women.
+
+
+Multivariate analyses
+The results of the multivariate analyses are shown in Table 2.
+
+Table 2
+
+Results of Multivariate Stepwise Logistic Regression Analyses
+
+
+
+
+
+Factor
+
+
+Odds ratio
+
+
+C.I. for Odds Ratio
+
+
+p-value
+
+
+
+
+
+
+
+Previous breastfeeding experience
+
+(Odds for Yes vs No)
+
+6.40
+4.00, 10.31
+
+<0.0001
+
+
+
+
+
+Primigravid
+
+(Odds for Yes vs No
+
+2.91
+1.92, 4.46
+
+<0.0001
+
+
+
+
+
+Living with partner
+
+(Odds for Yes vs No)
+
+1.92
+1.29, 2.90
+
+<0.01
+
+
+
+
+
+Regular smoker in the last 12 months
+
+(Odds for Yes vs No)
+
+0.61
+0.44, 0.86
+
+<0.01
+
+
+
+
+
+Age at booking visit
+
+Increase in odds per 1 year advance in age)
+
+1.05
+1.01, 1.08
+
+<0.01
+
+
+
+
+Milk tokens (Odds for Yes vs No)
+
+0.68
+0.45, 1.01
+0.06
+
+
+
+Deprivation
+(Odds for 7 vs 4)
+
+0.59
+0.33, 1.04
+0.14
+
+
+
+
+The significance of each of the term in the final model is shown
+
+
+Five factors were independently predictive of breastfeeding intention. These were previous breastfeeding experience, living with a partner, smoking, parity and maternal age. After adjusting for these five factors, neither deprivation (p=0.14) nor receipt of milk tokens (p=0.06) provided useful additional predictive information.
+
+
+
+Discussion
+Our intention was to identify factors independently associated with intention to breastfeed. It is important to attempt to identify those women most at risk of choosing not to breastfeed in order to direct promotional efforts appropriately.
+The results of the univariate analyses agree with several other studies reporting an association of infant feeding intention with socio-economic status, maternal age, previous breastfeeding experience, maternal smoking [4,12-14] and living with a partner [15] and a lack of association between parity and feeding intention [13,14]. Other studies, however, have demonstrated an association between parity and feeding intention [4,12].
+Most previous studies have identified socio-economic deprivation as being strongly associated with feeding choice. In our study, however, multivariate analysis indicated that socio-economic deprivation was not an independent predictor of infant feeding intention. This is consistent with research in the US reporting that breastfeeding was more strongly associated with maternal attitudes rather than deprivation per se [16].
+However, some care must be taken in interpreting our results. Only 7% of the women in our study did not reside in a DEPCAT 7 area, and all of these lived in a DEPCAT 4 area. Our analysis may therefore have underestimated the association between deprivation and feeding intention. Different patterns may well have been seen had the study been based on a random sample of women from the full spectrum of deprivation categories.
+Multivariate analysis of the impact of milk tokens suggested that previous anxieties about the possible negative effects of milk tokens on breastfeeding may be unfounded [9]. However, our analysis, which demonstrated a borderline result, combined with the lack of published research into the impact of milk tokens on feeding choice suggests that there is a need for further research in this area.
+Previous breastfeeding experience and increasing maternal age were both independently associated with feeding choice. The fact that mothers who have previously breastfed are more likely to intend to breastfeed emphasises the need to support and encourage breastfeeding in first time mothers.
+The influence of the partner is likely to vary depending on the partner's attitudes to the feeding choice [17] and how influential he is in the relationship. Bryant [11] identified the partner as having a greater influence if he actually lived with the new mother. Our study did not measure the attitudes of the expectant father, but revealed a significantly positive relationship between choice of feeding and living with the partner. This may relate to physical environment and privacy. A study of low-income women in Glasgow [18] noted that the lack of a private place to breastfeed was a contributing factor to the mother's choice of feeding. Hally [15] also reported an association between not breastfeeding and overcrowding or living with the mother's family. This situation is more likely to occur where the mother lives at home with her parents and extended family.
+Smoking has also been shown to be associated with feeding choice in a number of other studies [13,14,19]. This has been generally attributed to deprivation status in that smoking is more prevalent among more socio-economically disadvantaged individuals. Our study found smoking to be independently predictive of infant feeding choice. An individual who smokes may represent an individual who has resisted health promotion attempts to address high smoking levels among women and particularly among pregnant women. Such an individual may also be resistant to attempts to promote breastfeeding as the healthy option. There is also some evidence to suggest that women who smoke think that they can not or should not breastfeed [20].
+
+
+Conclusion
+In this population of socially disadvantaged pregnant women we identified five variables that were independently predictive of breastfeeding intention, namely: previous breastfeeding experience, living with a partner, non-smoking, being primigravid and increasing maternal age. These variables could be useful in identifying women at greatest risk of choosing not to breastfeed. Appropriate efforts could then be designed to give due consideration to individual circumstances that could influence receptiveness to certain health promotional messages.
+
+
+Competing interests
+None declared
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

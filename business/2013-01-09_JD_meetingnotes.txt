@@ -1,0 +1,49 @@
+2013-01-09 Thursday
+
+Meeting Notes with Jonathan Drillings:
+
+#### West coast vs. East coast startup norms:
+- It's much easier on the west coast to have a start up with no revenue stream and have it be funded by investors
+- On the east coast, start ups generally need a revenue stream to attract investments
+
+#### Revenue Streams
+- We talked about different ways that GSumm can create revenue channels.
+- Given our problem statement and target audience, JD advised that journalists/bloggers are generally not going to pay for research
+- The news publishing industry is already under pressure to generate their own revenue and are unlikely to pay for GSumm.
+- Therefore, it makes sense to offer the baseline service for free, and look at other ways of generating cash flow.
+
+#### Business Models
+- Proprietary vs. Open source.
+	- Successful open source models are usually in the database and operating system market. So, for our system, proprietary is probably the way to go.
+	- Exploring the proprietary software route, there are several ways to generate revenue.
+
+- Ad-space: Targetted ads toward users. JD did not seem too excited about this avenue.
+- Selling user data: JD advised against this due to controversy. However, we didn't ask him about a system that creates 'social impact measure' for papers by aggregating user data.
+- Driving traffic to scientific publishers: We talked at length about this. If we can somehow partner up with scientific journal publishers and agree upon discounted prices for papers and/or bulk deals, then we can offer lit. search platform for free for users.
+- Freemium: JD hinted at the synergy with this approach with partnering w/ sci. publishing to generate web traffic.
+	- Offer a baseline service for free for any user.
+	- Test a pricing/subsription system that offers full access to papers per month.
+	- Offer added featurees. Need to come up with 2 or multi-tiered premium system and test thoroughly
+	- Note: Treat paying users with respect during the testing phase. Make sure that premium users actually get better quality services. This is a must.
+
+#### The Team
+- 4 founders will suffice. JD advised that this is more than enough to get this off the ground.
+- Stretch yourselves thin and push yourselves to develop the product, only hire/outsource if we absolutely need to
+- Note: With this, we really have to assess our personal goals, our current skills, and really specialize to fill in all the skill sets that we need to create the minimum viable product.
+
+#### Users and Customers
+- Going for a freemium model, we have a couple of considerations.
+- Who are our users? Content Creators (Journalists, Bloggers) and their Readers
+	- Key Questions: What is the user experience for Content Creators, and what is the user experience for their Readers? They will have to be distinct UI designs.
+	- What is the value proposition for them? What are their specific problems? Find people in the target audience, and find out more about them. What would they find useful?
+	- Often times users don't know what their problems are. They can offer suggestions and point out problems with the interface, but it's up to us to cross reference their input with their user behavior on the minimum viable product
+	- Constantly iterate between product iterations (and pivots), user feedback, user data, and team judgement of where to go next.
+
+#### User Interface
+- JD seemed to like the idea, and pointed out that since we are a niche market, the ideal product will probably have to be more focused than a search bar.
+- Search bars work for Google and other search engines, but since we occupy a niche market (health), people often will have a vague idea of what they want to know, but we will need to guide them.
+- There has to be an element of guidance through the user experience. We have to balance the user's own behavior and how we decide to suggest topics/content to them to create a complete search/discovery experience for the users.
+
+#### Vision
+- He asked us about our vision. If we want this to be a small company and occupy a niche market, then really focus and cater to the target audience.
+- If we want to expand, think about how we can use our system and adapt it to other academic fields, or even other industries. He suggested researchers who want to know more about content marketting for example.

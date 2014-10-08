@@ -1,0 +1,198 @@
+
+
+Objective
+To explore whether there is a potential for greater use of research-based information in public health practice in a local setting. Secondly, if research-based information is relevant, to explore the extent to which this generates questioning behaviour.
+
+
+Design
+Qualitative study using focus group discussions, observation and interviews.
+
+
+Setting
+Public health practices in Norway.
+
+
+Participants
+52 public health practitioners.
+
+
+Results
+In general, the public health practitioners had a positive attitude towards research-based information, but believed that they had few cases requiring this type of information. They did say, however, that there might be a potential for greater use. During five focus groups and six observation days we identified 28 questions/cases where it would have been appropriate to seek out research evidence according to our definition. Three of the public health practitioners identified three of these 28 cases as questions for which research-based information could have been relevant. This gap is interpreted as representing unrecognised information needs.
+
+
+Conclusions
+There is an unrealised potential in public health practice for more frequent and extensive use of research-based information. The practitioners did not appear to reflect on the need for scientific information when faced with new cases and few questions of this type were generated.
+
+
+
+Introduction
+In Norway, the practice of public health is organised somewhat differently than in other countries. Its core content as defined in central documents [1,2] is, however, not very different from definitions found elsewhere [3]. Broadly speaking, the practice of public health may be defined as the organisation and analysis of medical knowledge in such a way that it may be utilised by society in the making of decisions in health related questions. In Norway, this task of ensuring that health is taken into account in policy making at the local level is the responsibility of the local public health practitioner, and this post is always held by a physician. About 40-50% of physicians practising within public health hold a specialty in public health, the rest are in training. The postgraduate period lasts for five years and consists of both a theoretical course and supervised practical work.
+The public health practitioner collaborates extensively with other members of the health team and with several other professional groups in the community and thus holds an important position in the local decision-making process. The evidence-based health care approach implies that decisions should be based on a systematic appraisal of the best available evidence combined with an assessment of existing resources and values in society [4]. We took for granted the applicability of evidence-based decision-making in this specialty, as did Muir Gray in his article about evidence-based public health [5]. It seemed reasonable to assume that public health practitioners would have a need for research-based information and that they would have several unanswered questions in the course of one day or at least over a longer period of time.
+In an earlier survey [6], however, we found that public health practitioners in Norway, like clinical doctors [7,8,9,10,11,12,13,14,15], had access to or made use of research-based information sources to a very small extent. If they really had a need for this type of information, then why had they not organised access to relevant information sources, at the least by securing the services of the nearest medical library?
+We could see at least two possible reasons for this: Firstly, research-based information might be irrelevant for the kind of public health questions that public health practitioners face in their everyday work. We found no studies that could tell us precisely what tasks Norwegian public health practitioners actually have, but browsing through their main bulletin [16], we found no cases that appeared to require research-based information. Scattered impressions from earlier contacts with public health practitioners also implied that they do not handle many cases of this type. Could it be that the day-to-day reality of Norwegian public health practice is perhaps one of legal cases, complaints and administration, arousing the need for quite other types of information sources than research evidence?
+Studies of other practitioners indicate, however, that there is no reason to assume that the sources of information that are used are always the most appropriate for the problem in question [12,13]. Thus, another possible reason for this lack of access to and use of research-based information could be a lack of consciousness about the potential contribution of scientific information in decision-making processes. Given such circumstances, questions requiring research-based information are not likely to be generated and public health doctors are therefore not likely to feel a need for such resources.
+With a future intervention aimed at stimulating evidence-based practice in mind, we had to ask ourselves whether the use of research-based information was at all relevant in Norwegian public health practice. The main aim of this study was therefore to explore the potential for a greater use of research-based information in local public health practice. In order to achieve this goal, we focused on two issues: the practitioners' own attitudes towards the relevance of this information source and our identification of cases where it would be appropriate to seek for research-based information. Our final aim was to explore their questioning behaviour by seeing if the practitioners identified the same cases as we did.
+
+
+Methods
+
+Study design
+We defined any case that could be structured into the elements problem, intervention, and outcome [17] as cases that could benefit from research-based information. Information was defined as any stimulus that reduces uncertainty in a decision-making process and an information need as an individual's recognition of the existence of this uncertainty [18]. We also wanted to identify unrecognised or potential information needs, as defined by Osheroff and colleagues in their study of participants in a general medicine training program in the USA [19]: "Information that is important to the clinical circumstances at hand but which the physician does not realise is applicable".
+The use of interviews or questionnaires gives access to the respondent's recognised information needs [6,7,8,11,12]. Through observational studies, one can also obtain data about the information seeking behaviour these recognised information needs lead to [9,14,19,20]. One possible way to estimate the respondent's unrecognised or potential information needs is to look at their work tasks, i.e. what type of decisions there are to be made.
+We chose to start with focus groups [21] and aimed to identify practitioners' attitudes to the use of research-based information by inviting them to talk about the kind of cases they faced. During this process we also looked for cases where searching for information would be appropriate, and noted the degree in which the practitioners themselves identified the same cases. In addition, data on barriers to information use was collected, and will be reported elsewhere.
+We also carried out observational studies of six public health practitioners during their everyday work. The sole purpose of the observation was to identify cases where searching for scientific evidence would have been appropriate regardless of whether the physician himself did this or not. Our impressions and observations from both of these methods were explored further in individual interviews.
+
+Focus groups
+All of Oslo's 25 city borough doctors as well as 26 participants from a national course for public health specialists, were invited to the focus group interviews. Of these, 46 practitioners agreed to participate. A total of five focus group meetings were held in Oslo during 1997, each group consisting of 7 - 12 participants from cities and from rural communities. Two of the groups were held with only the city borough doctors participating. Most of the participants were between 40 and 50 years old, with varying degrees of experience and with varying amounts of time spent on public health work, except for the city borough doctors who worked full time (90% of public health practitioners in Norway are part-time general practitioners). Each group met once for two hours.
+A doctor, professor in public health (AB), conducted all meetings with LF, a library and information scientist, as an observer. At the beginning of each focus group discussion, the modifier explained to the participants that we were conducting a project to learn more about their work in order to find ways to support them. The modifier made reports after each group meeting while the observer took notes. Questions that were asked during the focus groups included what kind of cases the participants faced as public health practitioners, which information sources they used, and what we could do to help them search for and utilise information (table 1). These questions were introduced into the discussions as naturally as possible. The focus group discussions were tape-recorded and transcribed.
+
+
+Observation and interviews
+We aimed at a typical sample, i.e. with representatives from larger and smaller municipalities [22]. Six public health practitioners from two small and four larger municipalities in and around Oslo were accompanied and observed [23] during one ordinary working day, including during office work and at meetings. Unstructured field notes were taken. The reasons given for this observation were the same as those given to the focus groups participants.
+The interviews were semi-structured. The themes covered during the interviews varied slightly from those in the focus groups, and questions were phrased somewhat more directly (table 2). Two more questions were also added (table 2, questions no. 5 and 6). The interviews lasted for about 20 minutes and all interviews except one were tape-recorded. The tapes were transcribed. Cases were identified on the basis of the interviews and everything that we were exposed to during the observation, e.g. conversations, meetings and documents showing what they were working with now or had been working with recently.
+
+
+
+Analysing and validating data
+Several triangulation techniques were used to ensure the validity and comprehensiveness of our data, including methodological triangulation (focus groups, observation and interviews), investigator triangulation (focus groups were carried out by two investigators) and disciplinary triangulation (we had different disciplinary backgrounds).
+We carried out content analysis [24] of the data as it was collected and this gave direction to the data collection process. The amount of data was small enough to be coded and categorised manually. Since both researchers (AB and LF) participated in the focus groups we were able to discuss and compare the patterns that emerged. The reports written by the moderator after each group interview and the notes the observer had taken were compared to validate whether we assigned the same meaning to the data. Most emphasis was placed on those themes that were repeated in several contexts. We also looked for contradictory statements about the same issues in the data from the focus groups, observation and interviews respectively.
+Having finished the focus groups we were still unsure of the relevancy of research-based information in public health practice in Norway. The use of observations gave us an opportunity to explore this theme further and to see which cases actually turned up. Thus, the observation and the interviews were partly a control for focus group data validity and partly a supplement to them.
+
+
+
+Results
+
+Focus groups
+
+Self perceived relevance statements
+When asked what types of cases they faced, the practitioners were inclined to mention administrative cases or cases that could be solved with reference to a law or regulation, for instance regarding noise levels, water or air quality. When discussing health services planning, e.g. the planning of psychiatric services or youth health services, they seemed to be more occupied with the organisation of these services than with their content. They also felt that they had many cases that called for their professional judgement rather than factual knowledge:
+"A number of cases are [...] more about common sense. When the neighbour's bird sings so loudly in the mornings that it disturbs people's sleep. Well, it's hard to find any research-based knowledge about this, [it's better] to discuss this with someone who's dealt with something similar before."
+"A number of our cases are on that level, - and then there are cases like noise from a rifle range, when I phoned people all over the place and found things here and there, but it was hard to find people who knew much."
+"I think the most difficult cases are those that are not covered by law regulations. I would like to know how people around the table here deal with cases like that, for instance thirty cats in a housing area..."
+"This whole area is pretty inaccurate. [...] You have to use your head and your common sense in most cases. For instance, if you want to keep more than 202 cats the local board of health must approve this. What about a horse - is a horse more than 202 cats? What about 10 hens and 2 cats? Are they worth more than 202 cats? One could make a whole list of questions like this...
+Since they did not readily and voluntarily report cases that were suitable for searching research-based information, we started probing for answers. We got very different answers varying from the negative to the extremely positive:
+"I'm not very interested in the actual research, but I have to know everything on whether it is common practice to use that particular [noise] limit in that type of decision.
+"Experience-based public health, we mustn't make this too scientific, because we're using what we think is reasonable knowledge, which is based on regulations, right?
+"I think that working evidence-based has meaning for a great deal of the issues that are covered by environmental health care. But when dealing with other parts of public health, like management and organisation, I don't know how relevant it is. Then I think that examples and models that have been used elsewhere may be just as important.
+"For me, research is the truth"
+It would be fair to say, however, that their general viewpoint was that they rarely had to deal with questions requiring research-based information. They would, however, utilise this information source when such cases did arise:
+"Some cases you want to explore more deeply and then it would be useful with documentation".
+"[...] the point has to be that we have a university environment where we can look for knowledge, because knowledge is power in our setting too. And getting information from other places in this setting obviously gives weight to our arguments."
+They also thought that because of the possibilities created by the information technology for the public to stay well informed, working evidence-based would become more and more important:
+"As a small comment to the relationship between evidence-based and experience-based knowledge, I would think that evidence-based knowledge is becoming more important and that we're sort of being forced into being well documented."
+These viewpoints did not necessarily seem to lead to an identification and generation of more questions suitable for seeking research-based information. One of the participants, for example, reported that in their municipality, statistics showing high numbers of abortion among teenage girls had contributed to the establishment of a youth health centre. When asked how they knew that this was the most effective measure they could take, for instance compared to giving a more school-based intervention, the answer showed that this had not been an issue for discussion:
+"Well, establishing adolescent health services have been one of our priorities. We also have tried to work in other areas, e.g. giving information on sexual behaviour and about living together, in secondary school, - so we have been there as well."
+
+
+Cases identified
+During the focus group conversations we identified a number of broader themes where scientific information could be of relevance. These included psychiatry, noise pollution, infection control, problems relating to refugees, preventive measures against lifestyle diseases, planning rehabilitation, prevention of accidents and different initiatives towards children and youngsters. These themes were described very generally, with an unclear problem definition. We were able to identify six cases as clearly formulated problems qualifying for searching research-based information (in table 3).
+
+
+
+Observation and interviews
+
+Self perceived relevance statements
+In the interviews, as in the focus group discussions, the public health doctors generally expressed a positive attitude towards the use of research-based information. Good documentation was believed to be useful when promoting issues to be discussed by politicians:
+"...the more documentation and background material, the more the reason for advancing the case [.....] for political treatment. A case that is supported by research results would be of great value in advancing a case politically".
+They were also open to seeking out this kind of information to a greater extent:
+"When I think about it, there are probably more cases than we think. I suppose we could probably [identify] more cases based on the types of problems we have [....], but it's possible that we're a bit restrained about this because we don't feel that anyone is interested".
+If the barriers were fewer they would have made searches:
+"Yes, I think I would have [done this], especially when working on projects or when I work with prevention".
+They also felt that research-based information could be useful when preparing for talks:
+"In giving talks, yes, that would have been useful. Then you usually go through your own literature and often you find that there are [still things you don't know]. And instead of calling somebody and getting it over the 'phone, it would have been better to have it in print".
+
+Cases identified
+The main purpose of the observation was to explore whether there really were as few cases in public health practice where the use of research-based information would have been appropriate as expressed during the focus group discussions. To estimate a potential information need we took as our starting point the content of their work, and especially the cases they were to decide about. The questions faced by the public health practitioners may indicate the potential for utilising the knowledge generated from research.
+During the six observation days the observer (LF) attended 13 meetings. All meetings could be classified as interdisciplinary working, co-operation or information exchange meetings either within the same department as the physician or with health personnel in other departments (table 4).
+During the observation period we identified 22 cases/questions qualifying for searching research-based information (table 3), nine of which were identified in the largest municipality. These cases, adding to the cases identified in the focus groups, exemplify the questions a public health doctor in Norway may face. We did, in fact, observe research-based information being used, especially by the practitioner in the largest municipality. This was Norwegian research that had been gathered passively, either through the mass media or because it had been passed on by colleagues.
+
+
+Questioning behaviour
+None of the six doctors identified any questions that they had needed an answer to during the day of observation or during the past few days. When asked the following question: "Do you remember ever having a problem/question/case where you looked for research-based information?", three of the practitioners identified three questions from table 3 as questions they had either sought scientific information for or as questions where such information might have been useful (questions 4, 20, 22).
+
+
+
+
+
+Discussion
+
+Main findings
+We identified a potential for greater use of research-based information in public health practice. Especially when observing what public health practitioners actually do, it is easy to see that they work with problems that contain a number of questions where evidence could be of importance for decision-making. We identified 28 cases, six from the five focus group meetings and 22 from the six days of observation combined with interviews. Even though the practitioners had a general recognition of a potential for research-based information in the practice of public health, and three of them identified three of the questions, it was evident that generating these types of questions was not a common approach. When presented with relevant research-based information during the treatment of a case, the will to utilise it was present, but they did not seek it out explicitly or systematically.
+
+
+Strengths and weaknesses of the study
+It is possible that the data was somewhat biased by the fact that the focus groups were held at the Institute of Public Health and that the moderator of the focus groups was a professor in public health and thus could have been regarded as an expert in their field. Therefore, changing the setting and/or the moderator could have produced somewhat different results. On the other hand, the focus group participants seemed more keen to tell us about their everyday challenges and to make us understand their working conditions than to show us how good they were at doing their jobs.
+It is also possible that an increase in the number of observers, and thereby raters, could have influenced our analysis of the focus group data, as discussed by Weinberger et al. [25].
+Although two of the focus groups were held with practitioners from large communities (city borough doctors) only, the results from all five groups were very similar.
+The same atmosphere of sincerity and a desire to show us what they really did was also communicated to us during the observations. If they guessed our hypothesis, the results indicate that this did not seem to affect them. We observed and interviewed only a small number of physicians, all of them coming from the central part of Norway. However, the analysis gave results that were consistent with the results from the analysis of the focus group material. From the second interview and on, few new issues arose, and data saturation was perceived to be achieved through the six interviews.
+The questions that came up during the observation period could have been coincidental, but the themes of the meetings they participated in were in accordance with the plans we had heard about during the focus groups. Our experience is that the use of focus groups, observations and interviews, in that order, were appropriate to elicit our data. These techniques gave us the opportunity to listen to the public health practitioners' own accounts and responses to the different topics as well as making our own observations. For instance, when the doctors in the focus groups and in interviews told us that they did not have many cases where it would be relevant to seek out scientific information, the observation revealed that they did at least have more than they themselves identified.
+As for the investigator and disciplinary triangulation, it was very useful to be able to discuss and analyse the data together, and in spite of having two totally different backgrounds we still reached the same conclusions.
+
+
+Unrecognised information needs
+Models and studies of information seeking-behaviour have mainly been occupied with recognised information needs that lead to question generating. Some studies show that clinicians do indeed generate many questions during the day [7,10,14,19], although Barrie and Ward dispute this [26]. They did not find that clinicians generated a large number of unanswered clinical questions, and attributed this to a missing questioning behaviour. Ely et al [9] in their study of information needs of family physicians also conclude that it is important to encourage physicians to ask more questions. We have tried to estimate the practitioners' unrecognised information needs regarding the use of scientific evidence by registering the cases they were or had been working with. By focusing on these cases, we excluded the needs for all other information types rising from other types of cases or decisions the practitioners had to make.
+Unrecognised information needs will surely result in a lack of questioning behaviour. Both the results from the analysis of focus group interviews and from the observations and interviews suggest that public health practitioners do not generate many questions that could, at least partly, be answered by using research-based information.
+
+
+Meaning of the study/Conclusions
+This study indicates that the potential for use of research-based information is greater than perceived by public health practitioners and that this gap represents an unrecognised information need. It could be claimed that our findings are the result of the unique way the Norwegian public health system is organised. Previous research has for example found that physicians working in solo practices, like most public health practitioners do in Norway, tend to ask fewer questions than those working in group practices [27]. It is more interesting, however, to compare our findings with the above mentioned study of Barrie and Ward [26], as well as with other studies indicating that general practitioners lack the attitudes, knowledge and behaviour which are necessary conditions for practising evidence-based health care [28,29,30]. In addition, a range of studies among different types of health care professionals [31,32,33] shows that scientific evidence is not the most extensively used information source. In summary, our findings support the view that lack of awareness of and use of scientific evidence is a common problem independent of health care profession and the particular health care system of each country. Also, the need for an evidence-based approach in public health is discussed in as different settings as England and USA [34,35], which shows that many of these questions and approaches may be the same across countries.
+The potential for facing cases that require research-based information is presumably greatest in larger communities. Common to all Norwegian municipalities, however, is the planning of services within for instance psychiatry, school health services and rehabilitation, and each of these services raises many and important questions. In situations where practitioners realise that they have an information need, they choose other information sources. This leads us to the following hypothesis: Research-based information does have a potential for greater use in public health, but while the practitioners themselves recognise this to a certain extent, too many barriers obstruct further use.
+
+
+Practical implications and future research
+The lack of use of scientific evidence by public health practitioners may be rectified by identifying what the barriers are and by designing an intervention aimed at reducing those barriers. The ultimate goal would be to implement an effective intervention as part of the speciality training, which up to now has been inadequate in this respect.
+Thus, in our next articles we will: 1. Present our results on why public health practitioners do not use research-based information even when they do realise they have an information gap, i.e. what barriers exist towards this information source 2. Test whether an intervention tailored to promoting questioning behaviour and addressing the identified barriers leads to an evidence-based public health practice.
+
+
+
+Pre-publication history
+
+The pre-publication history for this paper can be accessed here:
+
+
+
+
+
+
+Supplementary Material
+
+
+Table 1
+
+
+
+Focus group interview guide
+
+
+
+
+
+Table 2
+
+
+
+Interview guide
+
+
+
+
+
+Table 3
+
+
+
+Identified questions/cases
+
+
+
+
+
+Table 4
+
+
+
+Main themes of meetings during observation period
+
+
+
+

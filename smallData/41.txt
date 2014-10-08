@@ -1,0 +1,613 @@
+
+
+Background
+Delay in the diagnosis of tuberculosis may worsen the disease, increase the risk of death and enhance tuberculosis transmission in the community. This study aims to determine the length of delay between the onset of symptoms and patients first visit to health care (patient delay), and the length of delay between health care visit and the diagnosis of tuberculosis (health service delay).
+
+
+Methods
+A cross sectional survey that included all the public health centres was conducted in Addis Ababa from August 1 to December 31 1998. Patients were interviewed on the same day of diagnosis using structured questionnaire.
+
+
+Results
+700 pulmonary TB patients were studied. The median patient delay was 60 days and mean 78.2 days. There was no significant difference in socio-demographic factors in those who delayed and came earlier among smear positives. However, there was a significant difference in distance from home to health institute and knowledge about TB treatment among the smear negatives. The health service delay was low (median 6 days; mean 9.5 days) delay was significantly lower in smear positives compared to smear negatives. Longer health service delay (delay more than 15 days) was associated with far distance.
+
+
+Conclusions
+The time before diagnosis in TB patients was long and appears to be associated with patient inadequate knowledge of TB treatment and distance to the health centre. Further decentralization of TB services, the use of some components of active case finding, and raising public awareness of the disease to increase service utilization are recommended.
+
+
+
+Background
+Early diagnosis of the disease and prompt initiation of treatment is essential for an effective tuberculosis control programme. Delay in the diagnosis may worsen the disease, increase the risk of death and enhance tuberculosis transmission in the community [1]. Patients' alertness to tuberculosis symptoms combined with health workers' readiness to diagnose the disease are important factors to control the spread of the infection in a community [1].
+In developing countries, emphasis is laid on passive case finding and diagnosing infectious cases of tuberculosis mainly through direct microscopy of sputum specimens obtained from persons who present themselves to the health services [2]. This, however, is known to be influenced by a set of factors such as patient motivation, degree of diagnostic suspicion by health workers and quality of laboratory facility [3]. On the other hand, because of its cost active case finding is not a practicable option and it often leads to poorer treatment compliance, as patients diagnosed via passive case findings are more motivated to come to the health care provider [2].
+Studies in Africa have shown that patient and health care delay are major problems in the control of tuberculosis. Considerable delay was observed in South Africa between on set of symptoms and treatment initiation in pulmonary TB patients and substantial delay was attributable to late patient presentation [4]. A median delay of 8.6 weeks from onset of symptom to commencement of treatment was also documented in Gambia [5]
+In Ethiopia, tuberculosis is among the leading causes of morbidity, hospital admission and death [6]. Except in a recent study from rural Ethiopia [7], the diagnosis and treatment initiation practice of tuberculosis patients has not been studied. The purpose of this study was to investigate the delay between the onset of symptoms and patients' first visit to health care (patients delay), and the delay between health care visit and first diagnosis (health service delay).
+
+
+Methods
+The study was conducted in Addis Ababa, Ethiopia, a city of about 2.3 million population in 1998 [8]. Directly observed treatment short course (DOTS) was introduced in Addis Ababa in 1993. There are 17 public health centres in the city and all of them are involved in the diagnosis and treatment of tuberculosis patients. The health centres are the first health care contacts in Addis Ababa and majority of tuberculosis patients are diagnosed and treated in these centres. Diagnosis and treatment of tuberculosis is free of charge in the government health sectors.
+A cross sectional survey was conducted in all the public health centres in Addis Ababa to describe the patient and health service delay in the diagnosis of pulmonary tuberculosis patients. New pulmonary tuberculosis patients who were diagnosed during August 1 to December 31,1998 were interviewed using a structured questionnaire. All the questions were closed ended and the questionnaire for each patient included socio-demographic details, major presenting symptoms, duration of major presenting symptoms and the date of first health care visit. If the patient had weakness for over a year, but was seeking medical advice for a cough of one month, the latter was taken as the duration of illness. The major pulmonary symptoms asked were presence of cough for more than three weeks, production of sputum, chest pain and haemoptysis. Closed ended questions about patient's knowledge of tuberculosis symptoms, transmission and treatment were also included in the questionnaire. The tuberculosis workers performed the interview the same day as the diagnosis was made. The questionnaire used was pre tested before use and regular supervision of the interviewers was conducted throughout the study period. Duration of symptoms and the date of diagnosis were also counterchecked from the records besides the patients' interview.
+The standard procedures recommended by the National TB Control programme in the diagnosis of pulmonary tuberculosis are to collect and examine three sputum specimens from self-presenting symptomatic patients in two consecutive days. Pulmonary positive is confirmed when there are at least 2 AFB positive smear results or when one sputum specimen is positive for AFB in addition to radiographic abnormalities consistent with active pulmonary TB (6). Smear negative pulmonary TB is diagnosed in a patient with three initial negative smear examinations by direct microscopy for AFB and who has failed to respond to a course of broad spectrum antibiotics and again three negative smear examinations by direct microscopy and x-ray abnormalities suggestive of active TB as determined by the treating physician (6). Smear negative TB can also be diagnosed in a patient with three initial smear examinations negative by direct microscopy but positive by culture (6).
+Taking an ARI (Annual Risk of Infection) of 2% for Addis Ababa, from the last tuberculin survey [9] the estimated number of new tuberculosis cases in Addis Ababa during the study period was about 2,319 this includes all new cases including extra pulmonary cases. 700 new pulmonary cases were diagnosed and enrolled into the study that covers about 30% of the estimated patients.
+
+Operational definitions
+
+Patient delay
+The time interval from the appearance of the major pulmonary symptoms of the disease until the first visit to a medical facility.
+
+
+Health Service delay
+The time interval from the first consultation until date first diagnosis.
+
+
+Total delay
+The sum of patient delay and health service delay
+The sample size for this study was calculated using Epi info version 6, taking a precision 5%, 50% prevalence of delay for more than 30 days and confidence level 95% [10]. Data were analysed using Epi info version 6 and SPSS 6.11. Description of each group by age, sex and other socio-demographic variables were done. Mean, median, range were calculated. The X2 test and Fishers exact test were used when appropriate for analysing categorical data. Odds ratio and 95% Confidence intervals were calculated to see the effect of socio-demographic variables on patients delay.
+
+
+
+
+Results
+
+Patient characteristics
+700 newly diagnosed pulmonary tuberculosis patients were enrolled. 320 (45.7%) were sputum smear positives and 380 (54.3%) were negatives. There were 372 (53.1%) males and 328 (46.9%) females. 433 (61.9%) of the patients were in the age group 2039 and the mean age was 31 years. 627 (89.6%) of the patients were Christians, only 238 (39.7%) were married and 422 (60.3%) were singles. 419 (59.9%) of the patients had education above grade 6 and 77 (11.0%) were illiterate. Occupation wise the patients comprise 168 (24.0%) students, 151 (21.6%) civil servants, 112 (16.0%) housewives, 89 (12.7%) unemployed and the rest belonged to different occupational groups.
+
+
+Presenting symptoms
+The majority of patients came with a combination of symptoms. The most frequently reported symptom was cough in 666 patients (95%); followed by weakness in 638 (91%), weight loss in 637 (91%), loss appetite in 586 (84%), night sweating in 578 (84.%), shortness of breath in 563 (80%) and chest pain in 545 (78%) patients.
+
+
+Patient delay
+Overall 291 (41.6%) of patients sought medical advice within 1 month of the onset of their illness. The median patient delay was 60 days; mean 78.2 days (the 10 and 90 percentiles were 15 and 180 days respectively). 154 patients (22.0%) came after 90 days (Table 1). Comparison between patients who delayed more than one month with those who came within one-month was done for smear positives and negatives separately (Table 2). There was no significant difference in socio-demographic characteristics in smear positives. However, the smear negatives differed by distance from home to health unit OR: (95% CI) 2.56(1.12,6.03) (Table 2). The smear negative patients who lived above an hour walking distance from the health unit were at risk of delaying more than 30 days after the onset of symptoms. There was a significant association between patient delay and the symptom haemoptysis in both the smear positive and negative patients OR (95% CI), 1.90 (1.16,3.12) and 1.91 (1.23, 2.95) respectively. No significant difference was observed in the mean delay between the smear positives and smear negatives, but as shown in table 1 there were 68 smear positive patients (21.3%) who delayed for more than 3 months.
+
+Table 1
+
+Duration between the start of symptoms and patients first medical consultation by sputum smear status, Addis Ababa, 1999
+
+
+
+
+Patient's delay in days
+Smear positive
+Smear negative
+Total
+P-value*
+
+
+
+
+
+
+
+
+
+
+n
+%
+n
+%
+n
+%
+
+
+
+
+
+130
+132
+41
+159
+42
+291
+41.6
+-
+
+
+3160
+69
+22
+81
+21
+150
+21.4
+0.898
+
+
+6190
+51
+16
+54
+14
+105
+15.0
+0.571
+
+
+>90
+68
+21
+86
+23
+154
+22.0
+0.886
+
+
+Total
+320
+100
+380
+100
+700
+100
+
+
+
+
+
+*P value for Chi-square test comparing patient delay in smear positive and negative patients.
+
+
+
+
+Delay and patient's knowledge
+488 (69.7%) patients believed the symptoms would improve by itself and 122 (17.4%) patients gave no reason for their delay. We compared the relationship between patients' knowledge about tuberculosis symptoms and its treatment in those who came within a month and those who came after. The smear positives did not show any difference, however, the smear negative patients who know about modern treatment of tuberculosis appeared to be less likely to come late for treatment compared to those without such knowledge (OR (95%CI): 2.93 (1.00, 9.18).
+
+
+Health service delay
+The median health service delay was 6 days (mean 9.5 days, the 10 and 90 percentiles were 1 and 15 days) respectively. 376 (53.0%) of patients were diagnosed and started treatment with in 6 days. 633 (90.4%) of the patients were diagnosed and put on treatment within 15 days (Table 3). Only six patients (1.9%) were diagnosed after 60 days.
+
+Table 2
+
+Relationship between patient delay and socio-demographic factors among smear negative and smear positive patients
+
+
+
+
+Variable
+Smear negatives
+Smear Positives
+
+
+
+
+
+
+
+
+
+Delay >30 days
+No delay  30 days
+OR (95% CI)
+Delay >30 days
+No delay  30 days
+OR (95% CI)
+
+
+
+
+Sex
+
+
+
+
+
+
+
+
+Male
+113
+86
+1.00
+102
+71
+1.00
+
+
+Female
+107
+74
+1.10 (0.72,1.69)
+86
+61
+0.98(0.61,1.57
+
+
+Age(in years)
+
+
+
+
+
+
+
+
+019
+36
+23
+1.00
+31
+18
+1.00
+
+
+2039
+133
+91
+0.93 (0.50,1.75)
+122
+87
+0.81(0.41, 1.62)
+
+
+ 40
+51
+46
+0.71(0.35,1.44)
+35
+27
+0.75(0.32,1.74)
+
+
+Religion
+
+
+
+
+
+
+
+
+Islam
+26
+15
+1.00
+173
+115
+1.00
+
+
+Christian
+194
+145
+0.77 (0.37,1.58)
+15
+17
+0.59(0.27,1.29)
+
+
+Marital status
+
+
+
+
+
+
+
+
+Married
+99
+61
+1.00
+15
+17
+1.00
+
+
+Single
+121
+99
+0.75(0.49,1.17)
+173
+115
+1.70(0.77,3.77)
+
+
+Occupation
+
+
+
+
+
+
+
+
+Students
+53
+37
+1.00
+44
+34
+1.00
+
+
+Civil servants
+46
+32
+1.00(0.52,1.95)
+39
+34
+0.89(0.44,1.77)
+
+
+Housewives
+44
+27
+1.14(0.57,2.26)
+22
+19
+0.89(0.39,2.05)
+
+
+Merchants
+26
+19
+0.96(0.43,2.10)
+17
+9
+1.46(0.53,4.07)
+
+
+Unemployed
+29
+30
+0.67(0.33, 1.38)
+59
+32
+1.42(0.73, 2.78)
+
+
+Others
+22
+15
+1.02(0.44,2.40)
+7
+4
+1.35(0.32,6.07)
+
+
+Education
+
+
+
+
+
+
+
+
+No education
+32
+16
+1.00
+17
+12
+1.00
+
+
+Read and write
+21
+17
+0.62(0.23,1.62)
+16
+9
+1.25 (0.36, 4.37)
+
+
+16th grade
+43
+30
+1.08 (0.45,2.58)
+43
+25
+1.21(0.46,3.23)
+
+
+712th grade
+113
+81
+0.70(0.34,1.42)
+105
+75
+0.99(0.41,2.34)
+
+
+Above grade 12
+11
+16
+0.34(0.11,1.01)
+7
+11
+0.45 (0.11, 1.75)
+
+
+Waking distance (minutes)
+
+
+
+
+
+
+
+
+ 60
+185
+147
+1.00
+168
+124
+1.00
+
+
+> 60
+29
+9
+2.56 (1.12,6.03)
+18
+5
+2.66 (0.90,8.42)
+
+
+
+
+
+Table 3
+
+Duration between health service visit and diagnosis of (health service delay) in pulmonary tuberculosis patients, Addis Ababa, 1999
+
+
+
+
+
+Smear positive
+Smear negative
+Total
+P-value*
+
+
+
+
+
+
+
+
+
+Delay in days
+n
+%
+n
+%
+n
+%
+
+
+
+
+
+115
+302
+94.4
+331
+87.1
+633
+90.4
+-
+
+
+1630
+11
+3.4
+32
+8.4
+43
+6.2
+0.005
+
+
+>30
+7
+2.2
+17
+4.5
+24
+3.4
+0.074
+
+
+Total
+320
+100
+380
+100
+700
+100
+
+
+
+
+
+*P value is for Chi-square statistical test comparing health service delay in smear positive and negative patients.
+
+
+Among the 67 patients who had a health service delay of more than 15 days, 47 patients (70.0%) were seen in four health centres, and 22 of them (46.8%) were seen in one health centre. The rest were distributed in the remaining 13 health centres. The smear positive patients were less likely to be undiagnosed for more than 15 days once they reached a health service compared to smear negatives (Table 3). Those living more than 30 minutes walking distance were more likely to delay more than 15 days before diagnosis. OR (95% CI): 1.68 (1.06, 2.66), 2.97 (1.30, 6.88) and 3.38 (1.33, 8.83) for those living 3060, 60120, and above 120 minutes respectively. Health service delay had no significant association with other socio-demographic characteristics
+
+
+Total delay
+The median total delay was 64 days (mean 88 days, the 10 and 90 percentiles were 20 and 182 days) respectively. Table 4 shows the frequency distribution of the total delay, it shows a total delay of more than 30 days in 82.4% and more than 90 days in 35.9%.
+
+Table 4
+
+Total diagnostic delay, cumulative distribution, Addis Ababa, 1999
+
+
+
+
+Delay in days
+Number of Patients
+Percent
+Cumulative percentage
+
+
+
+
+130
+123
+17.6
+17.6
+
+
+3160
+180
+25.7
+43.3
+
+
+6190
+146
+20.9
+64.1
+
+
+>90
+251
+35.9
+100.0
+
+
+Total
+700
+100.0
+
+
+
+
+
+
+
+
+Discussion
+This study shows that there is a substantial delay from onset of symptoms to reporting to a health facility for pulmonary tuberculosis patients. Close to 90% of the total delay is due to the patient, which identifies a possible area of intervention.
+The duration of symptoms before treatment should be as short as possible. However, considering the local situation, we took a 30 day cut off point for patient delay and 15 days for health service delay. The study included all the public health centres in the city to make the sample representative. For measuring the length of patient's delay, we depended on patient's reply. Therefore, some patients may not remember the exact onset of symptoms. However, we specifically asked the onset of the major pulmonary symptoms and how long after these current symptoms they consulted health centre. As shown earlier, 95% of patients had cough that is likely to be remembered by patients.
+In this study, the mean patient delay (78 days) was shorter than previously described from rural Ethiopia (mean duration of patient delay 179 days) [7], from Ghana (89.6 days) [11], from Tanzania (161.7) days (12). The mean total delay (88 days) was also lower than Ghana and Australia that showed about 240 and 104 days respectively [11-13]. These differences could be due to the selection of the study population. Our study included patients coming to first level health care facilities. The other studies included patients coming to hospitals. As most patients coming to hospitals are referred cases from other lower health units they are likely to have a longer duration of illness. On the other hand, the very low health service coverage in the rural Ethiopia will make comparison difficult with Addis Ababa, the capital city of Ethiopia.
+The health service delay documented in this study was low compared to findings from other African countries. In Ghana the median health service delay was twice as long as the patient delay [11]. Reports from Botswana and South Africa also show that the health service delay is longer than the patient delay [14,15]. In our study, the median health service delay was one tenth of patient's delay (6 versus 60 days). Passive case finding requires motivated health personnel. Some studies show that patients with the signs and symptoms suggesting tuberculosis may not be diagnosed despite repeated attendance at clinics. The lack of diagnostic awareness among health workers and atypical presentation may cause delay in diagnosis [16-18]. Nevertheless, in our study, 90% of the registered patients were diagnosed in less than fifteen days and the smear positives were less likely to face delayed diagnosis once they reached the health care facility. This low health service delay may be due to a high degree of alertness on the side of the health workers to suspect and diagnose tuberculosis; as the prevalence tuberculosis prevalence in Ethiopia is very high. The long patient delay may also make the diagnosis of tuberculosis easier as patients present at a more advanced stage. On the other hand, 54.3% of the patients in the study were smear negative cases and the median health service delay was 6 days, which may suggest the possibility of over diagnosis of smear negative cases. The procedure recommended by the National programme (see in methods) suggests that diagnosis of smear negative TB requires a minimum of two weeks. However, more than 85% of the smear negative patients were diagnosed in less than 15 days which clearly indicates that procedures to diagnosis of smear negative TB are not being strictly followed. Reports from the National TB programme also show very low smear positivity, among the reported new pulmonary TB patients only 39%, 38%, 28%, 24%, and 22% were smear positive in the years 1993 to 1997[20]. Therefore, this finding indicates the need to review the diagnostic procedures followed by the health facilities in the diagnosis of smear negative pulmonary TB.
+Few health centres were responsible for the very long health service delay. This was mainly due to shortage of health workers specially laboratory technicians. This shows the impact of poor health service quality on the effectiveness of case detection. It also indicates the need for regular supervision and ensuring the availability of essential resources at health facilities to ascertain their proper functionality and adherence to certain level of quality of services.
+Lack of knowledge about tuberculosis treatment and far distance to patients' home were factors for longer patient's delay in smear negative patients. The majority of patients (70%) believed that their illness will disappear by itself. This is consistent with the findings in southern Ethiopia and Vietnam [7,21]. Patients with haemoptysis had also a longer delay in both smear positive and negative patients. Similar observation was made in south Ethiopia; patients with severe disease had a longer pre-treatment period [7], this suggests that patients stay home for a long time until they notice an alarming symptom, like haemoptysis.
+Distance from patients' home to a health centre is important as it affects health care seeking and follow-up of diagnostic procedures. Although all our patients were from Addis Ababa, distance between their home to the health care had contributed to the delay in the diagnosis. This should be a major concern of the tuberculosis control programme. If a patient has a problem to reach the health care for the first time (for diagnosis), he or she might also face difficulties to attend the treatment programme regularly and may subsequently interrupt treatment.
+The period before diagnosis and start of treatment is important since most of the disease transmission occur during this time. The proportion of contacts found to be infected at the time of the diagnosis of a sputum smear positive index case is around 3040% [22]. We believe that the long period before diagnosis has a major contribution for the increased transmission of the disease in the country and needs to be reduced through improving the quality and coverage of the control programme. Passive case finding is recommended by WHO as the primary strategy for detecting tuberculosis [3]. Unfortunately, passive case detection is influenced by factors like the health service coverage, perceived severity of illness, knowledge, social and cultural beliefs [23,24]. On the other hand, active case finding is more expensive, has a lower yield and possibly low patient compliance [25]. The findings of this study suggest it is perhaps time to give some consideration to incorporate some active case finding interventions such as contact tracing in the routine programme. Though accessibility to modern health care in Addis Ababa relatively better than the rest of the country, distance to health care has shown a significant impact in patient delay. Therefore, further decentralization of TB diagnostic and treatment services should be considered. It is also important to facilitate prompt utilisation of the health services by raising public awareness about the disease.
+
+
+Competing interests
+None declared.
+
+
+Authors' contribution
+Author 1. M Demissie: Initiated the research, wrote the research proposal, conducted the research, did data entry and analysis and wrote the manuscript.
+Author 2. Y Berhane: involved in the write up of the proposal, in the data analysis and write up of the manuscript.
+Author 3: B Lindtjorn: involved in the write up of the proposal, data analysis and write up of the manuscript.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

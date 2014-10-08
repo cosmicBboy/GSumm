@@ -1,0 +1,1312 @@
+
+
+Background
+A review of the safety and efficacy of drinking water fluoridation was commissioned by the UK Department of Health to investigate whether the evidence supported a beneficial effect of water fluoridation and whether there was any evidence of adverse effects. Down's syndrome was one of the adverse effects reported. The aim of this review is to examine the evidence for an association between water fluoride level and Down's syndrome.
+
+
+Methods
+A systematic review of research. Studies were identified through a comprehensive literature search, scanning citations and online requests for papers. Studies in all languages which investigated the incidence of Down's syndrome in areas with different levels of fluoride in their water supplies were included. Study inclusion and quality was assessed independently by 2 reviewers. A qualitative analysis was conducted.
+
+
+Results
+Six studies were included. All were ecological in design and scored poorly on the validity assessment. The estimates of the crude relative risk ranged from 0.84 to 3.0. Four studies showed no significant associations between the incidence of Down's syndrome and water fluoride level and two studies by the same author found a significant (p < 0.05) positive association (increased Down's syndrome incidence with increased water fluoride level). Only two of the studies controlled for confounding factors and only one of these presented summary outcome measures.
+
+
+Conclusions
+The evidence of an association between water fluoride level and Down's syndrome incidence is inconclusive.
+
+
+
+Introduction
+A review of the safety and efficacy of drinking water fluoridation [1]  was commissioned by the UK Department of Health to investigate whether the evidence supported a beneficial effect of water fluoridation and whether there was any evidence of adverse effects. Other than dental fluorosis, bone fracture and cancer there was very little evidence available on adverse effects in humans. Down's syndrome was the most discussed of the other adverse effects reported and was therefore selected as the focus for this paper.
+In approximately 90% of cases, Down's syndrome is due to the non-disjunction of chromosome 21, most often in the oocyte, which may occur during two separate periods: before the completion of the first meiosis or around the time of ovulation.[2] Exposure to risk factors should therefore be measured at the time at which the abnormality may occur, around the time of conception. The main risk factor for Down's syndrome is maternal age with many studies having shown an increased incidence of Down's syndrome with increased maternal age.[3] There has also been some suggestion of an association with paternal age however this has not been confirmed. [4] Other suggested risk factors include race, with an increase rate among Hispanic mothers, [5,6] ionising radiation, [2, 7] increased parity, [3, 8] although this has not been confirmed by all studies, [9] and season, with a peak in births in summer. [10] Any study of a risk factor for Down's syndrome, such as water fluoride level, should consider these other suggested risk factors as possible confounding factors, and should certainly make attempts to control for the confounding effects of maternal age.
+Water fluoride level has been suggested as a possible risk factor for Down's syndrome and its association with water fluoride exposure has been investigated by a number of studies. If fluoride is associated with Down's syndrome then other sources of fluoride may act to confound the association of water fluoride level with the incidence of Down's syndrome. For example, two women living in different areas, one with a high water fluoride level and the other with a low water fluoride level, might be receiving similar amounts of fluoride if the woman in the low fluoride area was consuming fluoride from other sources, such as fluoride tablets, tea and fluoridated toothpaste. Exposure to other sources of fluoride should thus be considered and measured so that the effects can be controlled for in the investigation of the association of Down's syndrome with water fluoride levels.
+The objective of this report is to investigate the association of water fluoride level with Down's syndrome and discuss in detail the quality of the studies investigating this association.
+
+
+Methods
+
+Search strategy
+25 specialist databases were searched by a qualified librarian, including Medline, Embase, Toxline and the Current Contents (Science Citation Index) from database inception to February 2000. In addition, hand searching of Index Medicus (19451959) and Excerpta Medica (19551973) was undertaken. Additional references were sought from individuals and organisations through a dedicated web site for this review  and through members of a specifically designated advisory panel. Published and unpublished studies in any language were included. Full details of the search strategy are reported elsewhere. [11]
+
+
+Inclusion criteria
+All study designs which compared the incidence of Down's syndrome in populations with different levels of fluoride, either artificially added or naturally occurring, in their water supplies were included in this review.
+
+
+Data extraction and quality assessment
+Two reviewers independently assessed each paper for inclusion, disagreements were resolved through consensus. Extraction of data from individual included studies was independently performed by two reviewers, and checked by a third reviewer. Disagreements were resolved through consensus.
+Study validity was formally assessed using a published checklist modified for this review. [12] The criteria used to assess study validity were developed for the main fluoridation review. [1]  and were used for all studies included in the main fluoridation review to allow a general comparison between the quality of all of these studies. These criteria were retained for this paper to allow the results of the studies which looked at Down's syndrome to be viewed in the wider context of all studies that looked at adverse effects of fluoridation, when this paper is considered together with the full fluoridation review. Each study was assigned a score, based on the number of checks achieved on the checklist, out of a maximum score of eight. The criteria used to score the studies are described in Table 1. Study validity was assessed independently by two reviewers, with disagreements resolved through consensus.
+
+Table 1
+
+Validity criteria used to score studies
+
+
+
+
+
+Prospective
+
+Was the study prospective? Was it planned and started prior to the outcome of interest
+
+
+
+occurring? Score = 1 or 0
+
+
+
+
+
+Study Design
+
+The study design hierarchy for this review = cohort > before-after > ecological > cross-
+
+
+
+sectional. Scores ranged from 0.251, with cohort = 1, cross-sectional = 0.25
+
+
+
+
+
+
+
+
+Fluoride Measurement
+
+Was the Fluoride level reliably measured? Scores range between 01.
+
+
+
+
+
+
+
+
+Confounding Factors
+
+Were confounding factors addressed (measured)? Scores range between 01, with 3 or more
+
+
+
+factors measured = 1.
+
+
+
+
+
+
+
+
+Control for Confounding
+
+Was there adjustment for the possible effect of confounding factors in the analysis or study
+
+
+
+design? Scores range between 01, with stratification by age and sex = 0.5, other types of
+
+
+
+analysis (e.g. regression) = 1.
+
+
+
+
+
+
+
+
+Blinding
+
+Were those measuring outcomes and exposures blind to the exposure/outcome status of the
+
+
+
+person being assessed? Score = 0 or 1
+
+
+
+
+
+
+
+
+Baseline Survey
+
+Was there a baseline survey at the point of initiation or discontinuation of water fluoridation?
+
+
+
+Score = 0 or 1
+
+
+
+
+
+
+
+
+Follow-Up
+
+Was the study conducted an adequate time after the initiation or discontinuation of water
+
+
+
+fluoridation to assess effects (5 years)? Score = 0 or 1
+
+
+
+
+
+
+
+Analysis
+The studies did not provide sufficient information to permit pooling of data or investigation of statistical heterogeneity. A narrative synthesis is presented. For studies which did not report on crude or adjusted summary measures such as the risk difference or relative risk but provided sufficient information to calculate this, a crude relative risk was calculated with 95% confidence intervals where possible. Where a study looked at more than 2 study areas the area with the lowest fluoride concentration was compared to the area with a fluoride level closest to 1 ppm. However, results for all study areas are presented in table 2. Insufficient data was available to investigate publication bias using standard methods (funnel plots).
+
+Table 2
+
+Individual study details and results
+
+
+
+
+
+Study Details
+
+
+Outcome and exposure
+
+
+Inclusion/Exclusion
+
+
+Group
+
+
+Water
+
+
+Number of
+
+
+Results
+
+
+
+
+
+details
+
+
+Criteria
+
+
+
+fluoride level
+
+
+live births*
+
+
+(crude risk)
+
+
+
+
+
+
+
+
+(parts per
+
+
+
+per 100 000*
+
+
+
+
+
+
+
+
+million)
+
+
+
+
+
+
+
+
+Author (year)
+
+
+Method of outcome
+
+
+Inclusion criteria
+
+
+Group 1:
+
+0.71.1
+20760
+159.0
+
+
+Berry (1958)
+assessment:
+Children born in study
+
+Group 2:
+
+1.92.0
+14710
+122.4
+
+
+
+Region of study
+
+Institutions, death
+areas during study
+
+Group 3:
+
+0.9
+9492
+137.0
+
+
+Essex, England
+certificates, records of
+period, mothers living
+
+Group 4:
+
+<0.2
+12620
+190.2
+
+
+
+Year study started
+
+medical officers of
+in study area at time of
+
+Group 5:
+
+<0.2
+11587
+164.0
+
+
+1945
+health authorities,
+birth
+
+Group 6:
+
+0.2
+22452
+164.8
+
+
+
+Study Length
+
+personal knowledge of
+
+
+Group 7:
+
+0.2
+14873
+107.6
+
+
+9 years
+health visitors
+
+
+Control:
+
+0.2
+6870
+131.0
+
+
+
+
+
+
+
+
+Author (year)
+
+
+Method of outcome
+
+
+Inclusion criteria
+
+
+
+
+Metropolitan
+
+
+
+
+Erickson(1976)
+
+assessment:
+
+Birth of white children
+
+
+
+area
+
+
+
+
+
+Region of study
+
+Cases identified through
+only, areas in which
+
+Group 1:
+
+High
+95254
+99
+
+
+Georgia, USA
+surveillance
+mothers' usual place
+
+Group 2:
+
+Low
+25373
+85
+
+
+
+Year study started
+
+programmes, data was
+of residence at birth of
+
+
+
+NIS
+
+p>0.05
+
+
+19601973
+supplemented by a
+child permitted
+
+
+
+surveillance
+
+
+
+
+
+Study Length
+
+retrospective
+determination of
+
+
+
+areas
+
+
+
+
+13 years
+ascertainment (using
+exposure to fluoridated
+
+Group 1:
+
+
+234300
+49
+
+
+
+multiple sources) of
+water
+
+Group 2:
+
+
+1032100
+51
+
+
+
+children born between
+
+
+
+
+p>0.05
+
+
+
+1960 and 1967.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Author (year)
+
+
+Method of outcome
+
+
+Inclusion criteria
+
+
+
+
+
+
+
+Erickson(1980)
+
+assessment:
+
+Cities with 1970
+
+
+
+
+
+
+
+Region of study
+
+Data from birth
+populations >= 250
+
+
+
+
+
+
+USA
+certificates obtained
+000, Cities fluoridated
+
+Group 1:
+
+>= 0.7
+432580
+41.1
+
+
+
+Year study started
+
+from US Nation Center
+for >= 5 years by 1973
+
+Group 2:
+
+0.7
+204185
+44.1
+
+
+1973
+for Health Statistics,
+
+Exclusion criteria
+
+
+
+
+
+
+
+
+Study Length
+
+denominator number of
+Cities with mixed
+
+
+
+Indirect age
+
+
+2 years
+live births in study areas
+fluoridation status
+
+
+
+standardised
+
+
+
+
+States which do not
+
+
+
+rates:
+
+
+
+
+report birth defects on
+
+
+
+41.0
+
+
+
+
+birth certificates
+
+
+
+44.0
+
+
+
+
+Cities fluoridated for
+
+
+
+
+
+
+
+
+<5 years by 1973
+
+
+
+
+
+
+
+
+
+
+
+
+Author (year)
+
+
+Method of outcome
+
+
+Inclusion criteria
+
+
+Group 1:
+
+1
+81017
+153.1
+
+
+Needleman(1974)
+
+assessment:
+
+Children born with
+
+Group 2:
+
+0.3
+1752435
+133.8
+
+
+
+Region of study
+
+Cases identified through
+Down's's syndrome
+
+
+
+
+
+
+Massachusetts, USA
+maternity and paediatric
+
+
+
+
+
+
+
+
+Year study started
+
+hospitals, Departments
+
+
+
+
+
+
+
+1950
+of Public and Mental
+
+
+
+
+
+
+
+
+Study Length
+
+Health, private nurseries
+
+
+
+
+
+
+
+17 years
+and school for mentally
+
+
+
+
+
+
+
+
+retarded children,
+
+
+
+
+
+
+
+
+karyotyping laboratories
+
+
+
+
+
+
+
+
+and several
+
+
+
+
+
+
+
+
+miscellaneous sources
+
+
+
+
+
+
+
+
+
+
+
+
+
+Author (year)
+
+
+Method of outcome
+
+
+Inclusion criteria
+
+
+Group 1:
+
+1.02.6
+67053
+71.6
+
+
+Rapaport (1963)
+
+assessment:
+
+All cases children with
+
+Group 2:
+
+0.30.7
+70111
+47.1
+
+
+
+Region of study
+
+Cases identified from
+Down's's syndrome
+
+Group 3:
+
+0.10.2
+132665
+39.2
+
+
+Illinois, USA
+birth and death
+born during study
+
+Group 4
+
+0.0
+63521
+23.6
+
+
+
+Year study started
+
+certificates, registers of
+period
+
+
+
+
+
+
+1950
+specialist medical
+Town (of mother's
+
+
+
+
+
+
+
+Study Length
+
+educational state
+residence) size 10 000
+
+
+
+
+
+
+6 years
+institutions
+-100 000
+
+
+
+
+
+
+
+
+
+
+
+
+Author (year)
+
+
+Method of outcome
+
+
+Inclusion criteria
+
+
+Dakota
+
+
+
+
+
+
+Rapaport (1957)
+
+assessment:
+
+Not stated
+
+Group 1:
+
+>3
+31575
+34.8
+
+
+
+Region of study
+
+Alive subjects with
+Exclusion criteria
+
+Group 2:
+
+<3
+467685
+15.2
+
+
+USA
+Down's's syndrome
+Not stated
+
+Illinois
+
+
+
+
+
+
+
+Year study started
+
+identified through
+
+
+Group 1:
+
+1.62.6
+41618
+14.4
+
+
+Not stated
+institutions (cases living
+
+
+Group 2:
+
+1.01.2
+210628
+11.4
+
+
+
+Study Length
+
+in the community not
+
+
+Group 3:
+
+0.40.7
+196258
+12.2
+
+
+Not stated
+identified)
+
+
+Group 4
+
+0.3
+151167
+6.6
+
+
+
+
+
+
+Group 5:
+
+0.10.2
+670120
+6.0
+
+
+
+
+
+
+Group 6:
+
+0.0
+7049
+3.9
+
+
+
+
+
+
+Wisconsin
+
+
+
+
+
+
+
+
+
+
+Group 1:
+
+2.8
+52735
+30.3
+
+
+
+
+
+
+Group 2:
+
+1.4
+21538
+32.5
+
+
+
+
+
+
+Group 3:
+
+0.5
+51189
+25.4
+
+
+
+
+
+
+Group 4
+
+0.1
+1076876
+13.5
+
+
+
+
+* Rapaport (1957) did not report the total number of births, for this study the population figures are provided and the crude risk is the risk per 100 000 population
+
+
+
+
+Results
+Six studies investigating the association of Down's syndrome with water fluoride level were identified [3, 14, 15, 16, 17, 18] these were all ecological in study design. The studies ranged in publication date from 1957 to 1980, five were conducted in the USA [14, 15, 16, 17, 18] and one was conducted in England. [13] Two of the studies were published in French [17, 16] the others were published in English. Study duration ranged from 2 to 17 years. Case ascertainment was from a variety of sources including birth and death certificates, institutions, surveillance programmes, hospitals, nurseries and schools for mentally retarded children. Most studies attempted to measure incidence by identifying all cases born during the study period, [13, 14, 15, 17, 18] however, one study only measured prevalence, by identifying cases living in institutions and hospitals. [16] The denominator used to calculate risks in most studies [13, 14, 15, 17, 18] was the number of live births in the study areas during the study period however, one study used the populations of the study areas as the denominator. [16] Exposure was classified according to the area of maternal residence for all but one of the studies [15] which classified exposure according to the town of maternal residence 9 months prior to the birth. None of the studies stated how the areas selected for the study were chosen, although for one study [15] the data were originally assembled for a large scale epidemiologic study of Down's syndrome, and data which could be related to water fluoride exposure were included for this study. Details of baseline information and results from each study are presented in table 2.
+The quality of these studies was generally poor; the average validity checklist score was 2.3 with a range of 1.8 to 3.5 out of a possible score of 8. None of the studies had a prospective follow-up, incorporated any form of blinding, had a baseline survey or stated how the level of fluoride in the water was calculated. Controlling for confounding factors was generally inadequate. All studies scored marks for study design (1/2 for using an ecological design) and for adequate length of follow-up i.e. the survey was carried out more than 5 years after the water supply had been fluoridated (Table 3).
+
+Table 3
+
+Validity Assessment (Score out of 8)
+
+
+
+
+
+Author
+
+
+Prospective
+
+
+Study
+
+
+Fluoride
+
+
+Confounding
+
+
+Control for
+
+
+Blinding
+
+
+Baseline
+
+
+Follow-
+
+
+Score
+
+
+
+
+
+
+Design
+
+
+Measurement
+
+
+Factors
+
+
+Confounding
+
+
+
+Survey
+
+
+Up
+
+
+
+
+
+
+Erickson (1976)
+0
+1/2
+0
+1
+1
+0
+0
+1
+3.5
+
+
+Erickson (1980)
+0
+1/2
+0
+1
+1
+0
+0
+1
+3.5
+
+
+Needleman (1974)
+0
+1/2
+0
+1/4
+0
+0
+0
+1
+1.8
+
+
+Rapaport (1963)
+0
+1/2
+0
+1/4
+0
+0
+0
+1
+1.8
+
+
+Rapaport (1957)
+0
+1/2
+0
+1/4
+0
+0
+0
+1
+1.8
+
+
+Berry (1958)
+0
+1/2
+0
+0
+0
+0
+0
+1
+1.5
+
+
+
+
+Table 4 shows the association of water fluoride level and the incidence of Down's syndrome, together with validity score and the confounding factors discussed and controlled for in each study.
+
+Table 4
+
+Association of Down's syndrome with water fluoride level
+
+
+
+
+
+Author (Year)
+
+
+Crude relative risk
+
+
+Confounding factors discussed in
+
+
+Controlled for
+
+
+Validity score
+
+
+
+
+
+
+study
+
+
+
+
+
+
+
+Erickson(1976)
+1.16(p > 0.05)
+Maternal age, race
+Yes
+3.5
+
+
+
+0.96 (p > 0.05)
+
+
+
+
+
+Erickson(1980)
+0.93 (0.7, 1.2)
+Maternal age, race
+Yes
+3.5
+
+
+Needleman(1974)
+1.14
+Maternal age
+No
+2.0
+
+
+Rapaport (1957)
+2.3 (p < 0.01)
+Maternal age
+No
+2.0
+
+
+
+2.9 (p < 0.01)
+
+
+
+
+
+
+2.4 (p < 0.05)
+
+
+
+
+
+Rapaport (1963)
+3.0(p < 0.001)
+Maternal age, minerals in water
+No
+2.0
+
+
+Berry (1958)
+0.841.48
+None
+No
+1.8
+
+
+
+
+Four of the six studies provided a measure of the significance of the association of water fluoride level with Down's syndrome.[18, 14, 17, 16] Two of these studies found no significant difference in Down's syndrome incidence between high and lower water fluoride areas. [18, 14] The other two studies, by the same author, found an increased incidence of Down's syndrome in areas with higher water fluoride levels (p < 0.01, RR ranged from 2.3 to 3.0).[16, 17] One of the other studies did not find any association between water fluoride level and Down's syndrome incidence, [13] depending on the control area selected, the crude relative risk ranged from 0.84 to 1.48. The remaining study [15] suggested a positive association between water fluoride level and Down's syndrome incidence (increased incidence with increased water fluoride concentration) when only the crude incidence rates were compared. To achieve some control for maternal age the analysis was limited to the 30 towns that initiated fluoridation. The rate of Down's syndrome among births in fluoridated areas was compared to the combined rate among births occurring before fluoridation and, for towns that stopped fluoridation, after fluoridation. Limiting the analysis in this way produced two groups comparable in maternal age, and produced similar estimates of the incidence of Down's syndrome in the two groups. Another factor thought to be confounding the association of Down's syndrome with water fluoride exposure was time. Time trend was controlled for and produced a maximum likelihood estimate for the relative risk was 0.95 (95% CI: 0.8, 1.2), suggesting no significant association between Down's syndrome and water fluoride level.
+Although all but one study [13] mentioned maternal age as a confounding factor only two studies controlled for this in the analysis. [14, 18] Both studies included white births only and presented results separately for 5 year age groups. One study [14] also presents age-adjusted rates. A negative non-significant association of water fluoride level with Down's syndrome (decreased incidence with increased water fluoride concentration) was found by this study, when controlling for the effects of maternal age. The other study [18] shows no overall significant differences between the study areas for the results stratified on maternal age, although this study does suggest an increased incidence of Down's syndrome at young maternal ages and a decreased incidence at older ages in the fluoridated areas. A third study [15] presented the mean maternal age in the two study areas and stated that the mean age of mothers was higher in the high fluoride areas than the low fluoride areas (34.0 versus 33.2) and suggested that this difference was large enough to account for the observed difference in Down's syndrome incidence between the two areas, when crude rates were compared. Another study [17] showed that the proportion of cases among mothers aged over 40 was less (11%) in high fluoride areas than low fluoride areas (24%). A study by the same author [16] reported that maternal age was higher in low fluoride areas (34.3) compared to areas fluoridated at 1 ppm (33.2), although the groupings of areas by water fluoride level differ for the description of maternal age compared to the groupings for Down's syndrome incidence.
+
+
+Discussion
+This systematic review suggests that the evidence for an association between water fluoride level and the incidence of Down's syndrome is weak, and that all the identified studies were of poor quality. All results, positive and non-positive, should therefore be considered together with the methodological weaknesses of the studies which could have lead to spurious results. In particular, the results of the two studies [16, 17] which showed a significant positive association with water fluoride level should be interpreted with extreme caution due to the methodological limitations of these studies discussed below.
+The major weakness of these studies was the failure to control sufficiently for confounding factors. All six studies used study designs that measured population rather than individual exposure to fluoridated water and because of this are particularly susceptible to confounding. If the populations being studied differed in respect to other factors that are associated with the outcome under investigation then the outcome may differ between these populations leading to an apparent association with water fluoride level. [19] The incidence of Down's syndrome is known to be strongly associated with maternal age. [20] If the average maternal age of the high fluoride population is higher than that of the low fluoride population an association with water fluoride level would most likely be found, even if such an association does not in fact exist. Maternal age was considered by all but one of the included studies, however only two of the six studies appropriately controlled for the effects of maternal age. The two studies [16, 17] which found a positive association between Down's syndrome and water fluoride level were two of the studies which did not control appropriately for the possible confounding effects of maternal age and so the results of these studies should be interpreted with some degree of caution. Another factor which may affect the association of Down's syndrome with water fluoride level is maternal exposure to other sources of fluoride, such as fluoridated toothpaste, mouthwashes and fluoride tablets. None of the studies controlled for or measured any of these factors.
+Other factors which could have led to misleading study results include selection of study areas, ascertainment of cases, population selected for the denominator, migration, classification of exposure and blinding of investigators to the fluoridation status of cases. If study areas are not selected at random there is a possibility that selection may be biased, for example, a fluoridated area with a relatively high incidence of Down's syndrome (possibly for reasons other than fluoride concentration of the water) and a non-fluoridated area with a relative low incidence may be selected which would result in biased results.
+Case ascertainment must be as complete as possible and must be uniform across study areas otherwise cases in one area may be more likely to be identified than those in another area and possibly result in a misleading finding. All but one [16] of the studies attempted to locate all cases born in the study areas during the study period by searching a variety of sources, these studies all state that they believe that they located the majority of cases. The other study [16] limited case ascertainment to live cases living in institutions and hospitals. Limiting the cases in this way may result in a large proportion of cases (more than half) being missed. [14] This would be a particular problem if the proportion of cases identified differed between the different areas, for example if a higher proportion of cases lived in institution in the fluoridated area compared to the control area this would result in a misleading association. Also, if there more deaths among people with Down's syndrome in one area than another this could result in fewer living people with Down's syndrome in one of the study areas, leading to a possibly biased association.
+The population selected for the denominator may also affect the associations found. One of the two studies [16] which found a positive association used the total population of the study areas as the denominator while all the other studies [13, 14, 15, 17, 18] used the number of live births as the denominator. For studies of birth defects it is more usual to use the total number of births as the denominator. If the population structure of two areas differ, with one area having a higher proportion of women of childbearing age, then the birth rate in this area will also be higher and thus the incidence of birth defects, such as Down's syndrome, is likely to be higher. Using this figure as the denominator can thus lead to false conclusions.
+Classification of exposure is another area where bias can be introduced. Down's syndrome is a genetic defect that occurs at around the time of conception [2] and so water fluoride exposure should be classified according to the area in which the mother was resident at the time of conception. Only one study classified exposure at the time of conception, [15] the others classified exposure at the time of birth, this may lead to the misclassification of births to mothers who moved during their pregnancy. The length of exposure to fluoride necessary to have an effect could be several years in which case the exposure should be classified as women exposed or not exposed to water fluoride for a certain number of years prior to conception. Exposure was not classified in this way in any of the included studies.
+The effects of migration were not discussed in any of the studies. Whether migration could bias study results depends on when the water fluoride level is thought to have an effect on the woman: whether it is a long term build up or a short term effect around the time of conception. If it is the latter then as long as exposure status was identified as exposure at time of conception not birth this should not a problem. However, if there is a fluoride effect with a long induction period, any study of this effect would have to take account of migration.
+Investigators should be blinded to the fluoridation status of the cases that they are identifying otherwise their views on fluoridation may affect the thoroughness of their search for cases. For example, if an investigator believes that there is an association between water fluoride level and down's syndrome, and knows that the sources they are searching to identify cases relate to cases whose mothers have been exposed to high levels of water fluoride, they may be more thorough in their search for cases. None of the studies mentioned blinding of investigators.
+The studies included in the review were all conducted at least 20 years ago. This may be a problem in generalising results to the present time if factors that would affect the incidence of Down's syndrome, and especially its association with water fluoride levels, have changed in that time. It may be that if fluoride has an effect on the incidence of Down's syndrome the mother has to be exposed to fluoride over a long period of time. Fluoridation was first initiated in the 1940s [21] thus many of the women included in these studies may only have been exposed to water fluoride for a short period of time. Another factor which has changed since most of these studies were conducted is the total fluoride exposure of the mothers, fluoride is now available from other sources, to which women would not have been exposed in the earlier studies. Other factors which may affect the incidence of Down's syndrome is the changing demographics of maternal age at birth, with women in the developed world now giving birth at older ages than they did 20 years ago. [22] Abortion is now more acceptable [23] and screening for Down's syndrome is routine, especially in older women, [24] and so the option to terminate a birth if the child is diagnosed with Down's syndrome is now a possibility.
+
+
+Conclusions
+The evidence of an association between water fluoride level and Down's syndrome incidence is inconclusive. However, the quality of the studies included in the review was relatively low and further high quality research is needed. Future studies investigating the association of Down's syndrome with water fluoride levels should measure individual exposure to water fluoride and control appropriately for confounding factors, especially maternal age, incidence of termination of pregnancies in which the child is diagnosed with Down's syndrome, and exposure to other sources of fluoride. Study areas should be chosen at random and investigators should be blinded to the fluoridation status of mothers when identifying cases. The denominator selected to measure the risk of a Down's syndrome birth should relate to the total number of births, not to the overall population of the study area. Case ascertainment should be as complete as possible, and should be identical in all populations studies.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

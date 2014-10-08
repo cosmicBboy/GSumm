@@ -1,0 +1,437 @@
+
+
+Background
+Good prescribing practice has an important part to play in the fight against antimicrobial resistance. Whilst it was perceived that most hospitals and Health Authorities possessed an antibiotic policy, a review of antibiotic policies was conducted to gain an understanding of the extent, quality and usefulness of these policies.
+
+
+Methods
+Letters were sent to pharmacists in hospitals and health authorities in across the South East region of the National Health Service Executive (NHSE) requesting antibiotic policies. data were extracted from the policies to assess four areas; antibiotic specific, condition specific, patient specific issues and underpinning evidence.
+
+
+Results
+Of a possible 41 hospital trusts and 14 health authorities, 33 trusts and 9 health authorities (HAs) provided policies. Both trust and HA policies had a median publication date of 1998 (trust range 1993-99, HA 1994-99). Eleven policies were undated. The majority of policies had no supporting references for the statements made. All policies provided some details on specific antibiotics. Gentamicin and ciprofloxacin were the preferred aminoglycoside and quinolone respectively with cephalosporins being represented by cefuroxime or cefotaxime in trusts and cephradine or cephalexin in HAs. 26 trusts provided advice on surgical prophylaxis, 17 had meningococcal prophylaxis policies and 11 covered methicillin resistant Staphylococcus aureus (MRSA). There was little information for certain groups such as neonates or children, the pregnant or the elderly.
+
+
+Conclusion
+There was considerable variation in content and quality across policies, a clear lack of an evidence base and a need to revise policies in line with current recommendations.
+
+
+
+Background
+In the United Kingdom, concerns around resistance to antibiotics have been expressed for some time, leading to a House of Lords select committee report [1], a report from the Standing Medical Advisory Committee (SMAC) [2] and a subsequent Health Service Circular [3] setting out a course of action for the National Health Service. The Health Service Circular (HSC) was based on four elements of strategy, surveillance, prudent antibiotic use, and infection control. These concerns focussed on the need to treat patients on the one hand but not to so compromise the environment that there is no effective treatment for certain infections.
+In the HSC, Regional Directors of Public Health were tasked to lead the work addressing the problem of antimicrobial resistance with colleagues who were the Regional Epidemiologists and the Regional Prescribing Leads. Regional Prescribing Leads were asked 'to identify good prescribing practice in the use of antimicrobials' and to ensure that information in widely disseminated among those who are involved in prescribing antimicrobials.
+This project was undertaken to review one of the long-standing measures for encouraging good practice and controlling antibiotic use: the antibiotic policy, i.e. guidance or instruction on when and how antimicrobial drugs are to be used [1]. The primary aim was to gain insight into the use of antibiotic policies as a mechanism to encourage good, evidence-based, practice and facilitate the appropriate use of antimicrobials. The advice provided in the policies was assessed against recognised best practice [4].
+
+
+Methods
+The South East region of the NHSE had 14 health authorities within which there were a total of 41 NHS trusts providing hospital and/or community care. Letters were sent in June 1999 to the Chief Pharmacists of the NHS trusts and the Pharmaceutical Advisers of the Health Authorities requesting their antibiotic policies. Those which did not respond were followed up by up to two telephone calls.
+The authors selected four sets of features for the assessment of the policies based around the current guidance [1,2,3]: antibiotic specific issues, a set of conditions to which policies might apply, a set of patient groups who might have special mention in a policy such as neonates or pregnant women. Reference to underpinning evidence for the statements made was sought. The authors formed an opinion of the presentation and user-friendliness of each policy from how easy it was for them, coming new to each policy, to find information. Each set of features was broken down into a series of specific items of advice or information that users might seek in the policies. These items were considered to be important enough to be included in the policies.
+The data were extracted by one author (PJW) and checked by the other (RTMW). Discrepancies were discussed and a consensus reached. Anonymised data for all responses was sent back to Trusts and Health Authorities with a code enabling them to identify their own data. Perceived errors in data extraction were reported back and discussed with the authors. A workshop was held in January 2000 for microbiologists and pharmacists in the region to discuss the findings of this work and the development of future policies.
+
+
+Results
+Thirty-three trusts and nine health authorities provided their policies. There were two groups of trusts (one group with two trusts and one with three) that shared policies, so there were 39 policies to review. Eight trusts did not provide a policy, one teaching trust provided two policies covering three sites, and one HA provided policies for three trusts which were planning to merge. One Mental Health Trust uses its HA policy which, like other HA policies, was written for patients outside acute hospitals. The trust policies were focussed on the needs of patients in acute hospitals.
+The trusts and health authorities that sent in their antibiotic policies were distributed across the whole region. The region had been created in 1999 from parts of three other NHSE regions (Anglia-Oxford, South Thames and South-West). There was no association of non-respondents with their former NHS regions. As far as the authors could determine, the non-respondents did not have current antibiotic policies, rather than refusing to submit their policies to independent review.
+The policies provided had a wide range of presentation styles ranging from an interactive computer programme to a single folded card. The most popular formats were A4 (11 policies), pocket size, including filofax (12 policies) or A5 (11 policies) the remainder being in mixed format or unusual sizes. One trust (the Winchester & Eastleigh NHS Trust) used an electronic format with its policy on the hospital intranet, from which a complex set of printouts, based on a decision analysis process, were supplied for the review.
+Trust policies had a median publication date of 1998 (range 1993-99) and Health Authority policies also had a median publication date of 1998 (range 94-99). Policies from eight Trusts and three Health Authorities were undated.
+The level of information in Trust policies suggested that most policies were written for junior hospital doctors but this was not generally explicit. Policies from Health Authorities were intended for general practitioners. It was not clear if most policies were advisory or mandatory; the only three policies to include a statement on this said that they were advisory. Fourteen of the trust policies and four of the Health Authority policies provided at least one contact telephone number for advice.
+Only two of policies contained references to support their statements (one reference each). At the workshop to discuss the review, the comment was made that references might make the policies to large to carry in the pocket.
+
+Antibiotic Specific Issues
+All policies provided some details on specific antibiotics and the majority (34 out of 41) provided some advice on length of treatment, although this advice was sparse in five of the 34. Fifteen Trusts and five Health Authorities policies provided information on side effects, and contraindications but the advice was often not clearly expressed, lacking in detail and specificity.
+In terms of the drugs of choice, gentamicin was the favoured aminoglycoside where mentioned and ciprofloxacin the favoured quinolone. The cephalosporin group showed a range with cefuroxime and cefotaxime being more popular than cephalexin and ceftriaxone in trusts. Cephradine and/or cephalexin (both oral) were recommended by eight out of nine Health Authorities in their guidance for general practice.
+
+
+Conditions Specific Policies
+All the Trust policies and most (eight out of nine)of the Health Authority policies recommended treatment for specific conditions.
+
+
+Trust policies
+
+Prophylaxis
+Twenty-seven Trust policies provided advice on surgical prophylaxis policies. There was wide variation in the number of regimens (Table 1), from a trust with one recommendation to two Trusts had twenty prophylaxis regimens each specific for different types of surgery. Five Trusts did not have a stated policy despite having surgical departments.
+
+Table 1
+
+Numbers of surgical prophylactic regimens in NHS trusts
+
+
+
+
+Numbers of different regimens recommended in the trust
+Number of trusts
+
+
+
+
+1- 5
+4
+
+
+5-10
+9
+
+
+11-15
+8
+
+
+16-20
+3
+
+
+Each department has own regimen
+3
+
+
+No stated policy
+5
+
+
+Total
+32
+
+
+
+
+(a psychiatric hospital was excluded from this analysis)
+
+
+Meningococcal prophylaxis was in the policies of 17 Trusts, and the remaining Trusts either have no policy or referred the reader to the British National Formulary.
+Fifteen Trusts did not have an explicit policy for antibiotic prophylaxis after splenectomy and three Trusts did not recommend a treatment period for post splenectomy antibiotic prophylaxis.
+
+
+
+Lower respiratory tract infections
+The majority of Trusts favoured amoxicillin for bronchitis, either as the only recommendation (11 trusts) or as one of two or three choices (13 trusts). Erythromycin, trimethoprim, doxycyline, tetracycline and benzylpenicillin were also recommended. Seven Trusts have no stated policy for treating bronchitis (Table 2). Amoxicillin or ampicillin was most frequently recommended as a treatment for pneumonia, followed by the cephalosporins and benzyl penicillin (table 3). Seven other antibiotics appeared one or more times.
+
+Table 2
+
+Antibiotics recommended for bronchitis
+
+
+
+
+Antibiotic
+Hospital Trusts
+Health Authorities
+
+
+
+
+Amoxicillin alone
+12
+2
+
+
+Amoxicillin with alternatives
+13
+5
+
+
+Co-amoxiclav (amoxicillin with
+1
+0
+
+
+clavulanic acid) or tetracycline
+
+
+
+
+No policy
+7
+2
+
+
+Total
+33
+9
+
+
+
+
+
+Table 3
+
+Antibiotics recommended for pneumonia
+
+
+
+
+Antibiotic
+Hospital Trusts
+Health Authorities
+
+
+
+
+Ampicillin/Amoxicillin alone
+3
+0
+
+
+Amoxicillin and/or erythromycin
+5
+7
+
+
+Ampicillin/Amoxicillin with other
+5
+1
+
+
+alternatives
+
+
+
+
+Benzylpenicillin
+8
+0
+
+
+Cephalosporins
+10
+0
+
+
+Co-amoxiclav
+2
+0
+
+
+No policy
+0
+1
+
+
+Total
+33
+9
+
+
+
+
+
+
+Urinary Tract Infections
+Trimethoprim was recommended for cystitis in twenty-eight Trusts (Table 4), but only fifteen restricted the choice to trimethoprim or another specific urinary antimicrobial (nitrofurantoin). Nitrofurantoin was given as an alternative to trimethoprim by six Trusts. Three trusts gave cephalosporins as the first line treatment for cystitis and 13 suggested broad spectrum antibiotics as a alternative to trimethoprim. One policy said that antibiotics were not normally indicated for cystitis.
+
+Table 4
+
+Antibiotics recommended for cystitis
+
+
+
+
+Antibiotic
+Hospital Trusts
+Health Authorities
+
+
+
+
+Trimethoprim
+13
+2
+
+
+Trimethoprim or nitrofurantoin
+2
+1
+
+
+Trimethoprim or a cephalosporin
+7
+4
+
+
+Trimethoprim or another broad
+6
+1
+
+
+spectrum
+
+
+
+
+Cephalosporins first
+3
+0
+
+
+Antibiotic not indicated
+1
+0
+
+
+No policy
+1
+1
+
+
+Total
+33
+9
+
+
+
+
+Only 18 Trust policies made recommendations on treating pyelonephritis and severe urinary tract infections. Injectable cephalosporins were the preferred treatment. Amoxicillin, ciprofloxacin and gentamicin were also mentioned.
+
+
+Diarrhoeal Diseases
+In the policies which covered gastro-enteritis, it was recommended in 17 trusts that no antibiotic treatment be given for most patients, whether there was a known pathogen or not. Ciprofloxacin was listed a treatment for more severe cases in two Trust policies. Twelve Trust policies did not cover gastro-enteritis. For the treatment of C. difficile infection, 14 Trusts advised metronidazole, three advised oral vancomycin and three said that either were suitable.
+
+
+MRSA
+Eleven policies cover the issue of MRSA. The advice ranged from a brief mention to a lengthy document covering a wide range of issues about the treatment of carriers and infected patients
+
+
+Health Authority Policies
+
+Prophylaxis
+Meningococcal prophylaxis (rifampicin for two days) was described by four of the nine Health Authorities. A fifth health authority recommended contacting the Consultant in Communicable Disease Control (CCDC), i.e. the public health physician responsible for controlling infection in the area covered by the health authority. Only one Health Authority mentioned splenectomy prophylaxis, recommending penicillin or erythromycin for at least two years.
+
+
+
+Lower respiratory tract infections
+Amoxicillin was most frequently recommended drug for bronchitis (Table 2) with alternatives as cefaclor, tetracyclines or erythromycin. For pneumonia treated by general practitioners, amoxicillin and erythromycin were treatments most frequently mentioned (Table 3).
+
+
+Urinary Tract Infections
+For cystitis, all Health Authorities favoured trimethoprim with alternatives as nitrofurantoin, cephalosprorin or co-amoxiclav (amoxicillin plus clavulanic acid). Similar treatments were recommended for pyelonephritis, but one Health Authority recommended ciprofloxacin as the first choice (Table 5).
+
+Table 5
+
+Antibiotics recommended for pyelonephritis
+
+
+
+
+Antibiotic
+Hospital Trusts
+Health Authorities
+
+
+
+
+Ampicillin/Amoxicillin plus another
+3
+0
+
+
+antibiotic
+
+
+
+
+Cephalosporins
+14
+0
+
+
+Trimethoprim or other antibiotic
+0
+4
+
+
+Ciprofloxacin
+1
+1
+
+
+No specific policy
+15
+4
+
+
+
+
+
+
+Diarrhoeal Diseases
+All Health Authorities that included a section that stated antibiotics were not generally recommended. The five Health Authorities that mentioned C. difficile favoured metronidazole.
+
+
+Patient Specific Policies
+Generally, there were no policies for neonates or children although some policies included a few neonatal or paediatric doses. Two Trusts did provide guidelines for those groups. There were no policies for the elderly and little advice on antibiotics in pregnancy.
+
+
+Workshop Issues
+The main feature of the workshop was to discuss key elements of antibiotic policy production and maintenance. There was a perception of a lack of quality evidence to underpin policy decisions and implementation with a concern that an evidence base be worked up centrally to the benefit of all. There was consensus that the grade of evidence supporting a particular statement be indicated in the policy document. Updating policies was considered an important task with a full review at approximately two-year intervals with policies having a clear issue date and perhaps an expiry date. Concerns were expressed about the general lack of local audit underpinning policy implementation.
+Discussion around surgical prophylaxis raised a number of issues including lack of evidence, an appearance of defensive practice with regimes for one type of surgery being extrapolated to other surgical interventions and the need to stimulate multicentre trials to answer questions around effectiveness. In terms of ownership and target audience for policy there was a clear steer to bring this activity into the clinical governance agenda. It was agreed that authors of policies should be responsible to Drugs and Therapeutics committees in Trusts. The group considering the content of policies had a majority in favour of a mandatory status for antibiotic policies. A full workshop report can be found as an Appendix, see additional file 1: Appendix.
+
+
+
+Discussion
+The stimulus for this work was the Standing Medical Advisory Committee (SMAC) [2] report and the linked Health Service Circular [4]. The SMAC report states that antimicrobial guidelines should be:
+ Evidence based;
+ State the date the document was created/revised;
+ Contain information on antimicrobial, dose, frequency, and length of course;
+ Indicate strength of the evidence for the recommendation;
+ Show local variation from national guidelines.
+It was clear that some policies were the products of much careful preparation, and could be excellent examples for others who have no policies or are updating policies.
+The variety in the presentations of antibiotic policies came as a surprise. Some were clearly designed for ease of use, with good quality printing, contents lists and pocket sized. Some on a single sheet of A4 paper seemed to be almost too simple. Others were larger, where the policies were part of a hospital formulary or a compendium of advice for hospital doctors. In some of the larger documents, the antibiotic policy was presented in different sections referring to different specialities. The authors tried to put themselves in the position of doctors starting at the hospital trust or in general practice, and we preferred the pocket sized formats dedicated to antibiotics. The computer-based policy used in Winchester could not be compared with the paper-based policies used elsewhere, although it appeared to lie more at the large and complex end of the spectrum of styles.
+The trusts that were sharing policies had done so because of mergers, either of the whole trusts or their microbiology departments. In three health districts, there was a relationship between the trust policies and the guidance given to GPs. Greater collaboration between trusts, and with health authorities would enable them to reduce the labour in producing better policies and to lessen the confusion for staff who move between hospitals. This view was also clearly stated during the workshop with the construction of the evidence base seen as an area requiring collaboration at least at regional level and possibly nationally.
+Several trusts were in the process of updating their policies during this study, and some have subsequently submitted their latest drafts, this is reflected in the tables. It is important that the date that a policy is written should be prominent on the front cover, to avoid out-dated policies being used. Some trusts and health authorities regularly update their policies and this should be encouraged as good practice.
+Although some of the policies were conceived or written before the current emphasis on evidence-based practice, we were surprised that there were no policies which statements that were backed with references. Examples of easily available reviews are the guidance of meningococcal treatment and prophylaxis [5], and prophylaxis for asplenic patients [6]. These would have provided junior doctors with more detailed information to supplement a pocket sized antibiotic policy. Given the wide possibilities for surgical prophylaxis, supporting references would be a valuable addition to the text. An evidence base needs to be developed for surgical prophylaxis that covers the vast number of potential permutations when considering type of surgical intervention, choice of antibiotic, timing and number of doses among others. It was expected that all policies would cover the common infections of the urinary and lower respiratory tracts, and that there would be guidance on the treatment of gastro-enteritis. Other infections, which were not reviewed in detail, but covered by most policies, were pharyngeal and skin infections. Most policies gave guidance on treating meningitis, but it is surprising that only approximately 50% of the policies gave useful instructions on prophylaxis for the contacts of meningitis. It is also surprising that there were some trust policies that did not cover surgical prophylaxis and it is disappointing that post-splenectomy prophylaxis was infrequently described.
+The wide publicity on MRSA does not seem to have greatly affected antibiotic policies as less than a half included any statement on the subject. At the workshop following the survey, it was pointed out that trusts may have sections on MRSA in their infection control policies. MRSA policies should be explicitly mentioned in trust antibiotic policies with appropriate cross-references to other policies.
+It might be argued that because antibiotics are generally safe, dosage related to age is not an important issue. However two examples where this is important concerns ciprofloxacin which is contra-indicated below 12 years of age and in pregnancy; also aminoglycoside dosage is affected by age. It was evident that some policies had been prepared with a premium placed on brevity. Nevertheless, it appears that the policies should give advice on contra-indications and side effects, and on dosages appropriate to very young children and the elderly. If policies are to be useful, they should aim to cover all the important prescribing points.
+One factor that merits further consideration is whether policies should be mandatory or advisory. Whilst health authority policies may have to be issued as guidance to independent contractors such as general practitioners, it appeared that trust policies were written more as advice than as firm instruction. The development of primary care trusts and clinical governance may lead to antibiotic policies becoming more directive. If this is to be acceptable, policies will have to be evidence based, and be able to stand up to scrutiny. Some research has been carried out on the place of antibiotics and attitudes towards such policies. One US based study indicated that prescribers preferred and adhered more closely to policies, which involved an educational, rather than a restrictive approach [7] . Spending on antimicrobial drugs represents approximately 20% of drug expenditure in UK hospitals with between a quarter and a third of all patients receiving an antimicrobial agent whilst in hospital [8]. This overview is not essentially about cost savings but there may be savings by managing antibiotics effectively [8]. The important point is that the investment of developing sound antibiotic policies including the associated educational role has the potential to be cost effective.
+While it is true that there is no absolute proof of a causative association between antibiotic use and resistance, most authorities believe the association to be 'virtually certain' [9].
+In a working party report for the British Society for Antimicrobial Chemotherapy [10] details of a much larger survey were reported. The authors published an appendix of nine minimum control measures. These cover broadly similar issues but have generally not been implemented. To the list, the need for an evidence base should be added.
+National guidelines have now been issued for primary care [11] but the authors are not aware of a model policy for secondary care.
+
+
+Conclusions
+There is clearly a wide variation across the structure and content of antibiotic policies in the SouthEast. It is hoped that this review will lead to a revision of policies to bring them into line with current recommendations. The overall aim is to ensure that an effective range of antibiotics is maintained. Policies alone will not achieve this, and there needs to be local ownership by all prescribers with effective monitoring to ensure that compliance with the local antibiotic policy can be demonstrated.
+Perhaps the most pressing need is the development of an evidence base to underpin not only the content of policies but also their implementation and use. This needs to be carried out by a suitable group nationally in order that all may benefit.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+
+
+Supplementary Material
+
+
+Additional files 1-5
+Additional File 1. Appendix - Word file describing feedback from the workshop to discuss the findings of the survey attended by clinicians and pharmacists.
+Additional File 2. Policysummary - Spreadsheet providing description of individual antibiotic policies
+Additional File 3. Antibiotic - Spreadsheet providing antibiotic recommendations by individual antibiotic policy
+Additional File 4. Condition - Spreadsheet providing condition specific recommendations in individual antibiotic policies
+Additional File 5. Patient - Spreadsheet providing patient specific recommendations in individual antibiotic policies
+
+
+
+Appendix
+
+
+
+
+Policysummary
+
+
+
+
+Antibiotic
+
+
+
+
+Condition
+
+
+
+
+Patient
+
+
+
+

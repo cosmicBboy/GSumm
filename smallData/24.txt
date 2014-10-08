@@ -1,0 +1,943 @@
+
+
+Background
+In the city of Chennai, India, registration of the fact of death is almost complete but the cause of death is often inadequately recorded on the death certificate. A special verbal autopsy (VA) study of 48 000 adult deaths in Chennai during 199597 was conducted to arrive at the probable underlying cause of death and to measure cause specific mortality rates for Chennai.
+
+
+Methods
+Trained non-medical graduates with at least 15 years of formal education interviewed the surviving family members or an associate of the deceased to write a report on the complaints, symptoms, signs, duration and treatment details of illness prior to death. Each report was reviewed centrally by two physicians independently. The reliability was assessed by comparing deaths attributed to cancer by VA with records in Vital Statistics Department and Chennai Cancer Registry.
+
+
+Results
+The VA reduced the proportion of deaths attributed to unspecified medical causes and unknown causes from 37% to 7% in early adult life and middle age (2569 yrs) and has yielded fewer unspecified causes (only 10%) than the death certificate. The sensitivity of VA to identify cancer was 94% in the age group 2569.
+
+
+Conclusion
+VA is practicable for deaths in early adult life or middle age and is of more limited value in old age. A systematic program of VA of a representative sample of deaths could assign broad causes not only to deaths in childhood (as has previously been established) but also to deaths in early adult life and middle age.
+
+
+
+Background
+Chennai is a South Indian city of 4.2 million people (in mid-1997) with 33 registered and 35 private burial or cremation grounds. The health authority requires a medical certificate for all deaths at the time of disposal of the body. A medical certificate giving the cause of death can be obtained before taking the body to the burial ground either from the hospital where death took place or (for the 75% of adult deaths attributable to medical causes that take place at home) from a private medical practitioner, which specifies whether the death was due to suicide, homicide, accident, or disease, and which should (but often does not) specify which disease was involved. Most of the time the private medical practitioner will not have treated or examined the deceased. Hence, the information on the death certificates of those who die at home may not reliably describe the underlying cause, if that cause was medical. If a medical certificate was not obtained beforehand, then symptoms, complaints and duration of illness prior to death are collected from the close relatives at the burial ground and forwarded to the Vital Statistics Department (VSD), where a medical officer certifies the "probable" cause of death (and, in particular, records whether death was probably due to medical or to external causes). Individuals whose deaths might have been due to external causes are often subjected to postmortem examination, but others are not.
+Elsewhere, systematic retrospective inquiry of family members about the symptoms and signs of illness prior to death has been used to help determine the underlying medical cause of death, particularly in childhood [1-3]. For childhood deaths in populations that are not covered by adequate medical services such "verbal autopsies" are now of established value in helping to classify the broad patterns of mortality. Verbal autopsies have also been used to assess the medical causes of maternal deaths [4-7]. Although in India there are about as many deaths in middle age as in childhood, there is less experience with verbal autopsies of adult deaths. The families of all adults (aged 25 and over) who were registered as having died of a medical cause during 199597 in Chennai were interviewed by trained non-medical graduate field workers about the complaints, symptoms, signs and duration of illness prior to death and treatment details of the illness. The field interviewers provided a written summary (usually about half a page) of the interview, which was then read by two independent medical doctors. This report is of the extent to which such verbal autopsies of the adult deaths appear to improve our knowledge of which diseases were the underlying causes of adult deaths before old age (ie at ages 2569). The probable diagnosis of underlying cause of death based on verbal autopsy report helped us to measure reasonably reliable cause specific adult mortality rates for Chennai, India.
+
+
+Methods
+Information on deaths that occur in Chennai has been maintained manually by trained staff in the Vital Statistics Department (VSD). From the death registers in the Vital Statistics Department, the staff of the Division of Epidemiology at the Cancer Institute abstracted the following data on to a register: deceased name, age, gender, marital status, father/spouse name, informant's name, occupation, place of death, address at the time of death, date of death and recorded cause of death (immediate, underlying and/or contributory). For the deaths that took place in the Government. hospitals these details were copied from the death registers maintained in the hospitals in order to get more information on cause of death. Where there was a stated cause of death on the death certificate, it was coded by the medical record officer, who was trained to code causes of death according to the 9th International Classification of Diseases, Injuries and Causes of Death [8] and it was checked by the first author.
+The total number of deaths recorded among those aged 25 and above in Chennai during 19951997 was 72 165, of which 5288 (7%) were attributed to external causes by the VSD, ie.. to accident, poisoning, suicide, homicide and other violence. The deaths due to external causes were excluded from this study, leaving the 66 877 deaths attributed by the VSD to medical causes. Male non-medical graduates with at least 15 years of formal education were trained to interview the spouse and/or other close relative of the deceased living in the same house on complaints, symptoms, signs and duration of illness and treatment details of the illness. To limit distress over the terminal event the field visit was carried out at least six months after death. Name of the deceased, father's name (if the deceased was a male) or spouse name (if the deceased was a female), age, gender, informant's name and address of the deceased at the time of death were given to field interviewers to locate the house of the deceased. Field interviewers were blind to the cause of death stated on the death certificate. They were taught about all major symptoms (they had the list with them while doing the field visit). Field interviewers enquired about the death. If a symptom was present (symptom was used as a filter to define what questions to be asked), additional questions were asked about the associated symptoms, duration of the symptoms, any treatment received (type of treatment received), if admitted to a hospital, name and location of the hospital and duration of hospitalisation and, history of past treatment and hospitalisation for the similar episode(s). For example, the filter symptom for heart attack was chest pain and the associated symptoms were breathlessness, sweating, vomiting and pain in the retrosternal area, hand, shoulder, back etc. Cough for more than 4 weeks was a filter for lung cancer and tuberculosis. If the surviving family members were not able to give any information on the symptoms of the illness prior to death, then field interviewers asked them one by one the symptoms given in the list. Field workers wrote the report in local language (Tamil) on the back side of the questionnaire as stated by the spouse / close relative. Thus open format was used for verbal autopsy in Chennai. Each report was reviewed centrally independently by two medical doctors to arrive at "probable underlying cause of death" that they coded it according to the 9th International Classification of Diseases, Injuries and Causes of Death [8]. Discrepancies were always discussed and resolved soon after they arose, which quickly led to the establishment of consistent coding conventions. Six operators entered data twice into the computer.
+Five supervisors monitored the daily numbers interviewed and checked the field visit reports. The field visit report was validated by re-interview of 5% of the collected data by one or other of two special interviewers, with random selection for re-interview taking place one week after completion of the main interview, and blind to its results. This re-interviewing was done partly because knowledge that a resurvey might well take place would ensure reliably motivated fieldwork at the initial survey, and partly to check whether there were any systematic defects in the technique of any of the field workers: none were found.
+The VSD records were linked with the Chennai Cancer Registry records to assess the validity of the method used for VA. The Chennai cancer registry is a demographic registry in the network of the Indian Council of Medical Research, Govt. of India. The Registry has been functioning since 1982 at the Cancer Institute(WIA), Chennai. Cancer is not a notifiable disease in India. Hence registration has been done by the direct interview and /or review of medical records for cancer diagnosis and treatment. The Registry operations are constantly monitored with emphasis on the quality of data collected which includes re-screening of cancer cases registered from various sources, exercises on re-abstraction and coding of the diagnosis and treatment on a random sample of cases and, validity checks for unlikely combinations of age, sex, site and morphology.
+We now report the results of the verbal autopsy among adult deaths and cause specific adult mortality rates for Chennai.
+
+
+Results
+The total number of deaths attributed by the VSD to medical causes among adults aged 25 and over during 199597 in Chennai was 66 877 (M: 38 649, F: 28 228) of which 75% (50 387) of them were recorded as having taken place at home. Of the total deaths attributed to medical causes by VSD, 18 520 could not be traced, because the address in the vital statistics department was missing or inadequate, the house no longer existed or the occupants had moved house after death. (The training programs for the Birth and Death clerks in the Chennai Vital Statistics Department have subsequently focused on the importance of collecting the complete address with pincode, which would help in tracing the house for any population study in Chennai). For the remaining 48 357 deaths, the spouse (or close associate) was interviewed to determine the probable underlying cause (Flow chart 1, Figure 1). Table 1 shows that the causes of death assigned by the VSD were similar for those traced and those not traced for verbal autopsy. Table 2 shows that the VA reduced the percentage of deaths attributed to unspecified medical causes in each age group. VA is practicable in early adult life and middle age and is of more limited value in old age ( 70 yrs).
+
+Figure 1
+
+Figure
+
+
+
+
+Table 1
+
+Cause of death from Vital Statistics Department* among adults aged  25 in Chennai, India: 19951997.
+
+
+
+
+
+Traced successfully for VA (n = 48 357)
+
+
+Not traced for VA (n = 18 520)
+
+
+
+
+Causes of death (ICD9 codes)
+Cause of death from VSD
+Cause of death from VSD
+
+
+
+M (%)
+F (%)
+M (%)
+F (%)
+
+
+Vascular disease (390415, 418459)
+8319(30)
+5168(25)
+2950(27)
+1731(23)
+
+
+Neoplasm (140239)
+1163(4)
+1002(5)
+575(5)
+443(6)
+
+
+Respiratory tuberculosis (011, 012, 018)
+1399(5)
+372(2)
+659(6)
+161(2)
+
+
+Other respiratory diseases (416, 417, 460519)
+1088(4)
+596(3)
+659(6)
+333(4)
+
+
+Other infection (rest of 1139, 279.8 [HIV],3206, 590, 6806)
+584(2)
+303(2)
+33(0.3)
+8(0.1)
+
+
+Other specified medical causes
+1899(7)
+1045(5)
+797(7)
+446(6)
+
+
+Unspecified medical causes (7809, 7979)
+12291(44)
+11511(56)
+4480(41)
+4066(54)
+
+
+No cause given in VSD (hence probably medical)
+983(4)
+634(3)
+770(7)
+409(5)
+
+
+Total attributed by VSD to medical causes
+27726(100)
+20631(100)
+10923(100)
+7597(100)
+
+
+*Attributed by VSD to non-medical causes
+
+-
+-
+3644
+1644
+
+
+Re-assigned by VA to external causes
+683
+456
+-
+-
+
+
+Assigned by VA To medical causes
+27043
+20175
+-
+-
+
+
+
+
+*Deaths(M: 3644; F:1644) that were assigned by the Vital Statistics Department(VSD) to non-medical causes were excluded from the study.
+
+
+
+Table 2
+
+Numbers of adult deaths assigned to unspecified medical causes (senility, unknown or ill-defined causes) in VSD and based on verbal autopsy for those in the special study
+
+
+
+
+Age-group
+Number and % of deaths assigned to senility, unknown or ill-defined causes
+All deaths attributed to medical causes
+
+
+
+
+
+Male
+Female
+Male
+Female
+
+
+
+
+
+
+
+
+VSD
+VA
+VSD
+VA
+
+
+
+
+
+
+
+
+
+
+No (%)
+No (%)
+No (%)
+No (%)
+No
+No
+
+
+2534
+244 (22)
+51 (5)
+187 (29)
+48 (7)
+1095
+655
+
+
+3544
+460 (21)
+39 (2)
+240 (24)
+54 (5)
+2206
+995
+
+
+4554
+790 (21)
+65 (2)
+396 (23)
+71 (4)
+3697
+1693
+
+
+5564
+2108 (38)
+291 (5)
+1349 (42)
+384 (12)
+5614
+3182
+
+
+6569
+1931 (56)
+422 (12)
+1491 (60)
+499 (20)
+3464
+2500
+
+
+Subtotal:
+
+
+
+
+
+
+
+
+2569
+5533 (34)
+868 (5)
+3663 (41)
+1056 (12)
+16076
+9025
+
+
+7074
+2184 (60)
+815 (23)
+1861 (67)
+848 (30)
+3623
+2786
+
+
+75+
+5066 (69)
+2727 (37)
+6272 (75)
+4056 (49)
+7344
+8364
+
+
+Total deaths
+12783
+4410
+11796
+5960
+27043
+20175
+
+
+
+
+In Tables 3 and 4 the underlying cause of death derived from verbal autopsy is compared with the cause of death stated on the death certificates for deaths that occurred in the hospital and did not occur in the hospital(in the community) at ages 2569. For those recorded as dying in hospital and elsewhere(not in the hospital) of natural causes, 25% (1853/7314) and 41% (7343/17787) respectively had unspecified medical cause on the death certificate, but 94% (1739/1853) and 78% (5747/7343) respectively of these deaths then had a specific cause assigned to them by verbal autopsy. The verbal autopsy reduced the proportion of deaths attributed to unspecified medical causes and unknown causes from 37% down to 7%. Of deaths, where causes other than ill-defined or unknown were given both by the death certificate and by VA about 80% of these causes among early adult life and middle age (2569 yrs) agreed in terms of broad groupings. Among those with some information on the cause the proportion attributed to vascular diseases and respiratory diseases in the VSD were decreased from 53% and 17% to 47% and 16% respectively by VA with corresponding increase in the proportions (and, still more so, the absolute numbers) attributed to other causes.
+
+Table 3
+
+Deaths (male and female) at ages 2569 in hospital: comparison between cause of death on death certificate and verbal autopsy in Chennai, India in 199597:
+
+
+
+
+Verbal autopsy only
+Cause of death on death certificate
+
+
+
+
+Causes
+Vasc
+Resp
+Neop
+Infect
+Unsp
+Other Sp
+Total
+
+
+
+
+
+
+
+1. Vascular disease (Vasc)
+2114
+196
+19
+11
+947
+129
+3416
+
+
+2. Respiratory diseases including pulmonary TB (Resp)
+94
+571
+6
+8
+204
+35
+918
+
+
+3. Neoplasm (Neop)
+85
+36
+462
+22
+158
+37
+800
+
+
+4. Infection (except Resp) (Infect)
+51
+29
+4
+203
+111
+53
+451
+
+
+5. Unspecified medical (unsp)
+30
+12
+8
+1
+114
+11
+176
+
+
+6.Other specific medical illness(Other Sp.)
+219
+67
+11
+45
+319
+892
+1553
+
+
+Total
+2593
+911
+510
+290
+1853
+1157
+7314
+
+
+
+
+ICD9 Codes: Vasc- 390415, 418459; Resp  011, 012, 018, 416, 417, 460519; Neop- 140239, Infect  1139, HIV, 320326, 590, 680686; Unsp  780789, 797799; Other sp  rest of 000799
+
+
+
+Table 4
+
+Deaths (male and female) at ages 2569 not in hospital: comparison between cause of death on death certificate and verbal autopsy in Chennai, India in 199597
+
+
+
+
+Verbal autopsy only
+Cause of death on death certificate
+
+
+
+
+Causes
+Vasc
+Resp
+Neop
+Infect
+Unsp
+Other Sp
+Total
+
+
+
+
+
+
+
+1. Vascular disease (Vasc)
+4670
+183
+18
+11
+2593
+94
+7569
+
+
+2. Respiratory diseases including pulmonary TB (Resp)
+290
+1438
+13
+16
+971
+46
+2774
+
+
+3. Neoplasm (Neop)
+297
+74
+1182
+24
+670
+41
+2288
+
+
+4. Infection (except Resp) (Infect)
+103
+38
+2
+217
+399
+49
+808
+
+
+5. Unspecified medical (unsp)
+88
+25
+20
+3
+1596
+15
+1747
+
+
+6.Other specific medical illness(Other Sp.)
+372
+53
+12
+194
+1114
+856
+2601
+
+
+Total
+5820
+1811
+1247
+465
+7343
+1101
+17787
+
+
+
+
+ICD9 Codes: Vasc- 390415, 418459; Resp  011, 012, 018, 416, 417, 460519; Neop- 140239, Infect  1139, HIV, 320326, 590, 680686; Unsp  780789, 797799; Other sp  rest of medical causes
+
+
+Where a cause recorded on the death certificate in the VSD differed from the underlying cause assigned by the VA, there was often no absolute way of knowing which was correct (where the doctor-assigned cause on the death certificate lacked detail, the VA may well be more reliable, and vice-versa) except for cancer deaths which could be verified with the Chennai cancer registry records. Hence, the validity of VA diagnosis was assessed only for cancer deaths(ICD 9:140208) by comparing with the stated cause of death in the VSD; all deaths registered in the VSD irrespective of stated cause of death on the death certificate were linked with the Chennai cancer registry records to confirm the deaths attributed to cancer.
+Table 5 shows that 3053 deaths were attributed to cancer by VA. Of these, 1435 deaths were attributed to non-cancer in the VSD and data on all except 288 deaths were available in the Chennai Cancer registry; Thus Chennai cancer registry missed data on 288 cancer cases both in the routine morbidity and mortality data registration process. Majority of the missed cancer deaths were attributed to ill-defined/unknown followed by vascular causes in the VSD. All cancer deaths identified by VA were confirmed by linking with Chennai Cancer Registry records and hospital medical records. So there were no false positive cancer deaths recorded by VA. However VA failed to identify 107 cancer deaths. Thus the sensitivity of VA to identify cancer was 94% (1618/1725) and the Chennai cancer registry missed 9% (288/3160) of total cancer deaths in the early adult life and middle age.
+
+Table 5
+
+Cancer (ICD 9: 140208) deaths at ages 2569 in Verbal autopsy (VA) and VSD (linked with Chennai cancer registry records)
+
+
+
+
+VSD
+
+
+
+
+
+
+Cancer
+Noncancer
+Total
+
+
+VA
+Cancer
+1618
+1435
+3053
+
+
+
+Noncancer
+107
+21941
+22048
+
+
+
+Total
+1725
+23376
+25101
+
+
+
+
+Death rates for selected causes for adult men and women are given in Table 6. Higher death rates from complications of pregnancy were seen among young adults and the death rates attributed to diabetes were almost similar among men and women. Death rates for other causes were higher among men compared to women.
+
+Table 6
+
+Selected causes and age group & sex-specific death rates/100 000 population (in mid 1996) based on VA reports in Chennai
+
+
+
+
+
+
+Age  group
+
+
+
+
+Causes of death (ICD 9)
+Sex
+2534
+3544
+4554
+5564
+6569
+7074
+75+
+3569
+
+
+All medical causes
+M
+145.7
+342.2
+927.0
+2153.5
+4844.1
+8298.6
+20710.1
+1670.0
+
+
+
+F
+94.5
+180.6
+466.5
+1347.3
+3777.6
+7245.0
+26011.5
+1109.5
+
+
+Tuberculosis
+M
+27.3
+64.5
+130.1
+189.5
+293.7
+405.4
+603.5
+151.7
+
+
+(011,012,018)
+F
+10.0
+16.7
+31.7
+41.5
+117.9
+119.6
+245.7
+42.5
+
+
+Other respiratory diseases
+M
+4.4
+14.4
+47.4
+128.1
+383.2
+558.9
+1274.6
+109.0
+
+
+(416,417, 460519)
+F
+3.6
+8.4
+25.4
+72.4
+207.0
+275.7
+951.6
+59.9
+
+
+HIV
+M
+1.5
+1.1
+0.8
+0.0
+0.0
+2.3
+0.0
+0.5
+
+
+
+F
+0.0
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.1
+
+
+Other infective causes
+M
+15.2
+24.2
+47.9
+77.5
+191.6
+274.9
+899.6
+70.1
+
+
+(1139,3206,590,6806)
+F
+9.4
+11.8
+16.0
+60.1
+167.7
+325.1
+1219.1
+49.1
+
+
+Neoplasm
+M
+11.6
+302
+99.5
+249.3
+478.3
+662.0
+902.4
+176.6
+
+
+(140239)
+F
+11.4
+37.2
+106.1
+205.8
+395.9
+595.5
+842.8
+156.3
+
+
+Cardiovascular M 39.0
+
+
+119.6
+385.1
+941.3
+1903.2
+2899.8
+5662.6
+685.0
+
+
+(390415,41829,44059)
+F
+24.2
+63.4
+177.5
+532.7
+1450.6
+2319.7
+6484.2
+428.3
+
+
+Cerebrovas-cular(stroke)
+M
+2.7
+10.1
+36.6
+115.5
+299.3
+577.2
+1308.5
+89.1
+
+
+(43039)
+F
+3.2
+3.6
+18.2
+74.9
+240.3
+517.5
+1645.2
+62.0
+
+
+Peptic ulcer
+M
+1.1
+1.6
+4.0
+7.3
+14.0
+34.4
+45.1
+5.7
+
+
+(5313)
+F
+1.0
+1.3
+1.7
+5.1
+18.1
+26.0
+49.8
+4.9
+
+
+Diabetes
+M
+1.2
+5.1
+16.0
+82.9
+198.6
+455.8
+995.5
+58.1
+
+
+(250)
+F
+1.3
+3.3
+24.0
+78.8
+195.0
+522.7
+1035.6
+58.2
+
+
+Hepatic
+M
+17.4
+38.5
+75.0
+113.9
+186.0
+226.8
+296.1
+91.5
+
+
+(5703)
+F
+7.5
+9.1
+15.7
+29.6
+45.3
+62.4
+130.6
+22.0
+
+
+Renal
+M
+6.8
+11.8
+32.6
+69.4
+138.4
+153.5
+609.1
+52.3
+
+
+(58099)
+F
+6.2
+7.6
+19.3
+52.9
+117.9
+166.4
+391.9
+39.6
+
+
+Complications of pregnancy (63076)
+F
+4.2
+1.3
+0.0
+0.4
+0.0
+0.0
+0.0
+0.5
+
+
+All non-medical causes
+M
+112.8
+114.0
+134.5
+148.2
+154.4
+192.7
+370.8
+135.4
+
+
+(E800E999, 800999)
+F
+78.9
+43.6
+35.4
+51.5
+75.9
+140.4
+373.4
+48.1
+
+
+
+
+
+
+Discussion
+In developed countries, data on disease-specific mortality by age are readily available from national vital registration. In developing countries, the levels of coverage of vital registration and reliability of cause of death stated on the death certificate are generally low (especially in rural areas).
+Reliable assessment of disease-specific mortality rates is not yet possible in many parts of India, either because the underlying cause of the terminal illness was never known or because the relevant information was not recorded. For legal purposes death records do usually subdivide the causes of death into medical and non-medical (external) causes. But once non-medical causes have been excluded, specification of the underlying cause of a death from disease may be inaccurate, misclassified or missing for about 50% of adult deaths.
+This special study of verbal autopsy carried out in Chennai among 48 000 adults aged 25 and above at the time of death during 199597. Of the 25 000 male and female deaths at ages 2569, 7000 took place in hospital, and for these the underlying cause should have been entered onto the death certificate by a hospital doctor. For the most of the remaining 18 000 deaths at these ages, the death certificate was obtained from a physician practicing near the deceased's place of residence and he might not have had a chance of treating the deceased when he/she was alive. So, for these deaths, the cause on the death certificate may well have been unspecified (41%). VA yields fewer unspecified causes (only 10%) than the death certificate, particularly for the deaths that did not occur in hospital, and often yields somewhat more specific information, eg. about the approximate site of origin of a cancer, or about evidence of tuberculosis, stroke, myocardial infarction or diabetes. In addition, the probable cause of death arrived by verbal autopsy allows subdivision into the broad groups of disease.
+The validity of verbal autopsy may have depended on the training of the interviewer, on the immediate random checking of the 5% of interview data to assess the reliability and reproducibility of the procedures and on the availability of physicians to interpret the field reports to arrive at the probable underlying cause of death. In the present study, field reports were reviewed centrally by physicians to arrive at the probable cause of death; for those settings where physician review is not possible, algorithms provide an alternative approach for assigning cause of death [9]. The cause of death arrived based on reviewing verbal autopsy reports by physicians is better than that arrived by opinion-based algorithm [10].
+In Chennai, registration of the fact of death is almost complete, as is the subdivision into medical and other causes but certification of the underlying cause of death is less reliable. A study done in Chennai [11] showed that the sensitivity of the death certificate to identify cancer as the cause of death was 57%; in Chennai about 7580% of cancer patients attend health care facilities at late stage of the disease; for about half of those who died at home soon after the diagnosis of cancer (and whose deaths were therefore, in almost all cases, likely to have been caused by their cancer) do not have cancer mentioned on their death certificate [11], and for other diseases the problems might well be even worse. In the present study the sensitivity of VA to identify cancer deaths was 94% and there were no false positive cancer deaths. The high sensitivity seen in this study may be due to the ascertainment of data from the spouse (close associate) by the field interviewers on the type and duration of treatment received by the deceased for their illness and the name of the hospital (location of the hospital) and/ or name of the unit (eg. Cancer unit / Coronary Care Unit etc) where they were admitted for treatment. Most of the close associates of the deceased were aware of the diagnosis of the illness as told by the treating physician. Higher sensitivity of verbal autopsy suggests that there is less likelihood of over estimation of underlying cause of death. In this study wife appeared to be a better responder than husband. This may be due to the following reasons: wife remembers the circumstances that led to death of her spouse better than husband remembering his spouse's death because of more attention and care is given to the health of males in the community than of females in general.
+About 80% of world's death occur in developing countries; but estimation of cause of death is more difficult in developing countries because of paucity of mortality statistics. Verbal autopsy of all adult deaths helped us to compute mortality rates for Chennai. Among infectious diseases death rate for respiratory tuberculosis was higher compared to other infectious diseases from 2574 years among men and from 2554 years among women. Among vascular diseases death rates from cardiovascular was higher in all age groups in both genders compared to death from stroke. Over all, the mortality rates in Chennai are higher than the rates in developed countries [12]. However mortality rates for neoplasm and cerebrovascular diseases are lower and that for cardiovascular and respiratory diseases are higher in Chennai in the age group 3569 compared to similar age group in developed countries in both genders. The mortality rates among males and females for tuberculosis in the early adult life and middle age in Chennai is about 14-fold and more than 20-fold higher, respectively, than the mortality rates in developed countries.
+The strengths of the study are: 1. large sample size that included all deaths attributed to medical causes in a defined area to avoid selection bias, 2. open format used for verbal autopsy to collect data on all causes of death instead of restricting to few causes as in a structured questionnaire, 3. review of verbal autopsy reports centrally by 2 physicians, independently, to arrive at probable underlying cause of death and 4. validation of the field visit reports by re-interview of 5% of the collected data by special interviewers.
+
+
+Conclusions
+The present study shows that the sensitivity of verbal autopsy to identify cancer deaths as 94%. For deaths in early adult life or middle age 'verbal autopsy' yields broad classification of the underlying causes of about 90% of all deaths: in old age, however, the proportion classifiable is substantially lower. The verbal autopsy reduced the proportion of deaths attributed to unspecified medical causes and unknown causes from 37% down to 7%. VA identified 288 deaths at ages 2569 which were not registered in the Chennai Cancer Registry. This study revealed that the possibility of ascertaining at least the leading causes of death, reducing the misclassification of cause of death on the death certificate and deriving the probable underlying cause of death when it has not been reported to the Chennai Vital Statistics Department. Since the proportion of people who die while under medical care is low, about 75% of adult deaths attributable to medical causes took place at home, and more than half of these involved no certified cause in Form 4A, verbal autopsy can be of substantial help in assessing the underlying cause of death. More work, however is still needed to develop optimal strategies for making it more specific, and for combining information from verbal autopsy interviews with information from other sources.
+
+
+Competing interests
+None declared
+
+
+Authors' contributions
+Author 1 VG: design, implementaion, conduct, analysis, interpretation of the results and manuscript; review of VA reports.
+Author 2 RP: design, coordination, interpretation of the results and manuscript
+Author 3 SK: review of VA reports
+Author 4 SB: assistance in data base management and statistical work
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

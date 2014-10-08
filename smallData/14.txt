@@ -1,0 +1,138 @@
+
+
+Background
+In most endemic parts of the world, onchocerciasis (river blindness) control relies, or will soon rely, exclusively on mass treatment with the microfilaricide ivermectin. Worldwide eradication of the parasite by means of this drug is unlikely. Macrofilaricidal drugs are currently being developed for human use.
+
+
+Methods
+We used ONCHOSIM, a microsimulation mathematical model of the dynamics of onchocerciasis transmission, to explore the potentials of a hypothetical macrofilaricidal drug for the elimination of onchocerciasis under different epidemiological conditions, as characterized by previous intervention strategies, vectorial capacity and levels of coverage.
+
+
+Results
+With a high vector biting rate and poor coverage, a very effective macrofilaricide would appear to have a substantially higher potential for achieving elimination of the parasite than does ivermectin.
+
+
+Conclusions
+Macrofilaricides have a substantially higher potential for achieving onchocerciasis elimination than ivermectin, but high coverage levels are still key. When these drugs become available, onchocerciasis elimination strategies should be reconsidered. In view of the impact of control efforts preceding the introduction of macrofilaricides on the success of elimination, it is important to sustain current control efforts.
+
+
+
+Background
+Onchocerciasis, or river blindness, is caused by infection with the filarial parasite Onchocerca volvulus. The parasite is transmitted by Simulium species (blackflies) that breed in fast flowing streams [1,2]. Until recently the blindness and skin pathology caused by heavy infections, constituted a major public health problem in many parts of tropical Africa, Yemen, and Latin America. This consideration led to the establishment of the Onchocerciasis Control Programme (OCP) [3] in West Africa, the Onchocerciasis Elimination Program in the Americas (OEPA) [4], and the African Program for Onchocerciasis Control (APOC) [5,6]. All three programmes have come to rely on the regular (OEPA semi-annually, OCP both annually and semi-annually, and APOC annually) distribution of ivermectin (Mectizan) to lower the microfilarial load in affected individuals and thereby reduce transmission and mitigate the clinical manifestations of the infection [7]. In addition, since 1975, OCP has made intensive use of vector control by means of aerial larviciding. This has led to the virtual elimination of the parasite from many formerly endemic areas. However, as the OCP will come to an end in 2002, potential recrudescence of the infection, resulting from residual foci or immigration of infected humans and flies, remains a serious threat unless total elimination can be achieved [8]. In Africa, after the cessation of larviciding, control of the infection will rely on decentralized annual ivermectin distribution, which has been made available by Merck and Co. for as long as it will be needed. This has several disadvantages. First, in view of imperfect geographical and therapeutic coverage, and density dependence in the microfilarial uptake by flies [9,10], low level transmission may continue. Second, resistance to ivermectin might develop and spread [11], as it already has in some nematode parasites of veterinary importance [12-15]. Third, in man, the average life-span of adult worms is approximately 10 years, and while repeated treatments of ivermectin seem to have some permanent effect on the fertility of adult worms, this effect manifests itself only slowly after years of treatment [16].
+Unfortunately, the number of safe effective alternative treatments is limited. Diethylcarbamazime, also a microfilaricide, causes severe side effects in onchocerciasis[17]. Suramin, the only currently available highly effective macrofilaricide has even more serious side effects [18]. Large scale nodulectomy, which has been attempted in Latin America, is impractical and will never succeed in eliminating all adult worms [19,20].
+Some success was obtained with amocarzine, although its macrofilaricidal properties were not optimal [21]. Several other compounds are currently under consideration. One of these is doxycycline which following long-term treatment was shown to sterilize adult worms in treated humans, an effect that was correlated with the disappearance of the filarial endosymbiont (Wolbachia spp) [22,23]. Another promising drug, widely used in veterinary practice, is moxidectin [24,25]. When used as a single dose it either kills or sterilizes the adult worm depending on the animal model and parasite used. The half-life of this drug in animals is approximately 10 times that of ivermectin, thereby reducing the probability of successful re-infection. However, the effect of this compound in humans remains to be evaluated.
+The advantages of macrofilaricidal drugs are obvious. With a 100% effective macrofilaricide and 100% coverage, elimination could be achieved almost instantaneously. By contrast, with ivermectin, even with 100% coverage  impossible under current exclusion criteria  elimination of the infection from the community would take over a decade.
+Even if not all adult worms were killed due to lower drug efficacy or incomplete coverage, a macrofilaricide would still be more effective than ivermectin alone.
+Taking in consideration the above issues we will address, by using the microsimulation ONCHOSIM model, the possible effects of incorporating a macrofilaricidal drug on the control of O. volvulus and provide suggestions on how it should be best used.
+
+
+Methods
+Both the life cycle of the parasite and the effects of an intervention are highly complex. While mathematical models can still be formulated explicitly, model equations are impossible to solve analytically [26-28].
+Stochastic microsimulation was therefore used as a numerical technique to explore the potential of macrofilaricides. The ONCHOSIM model and computer program, developed by Plaisier et al[29,30] was adapted to incorporate the effect of such a macrofilaricide. We optimistically assumed that a single dose of the drug (or drug combination) under consideration would kill or sterilize 95% of all adult worms. We further assumed that it would have the same effects as ivermectin on the remaining worms. This could be achieved, if necessary, by combining the macrofilaricide with ivermectin. We did not make any assumption about a protective prophylactic effect on re-infection. Parameters, such as the parasite uptake curve, validated to be appropriate for use in areas where the savannah type (blinding) vector-parasite complex dominates, were available as default settings for this programme [30]. In all cases a 10-year programme of annual macrofilariciding was considered. While longer periods may have higher success rates, in practice it may be unrealistic to expect that control programmes can be sustained uninterruptedly for many decades. The outcome of interest is the probability that this 10 years programme would lead to elimination of the parasite from a closed community (village) of approximately 400 people.
+Three scenarios were considered for simulation.
+1. A scenario in which the introduction of the macrofilaricide follows a period of 12 years of intensive control with larviciding (achieving a conservative 65% reduction in biting rates) and ivermectin distribution. Prevalence and transmission have been reduced to a very low level. This pattern is characteristic of many areas covered by OCP. The impact of the macrofilaricide is contrasted with a continued distribution of ivermectin (for 10 years), both in the absence of continued larviciding (i.e. the situation as it will prevail in the OCP countries after the OCP has been phased out).
+2. A scenario in which control has been limited to 5 years of annual ivermectin distribution. By the time macrofilaricides become available this will be characteristic of many areas covered by the African Programme for Onchocerciasis Control (APOC). Following these 5 years of ivermectin distribution continued ivermectin distribution for 10 years is compared to its replacement with the macrofilaricide (or a combination of the two drugs).
+3. A scenario in which there has not been any control measures for many years. This is typical for areas not covered by either OCP or APOC. This scenario also characterizes areas, such as parts of the north of Sierra Leone, in which the programme has been suspended for many years. The macrofilaricide is compared to the introduction of ivermectin distribution.
+To adjust the level of endemicity we used the entomological parameter "biting rate". At Asubende, a highly endemic area with a community microfilarial load (CMFL) [31] of approximately 6070 mf per skin snip, a mean monthly biting rate of 2400 s. damnosum bites for an adult human male has been observed. For each of these scenarios above we considered sub-scenarios with biting rates equal to the Asubende level, equal to 50% above (i.e. a monthly biting rate of 3600) and equal to 50% below (i.e. a biting rate of 1200) this level. Biting rates for other types of individuals (women, children) were assumed proportional to the biting rate in adult males. For all scenarios we only considered mass treatment once annually. Another parameter that we varied was the coverage. Both a "low" coverage of 50% and a high coverage of 75% of the total population were considered. Each configuration was simulated a 100 times. In all cases we assumed that groups not eligible for ivermectin treatment (pregnant women, children under 5 years of age) were neither eligible for macrofilaricide treatment. Compliance was not considered to be fully random, but to depend on an individual's propensity to adhere to treatment [32]. This implies that individuals with a low propensity to comply may act as a reservoir for the parasite and this scenario is thus more pessimistic (especially for macrofilaricides) than completely random adherence. We ignored all forms of drug resistance. We did not consider the effects of immigration of infected individuals or the influx of infected flies. This means that conclusions regarding elimination of infection are only valid when interventions are targeted at sufficiently large areas simultaneously and the probability of elimination in individual communities is high.
+
+
+Results
+The results are shown in Table 1.
+
+Table 1
+
+Simulation results, using ONCHOSIM. Cells are based on 100 simulations each. Each cell shows number of eliminations obtained with a macrofilaricide/number of eliminations obtained with ivermectin.
+
+
+
+
+Coverage (percentage of individuals actual getting treatment during mass treatment)
+Monthly Biting Rate
+Number of successful eliminations macrofilaricide/ivermectin per 100 simulations
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scenario 1 ('OCP')
+Scenario2 ('APOC')
+Scenario3 (no previous intervention)
+
+
+
+
+50%
+1200
+100/100
+97/42
+64/0
+
+
+50%
+2400
+78/23
+0/0
+0/0
+
+
+50%
+3600
+1/0
+0/0
+0/0
+
+
+75%
+1200
+100/100
+100/100
+100/97
+
+
+75%
+2400
+100/100
+98/0
+68/0
+
+
+75%
+3600
+100/98
+28/0
+9/0
+
+
+
+
+
+
+Discussion
+Low levels of infection and transmission of onchocerciasis, as indicated by a low CMFL, have little public health impact, and mild infections can go almost unnoticed. An intervention programme that would succeed in keeping epidemiological indices at low levels would therefore have a public health impact similar to actual elimination of the parasite. In the absence of the development of resistance, annual ivermectin distribution with a reasonably high coverage is probably totally adequate for this. Even under conditions of continued high transmission, ivermectin based control programs could prevent or mitigate most of the morbidity of onchocerciasis infections. Yet, we have chosen elimination as our target. The reason for this is that in the absence of elimination, control measures would have to be sustained and should retain their effectiveness. Failing these conditions, e.g. due to the development of resistance, recrudescence to pre-intervention levels may only be a matter of time.
+We explored the potential of macrofilaricides to bring about elimination. Coverage is key, as non-compliant individuals may act as reservoirs for the infection and thereby perpetuate transmission. Obviously, macrofilariciding if applied to 100% of the population  currently unattainable  must quickly lead to elimination of the parasite. Still, if only few individuals escape treatment, the reservoir of infection will ultimately be depleted by the natural mortality of the parasite, assuming that immigration of new L3 larvae has been interrupted. Whether a specific coverage level under specific circumstances would achieve elimination can best be theoretically explored using microsimulation. In this study, such simulations were used to explore whether elimination would be feasible within 10 years. We made several assumptions that we believe reflect the limitations that actual control programs could encounter. First, similar to ivermectin, children under 5 were assumed to be excluded from treatment. Second, we assumed that treatment adherence was imperfect and that some individuals have a greater propensity to escape treatment than others.
+We considered several scenarios. Our main objective was twofold, viz. estimating the 'absolute' probability of elimination of the parasite from the community, and to compare this probability to that of (continued) use of ivermectin alone. In all cases we found that a macrofilaricide had a substantially higher potential for achieving elimination than ivermectin. Yet, even with a macrofilaricide, elimination would rarely be achieved within 10 years when treatment coverage is low and/or biting rates are high. Control efforts prior to the introduction of the macrofilaricide also appeared to be important: in "OCP" areas, with highly favourable epidemiological indices at the outset of macrofilariciding, continued use of ivermectin alone would also often lead to elimination. As we only evaluated the success rates of entire programmes (i.e. including all preceding control measures), in some instances elimination might have been achieved even in the absence of those extra 10 years of treatment. Outside "OCP" areas (scenarios 2 and 3) elimination would never be achieved by ivermectin alone within 10 (additional) years, unless biting rates were low. By contrast, even under difficult conditions of high biting rates or low coverage, macrofilaricide based programmes would occasionally be successful within 10 years. If so, provided programmes are continued for a sufficiently longer period, ultimate success would be likely.
+We wish to stress that our conclusions are based on microsimulations and are therefore contingent upon the validity of the model and the assumed properties of the drug. Real macrofilaricides may have properties that differ from those assumed in the model. For example, the drug may prevent re-infection for some time following treatment (thereby enhancing its effect) or it may sterilize female worms but be ineffective against male adult worms (thereby reducing its effect). Arguably, even the most effective antihelminths (e.g. albendazole against ascariasis) barely have our assumed 95% killing rate. Whenever a macrofilariciding drug becomes available for human use, extensive simulations should be carried out to explore its potential. Nevertheless, only community trials can demonstrate whether modelling results can be replicated in the field.
+
+
+Conclusions
+Macrofilaricides have a substantially higher potential for achieving onchocerciasis elimination than ivermectin, but high coverage levels are still key. When these drugs become available for human use, onchocerciasis elimination strategies should be reconsidered. In view of the impact of control efforts preceding the introduction of macrofilaricides on the success of elimination, it is important to sustain current control efforts.
+
+
+Competing interests
+None declared.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+

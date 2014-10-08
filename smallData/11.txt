@@ -1,0 +1,204 @@
+
+
+Background
+Widespread scepticism persists on the use of the Under-Privileged Area (UPA8) score of Jarman in distributing supplementary resources to so-attributed 'deprived' UK general practices. The search for better 'needs' markers continues. Having already shown that Council Tax Valuation Band (CTVB) is a predictor of UK GP workload, we compare, here, CTVB of residence of a random sample of patients with their respective 'Jarman' scores.
+
+
+Methods
+Correlation coefficient is calculated between (i) the CTVB of residence of a randomised sample of patients from an English general practice and (ii) the UPA8 scores of the relevant enumeration districts in which they live.
+
+
+Results
+There is a highly significant correlation between the two measures despite modest study size of 478 patients (85% response).
+
+
+Conclusions
+The proposal that CTVB is a marker of deprivation and of clinical demand should be examined in more detail: it correlates with 'Jarman', which is already used in NHS resource allocation. But unlike 'Jarman', CTVB is simple, objective, and free of the problems of Census data. CTVB, being household-based, can be aggregated at will.
+
+
+
+Background
+The 'Under-Privileged Area 8' (UPA8) score, commonly known as the 'Jarman Index' was developed in the early 1980s [1,2]. It is built on eight socio-economic factors, available from UK Census returns, that were reported by a poll of British general practitioners as, in their opinion, creating high workload. The degree to which it succeeds as a predictor of the clinical burdens of UK general practices and as a marker of socio-economic status remains under scrutiny [3]. In any case it was not designed as a marker of deprivation [1] and using it for this purpose is seen as seriously flawed [4-9]. However, 'Jarman' is still used, now at enumeration district level, to justify supplementary resource allocation ('deprivation payments') to some UK general practices [10].
+The 1992 Local Government Finance Act [11] introduced into the UK the 'Council Tax'. Under its provisions Local Authorities demand annual payments ' in respect of any chargeable dwelling in their jurisdiction.' Payments are scaled according to banded assessments (made independently), of the market value of the dwellings in which citizens live. Like the UPA8 score, the 'Council Tax' was never intended as a basis for marking deprivation. Nevertheless we recently proposed the Council Tax Valuation Band (CTVB) of an individual's residence as a proxy marker both of socio-economic position and of clinical demand. We based our assertions on the results of our epidemiological study based in general practice [12] which showed that there is a strong correlation between CTVB and other markers of deprivation such as Townsend score [13] and that the CTVB of a patient's residence is also a systematic predictor of UK general practitioner workload. Ours is the only such analysis that we have been able to find in the literature, despite a very assiduous search, except for an ecological study of Council Tax Benefit recipients published in 1995 [14].
+Unlike UPA8 score, CTVB is not Census-based and is applied at household level. But comparing these two 'ugly ducklings' is perfectly possible: this analysis tests the hypothesis that CTVB and UPA8 score are correlated.
+
+
+Materials and Methods
+A 5% age and sex-stratified study sample was randomly selected from the 11,300 patients of a semi-rural English general practice. Demographic data (age, sex, address, postcode) extracted from the practice database were linked to socio-economic data (marital and employment status, owner-occupancy, rooms and persons per house, access to motor vehicles) obtained from postal questionnaires sent to each of the 565 study individuals [12]. Non-responders were re-mailed or contacted in person as necessary. The residence CTVB of each respondent was obtained from the official 'Lists' of the relevant Local Authorities (North Wiltshire and Kennet). The UPA8 scores for the relevant enumeration districts (via published postcode/ED indices) were obtained from the Department of Primary Care and General Practice of Imperial College of Medicine [2].
+
+Statistics
+CTVBs were correlated (Spearman) with UPA8 scores using SPSS (version 10.0).
+
+
+
+Results and Discussion
+478 questionnaires were finally returned and suitable for socio-economic analysis, a response of 84.6%. There were no significant socio-demographic differences between responders and non-responders. After omitting residents of nursing and residential homes (who pay no council tax) there were 465 subjects for full analysis.
+There are 30 enumeration districts in the 6 Calne electoral wards, UPA8 scores between -29.00 and +34.90. Study UPA8 scores were divided into equal bands for tabulation purposes and these and the mean aggregated UPA8 scores for each study CTVB are shown in Table 1.
+
+Table 1
+
+Study individuals (n.465) cross-tabulated according to UPA8 score (banded equally) and CTVB showing the mean (with 95%confidence intervals) UPA8 score for each CTVB.
+
+
+
+
+
+UPA8 scores
+
+Total
+
+Mean UPA8
+95% conf int
+
+
+
+
+
+
+
+
+
+-35 to -20
+-20 to -5.0
+-5.0 to+10
++10 to+25
++25 to +40
+
+
+
+
+
+
+
+CTVB A
+3
+10
+32
+0
+6
+51
++1.64
+-2.47, +5.75
+
+
+B
+3
+31
+89
+19
+3
+145
+-0.23
+-1.98,+1.52
+
+
+C
+7
+57
+49
+6
+0
+119
+-5.26
+-6.92,-3.60
+
+
+D
+18
+39
+22
+2
+0
+81
+-10.68
+-13.25,-8.12
+
+
+E
+15
+19
+7
+0
+0
+41
+-13.95
+-16.34,-10.84
+
+
+F
+5
+10
+1
+0
+0
+16
+-13.45
+-16.92,-9.98
+
+
+G
+4
+5
+3
+0
+0
+12
+-10.89
+-16.33,-5.46
+
+
+H
+0
+0
+0
+0
+0
+0
+-
+-
+
+
+Total
+55
+171
+203
+27
+9
+465
+
+
+
+
+
+
+Correlation coefficient between CTVB and UPA8 is significant -0.423 (95% confidence intervals: -0.32 to -0.49), CTVB increasing as UPA8 reduces (both moving, thereby, in the direction of reducing deprivation), In other words CTVB correlates with UPA8 and the study hypothesis is supported.
+But although we have shown that CTVB and UPA8 appear to measure, in parallel, the socio-economic status of individuals, the two markers are fundamentally different in their derivation. CTVB does not suffer from several inherent drawbacks that affect 'Jarman':
+(i) CTVB is an official and objective statistic independent of the views and possible prejudices of clinical personnel [15];
+(ii) CTVB is not Census-based;
+(iii) CTVB is not, therefore, subject to under-enumeration [16];
+(iv) CTVB does not go out of date - new and extended homes are assessed for CTVB at 1991 prices [11]
+(v) CTVB is free of the ecological fallacy [17] since it relates to individual households and not geographical locations that may be socio-economically heterogeneous;
+(vi) CTVB will not, therefore, be prone to the underestimation of deprivation influence as alleged for ecological measures [18];
+(vii) CTVB requires no tortuous mathematical assumptions and modifications [19].
+In other words, CTVB not only correlates with 'Jarman' but could have many inherent advantages. And computerised linkage between all patients' residential addresses and the Council Tax Valuation Band lists is perfectly feasible - the latter are archived electronically and are already publicly available on demand from Local Authority Housing Departments. Further, they will be posted on the internet from early 2002 (Brown, T - CTVB lists manager, Wessex. personal communication). It is also perfectly possible to weight CTVBs to match the differing spectra of house prices in the UK regions, available from regularly updated official statistics [20], so that they became a universal attribute, valid when comparing between UK regions as well as within small areas.
+The authors recognise, however, that this is a small study and that the data are from a single English general practice. Many questions arise, reminding us that this work should be seen as preliminary.
+
+
+Conclusions
+We therefore suggest that the CTVB of residence of individual UK general practice patients could replace the 'Jarman' score derived for those individuals in determining (i) the socio-economic footprint and (ii) the clinical demands likely to be made of each and every UK general practice, irrespective of the scatter of patients' homes. Unlike 'Jarman', CTVB could also be aggregated to match any geographical boundary, such as that of a Primary Care Trust or a District Hospital catchment area. CTVB might be the basis, therefore, of more equitable resource allocation to primary care teams and secondary health services and is worthy of more study.
+
+
+Funding
+NHS Executive, R& D Support Grant.
+
+
+Competing interests
+None declared.
+
+
+Pre-publication history
+The pre-publication history for this paper can be accessed here:
+
+
+
+
